@@ -1,0 +1,67 @@
+# ─────────────────────────────────────────────────────────────
+# Dependencies
+# ─────────────────────────────────────────────────────────────
+/node_modules
+/.pnp
+.pnp.*
+
+# ─────────────────────────────────────────────────────────────
+# Next.js / build output
+# ─────────────────────────────────────────────────────────────
+/.next/
+/out/
+/build
+next-env.d.ts
+*.tsbuildinfo
+
+# ─────────────────────────────────────────────────────────────
+# Game datamine — raw CUE4Parse scrap (HUGE, copyrighted, regenerable)
+# The parsed reference tables (data-mined/*.json) ARE committed: the site
+# builds from them. Only the raw extract and per-machine notes are ignored.
+# ─────────────────────────────────────────────────────────────
+/data-mined/raw/
+
+# ─────────────────────────────────────────────────────────────
+# Datamining toolchain (vendored / built / proprietary / game-derived binaries)
+# Not needed to build or run the wiki; only used by the patch-refresh pipeline.
+# ─────────────────────────────────────────────────────────────
+/tools/CUE4Parse/
+/tools/ue4ss/
+/tools/**/bin/
+/tools/**/obj/
+*.usmap
+*.pak
+*.dll
+oo2core_*.dll
+
+# ─────────────────────────────────────────────────────────────
+# Python pipeline caches
+# ─────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+.venv/
+venv/
+
+# ─────────────────────────────────────────────────────────────
+# Misc / OS / editor
+# ─────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.pem
+*.log
+npm-debug.log*
+
+# Env
+.env
+.env*.local
+
+# Vercel
+.vercel
+
+# Obsidian (keep config, ignore per-machine workspace state)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache

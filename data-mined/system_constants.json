@@ -1,0 +1,899 @@
+{
+ "hpDistribution": [
+  {
+   "hp": 30000.0,
+   "count": 9,
+   "examples": [
+    "Babidi",
+    "Chiaotzu",
+    "Frieza Force Soldier",
+    "Gohan (Kid)",
+    "Guldo",
+    "Master Roshi",
+    "Mr. Satan",
+    "Panzy",
+    "Videl"
+   ]
+  },
+  {
+   "hp": 35000.0,
+   "count": 14,
+   "examples": [
+    "Cell Jr.",
+    "Gohan (Super Hero)",
+    "Goku (Teen)",
+    "Goten",
+    "Krillin",
+    "Pan (GT)",
+    "Saibaman",
+    "Spopovich",
+    "Trunks (Kid)",
+    "Yajirobe"
+   ]
+  },
+  {
+   "hp": 40000.0,
+   "count": 147,
+   "examples": [
+    "Android 13",
+    "Android 16",
+    "Android 17 (Super)",
+    "Android 17 (Z)",
+    "Android 18",
+    "Android 19",
+    "Baby Vegeta (GT)",
+    "Bardock",
+    "Bergamo",
+    "Bojack"
+   ]
+  },
+  {
+   "hp": 45000.0,
+   "count": 16,
+   "examples": [
+    "Beerus",
+    "Broly (Super)",
+    "Broly (Z)",
+    "Cooler",
+    "Full-Power Bojack",
+    "Fused Zamasu",
+    "Fusion Android 13",
+    "Gotenks",
+    "Great Ape Vegeta",
+    "Kale"
+   ]
+  }
+ ],
+ "kiChargeSpeedDistribution": [
+  {
+   "value": 0.0,
+   "count": 11,
+   "examples": [
+    "Android 13",
+    "Android 16",
+    "Android 17 (Super)",
+    "Android 17 (Z)",
+    "Android 18",
+    "Android 19",
+    "Dr. Gero",
+    "Dr. Wheelo",
+    "Fusion Android 13",
+    "Gamma 1"
+   ]
+  },
+  {
+   "value": 5.5,
+   "count": 2,
+   "examples": [
+    "Super Janemba",
+    "Whis"
+   ]
+  },
+  {
+   "value": 6.0,
+   "count": 11,
+   "examples": [
+    "Babidi",
+    "Beerus",
+    "Cell",
+    "Gohan Beast",
+    "Goku (Super)",
+    "Jiren",
+    "Kid Buu",
+    "Metal Cooler",
+    "Perfect Cell",
+    "Toppo"
+   ]
+  },
+  {
+   "value": 7.0,
+   "count": 113,
+   "examples": [
+    "Anilaza",
+    "Baby Vegeta (GT)",
+    "Bardock",
+    "Bergamo",
+    "Bojack",
+    "Broly (Super)",
+    "Broly (Z)",
+    "Burter",
+    "Cabba",
+    "Captain Ginyu"
+   ]
+  },
+  {
+   "value": 8.0,
+   "count": 71,
+   "examples": [
+    "Broly (Z)",
+    "Cell",
+    "Cell Jr.",
+    "Cell Max",
+    "Dodoria",
+    "Frieza (Z)",
+    "Frieza Force Soldier",
+    "Fused Zamasu",
+    "Future Trunks",
+    "Giant Gomah"
+   ]
+  }
+ ],
+ "kiAutoRecoveryDistribution": [
+  {
+   "value": 1500.0,
+   "count": 70,
+   "examples": [
+    "Broly (Z)",
+    "Cell",
+    "Cell Jr.",
+    "Cell Max",
+    "Dodoria",
+    "Frieza (Z)",
+    "Frieza Force Soldier",
+    "Fused Zamasu",
+    "Future Trunks",
+    "Giant Gomah"
+   ]
+  },
+  {
+   "value": 1700.0,
+   "count": 2,
+   "examples": [
+    "Android 16",
+    "Dr. Wheelo"
+   ]
+  },
+  {
+   "value": 1750.0,
+   "count": 114,
+   "examples": [
+    "Anilaza",
+    "Baby Vegeta (GT)",
+    "Bardock",
+    "Bergamo",
+    "Bojack",
+    "Broly (Super)",
+    "Broly (Z)",
+    "Burter",
+    "Cabba",
+    "Captain Ginyu"
+   ]
+  },
+  {
+   "value": 1800.0,
+   "count": 2,
+   "examples": [
+    "Android 13",
+    "Android 17 (Z)"
+   ]
+  },
+  {
+   "value": 2000.0,
+   "count": 16,
+   "examples": [
+    "Android 17 (Super)",
+    "Android 18",
+    "Babidi",
+    "Beerus",
+    "Cell",
+    "Fusion Android 13",
+    "Gamma 1",
+    "Gamma 2",
+    "Gohan Beast",
+    "Goku (Super)"
+   ]
+  },
+  {
+   "value": 2250.0,
+   "count": 2,
+   "examples": [
+    "Super Janemba",
+    "Whis"
+   ]
+  },
+  {
+   "value": 4500.0,
+   "count": 2,
+   "examples": [
+    "Android 19",
+    "Dr. Gero"
+   ]
+  }
+ ],
+ "sparkingDrainDistribution": [
+  {
+   "value": 2800.0,
+   "count": 208,
+   "examples": [
+    "Android 13",
+    "Android 16",
+    "Android 17 (Super)",
+    "Android 17 (Z)",
+    "Android 18",
+    "Android 19",
+    "Anilaza",
+    "Babidi",
+    "Baby Vegeta (GT)",
+    "Bardock"
+   ]
+  }
+ ],
+ "maxSkillStockDistribution": [
+  {
+   "value": 4,
+   "count": 67,
+   "examples": [
+    "Android 16",
+    "Android 17 (Super)",
+    "Android 17 (Z)",
+    "Android 18",
+    "Android 19",
+    "Bojack",
+    "Broly (Super)",
+    "Broly (Z)",
+    "Burter",
+    "Captain Ginyu"
+   ]
+  },
+  {
+   "value": 6,
+   "count": 68,
+   "examples": [
+    "Beerus",
+    "Broly (Super)",
+    "Broly (Z)",
+    "Caulifla",
+    "Dr. Gero",
+    "Dyspo",
+    "Frieza (Super)",
+    "Frieza (Z)",
+    "Frost",
+    "Fused Zamasu"
+   ]
+  },
+  {
+   "value": 7,
+   "count": 1,
+   "examples": [
+    "Babidi"
+   ]
+  }
+ ],
+ "initialSkillStockDistribution": [
+  {
+   "value": 1,
+   "count": 15,
+   "examples": [
+    "Android 16",
+    "Android 17 (Super)",
+    "Android 17 (Z)",
+    "Android 18",
+    "Android 19",
+    "Cell Jr.",
+    "Dr. Gero",
+    "Dr. Wheelo",
+    "Gamma 1",
+    "Gamma 2"
+   ]
+  },
+  {
+   "value": 2,
+   "count": 11,
+   "examples": [
+    "Android 13",
+    "Babidi",
+    "Chiaotzu",
+    "Cui",
+    "Frieza Force Soldier",
+    "Goku (Teen)",
+    "Master Roshi",
+    "Pan (GT)",
+    "Panzy",
+    "Saibaman"
+   ]
+  },
+  {
+   "value": 3,
+   "count": 1,
+   "examples": [
+    "Mr. Satan"
+   ]
+  }
+ ],
+ "initialKiDistribution": [
+  {
+   "value": 10000.0,
+   "count": 36,
+   "examples": [
+    "Bojack",
+    "Broly (Super)",
+    "Broly (Z)",
+    "Burter",
+    "Cell",
+    "Cell Jr.",
+    "Chiaotzu",
+    "Cui",
+    "Dyspo",
+    "Frieza (Z)"
+   ]
+  },
+  {
+   "value": 30000.0,
+   "count": 46,
+   "examples": [
+    "Android 13",
+    "Android 16",
+    "Android 17 (Super)",
+    "Android 17 (Z)",
+    "Android 18",
+    "Anilaza",
+    "Babidi",
+    "Bardock",
+    "Broly (Super)",
+    "Broly (Z)"
+   ]
+  },
+  {
+   "value": 40000.0,
+   "count": 6,
+   "examples": [
+    "Android 19",
+    "Cell Max",
+    "Dr. Gero",
+    "Hirudegarn",
+    "Omega Shenron (GT)",
+    "Videl"
+   ]
+  },
+  {
+   "value": 50000.0,
+   "count": 2,
+   "examples": [
+    "Majin Vegeta",
+    "Mr. Satan"
+   ]
+  }
+ ],
+ "kiBlastShotsDistribution": [
+  {
+   "value": 1,
+   "count": 3,
+   "examples": [
+    "Mr. Satan",
+    "Spopovich",
+    "Yajirobe"
+   ]
+  },
+  {
+   "value": 2,
+   "count": 2,
+   "examples": [
+    "Frieza Force Soldier",
+    "Janemba"
+   ]
+  },
+  {
+   "value": 3,
+   "count": 11,
+   "examples": [
+    "Android 19",
+    "Broly (Z)",
+    "Dr. Gero",
+    "Goten",
+    "Guldo",
+    "Hirudegarn",
+    "Lord Slug",
+    "Master Roshi",
+    "Saibaman",
+    "Videl"
+   ]
+  },
+  {
+   "value": 4,
+   "count": 21,
+   "examples": [
+    "Android 13",
+    "Android 16",
+    "Anilaza",
+    "Baby Vegeta (GT)",
+    "Bojack",
+    "Broly (Super)",
+    "Burter",
+    "Cell Jr.",
+    "Cell Max",
+    "Cooler"
+   ]
+  },
+  {
+   "value": 5,
+   "count": 24,
+   "examples": [
+    "Android 17 (Z)",
+    "Cell",
+    "Dodoria",
+    "Frieza (Z)",
+    "Gohan (Adult)",
+    "Gohan (Kid)",
+    "Gohan (Super Hero)",
+    "Goku (Mini)",
+    "Goku (Z - Early)",
+    "Goten"
+   ]
+  },
+  {
+   "value": 6,
+   "count": 27,
+   "examples": [
+    "Android 18",
+    "Cabba",
+    "Caulifla",
+    "Cell",
+    "Chiaotzu",
+    "Dr. Wheelo",
+    "Dyspo",
+    "Glorio",
+    "Gohan (Adult)",
+    "Gohan (Future)"
+   ]
+  },
+  {
+   "value": 7,
+   "count": 30,
+   "examples": [
+    "Bardock",
+    "Bergamo",
+    "Broly (Super)",
+    "Broly (Z)",
+    "Captain Ginyu",
+    "Cooler",
+    "Dabura",
+    "Full-Power Bojack",
+    "Future Trunks",
+    "Gohan (Adult)"
+   ]
+  },
+  {
+   "value": 8,
+   "count": 23,
+   "examples": [
+    "Android 17 (Super)",
+    "Babidi",
+    "Cabba",
+    "Caulifla",
+    "Cell",
+    "Cui",
+    "Frieza (Z)",
+    "Frost",
+    "Fusion Android 13",
+    "Future Trunks"
+   ]
+  },
+  {
+   "value": 9,
+   "count": 8,
+   "examples": [
+    "Cabba",
+    "Frieza (Z)",
+    "Goku (Z - End)",
+    "Goku Black",
+    "Omega Shenron (GT)",
+    "Piccolo (Super Hero)",
+    "Ultimate Gohan",
+    "Ultimate Gohan (Super Hero)"
+   ]
+  },
+  {
+   "value": 15,
+   "count": 9,
+   "examples": [
+    "Fused Zamasu",
+    "Gogeta (GT)",
+    "Gogeta (Super)",
+    "Gohan Beast",
+    "Goku (Super)",
+    "Gotenks",
+    "Kefla",
+    "Roasie",
+    "Super Vegito"
+   ]
+  },
+  {
+   "value": 16,
+   "count": 2,
+   "examples": [
+    "Fused Zamasu",
+    "Golden Frieza"
+   ]
+  },
+  {
+   "value": 17,
+   "count": 1,
+   "examples": [
+    "Beerus"
+   ]
+  },
+  {
+   "value": 18,
+   "count": 3,
+   "examples": [
+    "Goku (Super)",
+    "Vegito",
+    "Whis"
+   ]
+  },
+  {
+   "value": 19,
+   "count": 2,
+   "examples": [
+    "Gogeta (Super)",
+    "Jiren"
+   ]
+  },
+  {
+   "value": 20,
+   "count": 2,
+   "examples": [
+    "Kefla",
+    "Super Gogeta (Z) "
+   ]
+  },
+  {
+   "value": 999,
+   "count": 22,
+   "examples": [
+    "Gamma 1",
+    "Gamma 2",
+    "Majin Vegeta",
+    "Super Vegeta",
+    "Toppo",
+    "Vegeta (DAIMA)",
+    "Vegeta (GT)",
+    "Vegeta (Mini)",
+    "Vegeta (Super)",
+    "Vegeta (Z - Early)"
+   ]
+  }
+ ],
+ "genericKiBlasts": [
+  {
+   "action": "actDRSB",
+   "power": 200,
+   "chip": 40,
+   "beamPower": 200,
+   "beamChip": 40,
+   "kiCost": 2000
+  },
+  {
+   "action": "actDRSB",
+   "power": 200,
+   "chip": 40,
+   "beamPower": 200,
+   "beamChip": 40,
+   "kiCost": 2000
+  },
+  {
+   "action": "actDRSB",
+   "power": 200,
+   "chip": 40,
+   "beamPower": 200,
+   "beamChip": 40,
+   "kiCost": 1800
+  },
+  {
+   "action": "actDRSB",
+   "power": 200,
+   "chip": 40,
+   "beamPower": 200,
+   "beamChip": 40,
+   "kiCost": 1800
+  },
+  {
+   "action": "actDSMBN",
+   "power": 700,
+   "chip": 140,
+   "beamPower": 700,
+   "beamChip": 140,
+   "kiCost": 3000
+  },
+  {
+   "action": "actDSMBN",
+   "power": 700,
+   "chip": 140,
+   "beamPower": 700,
+   "beamChip": 140,
+   "kiCost": 3000
+  },
+  {
+   "action": "actDSMBN",
+   "power": 400,
+   "chip": 80,
+   "beamPower": 400,
+   "beamChip": 80,
+   "kiCost": 6000
+  },
+  {
+   "action": "actDSMBN",
+   "power": 640,
+   "chip": 128,
+   "beamPower": 640,
+   "beamChip": 128,
+   "kiCost": 10000
+  },
+  {
+   "action": "actDSMBN",
+   "power": 640,
+   "chip": 128,
+   "beamPower": 640,
+   "beamChip": 128,
+   "kiCost": 10000
+  },
+  {
+   "action": "actDSMBN",
+   "power": 750,
+   "chip": 150,
+   "beamPower": 750,
+   "beamChip": 150,
+   "kiCost": 3000
+  },
+  {
+   "action": "actDSMBN",
+   "power": 300,
+   "chip": 60,
+   "beamPower": 300,
+   "beamChip": 60,
+   "kiCost": 2000
+  },
+  {
+   "action": "actJRB",
+   "power": 125,
+   "chip": 25,
+   "beamPower": 125,
+   "beamChip": 25,
+   "kiCost": 650
+  },
+  {
+   "action": "actJSBF",
+   "power": 700,
+   "chip": 140,
+   "beamPower": 700,
+   "beamChip": 140,
+   "kiCost": 10000
+  },
+  {
+   "action": "actJSBN",
+   "power": 700,
+   "chip": 140,
+   "beamPower": 700,
+   "beamChip": 140,
+   "kiCost": 3000
+  },
+  {
+   "action": "actJSBN",
+   "power": 800,
+   "chip": 160,
+   "beamPower": 800,
+   "beamChip": 160,
+   "kiCost": 4000
+  },
+  {
+   "action": "actJSBN",
+   "power": 400,
+   "chip": 80,
+   "beamPower": 400,
+   "beamChip": 80,
+   "kiCost": 3000
+  },
+  {
+   "action": "actJSBN",
+   "power": 640,
+   "chip": 128,
+   "beamPower": 640,
+   "beamChip": 128,
+   "kiCost": 10000
+  },
+  {
+   "action": "actJSBN",
+   "power": 640,
+   "chip": 128,
+   "beamPower": 640,
+   "beamChip": 128,
+   "kiCost": 10000
+  },
+  {
+   "action": "actJSBN",
+   "power": 640,
+   "chip": 128,
+   "beamPower": 640,
+   "beamChip": 128,
+   "kiCost": 10000
+  },
+  {
+   "action": "actJSBN",
+   "power": 900,
+   "chip": 250,
+   "beamPower": 900,
+   "beamChip": null,
+   "kiCost": 5000
+  },
+  {
+   "action": "actJSBN",
+   "power": 700,
+   "chip": 140,
+   "beamPower": 700,
+   "beamChip": 140,
+   "kiCost": 2000
+  },
+  {
+   "action": "actJSBP",
+   "power": 700,
+   "chip": 140,
+   "beamPower": 700,
+   "beamChip": 140,
+   "kiCost": 10000
+  },
+  {
+   "action": "actMSBBF",
+   "power": 750,
+   "chip": 150,
+   "beamPower": 750,
+   "beamChip": 150,
+   "kiCost": 10000
+  },
+  {
+   "action": "actMSBBN",
+   "power": 750,
+   "chip": 150,
+   "beamPower": 750,
+   "beamChip": 150,
+   "kiCost": 10000
+  },
+  {
+   "action": "actMSBBP",
+   "power": 750,
+   "chip": 150,
+   "beamPower": 750,
+   "beamChip": 150,
+   "kiCost": 10000
+  },
+  {
+   "action": "actMSBFF",
+   "power": 750,
+   "chip": 150,
+   "beamPower": 750,
+   "beamChip": 150,
+   "kiCost": 10000
+  },
+  {
+   "action": "actMSBFN",
+   "power": 750,
+   "chip": 150,
+   "beamPower": 750,
+   "beamChip": 150,
+   "kiCost": 10000
+  },
+  {
+   "action": "actMSBFP",
+   "power": 750,
+   "chip": 150,
+   "beamPower": 750,
+   "beamChip": 150,
+   "kiCost": 10000
+  },
+  {
+   "action": "actMSBLF",
+   "power": 750,
+   "chip": 150,
+   "beamPower": 750,
+   "beamChip": 150,
+   "kiCost": 10000
+  },
+  {
+   "action": "actMSBLN",
+   "power": 750,
+   "chip": 150,
+   "beamPower": 750,
+   "beamChip": 150,
+   "kiCost": 10000
+  },
+  {
+   "action": "actMSBLP",
+   "power": 750,
+   "chip": 150,
+   "beamPower": 750,
+   "beamChip": 150,
+   "kiCost": 10000
+  },
+  {
+   "action": "actMSBRF",
+   "power": 750,
+   "chip": 150,
+   "beamPower": 750,
+   "beamChip": 150,
+   "kiCost": 10000
+  },
+  {
+   "action": "actMSBRN",
+   "power": 750,
+   "chip": 150,
+   "beamPower": 750,
+   "beamChip": 150,
+   "kiCost": 10000
+  },
+  {
+   "action": "actMSBRP",
+   "power": 750,
+   "chip": 150,
+   "beamPower": 750,
+   "beamChip": 150,
+   "kiCost": 10000
+  },
+  {
+   "action": "actRSB",
+   "power": 125,
+   "chip": 25,
+   "beamPower": 125,
+   "beamChip": 25,
+   "kiCost": null
+  },
+  {
+   "action": "actRSB",
+   "power": 200,
+   "chip": 40,
+   "beamPower": 200,
+   "beamChip": 40,
+   "kiCost": 2000
+  },
+  {
+   "action": "actRSB",
+   "power": 100,
+   "chip": 20,
+   "beamPower": 100,
+   "beamChip": 20,
+   "kiCost": 1000
+  },
+  {
+   "action": "actRSB",
+   "power": 300,
+   "chip": 60,
+   "beamPower": 300,
+   "beamChip": 60,
+   "kiCost": 3000
+  },
+  {
+   "action": "actRSB",
+   "power": 200,
+   "chip": 40,
+   "beamPower": 200,
+   "beamChip": 40,
+   "kiCost": 2000
+  },
+  {
+   "action": "actRSB",
+   "power": 200,
+   "chip": 40,
+   "beamPower": 200,
+   "beamChip": 40,
+   "kiCost": 2000
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+======================================================================
+SKILLS SUMMARY
+======================================================================
+catalog entries: 170  unique valid names: 146
+content/skills pages: 146
+skills with >=1 datamined user: 144
+skills with 0 datamined users: 2
+
+Independent s1Skills vs raw BlastForte (ExpendBlastStock/flags) check:
+  checked=417 mismatches=0
+
+FINDINGS BY CATEGORY:
+  [user_table] count=2
+      im-the-one-who-will-defeat-you: per-user table mismatch
+      exp=[('Super Gogeta (Z) ', '—', '—')]
+      got=[('Super Gogeta (Z)', '—', '—')]
+      immovable-stance: per-user table mismatch
+      exp=[('Super Gogeta (Z) ', '—', '—')]
+      got=[('Super Gogeta (Z)', '—', '—')]
+  [userCount_none_but_users] count=1
+      fury: userCount absent but users[] has 2 entries (enrichment-sourced)
+
+skillCost provenance distribution:
+  null: 68
+  enrichment_only: 5
+  datamined_single: 73
+
+Skills with CONFLICTING datamined costs (page falls back to enrichment/null):

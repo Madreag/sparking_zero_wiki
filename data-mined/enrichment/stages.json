@@ -1,0 +1,83 @@
+{
+ "First Demon World": {
+  "destructible": "Yes",
+  "source": "DAIMA Pack 2 free update (Sep 2025)",
+  "notes": "Shipped as a free update alongside DAIMA Character Pack 2 (PS5/Xbox/PC Sep 22-25 2025); added to Switch/Switch 2 in the May 26 2026 update.",
+  "summary": "DAIMA Demon-World arena; the only stage added by a DLC-era free update. Map ID 0020.",
+  "sources": [
+   "research/03-patches-balance.md (Sep 22 2025 + May 26 2026 notes)",
+   "research/06-pve-dlc-unlocks.md §4 (DAIMA Pack 2 + First Demon World free stage)"
+  ],
+  "body": "First Demon World is the DRAGON BALL DAIMA arena added as a **free update alongside DAIMA Character Pack 2** (Sept 22-25 2025 on PS5/Xbox/PC; rolled out to Switch and Switch 2 with the May 26 2026 update). Like the other open battle arenas it has destructible terrain (blasts carrying the `Map Destruction` flag damage the environment). It is the only new stage delivered during the Season Pass 1 DLC window; the next batch (Kami's Palace, Stratosphere/Planet Vegeta and two more) is tied to the unreleased Super Limit-Breaking NEO expansion."
+ },
+ "Planet Namek": {
+  "destructible": "Yes",
+  "source": "Base",
+  "notes": "Default Episode-Battle and Versus arena (Namek arc). A stage-locked 'Power of Namek' item grants +2% all damage here (excludes Destroyed Planet Namek).",
+  "summary": "Open destructible arena; the canonical Namek battlefield (map ID 0000).",
+  "sources": [
+   "research/04-mechanics-frame-data.md §9 (Map Destruction flag; Power of Namek item)"
+  ],
+  "body": "Planet Namek is an open arena with destructible terrain — blasts flagged `Map Destruction` carve up the environment. It is one of the maps tied to a stage-locked item buff: 'Power of Namek' grants +2% all damage when fighting here (notably it does **not** apply on the separate Destroyed Planet Namek stage), which implies the game tracks these as discrete map IDs."
+ },
+ "Destroyed Planet Namek": {
+  "destructible": "Yes",
+  "source": "Base",
+  "notes": "The collapsing/exploding Namek variant. The 'Power of Namek' item buff does NOT apply here (only on intact Planet Namek).",
+  "summary": "Late-Namek destruction arena; map ID 0011.",
+  "sources": [
+   "research/04-mechanics-frame-data.md §9 (Power of Namek excludes Destroyed Namek)"
+  ],
+  "body": "Destroyed Planet Namek is the late-arc collapsing version of the Namek battlefield. Research notes it is treated as a distinct map from intact Planet Namek: the 'Power of Namek' +2% damage item explicitly excludes it."
+ },
+ "City": {
+  "destructible": "Yes",
+  "source": "Base",
+  "notes": "Urban arena. Covered by the 'Power of Earth' item buff family (which excludes City Ruins and the Hyperbolic Time Chamber).",
+  "summary": "Destructible urban battlefield with multiple time-of-day variants (map IDs 0003/0053/0103/0203).",
+  "sources": [
+   "research/04-mechanics-frame-data.md §9 (Power of Earth item; City Ruins/HTC excluded)"
+  ],
+  "body": "City is a destructible urban arena offered in several time-of-day variants. It falls under the 'Power of Earth' +2% damage item set — research notes that buff family specifically **excludes City Ruins and the Hyperbolic Time Chamber**, implying City proper is treated as a standard Earth map."
+ },
+ "City Ruins": {
+  "destructible": "Yes",
+  "source": "Base",
+  "notes": "Ruined-city arena. Explicitly EXCLUDED from the 'Power of Earth' damage item (unlike the standard City stage).",
+  "summary": "Post-destruction city arena; map ID 0010.",
+  "sources": [
+   "research/04-mechanics-frame-data.md §9 (Power of Earth excludes City Ruins)"
+  ],
+  "body": "City Ruins is the rubble-strewn city arena. Research flags it as a distinct map: the 'Power of Earth' +2% damage item that applies on ordinary Earth stages does **not** apply on City Ruins."
+ },
+ "Hyperbolic Time Chamber": {
+  "destructible": "No",
+  "source": "Base",
+  "notes": "The featureless white infinite void. Excluded from the 'Power of Earth' damage item; effectively a flat, hazard-free arena with no destructible terrain.",
+  "summary": "Endless white training void; flat, no environmental destruction (map ID 0006).",
+  "sources": [
+   "research/04-mechanics-frame-data.md §9 (Power of Earth excludes Hyperbolic Time Chamber)"
+  ],
+  "body": "The Hyperbolic Time Chamber is the endless white void from the Cell/Buu training arcs — a flat, featureless arena with no destructible structures. Research notes it is excluded from the 'Power of Earth' damage item that applies on normal Earth maps, consistent with it being a neutral, hazard-free space."
+ },
+ "World Tournament": {
+  "destructible": "Yes",
+  "source": "Base",
+  "notes": "Ring-based arena. Ring-out-style ultimates trigger a 'World Tournament Evacuation' flag (crowd/ring evacuation) per datamined blast flags.",
+  "summary": "World Martial Arts Tournament ring; supports ring-out evacuation ultimates (map IDs 0004/0204).",
+  "sources": [
+   "research/04-mechanics-frame-data.md §9 (World Tournament Evacuation flag)"
+  ],
+  "body": "The World Tournament stage is the ring-based arena from the World Martial Arts Tournament. Certain ring-out-style ultimate attacks carry a datamined `World Tournament Evacuation` flag, which forces a crowd/ring evacuation sequence — a stage-specific interaction unique to the tournament maps."
+ },
+ "Tournament of Power Arena": {
+  "destructible": "Yes",
+  "source": "Base",
+  "notes": "Universe Survival arena (Tournament of Power). Open battlefield with destructible terrain.",
+  "summary": "Tournament of Power battleground from the Super arc; map ID 0005.",
+  "sources": [
+   "research/04-mechanics-frame-data.md §9 (stage destruction / Map Destruction flags)"
+  ],
+  "body": "The Tournament of Power Arena is the multi-universe battleground from Dragon Ball Super's Universe Survival arc. It is an open arena with destructible terrain consistent with the datamined `Map Destruction` blast flags."
+ }
+}

@@ -1,0 +1,1022 @@
+[
+ {
+  "key": "ST_BlASTFORTE_000",
+  "index": "000",
+  "name": "Instant Transmission",
+  "descDatamined": "Instantly move behind opponent."
+ },
+ {
+  "key": "ST_BlASTFORTE_001",
+  "index": "001",
+  "name": "Solar Flare",
+  "descDatamined": "Unguardable attack. Renders opponent defenseless for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_002",
+  "index": "002",
+  "name": "Paralysis",
+  "descDatamined": "Unguardable attack. Renders opponent paralyzed for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_003",
+  "index": "003",
+  "name": "Telekinesis",
+  "descDatamined": "Unguardable attack. Renders opponent paralyzed for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_004",
+  "index": "004",
+  "name": "Psychokinesis",
+  "descDatamined": "Unguardable attack. Renders opponent paralyzed for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_005",
+  "index": "005",
+  "name": "Psychokinesis",
+  "descDatamined": "Unguardable attack. Renders opponent paralyzed for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_006",
+  "index": "006",
+  "name": "Psychokinesis",
+  "descDatamined": "Unguardable attack. Renders opponent paralyzed for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_007",
+  "index": "007",
+  "name": "Paralyze Beam",
+  "descDatamined": "Unguardable attack. Renders opponent paralyzed for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_008",
+  "index": "008",
+  "name": "Paralyze Beam",
+  "descDatamined": "Unguardable attack. Renders opponent paralyzed for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_009",
+  "index": "009",
+  "name": "Vice Shout",
+  "descDatamined": "Unguardable attack. Renders opponent paralyzed for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_010",
+  "index": "010",
+  "name": "Vice Shout",
+  "descDatamined": "Unguardable attack. Renders opponent paralyzed for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_011",
+  "index": "011",
+  "name": "Acid",
+  "descDatamined": "Unguardable attack. Renders opponent paralyzed for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_012",
+  "index": "012",
+  "name": "Afterimage",
+  "descDatamined": "Automatically dodge a single attack of any kind, except for Ki Blasts or Perception/Super Perception counterattacks.\r\nDodge effect will end after being hit by a Perception/Super Perception counterattack."
+ },
+ {
+  "key": "ST_BlASTFORTE_013",
+  "index": "013",
+  "name": "Android Barrier",
+  "descDatamined": "Character creates a barrier around themselves to defend against attacks."
+ },
+ {
+  "key": "ST_BlASTFORTE_014",
+  "index": "014",
+  "name": "Psycho Barrier",
+  "descDatamined": "Character creates a barrier around themselves to defend against attacks."
+ },
+ {
+  "key": "ST_BlASTFORTE_015",
+  "index": "015",
+  "name": "Psycho Barrier",
+  "descDatamined": "Character creates a barrier around themselves to defend against attacks."
+ },
+ {
+  "key": "ST_BlASTFORTE_016",
+  "index": "016",
+  "name": "Explosive Wave",
+  "descDatamined": "Creates a ki explosion, blowing away opponents."
+ },
+ {
+  "key": "ST_BlASTFORTE_017",
+  "index": "017",
+  "name": "Explosive Wave",
+  "descDatamined": "Creates a ki explosion, blowing away opponents."
+ },
+ {
+  "key": "ST_BlASTFORTE_018",
+  "index": "018",
+  "name": "Explosive Wave",
+  "descDatamined": "Creates a ki explosion, blowing away opponents."
+ },
+ {
+  "key": "ST_BlASTFORTE_019",
+  "index": "019",
+  "name": "Explosive Wave",
+  "descDatamined": "Creates a ki explosion, blowing away opponents."
+ },
+ {
+  "key": "ST_BlASTFORTE_020",
+  "index": "020",
+  "name": "Explosive Wave",
+  "descDatamined": "Creates a ki explosion, blowing away opponents."
+ },
+ {
+  "key": "ST_BlASTFORTE_021",
+  "index": "021",
+  "name": "Explosive Wave",
+  "descDatamined": "Creates a ki explosion, blowing away opponents."
+ },
+ {
+  "key": "ST_BlASTFORTE_022",
+  "index": "022",
+  "name": "Explosive Wave",
+  "descDatamined": "Creates a ki explosion, blowing away opponents."
+ },
+ {
+  "key": "ST_BlASTFORTE_023",
+  "index": "023",
+  "name": "Dangerous Shock",
+  "descDatamined": "Inflict damage on self; melee attack power, Ki Blast attack power, and Blast power increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_024",
+  "index": "024",
+  "name": "Kaioken",
+  "descDatamined": "Melee attack power, Ki Blast attack power, and defense increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_025",
+  "index": "025",
+  "name": "Long Awaited-for 100%",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_026",
+  "index": "026",
+  "name": "Full Power",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_027",
+  "index": "027",
+  "name": "Full Power",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_028",
+  "index": "028",
+  "name": "Full Power",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_029",
+  "index": "029",
+  "name": "Full Power",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_030",
+  "index": "030",
+  "name": "Full Power",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_031",
+  "index": "031",
+  "name": "Full Power",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_032",
+  "index": "032",
+  "name": "Inexperienced Power Up",
+  "descDatamined": "Enter Sparking! Mode; melee attack power and Ki Blast attack power increase for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_033",
+  "index": "033",
+  "name": "SP Fighting Pose 1",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_034",
+  "index": "034",
+  "name": "SP Fighting Pose 2",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_035",
+  "index": "035",
+  "name": "SP Fighting Pose 3",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_036",
+  "index": "036",
+  "name": "SP Fighting Pose 4",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_037",
+  "index": "037",
+  "name": "SP Fighting Pose 5",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_038",
+  "index": "038",
+  "name": "Justice Finishing Pose",
+  "descDatamined": "Blast power increases for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_039",
+  "index": "039",
+  "name": "False Courage",
+  "descDatamined": "Defense and resistance to being stunned by attacks increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_040",
+  "index": "040",
+  "name": "Howl",
+  "descDatamined": "Enter Sparking! Mode; melee attack power and Ki Blast attack power increase for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_041",
+  "index": "041",
+  "name": "Finish Sign",
+  "descDatamined": "Melee attack power, Ki Blast attack power, and Blast power increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_042",
+  "index": "042",
+  "name": "Pump Up",
+  "descDatamined": "Melee attack power and Ki Blast attack power greatly increase for (N) seconds. Movement speed greatly decreases."
+ },
+ {
+  "key": "ST_BlASTFORTE_043",
+  "index": "043",
+  "name": "Super Unyielding Spirit",
+  "descDatamined": "Enter Sparking! Mode; melee attack power and Ki Blast attack power increase for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_044",
+  "index": "044",
+  "name": "Justice Pose",
+  "descDatamined": "Melee attack power and Ki Blast attack power increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_045",
+  "index": "045",
+  "name": "High-Tension",
+  "descDatamined": "Melee attack power, Ki Blast attack power, and ki recovery speed increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_046",
+  "index": "046",
+  "name": "Full-Power Charge",
+  "descDatamined": "Ki gauge fully recovers.\r\nDefense decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_047",
+  "index": "047",
+  "name": "Power Up to the Very Limit",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_048",
+  "index": "048",
+  "name": "Sleep",
+  "descDatamined": "Sleep for 3 seconds to fully recover ki gauge and 30% of max HP."
+ },
+ {
+  "key": "ST_BlASTFORTE_049",
+  "index": "049",
+  "name": "Cloak Ki",
+  "descDatamined": null
+ },
+ {
+  "key": "ST_BlASTFORTE_050",
+  "index": "050",
+  "name": "Dark Eyes",
+  "descDatamined": "Automatically dodge a single attack of any kind, except for Ki Blasts or Perception/Super Perception counterattacks.\r\nDodge effect will end after being hit by a Perception/Super Perception counterattack."
+ },
+ {
+  "key": "ST_BlASTFORTE_051",
+  "index": "051",
+  "name": "Afterimage Strike",
+  "descDatamined": "Automatically dodge a single attack of any kind, except for Ki Blasts or Perception/Super Perception/Super Counter\r\ncounterattacks, for (N) seconds. Dodge effect will end after being hit by a Perception/Super Perception/Super Counter counterattack."
+ },
+ {
+  "key": "ST_BlASTFORTE_052",
+  "index": "052",
+  "name": "Mystic Breath",
+  "descDatamined": "Unguardable attack. Short range only."
+ },
+ {
+  "key": "ST_BlASTFORTE_053",
+  "index": "053",
+  "name": "Mystic Breath",
+  "descDatamined": "Unguardable attack. Short range only."
+ },
+ {
+  "key": "ST_BlASTFORTE_054",
+  "index": "054",
+  "name": "Mystic Breath",
+  "descDatamined": "Unguardable attack. Short range only."
+ },
+ {
+  "key": "ST_BlASTFORTE_055",
+  "index": "055",
+  "name": "Wild Sense",
+  "descDatamined": "Automatically dodge a single attack of any kind and counterattack, except for Ki Blasts or Perception/Super Perception counterattacks.\r\nDodge effect will end after being hit by a Perception/Super Perception counterattack."
+ },
+ {
+  "key": "ST_BlASTFORTE_056",
+  "index": "056",
+  "name": "Android Barrier",
+  "descDatamined": "Character creates a barrier around themselves to defend against attacks."
+ },
+ {
+  "key": "ST_BlASTFORTE_057",
+  "index": "057",
+  "name": "Android Barrier",
+  "descDatamined": "Character creates a barrier around themselves to defend against attacks."
+ },
+ {
+  "key": "ST_BlASTFORTE_058",
+  "index": "058",
+  "name": "Hero's Flute",
+  "descDatamined": "Character creates a barrier around themselves to defend against attacks."
+ },
+ {
+  "key": "ST_BlASTFORTE_059",
+  "index": "059",
+  "name": "Kakarottt!",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_060",
+  "index": "060",
+  "name": "Saiyan Spirit",
+  "descDatamined": "Melee attack power, Ki Blast attack power, Blast power, and damage inflicted from consecutive hits\r\n(such as combos) increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_062",
+  "index": "062",
+  "name": "Burning Heart",
+  "descDatamined": "Enter Sparking! Mode; Blast power increases for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_063",
+  "index": "063",
+  "name": "Fruit of the Tree of Might",
+  "descDatamined": "Melee attack power, Ki Blast attack power, defense, Blast power, and ki recovery speed greatly increase for (N) seconds.\r\nKi recovers by 2 gauges."
+ },
+ {
+  "key": "ST_BlASTFORTE_064",
+  "index": "064",
+  "name": "Makyo Star",
+  "descDatamined": "HP recovers by 10% of max; melee attack power, Ki Blast attack power, defense, ki recovery speed, and movement speed\r\nincrease for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_065",
+  "index": "065",
+  "name": "Give Me Your Energy!",
+  "descDatamined": "Increases Ultimate Blast \"Spirit Bomb\" power. Can be used together up to three times."
+ },
+ {
+  "key": "ST_BlASTFORTE_066",
+  "index": "066",
+  "name": "Senzu Beans",
+  "descDatamined": "HP fully recovers."
+ },
+ {
+  "key": "ST_BlASTFORTE_068",
+  "index": "068",
+  "name": "Explosive Wave",
+  "descDatamined": "Creates a ki explosion, blowing away opponents."
+ },
+ {
+  "key": "ST_BlASTFORTE_069",
+  "index": "069",
+  "name": "I am Super Vegeta!",
+  "descDatamined": "Enter Sparking! Mode; Blast power increases for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_070",
+  "index": "070",
+  "name": "All I Need Is Five Seconds!",
+  "descDatamined": "Ki gauge fully recovers; melee attack power, Ki Blast attack power, and Blast power greatly increase for (N) seconds.\r\nDefense decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_073",
+  "index": "073",
+  "name": "Now I'm Angry!",
+  "descDatamined": "Enter Sparking! Mode; melee attack power, Ki Blast attack power, and Blast power increase for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_074",
+  "index": "074",
+  "name": "Prince's Pride",
+  "descDatamined": "Ki recovery speed and resistance to being stunned by attacks increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_075",
+  "index": "075",
+  "name": "Majin's Awakening",
+  "descDatamined": "Enter Sparking! Mode; Blast power increases for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_076",
+  "index": "076",
+  "name": "Regeneration",
+  "descDatamined": "HP recovers by 40% of max."
+ },
+ {
+  "key": "ST_BlASTFORTE_077",
+  "index": "077",
+  "name": "Wizard Barrier",
+  "descDatamined": "Character creates a barrier around themselves to defend against attacks."
+ },
+ {
+  "key": "ST_BlASTFORTE_080",
+  "index": "080",
+  "name": "Sealing Paralyze Beam",
+  "descDatamined": "Unguardable attack. Renders opponent paralyzed for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_081",
+  "index": "081",
+  "name": "Unforgivable",
+  "descDatamined": "Enter Sparking! Mode; melee attack power and Ki Blast attack power slightly increase for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_082",
+  "index": "082",
+  "name": "King's Dignity",
+  "descDatamined": "Melee attack power, Ki Blast attack power, and ki recovery speed increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_085",
+  "index": "085",
+  "name": "All-Out",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_086",
+  "index": "086",
+  "name": "I Can't Wait!",
+  "descDatamined": "Melee attack power, Ki Blast attack power, Blast power, defense, and movement speed increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_087",
+  "index": "087",
+  "name": "Royal Raiment?!",
+  "descDatamined": "Melee attack power, Ki Blast attack power, defense, Blast power, and ki recovery speed increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_088",
+  "index": "088",
+  "name": "Demon Eye",
+  "descDatamined": "Unguardable attack. Renders opponent paralyzed for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_092",
+  "index": "092",
+  "name": "Buying Time",
+  "descDatamined": "Defense and resistance to being stunned by attacks increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_093",
+  "index": "093",
+  "name": "Barrier",
+  "descDatamined": "Character creates a barrier around themselves to defend against attacks."
+ },
+ {
+  "key": "ST_BlASTFORTE_094",
+  "index": "094",
+  "name": "Evil Barrier",
+  "descDatamined": "Character creates a barrier around themselves to defend against attacks."
+ },
+ {
+  "key": "ST_BlASTFORTE_099",
+  "index": "099",
+  "name": "Regeneration",
+  "descDatamined": "HP recovers by 40% of max."
+ },
+ {
+  "key": "ST_BlASTFORTE_101",
+  "index": "101",
+  "name": "I'll Get You For This...",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_103",
+  "index": "103",
+  "name": "Going Berserk",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_104",
+  "index": "104",
+  "name": "Evil Breath",
+  "descDatamined": "Unguardable attack. Short range only."
+ },
+ {
+  "key": "ST_BlASTFORTE_105",
+  "index": "105",
+  "name": "A Servant's Latent Power",
+  "descDatamined": "Melee attack power and Ki Blast attack power greatly increase for (N) seconds. Defense slightly increases.\r\nKi recovers more slowly."
+ },
+ {
+  "key": "ST_BlASTFORTE_106",
+  "index": "106",
+  "name": "Berserker",
+  "descDatamined": "Defense greatly increases for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_107",
+  "index": "107",
+  "name": "All Fired Up",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_108",
+  "index": "108",
+  "name": "Awakened by Anger",
+  "descDatamined": "Melee attack power, Ki Blast attack power, and Blast power increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_109",
+  "index": "109",
+  "name": "All-Encompassing Power",
+  "descDatamined": "Ki gauge fully recovers; melee attack power, Ki Blast attack power, and Blast power increase for (N) seconds.\r\nDefense decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_110",
+  "index": "110",
+  "name": "God Bind",
+  "descDatamined": "Unguardable attack. Renders opponent paralyzed for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_111",
+  "index": "111",
+  "name": "Shenron Aura",
+  "descDatamined": "Melee attack power, Ki Blast attack power, and defense increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_112",
+  "index": "112",
+  "name": "Even Greater Potential",
+  "descDatamined": "Ki gauge fully recovers; melee attack power and movement speed increase for (N) seconds.\r\nDefense decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_113",
+  "index": "113",
+  "name": "You'll Never Beat Me",
+  "descDatamined": "Enter Sparking! Mode; Ki Blast attack power and Blast power increase for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_114",
+  "index": "114",
+  "name": "Ultra Movement",
+  "descDatamined": "Automatically dodge a single attack of any kind and counterattack, except for Ki Blasts or Perception/Super Perception counterattacks.\r\nDodge effect will end after being hit by a Perception/Super Perception counterattack."
+ },
+ {
+  "key": "ST_BlASTFORTE_115",
+  "index": "115",
+  "name": "No Backing Down",
+  "descDatamined": "Enter Sparking! Mode; melee attack power, Ki Blast attack power, Blast power, and ki recovery speed increase for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_116",
+  "index": "116",
+  "name": "All Warmed Up",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_117",
+  "index": "117",
+  "name": "I'm No Pushover!",
+  "descDatamined": "Melee attack power, Ki Blast attack power, and ki recovery speed increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_118",
+  "index": "118",
+  "name": "Limits?! I Break Them!",
+  "descDatamined": "Melee attack power, Ki Blast attack power, and Blast power greatly increase during battle."
+ },
+ {
+  "key": "ST_BlASTFORTE_119",
+  "index": "119",
+  "name": "Wild Move",
+  "descDatamined": "Instantly move behind opponent."
+ },
+ {
+  "key": "ST_BlASTFORTE_120",
+  "index": "120",
+  "name": "Untamed Instinct",
+  "descDatamined": "Enter Sparking! Mode; melee attack power, Ki Blast attack power, and Blast power increase for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_121",
+  "index": "121",
+  "name": "Time to Get Serious",
+  "descDatamined": "Enter Sparking! Mode; melee attack power, Ki Blast attack power, Blast power, and movement speed increase for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_122",
+  "index": "122",
+  "name": "Verdict of Destruction",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_123",
+  "index": "123",
+  "name": "Settling the Score",
+  "descDatamined": "Melee attack power, Ki Blast attack power, and Blast power increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_124",
+  "index": "124",
+  "name": "Here We Go!",
+  "descDatamined": "Enter Sparking! Mode; melee attack power, Ki Blast attack power, Blast power, and ki recovery speed increase for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_125",
+  "index": "125",
+  "name": "I'm the One Who Will Defeat You!",
+  "descDatamined": "Melee attack power, Ki Blast attack power, and Blast power increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_126",
+  "index": "126",
+  "name": "Stardust Barrier",
+  "descDatamined": "Character creates a barrier in front of them to defend against attacks."
+ },
+ {
+  "key": "ST_BlASTFORTE_127",
+  "index": "127",
+  "name": "Your Arrogance Disgusts Me!",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_128",
+  "index": "128",
+  "name": "Power of Revenge",
+  "descDatamined": "Melee attack power, Ki Blast attack power, Blast power, and damage inflicted from consecutive hits\r\n(such as combos) increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_129",
+  "index": "129",
+  "name": "True Golden Frieza",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_130",
+  "index": "130",
+  "name": "Dimension Shift",
+  "descDatamined": "Instantly move behind opponent."
+ },
+ {
+  "key": "ST_BlASTFORTE_131",
+  "index": "131",
+  "name": "Ki Clone",
+  "descDatamined": "Automatically dodge a single attack of any kind, except for Ki Blasts or Perception/Super Perception counterattacks.\r\nDodge effect will end after being hit by a Perception/Super Perception counterattack."
+ },
+ {
+  "key": "ST_BlASTFORTE_132",
+  "index": "132",
+  "name": "Time Skip",
+  "descDatamined": "Instantly move behind opponent."
+ },
+ {
+  "key": "ST_BlASTFORTE_133",
+  "index": "133",
+  "name": "Ki Pressure",
+  "descDatamined": "Character creates a barrier around themselves to defend against attacks."
+ },
+ {
+  "key": "ST_BlASTFORTE_134",
+  "index": "134",
+  "name": "Meditation",
+  "descDatamined": "HP recovers by 20% of max."
+ },
+ {
+  "key": "ST_BlASTFORTE_135",
+  "index": "135",
+  "name": "Ki Storm",
+  "descDatamined": "Creates a ki explosion, blowing away opponents."
+ },
+ {
+  "key": "ST_BlASTFORTE_136",
+  "index": "136",
+  "name": "Strength is Absolute!",
+  "descDatamined": "Enter Sparking! Mode; melee attack power, Ki Blast attack power, Blast power, and ki recovery speed increase for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_137",
+  "index": "137",
+  "name": "Ta-dah!",
+  "descDatamined": "Defense and resistance to being stunned by attacks increase for (N) seconds. Melee attack power and Ki Blast attack\r\npower decrease."
+ },
+ {
+  "key": "ST_BlASTFORTE_138",
+  "index": "138",
+  "name": "Royal Raiment?!",
+  "descDatamined": "Melee attack power, Ki Blast attack power, defense, Blast power, and ki recovery speed increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_139",
+  "index": "139",
+  "name": "Audacious Laugh",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_142",
+  "index": "142",
+  "name": "Welcome to My World",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_143",
+  "index": "143",
+  "name": "Justice!",
+  "descDatamined": "Ki Blast attack power, ki recovery speed, and ki charging speed increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_144",
+  "index": "144",
+  "name": "Pride Trooper Pose 1",
+  "descDatamined": "Enter Sparking! Mode; Blast power and ki recovery speed slightly increase for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_145",
+  "index": "145",
+  "name": "Resolution",
+  "descDatamined": "Melee attack power, Ki Blast attack power, and Blast power increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_146",
+  "index": "146",
+  "name": "Hakai Aura",
+  "descDatamined": "Character creates a barrier around themselves to defend against attacks."
+ },
+ {
+  "key": "ST_BlASTFORTE_147",
+  "index": "147",
+  "name": "Super Maximum Light Speed Mode",
+  "descDatamined": "Movement speed greatly increases for (N) seconds. Greatly decreases ki needed for Short Dashes."
+ },
+ {
+  "key": "ST_BlASTFORTE_148",
+  "index": "148",
+  "name": "Pride Trooper Pose 2",
+  "descDatamined": "Enter Sparking! Mode; melee attack power and Ki Blast attack power increase for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_149",
+  "index": "149",
+  "name": "Snack Time",
+  "descDatamined": "HP recovers by 20% of max."
+ },
+ {
+  "key": "ST_BlASTFORTE_150",
+  "index": "150",
+  "name": "Immortal Body",
+  "descDatamined": "HP recovers by 20% of max."
+ },
+ {
+  "key": "ST_BlASTFORTE_151",
+  "index": "151",
+  "name": "This is True Justice!",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_152",
+  "index": "152",
+  "name": "Light of Justice",
+  "descDatamined": "Melee attack power, Ki Blast attack power, Blast power, and damage inflicted from consecutive hits\r\n(such as combos) increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_153",
+  "index": "153",
+  "name": "Growth",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_154",
+  "index": "154",
+  "name": "I'm Number One!",
+  "descDatamined": "Enter Sparking! Mode; melee attack power and Ki Blast attack power increase for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_155",
+  "index": "155",
+  "name": "Fury",
+  "descDatamined": null
+ },
+ {
+  "key": "ST_BlASTFORTE_156",
+  "index": "156",
+  "name": "Light of Love",
+  "descDatamined": "Unguardable attack. Renders opponent paralyzed for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_157",
+  "index": "157",
+  "name": "Maiden's Fury",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_160",
+  "index": "160",
+  "name": "Come at Me!",
+  "descDatamined": "Melee attack power, Ki Blast attack power, Blast power, and defense increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_161",
+  "index": "161",
+  "name": "Cry of Rage",
+  "descDatamined": "Unguardable attack. Renders opponent paralyzed for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_162",
+  "index": "162",
+  "name": "Berserk Rage",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time.\r\nWhen opponent is Goku, melee attack power, Ki Blast attack power, and Blast power greatly increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_163",
+  "index": "163",
+  "name": "Ultrasonic Sensor",
+  "descDatamined": "Automatically dodge a single attack of any kind, except for Ki Blasts or Perception/Super Perception counterattacks.\r\nDodge effect will end after being hit by a Perception/Super Perception counterattack."
+ },
+ {
+  "key": "ST_BlASTFORTE_165",
+  "index": "165",
+  "name": "Dangerous Shock",
+  "descDatamined": "Inflict damage on self; melee attack power, Ki Blast attack power, and Blast power increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_166",
+  "index": "166",
+  "name": "Immovable Stance",
+  "descDatamined": "Defense and resistance to being stunned by attacks increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_167",
+  "index": "167",
+  "name": "Shockwave of Rebellion",
+  "descDatamined": "Creates a ki explosion, blowing away opponents."
+ },
+ {
+  "key": "ST_BlASTFORTE_168",
+  "index": "168",
+  "name": "Warm-up Exercise",
+  "descDatamined": "Melee attack power, Blast power, and damage inflicted from consecutive hits (such as combos) increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_169",
+  "index": "169",
+  "name": "The Power to Rise Again",
+  "descDatamined": "Melee attack power, Ki Blast attack power, Blast power, and damage inflicted from consecutive hits\r\n(such as combos) increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_170",
+  "index": "170",
+  "name": "Beast Sense",
+  "descDatamined": "Automatically dodge a single attack of any kind and counterattack, except for Ki Blasts or Perception/Super Perception counterattacks.\r\nDodge effect will end after being hit by a Perception/Super Perception counterattack.\r\nMelee attack power increases for 5 seconds following the counterattack."
+ },
+ {
+  "key": "ST_BlASTFORTE_171",
+  "index": "171",
+  "name": "Guess It's My Turn",
+  "descDatamined": "Enter Sparking! Mode; melee attack power and Ki Blast attack power increase for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_172",
+  "index": "172",
+  "name": "This Won't End the Same Way",
+  "descDatamined": "Melee attack power, Ki Blast attack power, Blast power, and defense increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_173",
+  "index": "173",
+  "name": "That Shenron...",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_174",
+  "index": "174",
+  "name": "Behave Yourself!",
+  "descDatamined": "Enter Sparking! Mode; melee attack power and Ki Blast attack power increase for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_175",
+  "index": "175",
+  "name": "Gamma Superhero Pose 1",
+  "descDatamined": "Melee attack power, Ki Blast attack power, Blast power, and damage inflicted from consecutive hits\r\n(such as combos) increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_176",
+  "index": "176",
+  "name": "Gamma Superhero Pose 2",
+  "descDatamined": "Melee attack power, Ki Blast attack power, Blast power, and damage inflicted from consecutive hits\r\n(such as combos) increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_177",
+  "index": "177",
+  "name": "Revive Bug",
+  "descDatamined": "HP recovers by 40% of max."
+ },
+ {
+  "key": "ST_BlASTFORTE_178",
+  "index": "178",
+  "name": "Special Training Results",
+  "descDatamined": "Enter Sparking! Mode; Blast power increases for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_179",
+  "index": "179",
+  "name": "Spark Bind",
+  "descDatamined": "Unguardable attack. Renders opponent paralyzed for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_180",
+  "index": "180",
+  "name": "Thunder Charge",
+  "descDatamined": "Melee attack power, Ki Blast attack power, and Blast power increase for (N) seconds. Ki recovers by 2 gauges."
+ },
+ {
+  "key": "ST_BlASTFORTE_181",
+  "index": "181",
+  "name": "Wasabi Bomb",
+  "descDatamined": "Unguardable attack. Renders opponent paralyzed for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_182",
+  "index": "182",
+  "name": "Last Chance Full Power",
+  "descDatamined": "Enter Sparking! Mode; melee attack power and Ki Blast attack power increase for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_183",
+  "index": "183",
+  "name": "Majin Power",
+  "descDatamined": "Melee attack power, Ki Blast attack power, and Blast power increase for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_184",
+  "index": "184",
+  "name": "Saiyan Burst",
+  "descDatamined": "Creates a ki explosion, blowing away opponents."
+ },
+ {
+  "key": "ST_BlASTFORTE_185",
+  "index": "185",
+  "name": "Limit Breaker Power",
+  "descDatamined": "Enter Sparking! Mode; melee attack power greatly increases for (N) seconds.\r\nDefense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_186",
+  "index": "186",
+  "name": "Powerful Shout",
+  "descDatamined": "Unguardable attack. Renders opponent paralyzed for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_187",
+  "index": "187",
+  "name": "Magic Bind",
+  "descDatamined": "Unguardable attack. Renders opponent paralyzed for (N) seconds."
+ },
+ {
+  "key": "ST_BlASTFORTE_188",
+  "index": "188",
+  "name": "Third Eye Barrier",
+  "descDatamined": "Character creates a barrier around themselves to defend against attacks."
+ },
+ {
+  "key": "ST_BlASTFORTE_189",
+  "index": "189",
+  "name": "Third Eye Heal",
+  "descDatamined": "HP recovers by 20% of max."
+ },
+ {
+  "key": "ST_BlASTFORTE_190",
+  "index": "190",
+  "name": "Third Eye Enhance",
+  "descDatamined": "Enter Sparking! Mode; defense greatly decreases for a period of time."
+ },
+ {
+  "key": "ST_BlASTFORTE_191",
+  "index": "191",
+  "name": "Ancient Soul",
+  "descDatamined": "Melee attack power, Ki Blast attack power, and Blast power increase for (N) seconds. Ki recovers by 2 gauges."
+ }
+]

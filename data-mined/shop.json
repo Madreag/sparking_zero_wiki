@@ -1,0 +1,3410 @@
+[
+ {
+  "id": "ShopBase_00_0000_50",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0000_50"
+  ],
+  "unlockCharacterNames": [
+   "Goku (Super)"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0002_30",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0002_30"
+  ],
+  "unlockCharacterNames": [
+   "Goku (GT)"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0002_50",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0002_50"
+  ],
+  "unlockCharacterNames": [
+   "Goku (Teen)"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0020_40",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0020_40"
+  ],
+  "unlockCharacterNames": [
+   "Majin Vegeta"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0020_50",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0020_50"
+  ],
+  "unlockCharacterNames": [
+   "Vegeta (GT)"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0032_30",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0032_30"
+  ],
+  "unlockCharacterNames": [
+   "Gohan (Future)"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0040_20",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0040_20"
+  ],
+  "unlockCharacterNames": [
+   "Nail"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0110_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0110_00"
+  ],
+  "unlockCharacterNames": [
+   "Gogeta (Super)"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0110_02",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0110_02"
+  ],
+  "unlockCharacterNames": [
+   "Gogeta (GT)"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0110_04",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0110_04"
+  ],
+  "unlockCharacterNames": [
+   "Super Gogeta (Z) "
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0130_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0130_00"
+  ],
+  "unlockCharacterNames": [
+   "Videl"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0153_10",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0153_10"
+  ],
+  "unlockCharacterNames": [
+   "Mecha Frieza"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0163_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0163_00"
+  ],
+  "unlockCharacterNames": [
+   "Cell Jr."
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0171_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0171_00"
+  ],
+  "unlockCharacterNames": [
+   "Majin Buu (Evil)"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0210_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0210_00"
+  ],
+  "unlockCharacterNames": [
+   "Yajirobe"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0230_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0230_00"
+  ],
+  "unlockCharacterNames": [
+   "Pan (GT)"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0240_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0240_00"
+  ],
+  "unlockCharacterNames": [
+   "Uub (GT)"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0310_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0310_00"
+  ],
+  "unlockCharacterNames": [
+   "Bardock"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0330_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0330_00"
+  ],
+  "unlockCharacterNames": [
+   "Saibaman"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0370_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0370_00"
+  ],
+  "unlockCharacterNames": [
+   "Cui"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0430_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0430_00"
+  ],
+  "unlockCharacterNames": [
+   "King Cold"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0540_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0540_00"
+  ],
+  "unlockCharacterNames": [
+   "Frieza Force Soldier"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0553_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0553_00"
+  ],
+  "unlockCharacterNames": [
+   "Broly (Super)"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0561_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0561_00"
+  ],
+  "unlockCharacterNames": [
+   "Super Garlic Jr."
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0570_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0570_00"
+  ],
+  "unlockCharacterNames": [
+   "Dr. Wheelo"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0580_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0580_00"
+  ],
+  "unlockCharacterNames": [
+   "Turles"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0590_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0590_00"
+  ],
+  "unlockCharacterNames": [
+   "Lord Slug"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0600_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0600_00"
+  ],
+  "unlockCharacterNames": [
+   "Cooler"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0600_10",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0600_10"
+  ],
+  "unlockCharacterNames": [
+   "Metal Cooler"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0620_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0620_00"
+  ],
+  "unlockCharacterNames": [
+   "Android 13"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0630_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0630_00"
+  ],
+  "unlockCharacterNames": [
+   "Bojack"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0650_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0650_00"
+  ],
+  "unlockCharacterNames": [
+   "Janemba"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0660_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0660_00"
+  ],
+  "unlockCharacterNames": [
+   "Tapion"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0670_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0670_00"
+  ],
+  "unlockCharacterNames": [
+   "Hirudegarn"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0680_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0680_00"
+  ],
+  "unlockCharacterNames": [
+   "Baby Vegeta (GT)"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0700_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0700_00"
+  ],
+  "unlockCharacterNames": [
+   "Syn Shenron (GT)"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0760_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0760_00"
+  ],
+  "unlockCharacterNames": [
+   "Spopovich"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0800_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0800_00"
+  ],
+  "unlockCharacterNames": [
+   "Goku Black"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0810_01",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0810_01"
+  ],
+  "unlockCharacterNames": [
+   "Fused Zamasu"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0881_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0881_00"
+  ],
+  "unlockCharacterNames": [
+   "Frost"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0900_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0900_00"
+  ],
+  "unlockCharacterNames": [
+   "Caulifla"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0910_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0910_00"
+  ],
+  "unlockCharacterNames": [
+   "Kale"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_0950_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "0950_00"
+  ],
+  "unlockCharacterNames": [
+   "Dyspo"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_1190_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "1190_00"
+  ],
+  "unlockCharacterNames": [
+   "Bergamo"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_1331_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "1331_00"
+  ],
+  "unlockCharacterNames": [
+   "Kakunsa"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_1341_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "1341_00"
+  ],
+  "unlockCharacterNames": [
+   "Roasie"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_00_1500_00",
+  "contentsType": "Character",
+  "unlockCharacters": [
+   "1500_00"
+  ],
+  "unlockCharacterNames": [
+   "Anilaza"
+  ],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_20_0006",
+  "contentsType": "PlayerCardBG",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_20_0007",
+  "contentsType": "PlayerCardBG",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_20_0008",
+  "contentsType": "PlayerCardBG",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_20_0010",
+  "contentsType": "PlayerCardBG",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_20_0011",
+  "contentsType": "PlayerCardBG",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_20_0031",
+  "contentsType": "PlayerCardBG",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_20_0032",
+  "contentsType": "PlayerCardBG",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0001",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0002",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0003",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0004",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0006",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0007",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0008",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0009",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0010",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0012",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0013",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0015",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0016",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0018",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0019",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0020",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0021",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0022",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0023",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0024",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0025",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0026",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0027",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0029",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0030",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0031",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0032",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0033",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0034",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0035",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0036",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0037",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0038",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0039",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0040",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0041",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0042",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0043",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0044",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0045",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0046",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0047",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0048",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0049",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0050",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0051",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0054",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0055",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0059",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0060",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0061",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0062",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0063",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0064",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0065",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0066",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0068",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0070",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0072",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0073",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0074",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0075",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0076",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0078",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0079",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0082",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0083",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0084",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0085",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0088",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0089",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0090",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0091",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0092",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0093",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0094",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0095",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0096",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0097",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0098",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0099",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0100",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0101",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0102",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0103",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_0_0104",
+  "contentsType": "EquipPowerUp",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0000_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0000_10",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0000_20",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0000_40",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0000_50",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0020_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0020_10",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0020_30",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0020_40",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0020_60",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0030_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0031_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0032_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0032_10",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0040_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0040_10",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0050_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0060_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0070_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0080_30",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0140_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0310_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0340_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0390_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0450_10",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0460_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0540_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0001_0940_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0000_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0000_10",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0000_20",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0000_40",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0000_50",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0020_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0020_10",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0020_30",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0020_60",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0030_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0031_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0032_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0032_20",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0040_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0040_10",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0050_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0060_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0070_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0080_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0130_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0002_0460_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0003_0000_10",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0003_0000_40",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0003_0020_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0003_0020_10",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0003_0020_60",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0003_0031_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0003_0032_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0003_0140_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0003_0460_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0004_0000_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0004_0000_40",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0004_0000_50",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0004_0032_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0004_0050_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0004_0070_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0004_0140_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0004_0460_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0005_0000_00",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0005_0000_10",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0005_0000_40",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0005_0000_50",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0006_0000_40",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_1_0006_0000_50",
+  "contentsType": "EquipCostume",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0000_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0000_10",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0000_11",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0000_20",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0000_21",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0000_22",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0000_23",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0000_33",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0000_40",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0000_41",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0000_43",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0000_50",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0000_51",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0001_42",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0002_30",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0002_31",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0002_32",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0002_50",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0020_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0020_10",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0020_11",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0020_30",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0020_31",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0020_32",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0020_40",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0020_50",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0020_60",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0020_61",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0020_63",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0021_20",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0022_62",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0023_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0030_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0031_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0031_01",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0031_02",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0032_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0032_01",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0032_02",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0032_10",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0032_20",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0032_30",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0032_31",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0040_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0040_10",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0040_20",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0050_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0060_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0070_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0080_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0080_01",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0080_10",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0080_11",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0080_30",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0080_31",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0081_20",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0082_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0082_01",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0090_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0090_01",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0100_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0100_01",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0100_02",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0110_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0110_01",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0110_02",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0110_03",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0110_04",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0120_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0120_01",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0120_02",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0130_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0140_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0141_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0150_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0151_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0152_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0153_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0153_10",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0153_20",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0154_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0155_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0160_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0161_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0162_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0162_01",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0163_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0170_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0171_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0172_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0172_10",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0172_11",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0173_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0180_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0190_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0210_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0230_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0240_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0240_01",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0310_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0320_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0330_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0340_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0350_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0351_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0360_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0370_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0380_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0390_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0400_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0410_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0420_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0430_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0440_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0450_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0450_10",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0460_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0470_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0480_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0490_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0500_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0540_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0550_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0551_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0552_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0553_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0554_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0555_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0561_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0570_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0580_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0590_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0591_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0600_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0600_10",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0601_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0620_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0621_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0630_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0631_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0650_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0651_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0660_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0670_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0680_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0680_01",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0680_02",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0681_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0700_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0700_01",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0760_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0780_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0790_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0800_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0800_01",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0810_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0810_01",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0811_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0870_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0881_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0890_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0890_01",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0890_02",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0900_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0900_02",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0910_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0911_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0912_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0920_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0920_01",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0920_02",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0930_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0931_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0940_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0941_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_0950_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_1190_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_1321_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_1331_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_1341_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_4_1500_00",
+  "contentsType": "EquipAppealVoice",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_0202",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_0203",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_0204",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_0205",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_0206",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_0207",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_0208",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1000",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1001",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1002",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1003",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1004",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1005",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1006",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1007",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1008",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1009",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1010",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1011",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1012",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1013",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1014",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1015",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1016",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1017",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1018",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1019",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1020",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1021",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1022",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1023",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1024",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1025",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1026",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1027",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1028",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1029",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1030",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1031",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1032",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1033",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1034",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1035",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1036",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1037",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1038",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1039",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1040",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1041",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1042",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1043",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_6_1044",
+  "contentsType": "EquipSparkingBGM",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_7_0000",
+  "contentsType": "EquipAIType",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_7_0001",
+  "contentsType": "EquipAIType",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_7_0002",
+  "contentsType": "EquipAIType",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_7_0003",
+  "contentsType": "EquipAIType",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_7_0004",
+  "contentsType": "EquipAIType",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_7_0005",
+  "contentsType": "EquipAIType",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_7_0006",
+  "contentsType": "EquipAIType",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_7_0007",
+  "contentsType": "EquipAIType",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_7_0008",
+  "contentsType": "EquipAIType",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_7_0009",
+  "contentsType": "EquipAIType",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_7_0010",
+  "contentsType": "EquipAIType",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_7_0011",
+  "contentsType": "EquipAIType",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_7_0012",
+  "contentsType": "EquipAIType",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_7_0013",
+  "contentsType": "EquipAIType",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ },
+ {
+  "id": "ShopBase_50_00_7_0014",
+  "contentsType": "EquipAIType",
+  "unlockCharacters": [],
+  "unlockCharacterNames": [],
+  "sales": null
+ }
+]

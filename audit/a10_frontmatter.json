@@ -1,0 +1,3401 @@
+{
+ "corpus": {
+  "blasts": 453,
+  "characters": 245,
+  "dlc": 9,
+  "episode-battles": 8,
+  "game-modes": 12,
+  "glossary": 30,
+  "guides": 12,
+  "mechanics": 22,
+  "patches": 18,
+  "shop": 7,
+  "skills": 146,
+  "stages": 27,
+  "transformations": 164
+ },
+ "parse_errors": [],
+ "confidence_by_collection": {
+  "blasts": {
+   "datamined": 453
+  },
+  "characters": {
+   "datamined": 245
+  },
+  "dlc": {
+   "datamined": 7,
+   "confirmed": 1,
+   "community": 1
+  },
+  "episode-battles": {
+   "community": 8
+  },
+  "game-modes": {
+   "community": 10,
+   "confirmed": 2
+  },
+  "glossary": {
+   "confirmed": 16,
+   "datamined": 7,
+   "community": 7
+  },
+  "guides": {
+   "datamined": 2,
+   "community": 9,
+   "confirmed": 1
+  },
+  "mechanics": {
+   "community": 21,
+   "datamined": 1
+  },
+  "patches": {
+   "confirmed": 16,
+   "community": 2
+  },
+  "shop": {
+   "datamined": 7
+  },
+  "skills": {
+   "community": 133,
+   "datamined": 13
+  },
+  "stages": {
+   "datamined": 27
+  },
+  "transformations": {
+   "datamined": 164
+  }
+ },
+ "datamined_char_with_dp": {
+  "count": 208,
+  "examples": [
+   {
+    "path": "content/characters/android-13.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 77
+   },
+   {
+    "path": "content/characters/android-16.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 75
+   },
+   {
+    "path": "content/characters/android-17-super.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 78
+   },
+   {
+    "path": "content/characters/android-17-z.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 72
+   },
+   {
+    "path": "content/characters/android-18.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 75
+   },
+   {
+    "path": "content/characters/android-19.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/anilaza.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 72
+   },
+   {
+    "path": "content/characters/babidi.md",
+    "dp": 3,
+    "dp_line": 7,
+    "confidence_line": 75
+   },
+   {
+    "path": "content/characters/baby-vegeta-gt.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 66
+   },
+   {
+    "path": "content/characters/bardock.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 74
+   },
+   {
+    "path": "content/characters/beerus.md",
+    "dp": 10,
+    "dp_line": 7,
+    "confidence_line": 78
+   },
+   {
+    "path": "content/characters/bergamo.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 71
+   },
+   {
+    "path": "content/characters/bojack.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 74
+   },
+   {
+    "path": "content/characters/broly-super-super-saiyan-full-power.md",
+    "dp": 9,
+    "dp_line": 7,
+    "confidence_line": 74
+   },
+   {
+    "path": "content/characters/broly-super-super-saiyan.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 77
+   },
+   {
+    "path": "content/characters/broly-super.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 82
+   },
+   {
+    "path": "content/characters/broly-z-legendary-super-saiyan.md",
+    "dp": 9,
+    "dp_line": 7,
+    "confidence_line": 76
+   },
+   {
+    "path": "content/characters/broly-z-super-saiyan.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 75
+   },
+   {
+    "path": "content/characters/broly-z.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 75
+   },
+   {
+    "path": "content/characters/burter.md",
+    "dp": 3,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/cabba-super-saiyan-2.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 66
+   },
+   {
+    "path": "content/characters/cabba-super-saiyan.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 68
+   },
+   {
+    "path": "content/characters/cabba.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 78
+   },
+   {
+    "path": "content/characters/captain-ginyu.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 75
+   },
+   {
+    "path": "content/characters/caulifla-super-saiyan-2.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 71
+   },
+   {
+    "path": "content/characters/caulifla.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 79
+   },
+   {
+    "path": "content/characters/cell-1st-form.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 75
+   },
+   {
+    "path": "content/characters/cell-2nd-form.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 80
+   },
+   {
+    "path": "content/characters/cell-jr.md",
+    "dp": 3,
+    "dp_line": 7,
+    "confidence_line": 68
+   },
+   {
+    "path": "content/characters/cell-max.md",
+    "dp": 9,
+    "dp_line": 7,
+    "confidence_line": 75
+   },
+   {
+    "path": "content/characters/cell-perfect-form.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 64
+   },
+   {
+    "path": "content/characters/chiaotzu.md",
+    "dp": 2,
+    "dp_line": 7,
+    "confidence_line": 71
+   },
+   {
+    "path": "content/characters/cooler-final-form.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 67
+   },
+   {
+    "path": "content/characters/cooler.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 68
+   },
+   {
+    "path": "content/characters/cui.md",
+    "dp": 3,
+    "dp_line": 7,
+    "confidence_line": 71
+   },
+   {
+    "path": "content/characters/dabura.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 74
+   },
+   {
+    "path": "content/characters/dodoria.md",
+    "dp": 3,
+    "dp_line": 7,
+    "confidence_line": 68
+   },
+   {
+    "path": "content/characters/dr-gero.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 71
+   },
+   {
+    "path": "content/characters/dr-wheelo.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 78
+   },
+   {
+    "path": "content/characters/dyspo.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 71
+   },
+   {
+    "path": "content/characters/frieza-force-soldier.md",
+    "dp": 2,
+    "dp_line": 7,
+    "confidence_line": 74
+   },
+   {
+    "path": "content/characters/frieza-super.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 76
+   },
+   {
+    "path": "content/characters/frieza-z-1st-form.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 76
+   },
+   {
+    "path": "content/characters/frieza-z-2nd-form.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 71
+   },
+   {
+    "path": "content/characters/frieza-z-3rd-form.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 70
+   },
+   {
+    "path": "content/characters/frieza-z-4th-form.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 81
+   },
+   {
+    "path": "content/characters/frieza-z-full-power.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 78
+   },
+   {
+    "path": "content/characters/frost.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 58
+   },
+   {
+    "path": "content/characters/full-power-bojack.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 69
+   },
+   {
+    "path": "content/characters/fused-zamasu-half-corrupted.md",
+    "dp": 9,
+    "dp_line": 7,
+    "confidence_line": 74
+   },
+   {
+    "path": "content/characters/fused-zamasu.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 81
+   },
+   {
+    "path": "content/characters/fusion-android-13.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 77
+   },
+   {
+    "path": "content/characters/future-trunks-super-saiyan.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 74
+   },
+   {
+    "path": "content/characters/future-trunks.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 75
+   },
+   {
+    "path": "content/characters/gamma-1.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/gamma-2.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 76
+   },
+   {
+    "path": "content/characters/giant-gomah.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 70
+   },
+   {
+    "path": "content/characters/glorio.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 66
+   },
+   {
+    "path": "content/characters/gogeta-gt-super-saiyan-4.md",
+    "dp": 10,
+    "dp_line": 7,
+    "confidence_line": 71
+   },
+   {
+    "path": "content/characters/gogeta-super-super-saiyan-god-super-saiyan.md",
+    "dp": 10,
+    "dp_line": 7,
+    "confidence_line": 71
+   },
+   {
+    "path": "content/characters/gogeta-super-super-saiyan.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 67
+   },
+   {
+    "path": "content/characters/gogeta-super.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 78
+   },
+   {
+    "path": "content/characters/gohan-adult-super-saiyan-2.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 67
+   },
+   {
+    "path": "content/characters/gohan-adult-super-saiyan.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 64
+   },
+   {
+    "path": "content/characters/gohan-adult.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 77
+   },
+   {
+    "path": "content/characters/gohan-beast.md",
+    "dp": 9,
+    "dp_line": 7,
+    "confidence_line": 74
+   },
+   {
+    "path": "content/characters/gohan-future-super-saiyan.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 71
+   },
+   {
+    "path": "content/characters/gohan-future.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 66
+   },
+   {
+    "path": "content/characters/gohan-kid.md",
+    "dp": 3,
+    "dp_line": 7,
+    "confidence_line": 74
+   },
+   {
+    "path": "content/characters/gohan-super-hero-super-saiyan.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 69
+   },
+   {
+    "path": "content/characters/gohan-super-hero.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 76
+   },
+   {
+    "path": "content/characters/gohan-teen-super-saiyan-2.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 68
+   },
+   {
+    "path": "content/characters/gohan-teen-super-saiyan.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 77
+   },
+   {
+    "path": "content/characters/gohan-teen.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/goku-black-super-saiyan-ros.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 79
+   },
+   {
+    "path": "content/characters/goku-black.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 76
+   },
+   {
+    "path": "content/characters/goku-daima-super-saiyan-4.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 67
+   },
+   {
+    "path": "content/characters/goku-gt-super-saiyan-3.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 68
+   },
+   {
+    "path": "content/characters/goku-gt-super-saiyan-4.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 72
+   },
+   {
+    "path": "content/characters/goku-gt-super-saiyan.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 79
+   },
+   {
+    "path": "content/characters/goku-gt.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 84
+   },
+   {
+    "path": "content/characters/goku-mini-super-saiyan-4.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 65
+   },
+   {
+    "path": "content/characters/goku-mini-super-saiyan.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 70
+   },
+   {
+    "path": "content/characters/goku-mini.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 71
+   },
+   {
+    "path": "content/characters/goku-super-super-saiyan-god-super-saiyan.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 63
+   },
+   {
+    "path": "content/characters/goku-super-super-saiyan-god.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 76
+   },
+   {
+    "path": "content/characters/goku-super-super-saiyan.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 79
+   },
+   {
+    "path": "content/characters/goku-super-ultra-instinct-sign.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 82
+   },
+   {
+    "path": "content/characters/goku-super-ultra-instinct.md",
+    "dp": 9,
+    "dp_line": 7,
+    "confidence_line": 74
+   },
+   {
+    "path": "content/characters/goku-super.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 102
+   },
+   {
+    "path": "content/characters/goku-teen.md",
+    "dp": 3,
+    "dp_line": 7,
+    "confidence_line": 75
+   },
+   {
+    "path": "content/characters/goku-z-early.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 78
+   },
+   {
+    "path": "content/characters/goku-z-end-super-saiyan-2.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 74
+   },
+   {
+    "path": "content/characters/goku-z-end-super-saiyan-3.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/goku-z-end-super-saiyan.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 77
+   },
+   {
+    "path": "content/characters/goku-z-end.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 89
+   },
+   {
+    "path": "content/characters/goku-z-mid-super-saiyan.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 69
+   },
+   {
+    "path": "content/characters/goku-z-mid.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 70
+   },
+   {
+    "path": "content/characters/golden-frieza.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 75
+   },
+   {
+    "path": "content/characters/goten-super-saiyan.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 77
+   },
+   {
+    "path": "content/characters/goten.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 84
+   },
+   {
+    "path": "content/characters/gotenks-super-saiyan-3.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/gotenks-super-saiyan.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 76
+   },
+   {
+    "path": "content/characters/gotenks.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/great-ape-baby-gt.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 70
+   },
+   {
+    "path": "content/characters/great-ape-vegeta.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/great-saiyaman.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 67
+   },
+   {
+    "path": "content/characters/guldo.md",
+    "dp": 2,
+    "dp_line": 7,
+    "confidence_line": 74
+   },
+   {
+    "path": "content/characters/hirudegarn.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 66
+   },
+   {
+    "path": "content/characters/hit.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 67
+   },
+   {
+    "path": "content/characters/janemba.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 81
+   },
+   {
+    "path": "content/characters/jeice.md",
+    "dp": 3,
+    "dp_line": 7,
+    "confidence_line": 68
+   },
+   {
+    "path": "content/characters/jiren-full-power.md",
+    "dp": 9,
+    "dp_line": 7,
+    "confidence_line": 72
+   },
+   {
+    "path": "content/characters/jiren.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 77
+   },
+   {
+    "path": "content/characters/kakunsa.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 71
+   },
+   {
+    "path": "content/characters/kale-super-saiyan-berserk.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 77
+   },
+   {
+    "path": "content/characters/kale-super-saiyan.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 65
+   },
+   {
+    "path": "content/characters/kale.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 91
+   },
+   {
+    "path": "content/characters/kefla-super-saiyan-2.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/kefla-super-saiyan.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/kefla.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 77
+   },
+   {
+    "path": "content/characters/kid-buu.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 70
+   },
+   {
+    "path": "content/characters/king-cold.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 62
+   },
+   {
+    "path": "content/characters/krillin.md",
+    "dp": 3,
+    "dp_line": 7,
+    "confidence_line": 60
+   },
+   {
+    "path": "content/characters/lord-slug-giant-form.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 62
+   },
+   {
+    "path": "content/characters/lord-slug.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 69
+   },
+   {
+    "path": "content/characters/majin-buu-evil.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 72
+   },
+   {
+    "path": "content/characters/majin-buu.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 72
+   },
+   {
+    "path": "content/characters/majin-duu.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 68
+   },
+   {
+    "path": "content/characters/majin-kuu.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 67
+   },
+   {
+    "path": "content/characters/majin-vegeta.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 78
+   },
+   {
+    "path": "content/characters/majuub-gt.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 71
+   },
+   {
+    "path": "content/characters/master-roshi-max-power.md",
+    "dp": 2,
+    "dp_line": 7,
+    "confidence_line": 72
+   },
+   {
+    "path": "content/characters/master-roshi.md",
+    "dp": 2,
+    "dp_line": 7,
+    "confidence_line": 78
+   },
+   {
+    "path": "content/characters/mecha-frieza.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 67
+   },
+   {
+    "path": "content/characters/metal-cooler.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 70
+   },
+   {
+    "path": "content/characters/mr-satan.md",
+    "dp": 1,
+    "dp_line": 7,
+    "confidence_line": 76
+   },
+   {
+    "path": "content/characters/nail.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 67
+   },
+   {
+    "path": "content/characters/nappa.md",
+    "dp": 3,
+    "dp_line": 7,
+    "confidence_line": 63
+   },
+   {
+    "path": "content/characters/omega-shenron-gt.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 74
+   },
+   {
+    "path": "content/characters/orange-piccolo-giant-form.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 80
+   },
+   {
+    "path": "content/characters/orange-piccolo.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 86
+   },
+   {
+    "path": "content/characters/pan-gt.md",
+    "dp": 3,
+    "dp_line": 7,
+    "confidence_line": 71
+   },
+   {
+    "path": "content/characters/panzy.md",
+    "dp": 2,
+    "dp_line": 7,
+    "confidence_line": 72
+   },
+   {
+    "path": "content/characters/perfect-cell.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 65
+   },
+   {
+    "path": "content/characters/piccolo-fused-with-kami.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 70
+   },
+   {
+    "path": "content/characters/piccolo-super-hero-power-awakening.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/piccolo-super-hero.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 71
+   },
+   {
+    "path": "content/characters/piccolo.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 75
+   },
+   {
+    "path": "content/characters/raditz.md",
+    "dp": 3,
+    "dp_line": 7,
+    "confidence_line": 74
+   },
+   {
+    "path": "content/characters/recoome.md",
+    "dp": 3,
+    "dp_line": 7,
+    "confidence_line": 71
+   },
+   {
+    "path": "content/characters/ribrianne.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 75
+   },
+   {
+    "path": "content/characters/roasie.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 64
+   },
+   {
+    "path": "content/characters/saibaman.md",
+    "dp": 2,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/shallot.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 62
+   },
+   {
+    "path": "content/characters/spopovich.md",
+    "dp": 2,
+    "dp_line": 7,
+    "confidence_line": 71
+   },
+   {
+    "path": "content/characters/super-baby-1-gt.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 69
+   },
+   {
+    "path": "content/characters/super-baby-2-gt.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 77
+   },
+   {
+    "path": "content/characters/super-buu-gohan-absorbed.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 65
+   },
+   {
+    "path": "content/characters/super-buu-gotenks-absorbed.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 72
+   },
+   {
+    "path": "content/characters/super-buu.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 88
+   },
+   {
+    "path": "content/characters/super-garlic-jr.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 76
+   },
+   {
+    "path": "content/characters/super-gogeta-z.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 69
+   },
+   {
+    "path": "content/characters/super-janemba.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 75
+   },
+   {
+    "path": "content/characters/super-trunks.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 74
+   },
+   {
+    "path": "content/characters/super-vegeta.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/super-vegito.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 79
+   },
+   {
+    "path": "content/characters/super-zarbon.md",
+    "dp": 3,
+    "dp_line": 7,
+    "confidence_line": 74
+   },
+   {
+    "path": "content/characters/syn-shenron-gt.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/tapion.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 69
+   },
+   {
+    "path": "content/characters/third-eye-gomah.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 65
+   },
+   {
+    "path": "content/characters/tien.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 76
+   },
+   {
+    "path": "content/characters/toppo-god-of-destruction.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 70
+   },
+   {
+    "path": "content/characters/toppo.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 75
+   },
+   {
+    "path": "content/characters/trunks-kid-super-saiyan.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 82
+   },
+   {
+    "path": "content/characters/trunks-kid.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 84
+   },
+   {
+    "path": "content/characters/trunks-melee-super-saiyan.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/trunks-melee.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/trunks-sword-super-saiyan.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 68
+   },
+   {
+    "path": "content/characters/trunks-sword.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 76
+   },
+   {
+    "path": "content/characters/turles.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 66
+   },
+   {
+    "path": "content/characters/ultimate-gohan-super-hero.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 70
+   },
+   {
+    "path": "content/characters/ultimate-gohan.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/uub-gt.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 75
+   },
+   {
+    "path": "content/characters/vegeta-daima-super-saiyan-3.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 64
+   },
+   {
+    "path": "content/characters/vegeta-gt-super-saiyan-4.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/vegeta-mini-super-saiyan-2.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 70
+   },
+   {
+    "path": "content/characters/vegeta-mini-super-saiyan-3.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 67
+   },
+   {
+    "path": "content/characters/vegeta-mini-super-saiyan.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 69
+   },
+   {
+    "path": "content/characters/vegeta-mini.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 80
+   },
+   {
+    "path": "content/characters/vegeta-super-super-saiyan-god-super-saiyan.md",
+    "dp": 8,
+    "dp_line": 7,
+    "confidence_line": 70
+   },
+   {
+    "path": "content/characters/vegeta-super-super-saiyan-god.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 78
+   },
+   {
+    "path": "content/characters/vegeta-super-super-saiyan.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 81
+   },
+   {
+    "path": "content/characters/vegeta-super.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 103
+   },
+   {
+    "path": "content/characters/vegeta-z-early-super-saiyan.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 79
+   },
+   {
+    "path": "content/characters/vegeta-z-early.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/vegeta-z-end-super-saiyan-2.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 65
+   },
+   {
+    "path": "content/characters/vegeta-z-end-super-saiyan.md",
+    "dp": 6,
+    "dp_line": 7,
+    "confidence_line": 69
+   },
+   {
+    "path": "content/characters/vegeta-z-end.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 81
+   },
+   {
+    "path": "content/characters/vegeta-z-scouter.md",
+    "dp": 4,
+    "dp_line": 7,
+    "confidence_line": 74
+   },
+   {
+    "path": "content/characters/vegito-super-saiyan-god-super-saiyan.md",
+    "dp": 10,
+    "dp_line": 7,
+    "confidence_line": 67
+   },
+   {
+    "path": "content/characters/vegito.md",
+    "dp": 7,
+    "dp_line": 7,
+    "confidence_line": 75
+   },
+   {
+    "path": "content/characters/videl.md",
+    "dp": 2,
+    "dp_line": 7,
+    "confidence_line": 78
+   },
+   {
+    "path": "content/characters/whis.md",
+    "dp": 10,
+    "dp_line": 7,
+    "confidence_line": 73
+   },
+   {
+    "path": "content/characters/yajirobe.md",
+    "dp": 2,
+    "dp_line": 7,
+    "confidence_line": 78
+   },
+   {
+    "path": "content/characters/yamcha.md",
+    "dp": 3,
+    "dp_line": 7,
+    "confidence_line": 74
+   },
+   {
+    "path": "content/characters/zamasu.md",
+    "dp": 5,
+    "dp_line": 7,
+    "confidence_line": 77
+   },
+   {
+    "path": "content/characters/zarbon.md",
+    "dp": 3,
+    "dp_line": 7,
+    "confidence_line": 77
+   }
+  ]
+ },
+ "datamined_tf_with_dp": {
+  "count": 163,
+  "total_transformations": 164,
+  "examples": [
+   {
+    "path": "content/transformations/android-13-to-fusion-android-13.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/baby-vegeta-gt-to-super-baby-1-gt.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/bojack-to-full-power-bojack.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/broly-super-super-saiyan-to-broly-super-super-saiyan-full-power.md",
+    "dpFrom": 7,
+    "dpTo": 9,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/broly-super-to-broly-super-super-saiyan-full-power.md",
+    "dpFrom": 5,
+    "dpTo": 9,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/broly-super-to-broly-super-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/broly-z-super-saiyan-to-broly-z-legendary-super-saiyan.md",
+    "dpFrom": 7,
+    "dpTo": 9,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/broly-z-to-broly-z-legendary-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 9,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/broly-z-to-broly-z-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/cabba-super-saiyan-to-cabba-super-saiyan-2.md",
+    "dpFrom": 6,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/cabba-to-cabba-super-saiyan-2.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/cabba-to-cabba-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/caulifla-to-caulifla-super-saiyan-2.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/caulifla-to-kefla-super-saiyan-2.md",
+    "dpFrom": 5,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/caulifla-to-kefla-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/caulifla-to-kefla.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/cell-1st-form-to-cell-2nd-form.md",
+    "dpFrom": 5,
+    "dpTo": 5,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/cell-2nd-form-to-cell-perfect-form.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/cooler-to-cooler-final-form.md",
+    "dpFrom": 6,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/frieza-super-to-golden-frieza.md",
+    "dpFrom": 6,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/frieza-z-1st-form-to-frieza-z-2nd-form.md",
+    "dpFrom": 5,
+    "dpTo": 5,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/frieza-z-2nd-form-to-frieza-z-3rd-form.md",
+    "dpFrom": 5,
+    "dpTo": 5,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/frieza-z-3rd-form-to-frieza-z-4th-form.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/frieza-z-4th-form-to-frieza-z-full-power.md",
+    "dpFrom": 6,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/fused-zamasu-to-fused-zamasu-half-corrupted.md",
+    "dpFrom": 8,
+    "dpTo": 9,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/future-trunks-to-future-trunks-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/gogeta-super-super-saiyan-to-gogeta-super-super-saiyan-god-super-saiyan.md",
+    "dpFrom": 8,
+    "dpTo": 10,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/gogeta-super-to-gogeta-super-super-saiyan-god-super-saiyan.md",
+    "dpFrom": 7,
+    "dpTo": 10,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/gogeta-super-to-gogeta-super-super-saiyan.md",
+    "dpFrom": 7,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/gohan-adult-super-saiyan-to-gohan-adult-super-saiyan-2.md",
+    "dpFrom": 6,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/gohan-adult-to-gohan-adult-super-saiyan-2.md",
+    "dpFrom": 4,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/gohan-adult-to-gohan-adult-super-saiyan.md",
+    "dpFrom": 4,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/gohan-adult-to-great-saiyaman.md",
+    "dpFrom": 4,
+    "dpTo": 4,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/gohan-future-to-gohan-future-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/gohan-super-hero-super-saiyan-to-ultimate-gohan-super-hero.md",
+    "dpFrom": 6,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/gohan-super-hero-to-gohan-super-hero-super-saiyan.md",
+    "dpFrom": 4,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/gohan-super-hero-to-ultimate-gohan-super-hero.md",
+    "dpFrom": 4,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/gohan-teen-super-saiyan-to-gohan-teen-super-saiyan-2.md",
+    "dpFrom": 6,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/gohan-teen-to-gohan-teen-super-saiyan-2.md",
+    "dpFrom": 4,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/gohan-teen-to-gohan-teen-super-saiyan.md",
+    "dpFrom": 4,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-black-super-saiyan-ros-to-fused-zamasu.md",
+    "dpFrom": 8,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-black-to-goku-black-super-saiyan-ros.md",
+    "dpFrom": 5,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-gt-super-saiyan-3-to-goku-gt-super-saiyan-4.md",
+    "dpFrom": 7,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-gt-super-saiyan-4-to-gogeta-gt-super-saiyan-4.md",
+    "dpFrom": 8,
+    "dpTo": 10,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-gt-super-saiyan-4-to-goku-gt.md",
+    "dpFrom": 8,
+    "dpTo": 5,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-gt-super-saiyan-to-goku-gt-super-saiyan-3.md",
+    "dpFrom": 6,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-gt-super-saiyan-to-goku-gt-super-saiyan-4.md",
+    "dpFrom": 6,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-gt-to-goku-gt-super-saiyan-3.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-gt-to-goku-gt-super-saiyan-4.md",
+    "dpFrom": 5,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-gt-to-goku-gt-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-mini-super-saiyan-to-goku-mini-super-saiyan-4.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-mini-to-goku-mini-super-saiyan.md",
+    "dpFrom": 4,
+    "dpTo": 5,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-super-super-saiyan-god-to-goku-super-super-saiyan-god-super-saiyan.md",
+    "dpFrom": 7,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-super-super-saiyan-god-to-goku-super.md",
+    "dpFrom": 7,
+    "dpTo": 5,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-super-super-saiyan-to-goku-super-super-saiyan-god-super-saiyan.md",
+    "dpFrom": 6,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-super-super-saiyan-to-goku-super-super-saiyan-god.md",
+    "dpFrom": 6,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-super-to-gogeta-super-super-saiyan-god-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 10,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-super-to-gogeta-super-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-super-to-gogeta-super.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-super-to-goku-super-super-saiyan-god-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-super-to-goku-super-super-saiyan-god.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-super-to-goku-super-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-super-to-vegito-super-saiyan-god-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 10,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-super-to-vegito.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-super-ultra-instinct-sign-to-goku-super-ultra-instinct.md",
+    "dpFrom": 8,
+    "dpTo": 9,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-z-end-super-saiyan-2-to-goku-z-end-super-saiyan-3.md",
+    "dpFrom": 6,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-z-end-super-saiyan-to-goku-z-end-super-saiyan-2.md",
+    "dpFrom": 6,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-z-end-super-saiyan-to-goku-z-end-super-saiyan-3.md",
+    "dpFrom": 6,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-z-end-to-goku-z-end-super-saiyan-2.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-z-end-to-goku-z-end-super-saiyan-3.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-z-end-to-goku-z-end-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-z-end-to-super-gogeta-z.md",
+    "dpFrom": 5,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-z-end-to-super-vegito.md",
+    "dpFrom": 5,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-z-end-to-vegito.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goku-z-mid-to-goku-z-mid-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/golden-frieza-to-frieza-super.md",
+    "dpFrom": 8,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goten-super-saiyan-to-gotenks-super-saiyan-3.md",
+    "dpFrom": 5,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goten-super-saiyan-to-gotenks-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goten-super-saiyan-to-gotenks.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goten-to-goten-super-saiyan.md",
+    "dpFrom": 4,
+    "dpTo": 5,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goten-to-gotenks-super-saiyan-3.md",
+    "dpFrom": 4,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goten-to-gotenks-super-saiyan.md",
+    "dpFrom": 4,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/goten-to-gotenks.md",
+    "dpFrom": 4,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/gotenks-super-saiyan-to-gotenks-super-saiyan-3.md",
+    "dpFrom": 7,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/gotenks-to-gotenks-super-saiyan-3.md",
+    "dpFrom": 6,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/gotenks-to-gotenks-super-saiyan.md",
+    "dpFrom": 6,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/janemba-to-super-janemba.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/jiren-to-jiren-full-power.md",
+    "dpFrom": 8,
+    "dpTo": 9,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/kale-super-saiyan-to-kale.md",
+    "dpFrom": 6,
+    "dpTo": 5,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/kale-to-kale-super-saiyan-berserk.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/kale-to-kale-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/kale-to-kefla-super-saiyan-2.md",
+    "dpFrom": 5,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/kale-to-kefla-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/kale-to-kefla.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/kefla-super-saiyan-to-kefla-super-saiyan-2.md",
+    "dpFrom": 7,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/kefla-to-kefla-super-saiyan-2.md",
+    "dpFrom": 6,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/kefla-to-kefla-super-saiyan.md",
+    "dpFrom": 6,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/lord-slug-to-lord-slug-giant-form.md",
+    "dpFrom": 4,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/master-roshi-max-power-to-master-roshi.md",
+    "dpFrom": 2,
+    "dpTo": 2,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/master-roshi-to-master-roshi-max-power.md",
+    "dpFrom": 2,
+    "dpTo": 2,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/orange-piccolo-giant-form-to-orange-piccolo.md",
+    "dpFrom": 8,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/orange-piccolo-to-orange-piccolo-giant-form.md",
+    "dpFrom": 8,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/orange-piccolo-to-piccolo-super-hero.md",
+    "dpFrom": 8,
+    "dpTo": 5,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/piccolo-super-hero-power-awakening-to-orange-piccolo.md",
+    "dpFrom": 6,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/piccolo-super-hero-to-piccolo-super-hero-power-awakening.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/super-baby-1-gt-to-super-baby-2-gt.md",
+    "dpFrom": 6,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/super-baby-2-gt-to-great-ape-baby-gt.md",
+    "dpFrom": 7,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/super-buu-gotenks-absorbed-to-super-buu-gohan-absorbed.md",
+    "dpFrom": 7,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/super-buu-to-super-buu-gohan-absorbed.md",
+    "dpFrom": 6,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/super-buu-to-super-buu-gotenks-absorbed.md",
+    "dpFrom": 6,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/super-trunks-to-trunks-melee.md",
+    "dpFrom": 6,
+    "dpTo": 5,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/super-vegeta-to-vegeta-z-early.md",
+    "dpFrom": 6,
+    "dpTo": 5,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/super-vegito-to-vegito-super-saiyan-god-super-saiyan.md",
+    "dpFrom": 8,
+    "dpTo": 10,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/super-zarbon-to-zarbon.md",
+    "dpFrom": 3,
+    "dpTo": 3,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/syn-shenron-gt-to-omega-shenron-gt.md",
+    "dpFrom": 7,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/third-eye-gomah-to-giant-gomah.md",
+    "dpFrom": 7,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/toppo-to-toppo-god-of-destruction.md",
+    "dpFrom": 7,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/trunks-kid-super-saiyan-to-gotenks-super-saiyan-3.md",
+    "dpFrom": 5,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/trunks-kid-super-saiyan-to-gotenks-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/trunks-kid-super-saiyan-to-gotenks.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/trunks-kid-to-gotenks-super-saiyan-3.md",
+    "dpFrom": 4,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/trunks-kid-to-gotenks-super-saiyan.md",
+    "dpFrom": 4,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/trunks-kid-to-gotenks.md",
+    "dpFrom": 4,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/trunks-kid-to-trunks-kid-super-saiyan.md",
+    "dpFrom": 4,
+    "dpTo": 5,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/trunks-melee-super-saiyan-to-super-trunks.md",
+    "dpFrom": 6,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/trunks-melee-to-super-trunks.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/trunks-melee-to-trunks-melee-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/trunks-sword-to-trunks-sword-super-saiyan.md",
+    "dpFrom": 4,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/ultimate-gohan-super-hero-to-gohan-beast.md",
+    "dpFrom": 8,
+    "dpTo": 9,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/uub-gt-to-majuub-gt.md",
+    "dpFrom": 4,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-gt-super-saiyan-4-to-gogeta-gt-super-saiyan-4.md",
+    "dpFrom": 8,
+    "dpTo": 10,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-mini-super-saiyan-2-to-vegeta-mini-super-saiyan-3.md",
+    "dpFrom": 6,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-mini-super-saiyan-to-vegeta-mini-super-saiyan-2.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-mini-super-saiyan-to-vegeta-mini-super-saiyan-3.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-mini-to-vegeta-mini-super-saiyan-2.md",
+    "dpFrom": 4,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-mini-to-vegeta-mini-super-saiyan-3.md",
+    "dpFrom": 4,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-mini-to-vegeta-mini-super-saiyan.md",
+    "dpFrom": 4,
+    "dpTo": 5,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-super-super-saiyan-god-to-vegeta-super-super-saiyan-god-super-saiyan.md",
+    "dpFrom": 7,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-super-super-saiyan-god-to-vegeta-super.md",
+    "dpFrom": 7,
+    "dpTo": 5,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-super-super-saiyan-to-vegeta-super-super-saiyan-god-super-saiyan.md",
+    "dpFrom": 6,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-super-super-saiyan-to-vegeta-super-super-saiyan-god.md",
+    "dpFrom": 6,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-super-to-gogeta-super-super-saiyan-god-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 10,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-super-to-gogeta-super-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-super-to-gogeta-super.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-super-to-vegeta-super-super-saiyan-god-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-super-to-vegeta-super-super-saiyan-god.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-super-to-vegeta-super-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-super-to-vegito-super-saiyan-god-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 10,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-super-to-vegito.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-z-early-super-saiyan-to-super-vegeta.md",
+    "dpFrom": 6,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-z-early-to-super-vegeta.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-z-early-to-vegeta-z-early-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-z-end-super-saiyan-to-vegeta-z-end-super-saiyan-2.md",
+    "dpFrom": 6,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-z-end-to-super-gogeta-z.md",
+    "dpFrom": 5,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-z-end-to-super-vegito.md",
+    "dpFrom": 5,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-z-end-to-vegeta-z-end-super-saiyan-2.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-z-end-to-vegeta-z-end-super-saiyan.md",
+    "dpFrom": 5,
+    "dpTo": 6,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-z-end-to-vegito.md",
+    "dpFrom": 5,
+    "dpTo": 7,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegeta-z-scouter-to-great-ape-vegeta.md",
+    "dpFrom": 4,
+    "dpTo": 5,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegito-to-super-vegito.md",
+    "dpFrom": 7,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/vegito-to-vegito-super-saiyan-god-super-saiyan.md",
+    "dpFrom": 7,
+    "dpTo": 10,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/zamasu-to-fused-zamasu.md",
+    "dpFrom": 5,
+    "dpTo": 8,
+    "line": 10
+   },
+   {
+    "path": "content/transformations/zarbon-to-super-zarbon.md",
+    "dpFrom": 3,
+    "dpTo": 3,
+    "line": 10
+   }
+  ]
+ },
+ "datamined_char_with_movedamage": {
+  "count": 68,
+  "examples": [
+   {
+    "path": "content/characters/android-19.md",
+    "moves_with_damage": 1
+   },
+   {
+    "path": "content/characters/broly-super-super-saiyan-full-power.md",
+    "moves_with_damage": 1
+   },
+   {
+    "path": "content/characters/cell-1st-form.md",
+    "moves_with_damage": 1
+   },
+   {
+    "path": "content/characters/cell-2nd-form.md",
+    "moves_with_damage": 1
+   },
+   {
+    "path": "content/characters/cell-max.md",
+    "moves_with_damage": 1
+   },
+   {
+    "path": "content/characters/dodoria.md",
+    "moves_with_damage": 1
+   },
+   {
+    "path": "content/characters/dr-gero.md",
+    "moves_with_damage": 1
+   },
+   {
+    "path": "content/characters/dr-wheelo.md",
+    "moves_with_damage": 3
+   },
+   {
+    "path": "content/characters/frieza-force-soldier.md",
+    "moves_with_damage": 1
+   },
+   {
+    "path": "content/characters/frieza-super.md",
+    "moves_with_damage": 1
+   },
+   {
+    "path": "content/characters/frieza-z-4th-form.md",
+    "moves_with_damage": 1
+   },
+   {
+    "path": "content/characters/frieza-z-full-power.md",
+    "moves_with_damage": 2
+   },
+   {
+    "path": "content/characters/fused-zamasu.md",
+    "moves_with_damage": 1
+   },
+   {
+    "path": "content/characters/future-trunks-super-saiyan.md",
+    "moves_with_damage": 1
+   },
+   {
+    "path": "content/characters/giant-gomah.md",
+    "moves_with_damage": 2
+   }
+  ]
+ },
+ "datamined_blast_no_damage": {
+  "datamined_total": 453,
+  "all_classdefault": 373
+ },
+ "enum_violations": [],
+ "numeric": {
+  "hp_distribution_frontmatter": {
+   "30000": 9,
+   "35000": 15,
+   "40000": 150,
+   "45000": 16
+  },
+  "hp_distribution_expected": {
+   "30000": 9,
+   "35000": 14,
+   "40000": 147,
+   "45000": 16
+  },
+  "hp_bad": [],
+  "dp_bad": [],
+  "move_ki_bad": [],
+  "super_out": [
+   [
+    "content/characters/android-16.md",
+    "android-16",
+    "Hell Flash",
+    40000
+   ],
+   [
+    "content/characters/anilaza.md",
+    "anilaza",
+    "Warp Punch",
+    40000
+   ],
+   [
+    "content/characters/babidi.md",
+    "babidi",
+    "Ultimate Explosive Power",
+    40000
+   ],
+   [
+    "content/characters/broly-super-super-saiyan-full-power.md",
+    "broly-super-super-saiyan-full-power",
+    "Blaster Meteor",
+    40000
+   ],
+   [
+    "content/characters/broly-super.md",
+    "broly-super",
+    "Gigantic Crash",
+    40000
+   ],
+   [
+    "content/characters/broly-z-legendary-super-saiyan.md",
+    "broly-z-legendary-super-saiyan",
+    "Gigantic Hammer",
+    40000
+   ],
+   [
+    "content/characters/caulifla.md",
+    "caulifla",
+    "Super Explosive Wave",
+    40000
+   ],
+   [
+    "content/characters/cell-max.md",
+    "cell-max",
+    "Mighty Fist",
+    40000
+   ],
+   [
+    "content/characters/dodoria.md",
+    "dodoria",
+    "Dodoria Head Ram",
+    40000
+   ],
+   [
+    "content/characters/dr-wheelo.md",
+    "dr-wheelo",
+    "Gigantic Bomber",
+    40000
+   ],
+   [
+    "content/characters/frieza-super.md",
+    "frieza-super",
+    "Super Nova Strike",
+    40000
+   ],
+   [
+    "content/characters/frieza-z-2nd-form.md",
+    "frieza-z-2nd-form",
+    "Death Storm",
+    40000
+   ],
+   [
+    "content/characters/frieza-z-full-power.md",
+    "frieza-z-full-power",
+    "Nova Strike",
+    40000
+   ],
+   [
+    "content/characters/fusion-android-13.md",
+    "fusion-android-13",
+    "Super Explosive Wave",
+    40000
+   ],
+   [
+    "content/characters/future-trunks-super-saiyan.md",
+    "future-trunks-super-saiyan",
+    "Final Flash",
+    40000
+   ],
+   [
+    "content/characters/giant-gomah.md",
+    "giant-gomah",
+    "Magic Tempest",
+    40000
+   ],
+   [
+    "content/characters/gogeta-super.md",
+    "gogeta-super",
+    "Super Explosive Wave",
+    40000
+   ],
+   [
+    "content/characters/gohan-beast.md",
+    "gohan-beast",
+    "Explosive Flash",
+    40000
+   ],
+   [
+    "content/characters/gohan-future.md",
+    "gohan-future",
+    "Super Destructive Wave",
+    40000
+   ],
+   [
+    "content/characters/goku-black.md",
+    "goku-black",
+    "Black Bind",
+    40000
+   ],
+   [
+    "content/characters/goku-super-ultra-instinct.md",
+    "goku-super-ultra-instinct",
+    "Ultra Barrage",
+    40000
+   ],
+   [
+    "content/characters/great-saiyaman.md",
+    "great-saiyaman",
+    "Justice Bomber",
+    40000
+   ],
+   [
+    "content/characters/hirudegarn.md",
+    "hirudegarn",
+    "Super Explosive Wave",
+    40000
+   ],
+   [
+    "content/characters/hit.md",
+    "hit",
+    "Time Skip/Jump Spike",
+    40000
+   ],
+   [
+    "content/characters/jiren-full-power.md",
+    "jiren-full-power",
+    "Overheating Blast",
+    40000
+   ],
+   [
+    "content/characters/kakunsa.md",
+    "kakunsa",
+    "Primal Charge",
+    40000
+   ],
+   [
+    "content/characters/kale-super-saiyan.md",
+    "kale-super-saiyan",
+    "Super Explosive Wave",
+    40000
+   ],
+   [
+    "content/characters/king-cold.md",
+    "king-cold",
+    "Super Explosive Wave",
+    40000
+   ],
+   [
+    "content/characters/lord-slug-giant-form.md",
+    "lord-slug-giant-form",
+    "Super Explosive Wave",
+    40000
+   ],
+   [
+    "content/characters/majin-duu.md",
+    "majin-duu",
+    "Rolling Attack",
+    40000
+   ],
+   [
+    "content/characters/majin-kuu.md",
+    "majin-kuu",
+    "Majin Corkscrew Attack",
+    40000
+   ],
+   [
+    "content/characters/majuub-gt.md",
+    "majuub-gt",
+    "Majin Beam",
+    40000
+   ],
+   [
+    "content/characters/master-roshi.md",
+    "master-roshi",
+    "Thunder Shock Surprise",
+    40000
+   ],
+   [
+    "content/characters/metal-cooler.md",
+    "metal-cooler",
+    "Lock-On Buster",
+    40000
+   ],
+   [
+    "content/characters/mr-satan.md",
+    "mr-satan",
+    "Present Bomb",
+    40000
+   ],
+   [
+    "content/characters/nail.md",
+    "nail",
+    "Super Destructive Wave",
+    40000
+   ],
+   [
+    "content/characters/nappa.md",
+    "nappa",
+    "Volcano Explosion",
+    40000
+   ],
+   [
+    "content/characters/omega-shenron-gt.md",
+    "omega-shenron-gt",
+    "Gigantic Blaze",
+    40000
+   ],
+   [
+    "content/characters/orange-piccolo-giant-form.md",
+    "orange-piccolo-giant-form",
+    "Mighty Fist",
+    40000
+   ],
+   [
+    "content/characters/panzy.md",
+    "panzy",
+    "Last Chance Shock",
+    40000
+   ],
+   [
+    "content/characters/ribrianne.md",
+    "ribrianne",
+    "Maiden's Charge",
+    40000
+   ],
+   [
+    "content/characters/spopovich.md",
+    "spopovich",
+    "Berserker Crash",
+    40000
+   ],
+   [
+    "content/characters/super-buu-gohan-absorbed.md",
+    "super-buu-gohan-absorbed",
+    "Majin Beam",
+    40000
+   ],
+   [
+    "content/characters/super-buu.md",
+    "super-buu",
+    "Majin Beam",
+    40000
+   ],
+   [
+    "content/characters/super-garlic-jr.md",
+    "super-garlic-jr",
+    "Darkness Illusion",
+    40000
+   ],
+   [
+    "content/characters/super-gogeta-z.md",
+    "super-gogeta-z",
+    "Punisher Drive",
+    40000
+   ],
+   [
+    "content/characters/super-vegito.md",
+    "super-vegito",
+    "Final Kamehameha",
+    40000
+   ],
+   [
+    "content/characters/vegeta-daima-super-saiyan-3.md",
+    "vegeta-daima-super-saiyan-3",
+    "Spirit Breaker",
+    40000
+   ],
+   [
+    "content/characters/yajirobe.md",
+    "yajirobe",
+    "Ka-Blam Attack",
+    40000
+   ],
+   [
+    "content/blasts/berserker-crash-super.md",
+    "berserker-crash-super",
+    "Spopovich",
+    40000
+   ],
+   [
+    "content/blasts/black-bind-super.md",
+    "black-bind-super",
+    "Goku Black",
+    40000
+   ],
+   [
+    "content/blasts/blaster-meteor-super.md",
+    "blaster-meteor-super",
+    "Broly (Super)",
+    40000
+   ],
+   [
+    "content/blasts/darkness-illusion-super.md",
+    "darkness-illusion-super",
+    "Super Garlic Jr.",
+    40000
+   ],
+   [
+    "content/blasts/death-storm-super.md",
+    "death-storm-super",
+    "Frieza (Z)",
+    40000
+   ],
+   [
+    "content/blasts/dodoria-head-ram-super.md",
+    "dodoria-head-ram-super",
+    "Dodoria",
+    40000
+   ],
+   [
+    "content/blasts/explosive-flash-super.md",
+    "explosive-flash-super",
+    "Gohan Beast",
+    40000
+   ],
+   [
+    "content/blasts/final-flash-super.md",
+    "final-flash-super",
+    "Future Trunks",
+    40000
+   ],
+   [
+    "content/blasts/final-kamehameha-super.md",
+    "final-kamehameha-super",
+    "Super Vegito",
+    40000
+   ],
+   [
+    "content/blasts/gigantic-blaze-super.md",
+    "gigantic-blaze-super",
+    "Omega Shenron (GT)",
+    40000
+   ],
+   [
+    "content/blasts/gigantic-bomber-super.md",
+    "gigantic-bomber-super",
+    "Dr. Wheelo",
+    40000
+   ],
+   [
+    "content/blasts/gigantic-crash-super.md",
+    "gigantic-crash-super",
+    "Broly (Super)",
+    40000
+   ],
+   [
+    "content/blasts/gigantic-hammer-super.md",
+    "gigantic-hammer-super",
+    "Broly (Z)",
+    40000
+   ],
+   [
+    "content/blasts/hell-flash-super.md",
+    "hell-flash-super",
+    "Android 16",
+    40000
+   ],
+   [
+    "content/blasts/justice-bomber-super.md",
+    "justice-bomber-super",
+    "Great Saiyaman",
+    40000
+   ],
+   [
+    "content/blasts/ka-blam-attack-super.md",
+    "ka-blam-attack-super",
+    "Yajirobe",
+    40000
+   ],
+   [
+    "content/blasts/last-chance-shock-super.md",
+    "last-chance-shock-super",
+    "Panzy",
+    40000
+   ],
+   [
+    "content/blasts/lock-on-buster-super.md",
+    "lock-on-buster-super",
+    "Metal Cooler",
+    40000
+   ],
+   [
+    "content/blasts/magic-tempest-super.md",
+    "magic-tempest-super",
+    "Giant Gomah",
+    40000
+   ],
+   [
+    "content/blasts/maidens-charge-super.md",
+    "maidens-charge-super",
+    "Ribrianne",
+    40000
+   ],
+   [
+    "content/blasts/majin-beam-super.md",
+    "majin-beam-super",
+    "Majuub (GT)",
+    40000
+   ],
+   [
+    "content/blasts/majin-beam-super.md",
+    "majin-beam-super",
+    "Super Buu",
+    40000
+   ],
+   [
+    "content/blasts/majin-beam-super.md",
+    "majin-beam-super",
+    "Super Buu",
+    40000
+   ],
+   [
+    "content/blasts/majin-corkscrew-attack-super.md",
+    "majin-corkscrew-attack-super",
+    "Majin Kuu",
+    40000
+   ],
+   [
+    "content/blasts/mighty-fist-super.md",
+    "mighty-fist-super",
+    "Cell Max",
+    40000
+   ],
+   [
+    "content/blasts/mighty-fist-super.md",
+    "mighty-fist-super",
+    "Orange Piccolo",
+    40000
+   ],
+   [
+    "content/blasts/nova-strike-super.md",
+    "nova-strike-super",
+    "Frieza (Z)",
+    40000
+   ],
+   [
+    "content/blasts/overheating-blast-super.md",
+    "overheating-blast-super",
+    "Jiren",
+    40000
+   ],
+   [
+    "content/blasts/present-bomb-super.md",
+    "present-bomb-super",
+    "Mr. Satan",
+    40000
+   ],
+   [
+    "content/blasts/primal-charge-super.md",
+    "primal-charge-super",
+    "Kakunsa",
+    40000
+   ],
+   [
+    "content/blasts/punisher-drive-super.md",
+    "punisher-drive-super",
+    "Super Gogeta (Z) ",
+    40000
+   ],
+   [
+    "content/blasts/rolling-attack-super.md",
+    "rolling-attack-super",
+    "Majin Duu",
+    40000
+   ],
+   [
+    "content/blasts/spirit-breaker-super.md",
+    "spirit-breaker-super",
+    "Vegeta (DAIMA)",
+    40000
+   ],
+   [
+    "content/blasts/super-destructive-wave-super.md",
+    "super-destructive-wave-super",
+    "Gohan (Future)",
+    40000
+   ],
+   [
+    "content/blasts/super-destructive-wave-super.md",
+    "super-destructive-wave-super",
+    "Nail",
+    40000
+   ],
+   [
+    "content/blasts/super-explosive-wave-super.md",
+    "super-explosive-wave-super",
+    "Caulifla",
+    40000
+   ],
+   [
+    "content/blasts/super-explosive-wave-super.md",
+    "super-explosive-wave-super",
+    "Fusion Android 13",
+    40000
+   ],
+   [
+    "content/blasts/super-explosive-wave-super.md",
+    "super-explosive-wave-super",
+    "Gogeta (Super)",
+    40000
+   ],
+   [
+    "content/blasts/super-explosive-wave-super.md",
+    "super-explosive-wave-super",
+    "Hirudegarn",
+    40000
+   ],
+   [
+    "content/blasts/super-explosive-wave-super.md",
+    "super-explosive-wave-super",
+    "Kale",
+    40000
+   ],
+   [
+    "content/blasts/super-explosive-wave-super.md",
+    "super-explosive-wave-super",
+    "King Cold",
+    40000
+   ],
+   [
+    "content/blasts/super-explosive-wave-super.md",
+    "super-explosive-wave-super",
+    "Lord Slug",
+    40000
+   ],
+   [
+    "content/blasts/super-nova-strike-super.md",
+    "super-nova-strike-super",
+    "Frieza (Super)",
+    40000
+   ],
+   [
+    "content/blasts/thunder-shock-surprise-super.md",
+    "thunder-shock-surprise-super",
+    "Master Roshi",
+    40000
+   ],
+   [
+    "content/blasts/time-skip-jump-spike-super.md",
+    "time-skip-jump-spike-super",
+    "Hit",
+    40000
+   ],
+   [
+    "content/blasts/ultimate-explosive-power-super.md",
+    "ultimate-explosive-power-super",
+    "Babidi",
+    40000
+   ],
+   [
+    "content/blasts/ultra-barrage-super.md",
+    "ultra-barrage-super",
+    "Goku (Super)",
+    40000
+   ],
+   [
+    "content/blasts/volcano-explosion-super.md",
+    "volcano-explosion-super",
+    "Nappa",
+    40000
+   ],
+   [
+    "content/blasts/warp-punch-super.md",
+    "warp-punch-super",
+    "Anilaza",
+    40000
+   ]
+  ],
+  "ult_out": [],
+  "maxstock_bad": [],
+  "initstock_bad": [],
+  "gauge_bad": [],
+  "counts": {
+   "hp_bad": 0,
+   "dp_bad": 0,
+   "move_ki_bad": 0,
+   "super_out": 98,
+   "ult_out": 0,
+   "maxstock_bad": 0,
+   "initstock_bad": 0,
+   "gauge_bad": 0
+  }
+ },
+ "dates": {
+  "asOfVersion_dev": [],
+  "asOfDate_dev": [],
+  "stale": [],
+  "future": [],
+  "malformed": [],
+  "no_sources": [],
+  "datamined_no_gamebuild": [
+   [
+    "content/glossary/android-class.md",
+    [
+     "research/04-mechanics-frame-data.md \u00a72.3 / \u00a77 (android ki quirks, starting stocks, throw damage)"
+    ]
+   ],
+   [
+    "content/glossary/giant-class.md",
+    [
+     "research/04-mechanics-frame-data.md \u00a77 (giant Z-Burst 2 bars, grab-immune, May 2026 nerfs)",
+     "research/02-roster-dp-dlc.md \u00a76 (giant-class roster)",
+     "research/05-meta-pvp-tiers.md \u00a76 (giant lock nerfed)"
+    ]
+   ],
+   [
+    "content/glossary/ki-blast.md",
+    [
+     "research/04-mechanics-frame-data.md \u00a72.1 (ki blast 16-22% of a bar)",
+     "research/05-meta-pvp-tiers.md \u00a76 (Rush Ki Blast nerf May 2026)"
+    ]
+   ],
+   [
+    "content/glossary/skill-count.md",
+    [
+     "research/04-mechanics-frame-data.md \u00a74 (skill economy, ~14s regen, starting stocks)",
+     "content/mechanics/skill-count.md"
+    ]
+   ],
+   [
+    "content/glossary/smash-attack.md",
+    [
+     "research/04-mechanics-frame-data.md \u00a71.3 (melee ~2,275, rush-5 ~2,460, smash launcher)"
+    ]
+   ],
+   [
+    "content/glossary/super-armor.md",
+    [
+     "research/04-mechanics-frame-data.md \u00a77 (Power Body item: 4-5 hits to flinch, -12% def; armored rush takes ~7% less)",
+     "research/02-roster-dp-dlc.md \u00a76 (super armor on heavies)"
+    ]
+   ]
+  ],
+  "no_lastVerified": []
+ },
+ "dates_counts": {
+  "asOfVersion_dev": 0,
+  "asOfDate_dev": 0,
+  "stale": 0,
+  "future": 0,
+  "malformed": 0,
+  "no_sources": 0,
+  "datamined_no_gamebuild": 6,
+  "no_lastVerified": 0
+ },
+ "duplicates": {
+  "slug_dupe": [],
+  "name_dupe": [
+   [
+    "blasts",
+    "Big Bang Attack",
+    [
+     "big-bang-attack-super",
+     "big-bang-attack-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Big Bang Kamehameha",
+    [
+     "big-bang-kamehameha-super",
+     "big-bang-kamehameha-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Black Kamehameha",
+    [
+     "black-kamehameha-super",
+     "black-kamehameha-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Chain Destructo Disc",
+    [
+     "chain-destructo-disc-super",
+     "chain-destructo-disc-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Dragon Fist",
+    [
+     "dragon-fist-super",
+     "dragon-fist-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Drain Life Cell",
+    [
+     "drain-life-cell-super",
+     "drain-life-cell-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Elegant Blaster",
+    [
+     "elegant-blaster-super",
+     "elegant-blaster-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Eraser Cannon",
+    [
+     "eraser-cannon-super",
+     "eraser-cannon-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Fierce Combination",
+    [
+     "fierce-combination-super",
+     "fierce-combination-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Final Flash",
+    [
+     "final-flash-super",
+     "final-flash-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Finish Buster",
+    [
+     "finish-buster-super",
+     "finish-buster-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Galick Gun",
+    [
+     "galick-gun-super",
+     "galick-gun-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Galick Rage",
+    [
+     "galick-rage-super",
+     "galick-rage-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Gigantic Blaze",
+    [
+     "gigantic-blaze-super",
+     "gigantic-blaze-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Gigantic Flame",
+    [
+     "gigantic-flame-super",
+     "gigantic-flame-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Gigantic Impact",
+    [
+     "gigantic-impact-super",
+     "gigantic-impact-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Grand Smasher",
+    [
+     "grand-smasher-super",
+     "grand-smasher-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Instant Transmission Kamehameha",
+    [
+     "instant-transmission-kamehameha-super",
+     "instant-transmission-kamehameha-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Light Grenade",
+    [
+     "light-grenade-super",
+     "light-grenade-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Lightning Sword Slash",
+    [
+     "lightning-sword-slash-super",
+     "lightning-sword-slash-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Resistance Blast",
+    [
+     "resistance-blast-super",
+     "resistance-blast-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Rising Rush",
+    [
+     "rising-rush-super",
+     "rising-rush-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Special Beam Cannon",
+    [
+     "special-beam-cannon-super",
+     "special-beam-cannon-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "S.S. Deadly Bomber",
+    [
+     "ss-deadly-bomber-super",
+     "ss-deadly-bomber-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Super Explosive Wave",
+    [
+     "super-explosive-wave-super",
+     "super-explosive-wave-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Super Galick Cannon",
+    [
+     "super-galick-cannon-super",
+     "super-galick-cannon-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Super Galick Gun",
+    [
+     "super-galick-gun-super",
+     "super-galick-gun-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Super Kamehameha",
+    [
+     "super-kamehameha-super",
+     "super-kamehameha-ultimate"
+    ]
+   ],
+   [
+    "blasts",
+    "Victory Cannon",
+    [
+     "victory-cannon-super",
+     "victory-cannon-ultimate"
+    ]
+   ],
+   [
+    "characters",
+    "Goku (Super)",
+    [
+     "goku-super-0000-44",
+     "goku-super"
+    ]
+   ],
+   [
+    "characters",
+    "Vegeta (Super)",
+    [
+     "vegeta-super-0020-64",
+     "vegeta-super"
+    ]
+   ]
+  ],
+  "array_dupe": [
+   [
+    "content/stages/kame-house-tv-dimension.md",
+    "variants",
+    "Kame House TV Dimension",
+    2
+   ]
+  ]
+ },
+ "duplicates_counts": {
+  "slug_dupe": 0,
+  "name_dupe": 31,
+  "array_dupe": 1
+ },
+ "bodies": {
+  "blasts": {
+   "empty": 0,
+   "total": 453
+  },
+  "characters": {
+   "empty": 245,
+   "total": 245
+  },
+  "dlc": {
+   "empty": 0,
+   "total": 9
+  },
+  "episode-battles": {
+   "empty": 0,
+   "total": 8
+  },
+  "game-modes": {
+   "empty": 0,
+   "total": 12
+  },
+  "glossary": {
+   "empty": 0,
+   "total": 30
+  },
+  "guides": {
+   "empty": 0,
+   "total": 12
+  },
+  "mechanics": {
+   "empty": 0,
+   "total": 22
+  },
+  "patches": {
+   "empty": 0,
+   "total": 18
+  },
+  "shop": {
+   "empty": 0,
+   "total": 7
+  },
+  "skills": {
+   "empty": 0,
+   "total": 146
+  },
+  "stages": {
+   "empty": 0,
+   "total": 27
+  },
+  "transformations": {
+   "empty": 0,
+   "total": 164
+  }
+ },
+ "placeholders": [],
+ "misc": {
+  "char_no_playable": [],
+  "order_bad": [],
+  "blast_no_users": [],
+  "skill_count_no_users": [],
+  "skill_users_no_count": [
+   [
+    "content/skills/fury.md",
+    2
+   ]
+  ],
+  "blast_user_count_mismatch": []
+ },
+ "misc_counts": {
+  "char_no_playable": 0,
+  "order_bad": 0,
+  "blast_no_users": 0,
+  "skill_count_no_users": 0,
+  "skill_users_no_count": 1,
+  "blast_user_count_mismatch": 0
+ }
+}

@@ -1,0 +1,1392 @@
+{
+ "0500_00": {
+  "summary": "DP6 Z-villain bruiser; 40k HP, unblockable Evil Breath (1 stock) + Afterimage Strike (3 stock) defensive kit.",
+  "playstyle": "Unblockable-poke zoner",
+  "strengths": [
+   "Evil Breath S1 costs just 1 skill stock and is unblockable + no-auto-guard — a cheap chip/mix-up opener",
+   "Afterimage Strike (3 stock) gives a launch-era auto-dodge window for stalling pressure",
+   "Twin 30,000-ki supers (Evil Impulse, Evil Flame) plus 50,000-ki Dark Sword Strike ult give consistent finishers",
+   "Standard 40,000 HP and 1,750 ki recovery — no glaring durability hole"
+  ],
+  "weaknesses": [
+   "DP6 with no transform — fixed ceiling, no scaling payoff",
+   "Afterimage Strike now ends the moment you land a Super Counter (post-May-2026)",
+   "No mobility/teleport tool; outpaced by fusions and divine picks"
+  ],
+  "howToFight": "Bait Evil Breath on block — it is unblockable but slow, so sidestep with a vanish (≈half a ki bar) or dash. If Dabura pops Afterimage Strike, land one ~2f Super Counter to delete it instantly, then punish the 3-stock investment. He has no escape button, so corner him and keep your turn."
+ },
+ "0540_00": {
+  "summary": "DP2 fodder soldier; only 30,000 HP (lowest tier) and fast 8.0 ki-charge but no transform — pure DP-filler body.",
+  "playstyle": "Cheap throwaway body",
+  "strengths": [
+   "DP2 cost makes him near-free filler in a 15-DP team",
+   "Fast 8.0 ki-charge speed feeds his cheap 20,000-ki Energy Wave spam",
+   "Sleep S2 (4 stock) is a no-auto-guard status tool that can steal a turn",
+   "Life-Risking Blow! ult at 50,000 ki is a surprise burst from a 2-DP body"
+  ],
+  "weaknesses": [
+   "Rock-bottom 30,000 HP — dies to a single confirmed combo in DP scaling",
+   "Only 1,500 ki recovery; can't sustain pressure",
+   "No transform, no mobility tool, weak normals — a body, not a threat"
+  ],
+  "howToFight": "Treat him as free damage: he has 30,000 HP and folds to any Smash combo. Don't respect Sleep — block low or step it. There's nothing to fear defensively; just open him up and convert one full combo to remove the slot."
+ },
+ "0550_00": {
+  "summary": "DP5 Movie-Broly base; 40k HP, Wild Sense + Kakarottt! (4 stock) launcher, gateway to LSSJ via 3-stock transform.",
+  "playstyle": "Berserker base form",
+  "strengths": [
+   "Wild Sense S1 gives a free 1-hit auto-dodge counter (no stock cost)",
+   "Transforms straight to Legendary SS for 3 stocks, banking a +5,000 HP heal and a permanent attack buff in Singles",
+   "Kakarottt! (4 stock) is a no-auto-guard power-up that fuels the berserker ramp",
+   "High Speed Rush super at 30,000 ki (15,000 trigger) is a cheap speed-impact finisher"
+  ],
+  "weaknesses": [
+   "DP5 base is fragile relative to its payoff form — you want to evolve fast",
+   "Slow 1,500 ki recovery in base; transform is gated behind 3 stocks",
+   "Wild Sense was gutted Dec 2025 — no longer a mid-combo escape, just a 1-hit read"
+  ],
+  "howToFight": "Pressure him before he banks 3 stocks for Legendary SS — deny the transform window. Wild Sense is a 1-hit counter only now, so stagger your strings and bait it with a single hit, then punish. If he transforms, respect the new attack buff and play for vanish (≈half a ki bar) spacing rather than trading."
+ },
+ "0551_00": {
+  "summary": "DP7 Broly (Z) SS; 40k HP, Saiyan Spirit charge + Bloody Smash speed-impact super; 2-stock bridge to LSSJ.",
+  "playstyle": "Mid-form berserker",
+  "strengths": [
+   "Cheaper 2-stock transform to Legendary SS (vs 3 from base) with +5,000 HP heal",
+   "Saiyan Spirit S1 is a free charge/power tool (no stock)",
+   "Bloody Smash super at 30,000 ki (15,000 trigger) is a speed-impact catch",
+   "Kakarottt! (4 stock) no-auto-guard buff sustains the ramp"
+  ],
+  "weaknesses": [
+   "DP7 with still-40,000 HP — pricier than base but no tankier",
+   "An intermediate form; weaker than the LSSJ payoff you're aiming for",
+   "1,750 ki recovery is only average for the cost"
+  ],
+  "howToFight": "This is the in-between form — he is one 2-stock transform from S-tier LSSJ, so interrupt charging and keep him under 2 stocks. Trap Shooter (20,000 ki) is his ranged poke; vanish or guard it. Don't let him stockpile; whoever controls the meter controls the transform."
+ },
+ "0552_00": {
+  "summary": "DP9 berserker ceiling; 45k HP top tier, #3 Singles (150.6k)/29.1k DP, Gigantic Hammer 40k-ki + Omega Blaster ult.",
+  "playstyle": "Tanky S-tier berserker",
+  "strengths": [
+   "Top-bracket 45,000 HP plus heavy super-armor on Broly normals — eats hits and keeps swinging",
+   "Elite in BOTH modes: #3 Singles (150.6k) and 29.1k DP value — rare dual-meta pick",
+   "Gigantic Hammer super hits for 40,000 ki (only 20,000 trigger) as a speed-impact wall-carry",
+   "Permanent attack-increase buff from transforming into this form (May-2026 Singles rule) makes his damage terrifying late",
+   "50,000-ki Omega Blaster ult closes rounds from chip"
+  ],
+  "weaknesses": [
+   "DP9 is expensive and inefficient as a premium anchor (eats most of a 15-DP budget)",
+   "No teleport/Instant Transmission — mobility is brute-force dash only",
+   "Kakarottt! (4 stock) buff is no-auto-guard, leaving a punish window on activation"
+  ],
+  "howToFight": "Do not trade — his 45,000 HP and armor win every exchange. Use Perception (2 stock) and ~2f Super Counters to interrupt his armored strings rather than mashing into them. Keep him at range and bleed his ki so he can't fund Gigantic Hammer; vanish (≈half a ki bar) out of corner pressure immediately, because his permanent attack buff makes a single cornered combo lethal."
+ },
+ "0553_00": {
+  "summary": "DP5 Broly (Super) base; 40k HP, Going Berserk (4 stock) ramp, branches to SS or SS Full Power transforms.",
+  "playstyle": "Berserker base form",
+  "strengths": [
+   "Going Berserk S2 (4 stock) is the no-auto-guard ramp that sets up his power curve",
+   "Direct 3-stock transform to SS Full Power (the 45k-HP S-tier ceiling) with +5,000 HP heal",
+   "Gigantic Crash super at 40,000 ki (20,000 trigger) is a big speed-impact hit even in base",
+   "Full-Power Charge S1 builds meter for free"
+  ],
+  "weaknesses": [
+   "DP5 base is the weakest point of the line — you race to Full Power",
+   "Transform gated behind stock; vulnerable while charging",
+   "Average 1,750 ki recovery, no mobility tool"
+  ],
+  "howToFight": "Same plan as Z-Broly: deny the climb to SS Full Power by pressuring through his stock-building. Going Berserk is no-auto-guard, so punish the activation. Bait the lack of a defensive escape and keep your turn; he is far less dangerous before the 3-stock transform lands."
+ },
+ "0554_00": {
+  "summary": "DP7 Broly (Super) SS; 40k HP, Howl (4 stock) buff, Gigantic Rage speed-impact; 2-stock step to SS Full Power.",
+  "playstyle": "Mid-form armor bruiser",
+  "strengths": [
+   "Cheaper 2-stock transform to SS Full Power (+5,000 HP heal) from this form",
+   "Gigantic Cannon (30,000 ki) and Gigantic Rage (30,000 ki / 15,000 trigger, speed-impact) cover range and rush",
+   "Howl S2 (4 stock) is a no-auto-guard intimidation buff",
+   "Saiyan Spirit S1 charges for free"
+  ],
+  "weaknesses": [
+   "DP7, still 40,000 HP — no durability gain over base for the cost",
+   "Transitional form; the payoff is the next transform",
+   "No teleport; predictable approach"
+  ],
+  "howToFight": "He is one 2-stock transform from S-tier Full Power — interrupt and keep him stock-starved. Gigantic Ball ult costs 50,000 ki; deny the meter. Step his speed-impact Gigantic Rage and punish whiffed Howl activations."
+ },
+ "0555_00": {
+  "summary": "DP9 armor bruiser; 45k HP, #4 Singles (149.6k)/top 29.0k DP, Blaster Meteor 40k-ki + Gigantic Catastrophe ult.",
+  "playstyle": "Tanky S-tier bruiser",
+  "strengths": [
+   "Premium 45,000 HP with armored normals — Broly (Super)'s ceiling form, #4 in Singles (149.6k)",
+   "Best-in-class DP value among premiums (29.0k) — strong even on the efficiency model",
+   "Blaster Meteor super at 40,000 ki and Gigantic Cannon (30,000 ki) give heavy ranged threat",
+   "Untamed Instinct (4 stock) no-auto-guard buff + the May-2026 permanent attack buff on transform stack into huge damage",
+   "Wild Move S1 is a free defensive/movement option"
+  ],
+  "weaknesses": [
+   "DP9 premium — expensive, ties up the budget",
+   "No Instant Transmission; dash-only mobility is readable",
+   "Buff activations are no-auto-guard, giving counter windows"
+  ],
+  "howToFight": "Never sit in his armor — use ~2f Super Counters and Perception (2 stock) to break armored strings instead of trading into 45,000 HP. Keep maximum range and starve his ki so Blaster Meteor and the 50,000-ki ult stay offline. Vanish (≈half a ki bar) the instant he corners you; his permanent attack buff turns one combo into a round."
+ },
+ "0561_00": {
+  "summary": "DP4 Movie villain; 40k HP, unblockable Sealing Paralyze Beam S1, Darkness Illusion 40k-ki speed-impact super.",
+  "playstyle": "Unblockable-trap zoner",
+  "strengths": [
+   "Sealing Paralyze Beam S1 is unblockable + no-auto-guard and free (no stock) — a cheap paralysis opener",
+   "Darkness Illusion super at 40,000 ki (20,000 trigger) is a speed-impact catch",
+   "Makyo Star S2 (3 stock) buffs his output",
+   "Dead Zone ult (50,000 ki) is a wide finisher"
+  ],
+  "weaknesses": [
+   "DP4 with no transform — low ceiling",
+   "Average 1,750 ki recovery and pedestrian normals",
+   "Telegraphed unblockable; easily vanished"
+  ],
+  "howToFight": "His whole game is the unblockable Sealing Paralyze Beam — it's slow and unblockable, so vanish (≈half a ki bar) or dash around it rather than guarding. Once you read it, punish the recovery. He has no defensive escape, so apply continuous pressure."
+ },
+ "0570_00": {
+  "summary": "DP4 mad-scientist; 40k HP, Barrier (3 stock) defense + Full Power (4 stock); near-zero ki-charge but Gigantic Bomber 40k-ki.",
+  "playstyle": "Barrier turtle zoner",
+  "strengths": [
+   "Barrier S1 (3 stock) grants a damage-absorbing shield for stalling",
+   "Full Power S2 (4 stock) no-auto-guard buff raises damage output",
+   "Gigantic Bomber super at 40,000 ki is a heavy two-hand blast finisher",
+   "Planet Geyser ult at 50,000 ki for chip closeouts"
+  ],
+  "weaknesses": [
+   "DP4, no transform, HP reduced in past giant-meta tuning era",
+   "0.0 listed ki-charge speed — relies on 1,700 auto-recovery, slow offense",
+   "Barrier is the only defensive tool and costs 3 stock; once spent he's exposed"
+  ],
+  "howToFight": "Force out his Barrier early, then attack while it's on cooldown — he has no second escape. His ki economy is poor (near-zero charge), so out-vanish him in exchanges (≈half a bar each) and he runs dry first. Punish Full Power activations (no-auto-guard)."
+ },
+ "0580_00": {
+  "summary": "DP4 Turles; 40k HP, Fruit of the Tree of Might self-buff S2, twin 30k-ki energy-wave supers + Meteor Burst ult.",
+  "playstyle": "Self-buff brawler",
+  "strengths": [
+   "Fruit of the Tree of Might S2 is a free self-buff/heal-style tool",
+   "Explosive Wave S1 is a free reversal/space-maker",
+   "Kill Driver and Full-Power Energy Wave Combo both at 30,000 ki give reliable finishers",
+   "Meteor Burst ult (50,000 ki) for a closer"
+  ],
+  "weaknesses": [
+   "DP4 with no transform — fixed low ceiling",
+   "Plain 1,750 ki recovery, no mobility/teleport",
+   "Outclassed by transforming Saiyans at similar cost"
+  ],
+  "howToFight": "Nothing exotic to fear — pressure him steadily. He'll Explosive Wave to reset; bait it with a stagger then punish. Deny ki so Meteor Burst never charges; a DP4 with no escape tool folds to sustained offense."
+ },
+ "0590_00": {
+  "summary": "DP4 Namekian; 40k HP, High-Tension buff, branches to Giant Form (3 stock, +10,000 HP heal); 20k-ki Finger Beam.",
+  "playstyle": "Giant-access base",
+  "strengths": [
+   "Transforms to Giant Form for 3 stocks banking a big +10,000 HP heal",
+   "High-Tension S2 is a free charge/buff",
+   "Finger Beam (20,000 ki) is a cheap ranged poke; Darkness Eye Beam (30,000 ki) the heavier option",
+   "Power of Darkness ult at 50,000 ki"
+  ],
+  "weaknesses": [
+   "DP4 base is frail; the Giant payoff is itself C-tier and giant-nerfed",
+   "Average 1,750 recovery, no escape tool",
+   "Slow, telegraphed approach"
+  ],
+  "howToFight": "Deny the 3-stock Giant transform by keeping him stock-starved — the giant form is his only real threat and it's been broadly nerfed (takes more melee, slower back-dash). Charge Blasts now knock back giants, so if he does transform, zone him. In base, just bully him."
+ },
+ "0591_00": {
+  "summary": "DP6 Giant Namekian; giant-class HP, super-armor body, Super Explosive Wave 40k-ki, but C-tier post giant nerfs.",
+  "playstyle": "Armored giant zoner",
+  "strengths": [
+   "Giant-class hitbox with super-armor on many moves and grab-immunity",
+   "Super Explosive Wave super at 40,000 ki is a huge AoE clear",
+   "Pump Up S2 is a free self-buff toward more armor trades",
+   "Darkness Blaster ult (50,000 ki) covers a wide area"
+  ],
+  "weaknesses": [
+   "Hit by every May-2026 giant nerf: less rush/smash damage, more whiff recovery, takes more melee, slower back-dash",
+   "Slow 1,500 ki recovery and 8.0 charge — sluggish offense",
+   "Normal charge Blasts now damage AND knock him back (no longer whiff)"
+  ],
+  "howToFight": "Play the anti-giant game: standard charge Blasts now knock him back, so zone and chip from range. Stay mobile — his back-dash is slow and his whiff recovery is long, so bait an armored swing and punish. Don't try to grab (giant immunity); out-space him instead."
+ },
+ "0600_00": {
+  "summary": "DP6 Cooler base; 40k HP, unblockable Psychokinesis S1 + Afterimage; 2-stock transform to Final Form (+6,000 HP).",
+  "playstyle": "Unblockable-poke base",
+  "strengths": [
+   "Psychokinesis S1 is unblockable + no-auto-guard and free — a cheap stun opener",
+   "Afterimage S2 (free) gives a 1-hit auto-dodge read",
+   "Transforms to Final Form for 2 stocks with a +6,000 HP heal",
+   "Death Ball ult at 50,000 ki"
+  ],
+  "weaknesses": [
+   "DP6 base is C-tier; you want Final Form or the Metal Cooler variant",
+   "Average 1,750 recovery, no teleport in base",
+   "Unblockable is slow and vanish-evadable"
+  ],
+  "howToFight": "Vanish (≈half a ki bar) the telegraphed Psychokinesis rather than guarding. Deny the 2-stock transform to Final Form by keeping him stock-starved. Afterimage is a single-hit read — stagger and bait it, then punish."
+ },
+ "0600_10": {
+  "summary": "DP7 Metal Cooler; 40k HP but best-in-range 2,000 ki recovery, Regeneration (4 stock) heal + Instant Transmission; A-tier (116.4k).",
+  "playstyle": "Regen/teleport android",
+  "strengths": [
+   "Regeneration S2 (4 stock) restores HP — a rare sustain tool on a DP7 body",
+   "Instant Transmission S1 (free) gives true teleport mobility and escape",
+   "Top-bracket 2,000 ki auto-recovery (android trait) keeps supers funded",
+   "Lock-On Buster super at 40,000 ki is a homing heavy hit; Supernova ult at 50,000 ki",
+   "A-tier Singles (116.4k) on the strength of the revival/regen kit"
+  ],
+  "weaknesses": [
+   "Still only 40,000 HP — not a tank, leans on regen to survive",
+   "Regeneration costs 4 stock and is no-auto-guard — punishable on use",
+   "No raw armor; loses straight trades to berserkers"
+  ],
+  "howToFight": "Punish Regeneration: it's a 4-stock no-auto-guard animation — catch it and you negate the heal plus the investment. He'll Instant Transmission out of pressure, so bait the teleport with a delayed string then re-engage. Burn his ki to keep Lock-On Buster and Supernova offline; a 40,000-HP body without sustain dies fast."
+ },
+ "0601_00": {
+  "summary": "DP7 Cooler Final Form; 45k HP, unblockable Psychokinesis + Psycho Barrier (3 stock), Death Chaser speed-impact; A-tier.",
+  "playstyle": "Unblockable armor anchor",
+  "strengths": [
+   "Upgraded 45,000 HP makes Final Form a genuine anchor",
+   "Psychokinesis S1 stays unblockable + no-auto-guard for cheap stun mix-ups",
+   "Psycho Barrier S2 (3 stock) absorbs damage on demand",
+   "Death Beam (20,000 ki) and speed-impact Death Chaser (30,000 ki / 15,000 trigger) plus Supernova ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP7 with no further transform — this is the ceiling",
+   "Average 1,750 ki recovery for the cost",
+   "Unblockable is vanish-evadable; Barrier is his only escape and costs 3 stock"
+  ],
+  "howToFight": "Vanish (≈half a ki bar) the unblockable Psychokinesis and punish recovery. Force out Psycho Barrier, then pressure while it's down — he has no teleport escape. His 45,000 HP means avoid raw trades; use Super Counters (~2f) to break his turn."
+ },
+ "0620_00": {
+  "summary": "DP5 Android 13; 40k HP, Wild Sense + High-Tension, 1,800 ki recovery; 2-stock transform to S-tier Fusion A13.",
+  "playstyle": "Fusion-access android",
+  "strengths": [
+   "Two-stock transform straight into the S-tier Fusion Android 13 (+5,000 HP heal)",
+   "Wild Sense S1 (free) gives a 1-hit auto-dodge counter",
+   "Slightly elevated 1,800 ki auto-recovery (android) funds blasts",
+   "Silent Assassin 13 super at 30,000 ki (15,000 trigger), speed-impact; S.S. Deadly Bomber ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP5 base is a stepping stone — weak until it fuses",
+   "Wild Sense is a single-hit read post-Dec-2025, not a real escape",
+   "No teleport; readable approach"
+  ],
+  "howToFight": "Deny the 2-stock fusion into the S-tier Fusion form — that's the whole threat. Wild Sense is one-hit only; stagger and bait it. Keep him stock-starved and he stays a weak DP5 body."
+ },
+ "0621_00": {
+  "summary": "DP7 Giant/Android fusion; 45k HP, surprise S-tier (#13, 125.2k / 24.7k DP), Android Barrier (3 stock) + 2,000 ki recovery.",
+  "playstyle": "Armored fusion anchor",
+  "strengths": [
+   "Triple-class Giant/Android/Fusion: 45,000 HP, giant armor, plus android 2,000 ki recovery",
+   "Surprise high-tier — #13 Singles (125.2k) AND strong 24.7k DP value",
+   "Android Barrier S1 (3 stock) gives an on-demand absorbing shield",
+   "S.S. Deadly Bomber (30,000 ki) and Super Explosive Wave (40,000 ki) plus S.S. Deadly Hammer ult (50,000 ki)",
+   "Pump Up S2 (free) stacks more armored damage"
+  ],
+  "weaknesses": [
+   "DP7 for a giant-class body means it ate the May-2026 giant nerfs (more melee taken, slower back-dash)",
+   "8.0/0.0 charge profile leans entirely on auto-recovery",
+   "Barrier is its main escape and costs 3 stock"
+  ],
+  "howToFight": "Treat it like a giant: standard charge Blasts now damage and knock it back, so zone it out. Force the 3-stock Android Barrier, then pressure on its cooldown. Avoid grabs (giant immunity) and don't trade into the 45,000-HP armor — punish whiffed swings during its long recovery."
+ },
+ "0630_00": {
+  "summary": "DP5 Bojack base; 40k HP, Psycho Barrier (3 stock) + Full Power (4 stock); 2-stock transform to Full-Power Bojack.",
+  "playstyle": "Barrier brawler base",
+  "strengths": [
+   "Psycho Barrier S1 (3 stock) absorbs damage for stalling",
+   "Full Power S2 (4 stock) no-auto-guard buff raises output",
+   "Two-stock transform to Full-Power Bojack (+5,000 HP heal)",
+   "Full-Power Energy Ball (30,000 ki) and Grand Smasher ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP5 base; weak until transformed",
+   "Average 1,750 recovery, no teleport",
+   "Barrier is the only escape and costs 3 stock"
+  ],
+  "howToFight": "Deny the 2-stock transform and force out Psycho Barrier early. Punish Full Power activations (no-auto-guard). With no mobility tool, he can't escape sustained corner pressure."
+ },
+ "0631_00": {
+  "summary": "DP7 Full-Power Bojack; 45k HP, Psycho Barrier (3 stock) + Pump Up, Galactic Tyrant speed-impact super + Galactic Buster ult.",
+  "playstyle": "Armor-buff brawler",
+  "strengths": [
+   "Upgraded 45,000 HP makes him a respectable anchor",
+   "Psycho Barrier S1 (3 stock) for on-demand absorption",
+   "Pump Up S2 (free) stacks self-buff toward armor trades",
+   "Galactic Tyrant super at 30,000 ki (15,000 trigger, speed-impact); Galactic Buster ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP7 ceiling form — no further scaling",
+   "Plain 1,750 ki recovery for the cost",
+   "Barrier is his sole escape; no teleport"
+  ],
+  "howToFight": "Avoid trading into his 45,000 HP — use ~2f Super Counters to break strings. Bait out Psycho Barrier, then attack on cooldown. Starve ki to keep Galactic Buster offline; he has no teleport to reset neutral."
+ },
+ "0650_00": {
+  "summary": "DP5 Janemba base; giant-ish (null HP), unblockable Mystic Breath (1 stock), 3-stock transform to Super Janemba; C-tier.",
+  "playstyle": "Unblockable-poke base",
+  "strengths": [
+   "Mystic Breath S1 is unblockable + no-auto-guard for only 1 stock — cheap stun opener",
+   "Transforms to Super Janemba for 3 stocks (powerful payoff form)",
+   "Chou Makouhou and Rapid Cannon both at 30,000 ki",
+   "Howl S2 (4 stock) no-auto-guard buff; Illusion Smash ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP5 base is C-tier; you want Super Janemba",
+   "Slow 1,500 ki recovery and 8.0 charge",
+   "Transform gated behind 3 stocks"
+  ],
+  "howToFight": "Vanish (≈half a ki bar) the cheap unblockable Mystic Breath rather than guarding. Deny the 3-stock transform to Super Janemba by pressuring through his stock-building. He has no defensive escape in base — keep your turn."
+ },
+ "0651_00": {
+  "summary": "DP7 Super Janemba; 40k HP, top 2,250 ki recovery, Dimension Shift teleport + unblockable Mystic Breath; strong neutral.",
+  "playstyle": "Teleport unblockable zoner",
+  "strengths": [
+   "Elite 2,250 ki auto-recovery (highest bracket) keeps blasts and ult funded",
+   "Dimension Shift S2 (free) gives teleport mobility/escape",
+   "Mystic Breath S1 stays unblockable + no-auto-guard at 1 stock for stun mix-ups",
+   "Evil Cannon and Lightning Shower Rain both at 30,000 ki; Dimension Sword Attack ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "Only 40,000 HP — not durable for a DP7",
+   "No super-armor; loses straight trades",
+   "Relies on teleport spacing rather than raw power"
+  ],
+  "howToFight": "He teleports with Dimension Shift, so bait the escape with a delayed string then catch the landing. Vanish (≈half a ki bar) the unblockable Mystic Breath. His 2,250 recovery means you can't out-zone him — close the gap and punish his 40,000 HP with melee."
+ },
+ "0660_00": {
+  "summary": "DP4 Tapion; 40k HP, Hero's Flute utility + Afterimage, twin 30k-ki Brave supers + Brave Sword Attack ult.",
+  "playstyle": "Sword utility skirmisher",
+  "strengths": [
+   "Hero's Flute S1 (free) is a unique utility/control tool",
+   "Afterimage S2 (free) gives a 1-hit auto-dodge read",
+   "Brave Cannon and Brave Slash both at 30,000 ki for steady finishers",
+   "Brave Sword Attack ult (50,000 ki) for a closer"
+  ],
+  "weaknesses": [
+   "DP4 with no transform — low ceiling",
+   "Average 1,750 recovery, no teleport",
+   "Underwhelming damage versus transforming peers"
+  ],
+  "howToFight": "No real threats — apply pressure. Afterimage is a single-hit read; stagger to bait it then punish. Deny ki so the ult never lands; a DP4 with no escape folds to sustained offense."
+ },
+ "0670_00": {
+  "summary": "DP6 dragon-kaiju Giant; giant-class HP + armor, Super Explosive Wave 40k-ki AoE, but slow 1,500 recovery and giant-nerfed.",
+  "playstyle": "Armored giant bruiser",
+  "strengths": [
+   "Giant-class body: oversized hitbox, super-armor moves, grab-immune",
+   "Super Explosive Wave at 40,000 ki is a large AoE clear",
+   "Dark Eyes S2 (free) for ranged control; Gigantic Flame ult (50,000 ki)",
+   "Explosive Wave S1 (free) reversal/space-maker"
+  ],
+  "weaknesses": [
+   "Subject to all giant nerfs — less damage, longer whiff recovery, takes more melee, slower back-dash",
+   "Slow 1,500 ki recovery / 8.0 charge",
+   "Charge Blasts now knock him back; no defensive escape skill"
+  ],
+  "howToFight": "Anti-giant fundamentals: zone with charge Blasts (they now damage and knock back giants), stay mobile, and punish his long whiff recovery. Don't grab. Keep chipping from range — his slow back-dash can't disengage from sustained zoning."
+ },
+ "0680_00": {
+  "summary": "DP5 Baby Vegeta base; 40k HP, High-Tension buff, 1-stock transforms up the Super Baby ladder to Great Ape Baby.",
+  "playstyle": "Transform-ladder base",
+  "strengths": [
+   "Cheap 1-stock transform to Super Baby 1, starting a long evolution ladder",
+   "High-Tension S2 (free) charge/buff feeds the climb",
+   "Galick Gun (30,000 ki) and Finger Blitz Barrage (20,000 ki); Final Flash ult (50,000 ki)",
+   "Explosive Wave S1 (free) reversal"
+  ],
+  "weaknesses": [
+   "DP5 base is weak; value is entirely in the ladder",
+   "Average 1,750 recovery, no escape tool",
+   "Each form-up costs stock and time"
+  ],
+  "howToFight": "Deny the cheap 1-stock transforms — every step up the Baby ladder makes him stronger and eventually a giant. Keep him stock-starved and pressure the base form, which has no defensive escape. Whoever controls the meter controls the climb."
+ },
+ "0680_01": {
+  "summary": "DP6 Super Baby 1; 40k HP, Afterimage + High-Tension, Tuffle Revenger speed-impact; 1-stock step to Super Baby 2.",
+  "playstyle": "Mid-ladder villain",
+  "strengths": [
+   "Cheap 1-stock transform onward to Super Baby 2 (then Great Ape Baby)",
+   "Afterimage S1 (free) gives a 1-hit auto-dodge read",
+   "Tuffle Revenger super at 30,000 ki (15,000 trigger, speed-impact)",
+   "Galick Gun (30,000 ki) and Final Flash ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP6 intermediate; weaker than the Great Ape payoff",
+   "Slow 1,500 ki recovery / 8.0 charge",
+   "No teleport escape"
+  ],
+  "howToFight": "Keep him from the next 1-stock transform — he's two cheap steps from a giant. Afterimage is one-hit; stagger to bait it. Starve ki and pressure; his 40,000 HP and lack of escape can't survive a sustained turn."
+ },
+ "0680_02": {
+  "summary": "DP7 Super Baby 2; 40k HP, Full Power (4 stock) buff, Revenge Cutter; 3-stock transform to Great Ape Baby (+10,000 HP).",
+  "playstyle": "Pre-giant bruiser",
+  "strengths": [
+   "Three-stock transform to Great Ape Baby banking a huge +10,000 HP heal",
+   "Full Power S2 (4 stock) no-auto-guard buff raises damage",
+   "Final Flash (30,000 ki) and Revenge Cutter (30,000 ki); Revenge Death Ball ult (50,000 ki)",
+   "Explosive Wave S1 (free) reversal"
+  ],
+  "weaknesses": [
+   "DP7 with only 40,000 HP — fragile until it apes out",
+   "Slow 1,500 ki recovery",
+   "Transform gated behind 3 stocks; punishable Full Power"
+  ],
+  "howToFight": "Deny the 3-stock Great Ape transform — that's the payoff and the +10,000 HP swing. Punish Full Power (no-auto-guard). Keep him stock-starved; the 40,000-HP human form has no escape and dies to pressure before it can ape out."
+ },
+ "0681_00": {
+  "summary": "DP7 Great Ape Baby Giant; giant-class HP + armor, Super Galick Gun 30k-ki, B-tier after giant nerfs; +10k HP on transform-in.",
+  "playstyle": "Armored giant carry",
+  "strengths": [
+   "Giant-class: oversized hitbox, super-armor, grab-immune, big HP pool",
+   "Arrives with a +10,000 HP heal banked from the transform-in",
+   "Super Galick Gun and Gigantic Flame both at 30,000 ki; Revenge Death Ball Final ult (50,000 ki)",
+   "Howl S2 (4 stock) no-auto-guard buff for armor trades"
+  ],
+  "weaknesses": [
+   "B-tier post-nerf: less rush/smash damage, more whiff recovery, takes more melee, slower back-dash",
+   "Slow 1,500 ki recovery / 8.0 charge",
+   "Normal charge Blasts now knock him back"
+  ],
+  "howToFight": "Standard anti-giant: charge Blasts now damage and knock him back, so zone hard and stay mobile. Bait an armored swing and punish the long whiff recovery. Don't grab. His slow back-dash means he can't escape your zoning once you establish range."
+ },
+ "0700_00": {
+  "summary": "DP7 Syn Shenron; 40k HP, unblockable Mystic Breath (1 stock), twin 20k-ki supers; 2-stock transform to A-tier Omega.",
+  "playstyle": "Unblockable-poke base",
+  "strengths": [
+   "Mystic Breath S2 is unblockable + no-auto-guard for 1 stock — cheap stun opener",
+   "Two-stock transform to the A-tier Omega Shenron (+5,000 HP heal)",
+   "Cheap supers Trap Shooter and Blazing Storm at 20,000 ki each",
+   "Gigantic Blaze ult (50,000 ki); Explosive Wave S1 (free) reversal"
+  ],
+  "weaknesses": [
+   "DP7 base is the weaker half of the line — you want Omega",
+   "Average 1,750 recovery, no teleport",
+   "Unblockable is vanish-evadable"
+  ],
+  "howToFight": "Deny the 2-stock transform to Omega Shenron. Vanish (≈half a ki bar) the unblockable Mystic Breath. He has no escape tool in base — keep continuous pressure and starve his stocks."
+ },
+ "0700_01": {
+  "summary": "DP8 Omega Shenron; 45k HP, Wild Sense + Power Up to the Very Limit (4 stock), Gigantic Blaze 40k-ki; A-tier GT boss.",
+  "playstyle": "Buffing armor anchor",
+  "strengths": [
+   "Upgraded 45,000 HP makes him a real A-tier anchor",
+   "Power Up to the Very Limit S2 (4 stock) no-auto-guard buff for big damage swings",
+   "Wild Sense S1 (free) gives a 1-hit auto-dodge counter",
+   "Gigantic Blaze super at 40,000 ki and speed-impact Dragon Thunder (30,000 ki / 15,000 trigger); Minus Energy Power Ball ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP8 anchor — expensive on a 15-DP budget",
+   "Average 1,750 ki recovery for the cost",
+   "Wild Sense is one-hit; Power Up is punishable on activation"
+  ],
+  "howToFight": "Punish Power Up to the Very Limit (4-stock, no-auto-guard) to deny his damage spike. Wild Sense is a single-hit read — stagger to bait it. Avoid trading into 45,000 HP; use Super Counters (~2f) and starve ki to keep Gigantic Blaze offline."
+ },
+ "0760_00": {
+  "summary": "DP2 Majin servant; only 35k HP but DP-value S-tier (28.2k), Berserker S2 + double speed-impact supers; HP cut May 2026.",
+  "playstyle": "Cheap berserker body",
+  "strengths": [
+   "Outrageous DP efficiency for a 2-DP slot (28.2k value) — overperforms its cost in DP Battle",
+   "Berserker S2 (free) is a damage-amp activation",
+   "Both supers speed-impact: Berserker Crash (40,000 ki) and Mad Banquet (30,000 ki / 15,000 trigger)",
+   "Majin Buu Resurrection ult (50,000 ki) is a surprise 50k-ki payload from a DP2 body"
+  ],
+  "weaknesses": [
+   "HP reduced in the May-2026 patch — now just 35,000",
+   "Worthless in Singles (standardized HP erases his tank value)",
+   "Slow, no mobility, no escape tool — pure DP filler"
+  ],
+  "howToFight": "In Singles he has no tank edge and only 35,000 HP — open him up and delete the slot. In DP he's a cheap value body, so focus him first to remove disproportionate points. Don't respect Berserker; just block the speed-impact supers and punish."
+ },
+ "0780_00": {
+  "summary": "DP10 God of Destruction; 45k HP, 2,000 ki recovery, Sleep + Verdict of Destruction (4 stock each), Hakai Headshot; A-tier (120.9k), tournament staple.",
+  "playstyle": "Mobility/zoning deity",
+  "strengths": [
+   "Premium 45,000 HP plus 2,000 ki auto-recovery — durable and resource-rich deity",
+   "Best-in-class god mobility makes him a perennial tournament pick (cited among top comp characters)",
+   "Verdict of Destruction S2 (4 stock) is a heavy no-auto-guard Hakai threat; Sleep S1 (4 stock) steals turns",
+   "Sphere of Destruction (30,000 ki) and speed-impact Hakai Headshot (30,000 ki / 15,000 trigger); Super Sphere ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP10 — most expensive bracket, terrible DP efficiency (12.0k), eats the whole budget",
+   "Auto-reflect access only because he's DP7+; but no super-armor on normals",
+   "Both signature skills cost 4 stock — punishable on whiff"
+  ],
+  "howToFight": "Don't get read by Verdict of Destruction or Sleep — both are 4-stock no-auto-guard reads; bait and punish the recovery. His strength is mobility/spacing, so close the gap and force melee where his 45,000 HP can still be ground down with Super Counters (~2f). Win the ki war (vanish ≈half a bar each) to keep his ult and Hakai offline."
+ },
+ "0790_00": {
+  "summary": "DP10 Angel; 45k HP, top 2,250 ki recovery, auto-dodge + Barrier (3 stock), Symphonic Destruction; #6 Singles (135.4k), now Rush-Chain-counterable.",
+  "playstyle": "Auto-dodge deity",
+  "strengths": [
+   "Elite 2,250 ki recovery (highest bracket) plus 45,000 HP — never starved, hard to kill",
+   "Best-in-class mobility and auto-dodge defense; #6 Singles (135.4k)",
+   "Barrier S1 (3 stock) absorbing shield + Snack Time S2 (4 stock) utility",
+   "Prelude to Destruction (30,000 ki), Symphonic Destruction (20,000 ki), Epilogue to Destruction ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "May-2026: Rush Chain now executes even through his auto-dodge — the dodge is no longer un-pressurable",
+   "Symphonic Destruction is now high-speed-evadable",
+   "DP10, awful DP efficiency (13.5k); no super-armor — purely evasive"
+  ],
+  "howToFight": "Use Rush Chain — post-May-2026 it lands even while he's auto-dodging, the key counter to Whis. High-speed-evade his Symphonic Destruction. Force out the 3-stock Barrier, then pressure on cooldown. He has 45,000 HP and elite ki, so you won't out-resource him — you out-read him with Rush Chain and Super Counters (~2f)."
+ },
+ "0800_00": {
+  "summary": "DP5 Goku Black base; 40k HP, Wild Sense + Finish Sign, Black Bind speed-impact; 2-stock transform to A-tier Rosé.",
+  "playstyle": "Rosé-access base",
+  "strengths": [
+   "Two-stock transform to the A-tier Super Saiyan Rosé form",
+   "Wild Sense S1 (free) 1-hit auto-dodge counter; Finish Sign S2 (free) is a buff/taunt setup",
+   "Black Bind super at 40,000 ki (20,000 trigger, speed-impact) is a strong catch even in base",
+   "Black Kamehameha ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP5 base — you want Rosé fast",
+   "Average 1,750 recovery, no teleport in base",
+   "Wild Sense is one-hit only post-nerf"
+  ],
+  "howToFight": "Deny the 2-stock transform to Rosé. Wild Sense is a single-hit read — stagger to bait it. He has no teleport in base, so keep pressure and starve his stocks before he ascends."
+ },
+ "0800_01": {
+  "summary": "DP8 Goku Black Rosé; 40k HP, Instant Transmission + Audacious Laugh (4 stock), Godly Display Slash; A-tier pressure/okizeme (113.0k), Potara into Fused Zamasu.",
+  "playstyle": "Teleport okizeme specialist",
+  "strengths": [
+   "Strong pressure/okizeme kit — A-tier Singles (113.0k) and solid DP body (20.7k)",
+   "Instant Transmission S1 (free) gives true teleport mix-ups and escape",
+   "Potara-fuses with Zamasu into the DP8 Fused Zamasu for 3 stocks — a comeback option",
+   "Godly Display Slash super at 30,000 ki (15,000 trigger, speed-impact); Godly Black Kamehameha ult (50,000 ki)",
+   "Audacious Laugh S2 (4 stock) no-auto-guard buff"
+  ],
+  "weaknesses": [
+   "Only 40,000 HP and slow 1,500 ki recovery — fragile for a DP8",
+   "Leans on teleport mix-ups rather than raw durability",
+   "Audacious Laugh punishable on activation"
+  ],
+  "howToFight": "He lives on Instant Transmission okizeme — block patiently through the teleport mix-up, and bait the TP with a delayed button to catch the landing. Punish Audacious Laugh (4-stock, no-auto-guard). His 40,000 HP and weak recovery mean once you get a turn, press it — and watch for the 3-stock Potara into Fused Zamasu if Zamasu is on the team."
+ },
+ "0810_00": {
+  "summary": "DP5 Zamasu; 40k HP, Immortal Body (4 stock) damage-reduction + Afterimage Strike (3 stock); Potara into Fused Zamasu.",
+  "playstyle": "Immortal stall body",
+  "strengths": [
+   "Immortal Body S1 (4 stock) is a no-auto-guard damage-reduction stall tool",
+   "Afterimage Strike S2 (3 stock) gives a launch-era auto-dodge window",
+   "Potara-fuses with Goku Black into the DP8 Fused Zamasu for 3 stocks",
+   "Divine Steel Blast (30,000 ki) and speed-impact God Slicer (30,000 ki / 15,000 trigger); Holy Light Grenade ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP5 base; value is in the fusion and stall, not raw offense",
+   "Average 1,750 recovery, no teleport",
+   "Afterimage Strike ends on a Super Counter (post-May-2026)"
+  ],
+  "howToFight": "If he pops Afterimage Strike, land a ~2f Super Counter to delete it. Immortal Body just reduces damage — keep hitting through it and bait the fusion attempt (3-stock Potara). Deny stocks so he can't both stall and fuse."
+ },
+ "0810_01": {
+  "summary": "DP8 Fused Zamasu; 45k HP, dual Immortal Body + This is True Justice! (4 stock each), 2-stock transform to A-tier Half-Corrupted.",
+  "playstyle": "Immortal fusion anchor",
+  "strengths": [
+   "Premium 45,000 HP fusion with double no-auto-guard buff skills (Immortal Body + This is True Justice!, 4 stock each)",
+   "Two-stock transform to the A-tier Half-Corrupted form (+5,000 HP heal)",
+   "Holy Wrath and Blades of Judgment both at 30,000 ki; Lightning of Absolution ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP8 anchor — expensive on the budget",
+   "Average 1,750 ki recovery for the cost",
+   "Both 4-stock skills are punishable on activation"
+  ],
+  "howToFight": "Punish his 4-stock no-auto-guard buffs (Immortal Body / This is True Justice!) to deny the damage swing. Deny the 2-stock transform to Half-Corrupted. Avoid trading into 45,000 HP; use Super Counters (~2f) and starve ki to keep his ult offline."
+ },
+ "0811_00": {
+  "summary": "DP9 Fused Zamasu Half-Corrupted; 45k HP, Light of Justice + Violent Fierce God Slicer speed-impact; A-tier (122.3k).",
+  "playstyle": "Corrupted fusion anchor",
+  "strengths": [
+   "Premium 45,000 HP ceiling form — A-tier Singles (122.3k) with strong burst",
+   "Light of Justice S2 (free) is a damage/control tool",
+   "Mark of Condemnation (30,000 ki) and speed-impact Violent Fierce God Slicer (30,000 ki / 15,000 trigger)",
+   "Divine Hammer ult (50,000 ki); Explosive Wave S1 (free) reversal"
+  ],
+  "weaknesses": [
+   "DP9 premium — inefficient on a 15-DP budget",
+   "Slow 1,500 ki recovery / 8.0 charge for the cost",
+   "No teleport; no super-armor — relies on burst"
+  ],
+  "howToFight": "No teleport and no armor — pressure him directly and use ~2f Super Counters to break his strings. Vanish (≈half a ki bar) the speed-impact Violent Fierce God Slicer. Starve his slower-recovering ki to keep Divine Hammer offline; the 45,000 HP is the only thing keeping him alive, so grind it."
+ },
+ "0870_00": {
+  "summary": "DP8 Hit; 40k HP, Time Skip + Ki Clone, Time Skip/Jump Spike speed-impact super + Time Prison ult — counter-assassin.",
+  "playstyle": "Time-skip counter assassin",
+  "strengths": [
+   "Time Skip S2 (free) freezes the opponent for guaranteed punishes — signature control tool",
+   "Ki Clone S1 (free) creates a decoy for mix-ups and zoning",
+   "Time Skip/Jump Spike super at 40,000 ki (20,000 trigger, speed-impact) is a heavy time-stop catch",
+   "Time Prison ult (50,000 ki) is a powerful lockdown finisher"
+  ],
+  "weaknesses": [
+   "Only 40,000 HP for a DP8 — not durable",
+   "Average 1,750 ki recovery; no super-armor",
+   "Counter-reliant — struggles when forced to open you up"
+  ],
+  "howToFight": "Respect Time Skip — don't commit to a long string he can freeze and punish; use short, staggered pokes. Bait Ki Clone and hit the real Hit. His 40,000 HP is low for the cost, so once you get in, convert hard before he resets with another Time Skip."
+ },
+ "0881_00": {
+  "summary": "DP6 Frost; 40k HP, Welcome to My World (4 stock) buff, twin 30k-ki supers + Chaos Ball ult — Frieza-race trickster.",
+  "playstyle": "Buffing trickster",
+  "strengths": [
+   "Welcome to My World S2 (4 stock) is a no-auto-guard damage buff",
+   "Explosive Wave S1 (free) reversal/space-maker",
+   "Two 30,000-ki supers (one speed-impact at 15,000 trigger) plus Chaos Ball ult (50,000 ki)",
+   "Standard 40,000 HP and 1,750 recovery — no glaring weakness"
+  ],
+  "weaknesses": [
+   "DP6 with no transform — fixed ceiling",
+   "Average recovery, no teleport/mobility tool",
+   "Welcome to My World punishable on activation"
+  ],
+  "howToFight": "Punish Welcome to My World (4-stock, no-auto-guard) to deny his buff. Bait Explosive Wave with a stagger. No escape tool means sustained pressure works; starve ki to keep Chaos Ball offline."
+ },
+ "0890_00": {
+  "summary": "DP5 Cabba base; 40k HP, Full Power (4 stock), High Speed Rush speed-impact; 1-stock/2-stock transforms to SS and SS2.",
+  "playstyle": "Transform-ladder Saiyan",
+  "strengths": [
+   "Cheap 1-stock transform to SS, 2-stock to SS2 — flexible ladder",
+   "Full Power S2 (4 stock) no-auto-guard buff feeds the climb",
+   "High Speed Rush super at 30,000 ki (15,000 trigger, speed-impact); Galick Rage ult (50,000 ki)",
+   "Explosive Wave S1 (free) reversal"
+  ],
+  "weaknesses": [
+   "DP5 base is weak; value is in the ladder",
+   "Average 1,750 recovery, no escape tool",
+   "Each form-up costs stock"
+  ],
+  "howToFight": "Deny the cheap transforms — keep him stock-starved at the weak base. Punish Full Power (no-auto-guard). He has no defensive escape, so press your turn before he ascends to SS2."
+ },
+ "0890_01": {
+  "summary": "DP6 Cabba SS; 40k HP, Wild Sense escape, Galick Rage speed-impact; cheap 1-stock step to SS2.",
+  "playstyle": "Mid-ladder Saiyan",
+  "strengths": [
+   "Cheap 1-stock transform onward to SS2",
+   "Wild Sense S2 (free) gives a 1-hit auto-dodge counter",
+   "Galick Rage super at 30,000 ki (15,000 trigger, speed-impact); Super Galick Cannon ult (50,000 ki)",
+   "Explosive Wave S1 (free) reversal"
+  ],
+  "weaknesses": [
+   "DP6 intermediate; weaker than SS2 payoff",
+   "Average 1,750 recovery, no teleport",
+   "Wild Sense is one-hit only"
+  ],
+  "howToFight": "Keep him off the 1-stock SS2 transform. Wild Sense is a single-hit read — stagger to bait it. Starve ki and pressure the 40,000-HP body."
+ },
+ "0890_02": {
+  "summary": "DP7 Cabba SS2; 40k HP, Growth (4 stock) buff, High Power Rush speed-impact + Final Stream ult — ceiling form.",
+  "playstyle": "Buffing Saiyan ceiling",
+  "strengths": [
+   "Growth S2 (4 stock) is a no-auto-guard damage buff at the top of the ladder",
+   "Super Galick Cannon and Galick Rain both at 30,000 ki; Final Stream ult (50,000 ki)",
+   "High Power Rush variant adds a speed-impact catch",
+   "Explosive Wave S1 (free) reversal"
+  ],
+  "weaknesses": [
+   "DP7 with only 40,000 HP — fragile for the cost",
+   "Average 1,750 recovery, no teleport",
+   "Growth punishable on activation"
+  ],
+  "howToFight": "Punish Growth (4-stock, no-auto-guard). His 40,000 HP is low for DP7, so once in, convert hard. No escape tool means he can't break sustained pressure — starve ki to deny Final Stream."
+ },
+ "0900_00": {
+  "summary": "DP5 Caulifla base; 40k HP, False Courage + Wild Sense, 2-stock transform to SS2; Potara into Kefla.",
+  "playstyle": "Kefla-access Saiyan",
+  "strengths": [
+   "Two-stock transform to SS2, plus Potara-fusion into Kefla (2-4 stock for SS/SS2 variants)",
+   "False Courage S1 (free) and Wild Sense S2 (free) give a buff and a 1-hit auto-dodge",
+   "Full-Power Energy Wave (30,000 ki) and Super Explosive Wave (40,000 ki); Crush Cannon ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP5 base is weak; value is in the transform and Kefla fusion",
+   "Average 1,750 recovery, no teleport",
+   "Wild Sense is one-hit only"
+  ],
+  "howToFight": "Deny the transform and watch the meter — she can Potara into Kefla (2-4 stock) if Kale is on the team. Wild Sense is a single-hit read; stagger to bait it. Keep her stock-starved and pressure the base."
+ },
+ "0900_02": {
+  "summary": "DP7 Caulifla SS2; 40k HP, Wild Sense + Full Power (4 stock), High Power Rush speed-impact + Limit Break Blaster ult.",
+  "playstyle": "Buffing Saiyan ceiling",
+  "strengths": [
+   "Full Power S2 (4 stock) no-auto-guard buff for damage swings",
+   "Wild Sense S1 (free) gives a 1-hit auto-dodge counter",
+   "Energy Blast (30,000 ki) and speed-impact High Power Rush (30,000 ki / 15,000 trigger); Limit Break Blaster ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP7 with only 40,000 HP — fragile",
+   "Average 1,750 recovery, no teleport",
+   "Full Power punishable on activation"
+  ],
+  "howToFight": "Punish Full Power (4-stock, no-auto-guard). Wild Sense is one-hit — bait it with a stagger. Her 40,000 HP is low for the cost; convert hard once you get a turn and starve ki to deny the ult."
+ },
+ "0910_00": {
+  "summary": "DP5 Kale base; 40k HP, Going Berserk (4 stock), 3-stock transform to S-tier Berserk; Potara into Kefla.",
+  "playstyle": "Berserk-access Saiyan",
+  "strengths": [
+   "Three-stock transform to the S-tier Berserk form (+5,000 HP heal); also a no-heal 2-stock SS branch",
+   "Going Berserk S2 (4 stock) no-auto-guard ramp sets up the payoff",
+   "Potara-fuses with Caulifla into Kefla (2-4 stock variants)",
+   "Resistance Cannon (30,000 ki) and Full-Power Energy Blast Volley (30,000 ki); Resistance Blast ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP5 base is fragile; you race to Berserk",
+   "Average 1,750 recovery, no escape tool",
+   "Transform gated behind stock"
+  ],
+  "howToFight": "Deny the 3-stock transform to S-tier Berserk and watch for the Kefla Potara. Punish Going Berserk (no-auto-guard). Keep her stock-starved — the base has no defensive escape and folds to a sustained turn."
+ },
+ "0911_00": {
+  "summary": "DP7 Kale Berserk; 45k HP, unblockable Cry of Rage + Berserk Rage (4 stock), Gigantic Throw speed-impact; #9 Singles (129.1k)/25.5k DP.",
+  "playstyle": "S-tier berserker",
+  "strengths": [
+   "Top-bracket 45,000 HP berserker — strong in BOTH modes (#9 Singles 129.1k, 25.5k DP)",
+   "Cry of Rage S1 is unblockable + no-auto-guard for a guaranteed-style opener (activation time raised May-2026)",
+   "Berserk Rage S2 (4 stock) no-auto-guard buff stacks huge damage",
+   "Gigantic Impact (30,000 ki) and speed-impact Gigantic Throw (30,000 ki / 15,000 trigger); Berserk Blaster ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "Cry of Rage activation time was increased in May-2026 — slower to deploy",
+   "Average 1,750 ki recovery for a DP7",
+   "Berserk Rage punishable on activation"
+  ],
+  "howToFight": "Cry of Rage is unblockable but its activation is now slower (May-2026 nerf) — react and vanish (≈half a ki bar) it, then punish. Don't trade into her 45,000 HP and damage buffs; use Super Counters (~2f) to interrupt. Punish Berserk Rage activations and starve ki to keep her ult offline."
+ },
+ "0912_00": {
+  "summary": "DP6 Kale SS; 40k HP, Wild Sense + Saiyan Spirit, Super Explosive Wave 40k-ki; control form en route to Berserk.",
+  "playstyle": "Mid-form Saiyan",
+  "strengths": [
+   "Wild Sense S1 (free) 1-hit auto-dodge + Saiyan Spirit S2 (free) charge",
+   "Reverts to base (0 stock) to re-access the 3-stock Berserk transform",
+   "Resistance Blast (30,000 ki) and Super Explosive Wave (40,000 ki); Limit Break Blaster ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP6 controlled SS form — weaker than the Berserk payoff",
+   "Average 1,750 recovery, no teleport",
+   "Wild Sense is one-hit only"
+  ],
+  "howToFight": "This is the calmer SS form — she'll likely revert and re-transform toward Berserk, so deny her the meter. Wild Sense is one-hit; stagger to bait it. Pressure the 40,000-HP body and keep stocks low."
+ },
+ "0920_00": {
+  "summary": "DP6 Kefla base; giant-ish (null HP) fusion, Wild Sense + High-Tension, Gigantic Swing speed-impact; 1/2-stock to SS/SS2.",
+  "playstyle": "Fusion-ladder rushdown",
+  "strengths": [
+   "Cheap 1-stock transform to SS, 2-stock to SS2 — fast fusion ladder",
+   "Wild Sense S1 (free) 1-hit auto-dodge + High-Tension S2 (free) charge",
+   "Blaster Ball (30,000 ki) and speed-impact Gigantic Swing (30,000 ki / 15,000 trigger); Gigantic Burn ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "Base fusion form is the weakest of the three — climb to SS2 fast",
+   "Average 1,750 recovery, no super-armor",
+   "Wild Sense is one-hit only"
+  ],
+  "howToFight": "Deny the cheap 1/2-stock transforms to keep her at the weak base. Wild Sense is a single-hit read; stagger to bait it. Pressure continuously — she has no escape tool and wants the meter to climb."
+ },
+ "0920_01": {
+  "summary": "DP7 Kefla SS; null-HP fusion, False Courage + Finish Sign, Gigantic Claw speed-impact; 1-stock step to SS2.",
+  "playstyle": "Mid-form fusion",
+  "strengths": [
+   "Cheap 1-stock transform onward to the A-tier SS2",
+   "False Courage S1 (free) buff + Finish Sign S2 (free) setup",
+   "Blaster Ball (30,000 ki) and speed-impact Gigantic Claw (30,000 ki / 15,000 trigger); Hexa-Cannonball ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP7 intermediate; weaker than SS2",
+   "Average 1,750 recovery, no super-armor",
+   "Relies on speed rather than durability"
+  ],
+  "howToFight": "Keep her off the 1-stock SS2 transform. Vanish (≈half a ki bar) the speed-impact Gigantic Claw. Starve ki and pressure; the fusion has no defensive escape."
+ },
+ "0920_02": {
+  "summary": "DP8 Kefla SS2; null-HP fusion, Saiyan Spirit + I'm Number One! (4 stock), Gigantic Breaker speed-impact; A-tier (113.4k).",
+  "playstyle": "A-tier fusion ceiling",
+  "strengths": [
+   "A-tier fusion ceiling (113.4k) with fast fusion-speed normals",
+   "I'm Number One! S2 (4 stock) no-auto-guard buff for big damage",
+   "Saiyan Spirit S1 (free) charge",
+   "Gigantic Ray (30,000 ki) and speed-impact Gigantic Breaker (30,000 ki / 15,000 trigger); Gigantic Burst ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP8 fusion — expensive; no super-armor",
+   "Average 1,750 ki recovery for the cost",
+   "I'm Number One! punishable on activation"
+  ],
+  "howToFight": "Her fast fusion normals win the speed war — use Perception (2 stock) and ~2f Super Counters to interrupt rather than racing her buttons. Punish I'm Number One! (4-stock, no-auto-guard). Starve ki to keep Gigantic Burst offline; she has no escape, so corner pressure sticks."
+ },
+ "0930_00": {
+  "summary": "DP8 Jiren base; 40k HP, Ki Pressure + Meditation (4 stock), Infinity Rush speed-impact; 2-stock transform to S-tier Full Power (+10,000 HP).",
+  "playstyle": "Armored counter base",
+  "strengths": [
+   "Two-stock transform to S-tier Full Power banking a huge +10,000 HP heal",
+   "Meditation S2 (4 stock) no-auto-guard buff/recovery tool",
+   "Ki Pressure S1 (free) zoning/control",
+   "Power Impact (30,000 ki) and speed-impact Infinity Rush (30,000 ki / 15,000 trigger); Heat Break ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP8 base with only 40,000 HP until it transforms",
+   "Average 1,750 recovery; Meditation is punishable",
+   "Slower without the Full Power armor"
+  ],
+  "howToFight": "Deny the 2-stock transform to Full Power — that's a +10,000 HP swing into S-tier. Punish Meditation (4-stock, no-auto-guard). Pressure the 40,000-HP base before he ascends; he has no teleport escape."
+ },
+ "0931_00": {
+  "summary": "DP9 Jiren Full Power; giant-ish (null HP), 2,000 ki recovery, Strength is Absolute! (4 stock), Overheating Blast 40k-ki; S-tier (140.3k), armor + counters.",
+  "playstyle": "Armored counter anchor",
+  "strengths": [
+   "S-tier Singles (140.3k): super-armor, hard counters, and raw power on a premium body",
+   "2,000 ki auto-recovery keeps his heavy supers funded",
+   "Strength is Absolute! S2 (4 stock) no-auto-guard buff for enormous damage; Ki Storm S1 (free) control",
+   "Heatwave Magnetron (30,000 ki) and Overheating Blast (40,000 ki); Omegaheat Magnetron ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP9 with awful DP efficiency (12.0k) — an expensive Singles-only anchor",
+   "Strength is Absolute! is punishable on activation",
+   "Counter-reliant — give him nothing to counter and his offense stalls"
+  ],
+  "howToFight": "Do NOT throw predictable strings into his armor and counters — bait the counter with empty pressure, then punish. Use ~2f Super Counters and Perception (2 stock) to break his armored turns. Punish Strength is Absolute! (4-stock, no-auto-guard). Win the ki war to keep Overheating Blast and the ult offline; patience beats him."
+ },
+ "0940_00": {
+  "summary": "DP7 Toppo base; 40k HP, Justice! + Pride Trooper Pose 1 (4 stock), Justice Tornado speed-impact; 2-stock transform to S-tier GoD (+10,000 HP).",
+  "playstyle": "Justice bruiser base",
+  "strengths": [
+   "Two-stock transform to S-tier God of Destruction banking +10,000 HP",
+   "Pride Trooper Pose 1 S2 (4 stock) no-auto-guard buff",
+   "Justice! S1 (free) buff/setup",
+   "Justice Flash (20,000 ki) and speed-impact Justice Tornado (30,000 ki / 15,000 trigger); United Justice Stream ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP7 base with only 40,000 HP until it transforms",
+   "Average 1,750 recovery, no teleport",
+   "Pose 1 punishable on activation"
+  ],
+  "howToFight": "Deny the 2-stock transform to GoD Toppo — that's a +10,000 HP swing into S-tier. Punish Pride Trooper Pose 1 (no-auto-guard). Pressure the base form before he ascends."
+ },
+ "0941_00": {
+  "summary": "DP8 Toppo God of Destruction; giant-ish (null HP), 2,000 ki recovery, Hakai Aura (3 stock), Sphere of Destruction; S-tier (#11, 128.0k), armor anchor.",
+  "playstyle": "Hakai armor anchor",
+  "strengths": [
+   "S-tier Singles (#11, 128.0k): super-armor and God-of-Destruction raw power",
+   "2,000 ki auto-recovery sustains his heavy supers",
+   "Hakai Aura S2 (3 stock) is a destruction-energy threat; Resolution S1 (free) control",
+   "Destruction Flash (20,000 ki) and Sphere of Destruction (30,000 ki); Super Large Sphere of Destruction ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP8 anchor — expensive; low DP efficiency",
+   "Armor doesn't cover everything; vulnerable to Super Counters",
+   "Hakai Aura punishable if read"
+  ],
+  "howToFight": "Break his armor with ~2f Super Counters and Perception (2 stock) rather than trading. Don't sit in front of Hakai threats — stay mobile and punish whiffed Hakai Aura. Win the ki war to keep his 50,000-ki ult offline; like all GoD anchors, patience and precise counters beat the armor."
+ },
+ "0950_00": {
+  "summary": "DP6 Dyspo; 40k HP, Super Maximum Light Speed Mode (free) speed buff, Justice Kick speed-impact; DP-floor (8.3k lowest).",
+  "playstyle": "Hyper-speed rushdown",
+  "strengths": [
+   "Super Maximum Light Speed Mode S1 (free) is a signature speed buff for relentless rushdown",
+   "Justice Crusher (30,000 ki) and speed-impact Justice Kick (30,000 ki / 15,000 trigger); United Justice Stream ult (50,000 ki)",
+   "Pride Trooper Pose 2 S2 (4 stock) no-auto-guard buff",
+   "Standard 40,000 HP and 1,750 recovery"
+  ],
+  "weaknesses": [
+   "Lowest DP score in the game (8.3k) — heavily outclassed in DP Battle",
+   "No transform; fixed ceiling",
+   "Light-speed mode is his only real gimmick; punishable buffs"
+  ],
+  "howToFight": "His speed buff makes him fast but he has no armor and only 40,000 HP — use Perception (2 stock) and ~2f Super Counters to interrupt the rushdown. Punish Pride Trooper Pose 2 (no-auto-guard). Once you catch him, he folds; don't get flustered by the speed."
+ },
+ "1190_00": {
+  "summary": "DP5 Bergamo; 40k HP, Howl (4 stock) + Come at Me! taunt, Danger Knuckle speed-impact + Triangle Danger Beam ult.",
+  "playstyle": "Taunt-grow brawler",
+  "strengths": [
+   "Come at Me! S2 (free) is a defensive taunt/absorb setup that grows his power",
+   "Howl S1 (4 stock) no-auto-guard intimidation buff",
+   "Wolfgang Penetrator (30,000 ki) and speed-impact Danger Knuckle (30,000 ki / 15,000 trigger); Triangle Danger Beam ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP5 with no transform — low ceiling",
+   "Average 1,750 recovery, no teleport",
+   "His grow-gimmick rewards you attacking into it — discipline counters it"
+  ],
+  "howToFight": "Don't feed Come at Me! — his gimmick grows when you swing recklessly, so play patient and bait it out. Punish Howl (no-auto-guard). With no escape tool, controlled pressure and ki-denial shut him down."
+ },
+ "1321_00": {
+  "summary": "DP5 Ribrianne; 40k HP, unblockable Light of Love + Maiden's Fury (4 stock), Maiden's Charge speed-impact; D-tier.",
+  "playstyle": "Unblockable-poke (weak)",
+  "strengths": [
+   "Light of Love S1 is unblockable + no-auto-guard for a cheap stun opener",
+   "Maiden's Fury S2 (4 stock) no-auto-guard buff",
+   "Pretty Cannon (30,000 ki) and speed-impact Maiden's Charge (40,000 ki); Infinite Love ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "D-tier — weak kit overall",
+   "No transform; average recovery; no mobility",
+   "Telegraphed unblockable, easily vanished"
+  ],
+  "howToFight": "Vanish (≈half a ki bar) the unblockable Light of Love and punish recovery. Punish Maiden's Fury (no-auto-guard). She's D-tier with no escape — apply pressure freely and convert openings."
+ },
+ "1331_00": {
+  "summary": "DP5 Kakunsa; 40k HP, Wild Sense + Maiden's Fury (4 stock), double speed-impact supers + Love Symphony ult.",
+  "playstyle": "Beast-mode skirmisher",
+  "strengths": [
+   "Wild Sense S1 (free) gives a 1-hit auto-dodge counter",
+   "Both supers speed-impact: Primal Charge (40,000 ki) and Primal Instinct (30,000 ki / 15,000 trigger)",
+   "Maiden's Fury S2 (4 stock) no-auto-guard buff; Love Symphony ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP5 with no transform — low ceiling",
+   "Average 1,750 recovery, no teleport",
+   "Wild Sense is one-hit only"
+  ],
+  "howToFight": "Wild Sense is a single-hit read — stagger to bait it, then punish. Punish Maiden's Fury (no-auto-guard). Block the speed-impact supers and apply steady pressure; she has no escape tool."
+ },
+ "1341_00": {
+  "summary": "DP5 Roasie; 40k HP, Full-Power Charge + Maiden's Fury (4 stock), twin 30k-ki supers + Love Symphony ult.",
+  "playstyle": "Maiden brawler",
+  "strengths": [
+   "Full-Power Charge S1 (free) builds meter",
+   "Maiden's Fury S2 (4 stock) no-auto-guard buff raises output",
+   "Yatchaina Fist and Full-Power Energy Blast Volley both at 30,000 ki; Love Symphony ult (50,000 ki)",
+   "Standard 40,000 HP and 1,750 recovery"
+  ],
+  "weaknesses": [
+   "DP5 with no transform — low ceiling",
+   "Average recovery, no mobility tool",
+   "Plain neutral; outclassed by transformers"
+  ],
+  "howToFight": "Nothing exotic — pressure her. Punish Maiden's Fury (no-auto-guard). Deny ki to keep the ult offline; with no escape tool she can't break a sustained turn."
+ },
+ "1500_00": {
+  "summary": "DP8 Anilaza Giant fusion; null-HP, super-armor body, Warp Punch 40k-ki + Spread Energy Blast, but broadly giant-nerfed.",
+  "playstyle": "Armored giant fusion",
+  "strengths": [
+   "Giant-class fusion: oversized hitbox, super-armor, grab-immune, big HP",
+   "Warp Punch super at 40,000 ki (20,000 trigger) is a long-range armored catch",
+   "Spread Energy Blast (30,000 ki) AoE; Destruction Burst ult (50,000 ki)",
+   "Ultrasonic Sensor S1 (free) tracking/control tool"
+  ],
+  "weaknesses": [
+   "Hit by all May-2026 giant nerfs: less damage, longer whiff recovery, takes more melee, slower back-dash",
+   "Average 1,750 recovery for a DP8 giant; charge Blasts now knock him back",
+   "Howl (4 stock) buff is punishable; no teleport"
+  ],
+  "howToFight": "Anti-giant fundamentals: charge Blasts now damage and knock him back, so zone and stay mobile. Bait a Warp Punch or armored swing and punish the long whiff recovery. Don't grab; out-space his slow back-dash and chip him down from range."
+ },
+ "3000_00": {
+  "summary": "DP4 Gohan (SH) base; fragile 35k HP, Afterimage + Full-Power Charge, branches to Ultimate (3 stock) toward Gohan Beast.",
+  "playstyle": "Beast-access base",
+  "strengths": [
+   "Branches up to Ultimate Gohan (3 stock, +5,000 HP) on the path to S-tier Gohan Beast",
+   "Afterimage S1 (free) gives a 1-hit auto-dodge read; Full-Power Charge S2 (free) builds meter",
+   "Masenko (30,000 ki) and speed-impact High-Speed Rush (30,000 ki / 15,000 trigger); Super Kamehameha ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "Fragile 35,000 HP base — dies fast before transforming",
+   "Average 1,750 recovery, no escape tool",
+   "Long climb to the payoff form"
+  ],
+  "howToFight": "Punish hard while he's the fragile 35,000-HP base — deny the stock-building toward Gohan Beast. Afterimage is one-hit; stagger to bait it. Keep him stock-starved and pressure; this is his most vulnerable state."
+ },
+ "3000_01": {
+  "summary": "DP6 Gohan (SH) SS; fragile 35k HP, Explosive Wave + Full-Power Charge, Explosive Kick speed-impact; 2-stock to Ultimate.",
+  "playstyle": "Mid-form (fragile)",
+  "strengths": [
+   "Two-stock transform to Ultimate Gohan (+5,000 HP) continuing toward Gohan Beast",
+   "Explosive Wave S1 (free) reversal + Full-Power Charge S2 (free) meter",
+   "Explosive Ray (30,000 ki) and speed-impact Explosive Kick (30,000 ki / 15,000 trigger); Super Kamehameha ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "Still fragile 35,000 HP — low durability for DP6",
+   "Slow 1,500 ki recovery / 8.0 charge",
+   "Transitional; the payoff is two transforms away"
+  ],
+  "howToFight": "Still only 35,000 HP — keep punishing and deny the climb to Ultimate/Beast. Pressure through his stock-building; he has no escape tool. The longer you keep him in these forms, the safer you are."
+ },
+ "3000_02": {
+  "summary": "DP8 Ultimate Gohan (SH); 40k HP, Wild Sense + The Power to Rise Again (revival), Super Explosive Rush speed-impact; 3-stock to Gohan Beast.",
+  "playstyle": "Revival pre-Beast form",
+  "strengths": [
+   "The Power to Rise Again S2 (free) is a revival/comeback tool",
+   "Three-stock transform to S-tier Gohan Beast (+10,000 HP heal)",
+   "Wild Sense S1 (free) 1-hit auto-dodge",
+   "Explosive Bullet (30,000 ki) and speed-impact Super Explosive Rush (30,000 ki / 15,000 trigger); Explosive Onslaught ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP8 with only 40,000 HP — fragile for the cost",
+   "Average 1,750 recovery, no teleport",
+   "Transform gated behind 3 stocks"
+  ],
+  "howToFight": "Deny the 3-stock transform to S-tier Gohan Beast — that's a +10,000 HP swing. Wild Sense is one-hit; stagger to bait it. Account for The Power to Rise Again revival when you think you've closed the round; burst through it and starve his stocks."
+ },
+ "3000_03": {
+  "summary": "DP9 Gohan Beast; giant-ish (null HP), 2,000 ki recovery, Beast Sense + Guess It's My Turn (4 stock), Explosive Flash 40k-ki; best dual-meta pick (#10 Singles 128.7k, #1 DP 33.9k).",
+  "playstyle": "Best all-around carry",
+  "strengths": [
+   "The premier dual-meta DLC carry: #10 Singles (128.7k) AND #1 DP value (33.9k) — elite in both modes",
+   "2,000 ki auto-recovery keeps his kit fully funded",
+   "Beast Sense S1 (free) is a strong evasive/counter read; Guess It's My Turn S2 (4 stock) no-auto-guard damage buff",
+   "Super Explosive Ray (30,000 ki) and speed-impact Explosive Flash (40,000 ki / 20,000 trigger); Special Beam Cannon ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP9 premium — expensive even if efficient",
+   "No super-armor; relies on Beast Sense reads to defend",
+   "Guess It's My Turn punishable on activation"
+  ],
+  "howToFight": "Beast Sense is his defensive crutch — bait it with staggered pressure, then punish the whiff. Don't feed Guess It's My Turn (4-stock, no-auto-guard) reads. He has no armor, so ~2f Super Counters and Perception (2 stock) break his turns; starve ki to keep Explosive Flash and the ult offline. Respect his damage — one clean confirm hurts."
+ },
+ "3010_00": {
+  "summary": "DP5 Piccolo (SH) base; 40k HP, Wild Sense + False Courage, Full Power Rush speed-impact; 1-stock to Power Awakening toward Orange.",
+  "playstyle": "Orange-access base",
+  "strengths": [
+   "Cheap 1-stock transform to Power Awakening, climbing toward A-tier Orange Piccolo",
+   "Wild Sense S1 (free) 1-hit auto-dodge + False Courage S2 (free) buff",
+   "Full Power Energy Blast Volley (30,000 ki) and speed-impact Full Power Rush (30,000 ki / 15,000 trigger); Light Grenade ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP5 base is weak; value is in the Orange line",
+   "Average 1,750 recovery, no teleport",
+   "Wild Sense is one-hit only"
+  ],
+  "howToFight": "Deny the cheap transform path toward Orange Piccolo. Wild Sense is a single-hit read; stagger to bait it. Keep him stock-starved and pressure the base — no escape tool means your turn sticks."
+ },
+ "3010_01": {
+  "summary": "DP6 Piccolo (SH) Power Awakening; 40k HP, Wild Sense + This Won't End the Same Way, Chou Magougeki speed-impact; 2-stock to A-tier Orange.",
+  "playstyle": "Mid-form Namekian",
+  "strengths": [
+   "Two-stock transform to the A-tier Orange Piccolo (+5,000 HP heal)",
+   "Wild Sense S1 (free) 1-hit auto-dodge + This Won't End the Same Way S2 (free) buff",
+   "Explosive Ruin (30,000 ki) and speed-impact Chou Magougeki (30,000 ki / 15,000 trigger); Special Beam Cannon ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP6 intermediate; weaker than Orange",
+   "Average 1,750 recovery, no teleport",
+   "Wild Sense is one-hit only"
+  ],
+  "howToFight": "Keep him off the 2-stock transform to Orange Piccolo. Wild Sense is one-hit; bait it with a stagger. Starve ki and pressure the 40,000-HP body before he ascends."
+ },
+ "3011_00": {
+  "summary": "DP8 Orange Piccolo; 45k HP, Pump Up + That Shenron... (4 stock), Fierce Fist speed-impact; A-tier, can go Giant Form (2 stock).",
+  "playstyle": "Buffing armor anchor",
+  "strengths": [
+   "Premium 45,000 HP A-tier anchor with a strong buff/zone kit",
+   "That Shenron... S2 (4 stock) no-auto-guard buff for big damage; Pump Up S1 (free) self-amp",
+   "Two-stock transform to the Giant Form for armor/AoE swings",
+   "Explosive Demon Wave (30,000 ki) and speed-impact Fierce Fist (30,000 ki / 15,000 trigger); Special Beam Cannon ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP8 anchor — expensive on the budget",
+   "Average 1,750 ki recovery for the cost",
+   "Giant Form inherits the May-2026 giant nerfs"
+  ],
+  "howToFight": "Punish That Shenron... (4-stock, no-auto-guard) to deny his spike. If he goes Giant Form, switch to anti-giant zoning (charge Blasts knock back giants). Avoid trading into 45,000 HP; use ~2f Super Counters and starve ki to keep his ult offline."
+ },
+ "3012_00": {
+  "summary": "DP8 Orange Piccolo Giant Form; null-HP giant, Behave Yourself! (4 stock) + Mighty Fist 40k-ki, but giant-nerfed.",
+  "playstyle": "Armored giant form",
+  "strengths": [
+   "Giant-class: oversized hitbox, super-armor, grab-immune, big HP",
+   "Mighty Fist super at 40,000 ki is a heavy armored hit; Chou Makouhou (30,000 ki) AoE",
+   "Behave Yourself! S2 (4 stock) no-auto-guard buff; Apocalyptic Burst ult (50,000 ki)",
+   "Explosive Wave S1 (free) reversal"
+  ],
+  "weaknesses": [
+   "Subject to all giant nerfs — less damage, longer whiff recovery, takes more melee, slower back-dash",
+   "Slow 1,500 ki recovery / 8.0 charge",
+   "Charge Blasts now knock him back; reverts to standard Orange (0 stock)"
+  ],
+  "howToFight": "Zone it: charge Blasts now damage and knock back giants, so chip from range and stay mobile. Bait Mighty Fist or an armored swing and punish the long whiff recovery. Don't grab. He'll often revert to the 45,000-HP standard Orange — be ready to switch back to melee pressure."
+ },
+ "3020_00": {
+  "summary": "DP7 Gamma 1; 40k HP, 2,000 ki recovery (android), Android Barrier + hero-pose buff, Gamma Impact speed-impact.",
+  "playstyle": "Android zoner",
+  "strengths": [
+   "Android 2,000 ki auto-recovery keeps blasts funded despite 0.0 charge",
+   "Android Barrier S2 (free) gives an absorbing shield with no stock cost",
+   "Gamma Superhero Pose 1 S1 (free) buff/setup",
+   "Gamma Blaster (30,000 ki) and speed-impact Gamma Impact (30,000 ki / 15,000 trigger); Gamma Shift Shot ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP7 with only 40,000 HP — not durable",
+   "No transform; fixed ceiling",
+   "No super-armor; loses straight trades"
+  ],
+  "howToFight": "He'll Android Barrier to absorb — bait it out, then pressure. His 40,000 HP is low for DP7, so convert openings hard. Block the speed-impact Gamma Impact and starve ki to keep his ult offline."
+ },
+ "3030_00": {
+  "summary": "DP7 Gamma 2; 40k HP, 2,000 ki recovery (android), Android Barrier + hero-pose, Core Breaker ult; B-tier.",
+  "playstyle": "Android zoner",
+  "strengths": [
+   "Android 2,000 ki auto-recovery sustains his blast game",
+   "Android Barrier S2 (free) absorbing shield at no stock cost",
+   "Gamma Superhero Pose 2 S1 (free) buff/setup",
+   "Gamma Blaster (30,000 ki) and speed-impact Gamma Impact (30,000 ki / 15,000 trigger); Core Breaker ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP7 with only 40,000 HP — fragile for the cost",
+   "No transform; B-tier ceiling",
+   "No super-armor"
+  ],
+  "howToFight": "Bait out Android Barrier, then attack while it's down. His 40,000 HP is low for DP7 — press your advantage once in. Block the speed-impact Gamma Impact; deny ki to keep Core Breaker offline."
+ },
+ "3040_00": {
+  "summary": "DP9 Cell Max Giant boss; null-HP giant, Howl (4 stock) + Mighty Fist 40k-ki, unblockable Max Bomb ult (Jan 2026); B-tier after giant nerfs.",
+  "playstyle": "Boss giant anchor",
+  "strengths": [
+   "Giant-class boss: massive hitbox, super-armor, grab-immune, huge HP",
+   "Max Bomb ult (50,000 ki) was made UNBLOCKABLE in Jan-2026 — a guaranteed-damage threat if it lands",
+   "Max Cannon (30,000 ki) and Mighty Fist (40,000 ki); Howl S2 (4 stock) no-auto-guard buff",
+   "Explosive Wave S1 (free) AoE reversal"
+  ],
+  "weaknesses": [
+   "B-tier after broad May-2026 giant nerfs: less damage, longer recovery, takes more melee, slower back-dash",
+   "Slow 1,500 ki recovery / 8.0 charge",
+   "Charge Blasts now damage and knock him back"
+  ],
+  "howToFight": "His Max Bomb ult is unblockable, but it's still Vanish-evadable and auto-evasion-evadable (May-2026) — so dodge it, don't guard. Otherwise pure anti-giant: charge Blasts knock him back, stay mobile, punish his long whiff recovery, never grab. Deny the 50,000 ki so Max Bomb stays offline as long as possible."
+ },
+ "3050_00": {
+  "summary": "DP4 Goku (Mini) base; 40k HP, Sleep (4 stock) + Warm-up Exercise, double speed-impact supers; 1-stock to SS; D-tier.",
+  "playstyle": "Mini transform base",
+  "strengths": [
+   "Cheap 1-stock transform to SS (then SS4 later)",
+   "Sleep S1 (4 stock) no-auto-guard status tool to steal a turn",
+   "Both supers speed-impact: Quick Rush and Take This! (30,000 ki / 15,000 trigger each)",
+   "Power Pole Rush ult (50,000 ki); Warm-up Exercise S2 (free) buff"
+  ],
+  "weaknesses": [
+   "D-tier; weak DP4 base",
+   "Average 1,750 recovery, no escape tool",
+   "Long climb to the SS4 payoff"
+  ],
+  "howToFight": "Don't respect Sleep — block or step it, then punish the 4-stock investment. Deny the transform path toward SS4. He's D-tier with no escape; pressure freely and convert openings on the 40,000-HP base."
+ },
+ "3050_01": {
+  "summary": "DP5 Goku (Mini) SS; 40k HP, Afterimage + Full Power (4 stock), double speed-impact strikes; 2-stock to SS4.",
+  "playstyle": "Mini mid-form",
+  "strengths": [
+   "Two-stock transform to the SS4 ceiling form",
+   "Afterimage S1 (free) gives a 1-hit auto-dodge read; Full Power S2 (4 stock) no-auto-guard buff",
+   "Energy Strike and High-Speed Strike both speed-impact (30,000 ki / 15,000 trigger); Super Kamehameha ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP5 mid-form; weaker than SS4",
+   "Slow 1,500 ki recovery / 8.0 charge",
+   "Afterimage is one-hit only"
+  ],
+  "howToFight": "Keep him off the 2-stock SS4 transform. Afterimage is one-hit; stagger to bait it. Punish Full Power (no-auto-guard) and pressure the 40,000-HP body."
+ },
+ "3050_14": {
+  "summary": "DP7 Goku (Mini) SS4; 40k HP, Wild Sense + Limit Breaker Power (4 stock), Dragon Strike speed-impact + Kamehameha Reversal ult.",
+  "playstyle": "Mini SS4 ceiling",
+  "strengths": [
+   "Limit Breaker Power S2 (4 stock) no-auto-guard buff for big damage",
+   "Wild Sense S1 (free) gives a 1-hit auto-dodge counter",
+   "Super Kamehameha (30,000 ki) and speed-impact Dragon Strike (30,000 ki / 15,000 trigger); Kamehameha Reversal ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP7 with only 40,000 HP — fragile for the cost",
+   "Average recovery, no teleport",
+   "Limit Breaker Power punishable on activation"
+  ],
+  "howToFight": "Punish Limit Breaker Power (4-stock, no-auto-guard). Wild Sense is one-hit; bait it with a stagger. His 40,000 HP is low for DP7 — convert hard once in and starve ki to deny Kamehameha Reversal."
+ },
+ "3060_00": {
+  "summary": "DP4 Vegeta (Mini) base; 40k HP, Revive Bug (4 stock) self-revival + Afterimage, Rising Rush speed-impact; 1-3 stock transforms; C-tier.",
+  "playstyle": "Revival transform base",
+  "strengths": [
+   "Revive Bug S1 (4 stock) is a no-auto-guard self-revival/comeback tool — unusual on a DP4",
+   "Flexible 1/2/3-stock transforms up the Mini-Vegeta ladder (SS/SS2/SS3)",
+   "Afterimage S2 (free) 1-hit auto-dodge; Rising Rush speed-impact super (30,000 ki / 15,000 trigger)",
+   "Full-Power Energy Cannon (30,000 ki); Atomic Rush ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "C-tier DP4 base — weak until laddered",
+   "Average 1,750 recovery, no teleport",
+   "Revive Bug is punishable on activation"
+  ],
+  "howToFight": "Account for Revive Bug when you think you've closed the round — burst through the revival. Deny the cheap transforms up the ladder. Afterimage is one-hit; stagger to bait it. Punish Revive Bug activations and keep him stock-starved."
+ },
+ "3060_01": {
+  "summary": "DP5 Vegeta (Mini) SS; 40k HP, Saiyan Spirit + Afterimage, Overpowering Crush speed-impact; 1-stock steps up the ladder.",
+  "playstyle": "Mini mid-ladder",
+  "strengths": [
+   "Cheap 1-stock transforms onward to SS2/SS3",
+   "Saiyan Spirit S1 (free) charge + Afterimage S2 (free) 1-hit auto-dodge",
+   "Full-Power Energy Blast Volley (30,000 ki) and speed-impact Overpowering Crush (30,000 ki / 15,000 trigger); Galick Gun ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP5 mid-ladder; weaker than SS3",
+   "Slow 1,500 ki recovery / 8.0 charge",
+   "Afterimage is one-hit only"
+  ],
+  "howToFight": "Keep him off the cheap 1-stock transforms up the ladder. Afterimage is one-hit; stagger to bait it. Starve ki and pressure the 40,000-HP body."
+ },
+ "3060_02": {
+  "summary": "DP6 Vegeta (Mini) SS2; 40k HP, Afterimage Strike (3 stock) + Explosive Wave, Big Bang Attack ult; 1-stock to SS3.",
+  "playstyle": "Mini SS2 (AIS)",
+  "strengths": [
+   "Afterimage Strike S2 (3 stock) gives a launch-era auto-dodge window",
+   "Cheap 1-stock transform onward to SS3",
+   "Galick Gun and Head-On Impact both at 30,000 ki; Big Bang Attack ult (50,000 ki)",
+   "Explosive Wave S1 (free) reversal"
+  ],
+  "weaknesses": [
+   "DP6 mid-form; weaker than SS3",
+   "Slow 1,500 ki recovery / 8.0 charge",
+   "Afterimage Strike ends on a Super Counter"
+  ],
+  "howToFight": "If he pops Afterimage Strike, land a ~2f Super Counter to delete it. Keep him off the 1-stock SS3 transform. Starve ki and pressure the 40,000-HP body."
+ },
+ "3060_03": {
+  "summary": "DP7 Vegeta (Mini) SS3; 40k HP, Wild Sense + Special Training Results (4 stock), Vanishing Strike speed-impact; sneaky DP-value pick.",
+  "playstyle": "Mini SS3 ceiling",
+  "strengths": [
+   "Sneaky DP-value pick at the top of the Mini-Vegeta ladder",
+   "Special Training Results S2 (4 stock) no-auto-guard buff for big damage",
+   "Wild Sense S1 (free) 1-hit auto-dodge",
+   "Slash Flash (30,000 ki) and speed-impact Vanishing Strike (30,000 ki / 15,000 trigger); Galick Doom ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP7 with only 40,000 HP — fragile for the cost",
+   "Slow 1,500 ki recovery / 8.0 charge",
+   "Special Training Results punishable on activation"
+  ],
+  "howToFight": "Punish Special Training Results (4-stock, no-auto-guard). Wild Sense is one-hit; bait it with a stagger. His 40,000 HP is low for DP7 — convert hard once in and deny ki to keep Galick Doom offline."
+ },
+ "3070_00": {
+  "summary": "DP4 Glorio; 40k HP, Spark Bind (no-auto-guard) + Thunder Charge, Electric Whip speed-impact + Lightning Cannon ult.",
+  "playstyle": "Lightning trap skirmisher",
+  "strengths": [
+   "Spark Bind S1 (free) is a no-auto-guard binding/stun tool",
+   "Thunder Charge S2 (free) builds meter for free",
+   "Bolt Buster (20,000 ki) and speed-impact Electric Whip (30,000 ki / 15,000 trigger); Lightning Cannon ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP4 with no transform — low ceiling",
+   "Average 1,750 recovery, no mobility tool",
+   "Plain neutral outside the bind gimmick"
+  ],
+  "howToFight": "Bait Spark Bind and punish its recovery — it's his main opener. He has no transform or escape, so apply pressure and convert. Deny ki to keep Lightning Cannon offline."
+ },
+ "3080_00": {
+  "summary": "DP7 Third Eye Gomah; 40k HP, unblockable Magic Bind + Third Eye Barrier, Magic Cannon; 3-stock transform to Giant Gomah (+10,000 HP).",
+  "playstyle": "Magic-trap base",
+  "strengths": [
+   "Magic Bind S1 is unblockable + no-auto-guard for a free binding opener",
+   "Third Eye Barrier S2 (free) absorbing shield at no stock cost",
+   "Three-stock transform to Giant Gomah banking +10,000 HP",
+   "Magic Cannon (30,000 ki) and Magic Stream (20,000 ki); Magic Burst ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP7 with only 40,000 HP until it apes out",
+   "Average 1,750 recovery, no teleport",
+   "Unblockable bind is vanish-evadable"
+  ],
+  "howToFight": "Vanish (≈half a ki bar) the unblockable Magic Bind. Bait out Third Eye Barrier, then pressure. Deny the 3-stock transform to Giant Gomah (+10,000 HP swing) by keeping him stock-starved."
+ },
+ "3100_03": {
+  "summary": "DP7 Vegeta (DAIMA) SS3; 40k HP, Saiyan Burst (3 stock) + Limit Breaker Power (4 stock), Spirit Breaker speed-impact + Maximum Final Flash ult.",
+  "playstyle": "Double-buff Saiyan",
+  "strengths": [
+   "Two stacking buffs: Saiyan Burst S1 (3 stock) and Limit Breaker Power S2 (4 stock, no-auto-guard) for large damage",
+   "Infinite Blaster (30,000 ki) and speed-impact Spirit Breaker (40,000 ki / 20,000 trigger); Maximum Final Flash ult (50,000 ki)",
+   "Standard 40,000 HP"
+  ],
+  "weaknesses": [
+   "DP7 with only 40,000 HP — fragile for the cost",
+   "Slow 1,500 ki recovery / 8.0 charge",
+   "Both buffs are punishable on activation"
+  ],
+  "howToFight": "Punish his buff activations — Saiyan Burst (3 stock) and especially Limit Breaker Power (4-stock, no-auto-guard) leave windows. His 40,000 HP is low for DP7; convert hard once in. Vanish the speed-impact Spirit Breaker and starve ki to keep Maximum Final Flash offline."
+ },
+ "3110_00": {
+  "summary": "DP5 Majin Kuu; 40k HP, Snack Time (4 stock) heal + Majin Power, Majin Corkscrew speed-impact; D-tier.",
+  "playstyle": "Majin heal brawler",
+  "strengths": [
+   "Snack Time S1 (4 stock) is a no-auto-guard heal/sustain tool",
+   "Majin Power S2 (free) self-buff",
+   "Cresent Energy Wave (30,000 ki) and speed-impact Majin Corkscrew Attack (40,000 ki); Wild Rush ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "D-tier — weak kit overall",
+   "No transform; average recovery; no mobility",
+   "Snack Time is punishable on activation"
+  ],
+  "howToFight": "Punish Snack Time (4-stock, no-auto-guard) to deny the heal. He's D-tier with no escape — pressure freely and convert. Deny ki to keep Wild Rush offline."
+ },
+ "3120_04": {
+  "summary": "DP8 Goku (DAIMA) SS4; 40k HP, Saiyan Burst (3 stock) + Limit Breaker Power (4 stock), True Flash Dragon Kick speed-impact + Transcendent Kamehameha ult.",
+  "playstyle": "Double-buff SS4",
+  "strengths": [
+   "Stacking buffs: Saiyan Burst S1 (3 stock) and Limit Breaker Power S2 (4 stock, no-auto-guard) for huge damage",
+   "True Divine Dragon Strike (30,000 ki) and speed-impact True Flash Dragon Kick (30,000 ki / 15,000 trigger); Transcendent Kamehameha ult (50,000 ki)",
+   "Standard 40,000 HP"
+  ],
+  "weaknesses": [
+   "DP8 with only 40,000 HP — fragile for the cost",
+   "Slow 1,500 ki recovery / 8.0 charge",
+   "Both buffs punishable on activation; no super-armor"
+  ],
+  "howToFight": "Punish his buff activations — Saiyan Burst (3 stock) and Limit Breaker Power (4-stock, no-auto-guard). His 40,000 HP is low for a DP8 with no armor; use ~2f Super Counters to break strings and convert hard. Starve ki to keep Transcendent Kamehameha offline."
+ },
+ "3130_00": {
+  "summary": "DP2 Panzy; only 30k HP, Wasabi Bomb (no-auto-guard) + Last Chance Full Power (4 stock), Last Chance supers; D-tier joke.",
+  "playstyle": "Cheap gimmick body",
+  "strengths": [
+   "DP2 cost makes her near-free filler",
+   "Wasabi Bomb S1 (free) is a no-auto-guard status/trap tool",
+   "Last Chance Full Power S2 (4 stock) no-auto-guard comeback buff",
+   "Last Chance Shot (20,000 ki) and Last Chance Shock (40,000 ki); Kadan Combination ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "Rock-bottom 30,000 HP — dies to one combo in DP scaling",
+   "D-tier joke character; no transform, no mobility",
+   "Both skills are punishable on activation"
+  ],
+  "howToFight": "She has only 30,000 HP — open her up and delete the slot. Don't respect Wasabi Bomb; block or step it. Punish Last Chance Full Power (no-auto-guard). Nothing to fear defensively; convert one combo to remove her."
+ },
+ "3140_00": {
+  "summary": "DP7 Majin Duu; 40k HP, unblockable Powerful Shout + Snack Time (4 stock) heal, Rolling Attack speed-impact + Full-Power Special Attack ult.",
+  "playstyle": "Unblockable heal brawler",
+  "strengths": [
+   "Powerful Shout S1 is unblockable + no-auto-guard for a free stun opener",
+   "Snack Time S2 (4 stock) no-auto-guard heal/sustain tool",
+   "Powerful Cannon (30,000 ki) and speed-impact Rolling Attack (40,000 ki); Full-Power Special Attack ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "DP7 with only 40,000 HP — fragile for the cost",
+   "Average 1,750 recovery, no teleport",
+   "Unblockable is vanish-evadable; Snack Time punishable"
+  ],
+  "howToFight": "Vanish (≈half a ki bar) the unblockable Powerful Shout. Punish Snack Time (4-stock, no-auto-guard) to deny the heal. His 40,000 HP is low for DP7 — convert hard once in and starve ki to keep his ult offline."
+ },
+ "3150_00": {
+  "summary": "DP8 Giant Gomah; null-HP giant, dual Third Eye Heal/Enhance (4 stock each), Magic Tempest 40k-ki; giant-nerfed.",
+  "playstyle": "Self-healing giant",
+  "strengths": [
+   "Giant-class: oversized hitbox, super-armor, grab-immune, big HP",
+   "Two no-auto-guard support skills: Third Eye Heal and Third Eye Enhance (4 stock each) — rare giant sustain/buff",
+   "Magic Missile (30,000 ki) and Magic Tempest (40,000 ki); Giga Magic Burst ult (50,000 ki)"
+  ],
+  "weaknesses": [
+   "Subject to all giant nerfs — less damage, longer whiff recovery, takes more melee, slower back-dash",
+   "Slow 1,500 ki recovery / 8.0 charge",
+   "Both 4-stock support skills are punishable; charge Blasts knock him back"
+  ],
+  "howToFight": "Anti-giant zoning: charge Blasts now damage and knock him back, so chip from range and stay mobile. Punish his 4-stock Third Eye Heal/Enhance animations to deny sustain and buffs. Don't grab; bait an armored swing and punish the long whiff recovery."
+ },
+ "3160_00": {
+  "summary": "DP5 Shallot; 40k HP, Wild Sense + Ancient Soul, Meteor Break speed-impact + Rising Rush ult — Legends guest.",
+  "playstyle": "Saiyan all-rounder",
+  "strengths": [
+   "Wild Sense S1 (free) gives a 1-hit auto-dodge counter; Ancient Soul S2 (free) buff/setup",
+   "Wild Cannon (30,000 ki) and speed-impact Meteor Break (30,000 ki / 15,000 trigger); Rising Rush ult (50,000 ki)",
+   "Standard 40,000 HP and 1,750 recovery — clean all-rounder profile"
+  ],
+  "weaknesses": [
+   "DP5 with no transform — fixed ceiling",
+   "Average recovery, no teleport/mobility tool",
+   "Wild Sense is one-hit only"
+  ],
+  "howToFight": "Wild Sense is a single-hit read — stagger to bait it, then punish. No transform or escape beyond that, so apply steady pressure and convert. Deny ki to keep Rising Rush offline; block the speed-impact Meteor Break."
+ }
+}

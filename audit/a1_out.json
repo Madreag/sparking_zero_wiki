@@ -1,0 +1,3274 @@
+{
+ "stats": {
+  "pages": 245,
+  "pages_with_cid": 245,
+  "num_fields_checked": 1960,
+  "sgg_checked": 1715,
+  "hp_checked": 245,
+  "movesets_checked": 245,
+  "transform_pages": 96,
+  "super_moves": 412,
+  "s1_moves": 416,
+  "transform_edges": 163,
+  "playable": 208,
+  "nonplayable": 37
+ },
+ "by_sev": {},
+ "by_check": {},
+ "hp_dist": {
+  "30000": 9,
+  "35000": 15,
+  "40000": 150,
+  "45000": 16
+ },
+ "conf_counter": {
+  "datamined": 245
+ },
+ "nonplayable": [
+  [
+   "8000_01",
+   "all-members",
+   "All Members"
+  ],
+  [
+   "8000_06",
+   "ally",
+   "Ally"
+  ],
+  [
+   "8022_00",
+   "announcer",
+   "Announcer"
+  ],
+  [
+   "8057_00",
+   "belmod",
+   "Belmod"
+  ],
+  [
+   "8006_00",
+   "bulma",
+   "Bulma"
+  ],
+  [
+   "8008_00",
+   "bulma-super",
+   "Bulma (Super)"
+  ],
+  [
+   "1000_00",
+   "champa",
+   "Champa"
+  ],
+  [
+   "8010_00",
+   "chi-chi",
+   "Chi-Chi"
+  ],
+  [
+   "8011_00",
+   "chi-chi-super",
+   "Chi-Chi (Super)"
+  ],
+  [
+   "8026_00",
+   "dende-kid",
+   "Dende (Kid)"
+  ],
+  [
+   "8027_00",
+   "dende-youth",
+   "Dende (Youth)"
+  ],
+  [
+   "8030_00",
+   "elder-kai",
+   "Elder Kai"
+  ],
+  [
+   "8000_07",
+   "enemy",
+   "Enemy"
+  ],
+  [
+   "0000_44",
+   "goku-super-0000-44",
+   "Goku (Super)"
+  ],
+  [
+   "8034_00",
+   "grand-minister",
+   "Grand Minister"
+  ],
+  [
+   "7111_00",
+   "kadan",
+   "Kadan"
+  ],
+  [
+   "8014_00",
+   "kami-first-gen",
+   "Kami (First Gen.)"
+  ],
+  [
+   "8023_00",
+   "king-kai",
+   "King Kai"
+  ],
+  [
+   "8038_00",
+   "mai",
+   "Mai"
+  ],
+  [
+   "8028_00",
+   "namek-village-elder",
+   "Namek Village Elder"
+  ],
+  [
+   "8000_00",
+   "narration",
+   "Narrator"
+  ],
+  [
+   "8000_02",
+   "narration-with-voice",
+   "All Three"
+  ],
+  [
+   "8018_00",
+   "not-used",
+   "Fortuneteller Baba"
+  ],
+  [
+   "8039_00",
+   "oolong",
+   "Oolong"
+  ],
+  [
+   "8000_04",
+   "opponent",
+   "Opponent"
+  ],
+  [
+   "8000_03",
+   "option",
+   "Options"
+  ],
+  [
+   "8036_00",
+   "pilaf",
+   "Pilaf"
+  ],
+  [
+   "8002_00",
+   "porunga",
+   "Porunga"
+  ],
+  [
+   "8001_00",
+   "shenron",
+   "Shenron"
+  ],
+  [
+   "8037_00",
+   "shu",
+   "Shu"
+  ],
+  [
+   "8000_08",
+   "status",
+   "Status"
+  ],
+  [
+   "8004_00",
+   "super-shenron",
+   "Super Shenron"
+  ],
+  [
+   "8046_00",
+   "supreme-kai",
+   "Supreme Kai"
+  ],
+  [
+   "0020_64",
+   "vegeta-super-0020-64",
+   "Vegeta (Super)"
+  ],
+  [
+   "8063_00",
+   "videl-super",
+   "Videl (Super)"
+  ],
+  [
+   "8000_05",
+   "you",
+   "You"
+  ],
+  [
+   "8032_00",
+   "zen-oh",
+   "Zen-Oh"
+  ]
+ ],
+ "findings": [],
+ "dup_findings": [
+  {
+   "kind": "L:weaknesses",
+   "text": "No heal/regen — fixed effective durability once committed",
+   "owners": [
+    [
+     "0460_00",
+     "android-18"
+    ],
+    [
+     "0400_00",
+     "burter"
+    ],
+    [
+     "0160_00",
+     "cell-1st-form"
+    ],
+    [
+     "0161_00",
+     "cell-2nd-form"
+    ],
+    [
+     "0162_00",
+     "cell-perfect-form"
+    ],
+    [
+     "0153_20",
+     "frieza-super"
+    ],
+    [
+     "0150_00",
+     "frieza-z-1st-form"
+    ],
+    [
+     "0151_00",
+     "frieza-z-2nd-form"
+    ],
+    [
+     "0152_00",
+     "frieza-z-3rd-form"
+    ],
+    [
+     "0080_30",
+     "future-trunks"
+    ],
+    [
+     "0032_01",
+     "gohan-adult-super-saiyan"
+    ],
+    [
+     "0032_31",
+     "gohan-future-super-saiyan"
+    ],
+    [
+     "0032_30",
+     "gohan-future"
+    ],
+    [
+     "0031_01",
+     "gohan-teen-super-saiyan"
+    ],
+    [
+     "0031_00",
+     "gohan-teen"
+    ],
+    [
+     "0002_32",
+     "goku-gt-super-saiyan-3"
+    ],
+    [
+     "0002_31",
+     "goku-gt-super-saiyan"
+    ],
+    [
+     "0002_30",
+     "goku-gt"
+    ],
+    [
+     "0001_42",
+     "goku-super-super-saiyan-god"
+    ],
+    [
+     "0000_41",
+     "goku-super-super-saiyan"
+    ],
+    [
+     "0000_40",
+     "goku-super"
+    ],
+    [
+     "0000_22",
+     "goku-z-end-super-saiyan-2"
+    ],
+    [
+     "0000_21",
+     "goku-z-end-super-saiyan"
+    ],
+    [
+     "0000_20",
+     "goku-z-end"
+    ],
+    [
+     "0000_11",
+     "goku-z-mid-super-saiyan"
+    ],
+    [
+     "0000_10",
+     "goku-z-mid"
+    ],
+    [
+     "0090_00",
+     "goten"
+    ],
+    [
+     "0120_01",
+     "gotenks-super-saiyan"
+    ],
+    [
+     "0120_00",
+     "gotenks"
+    ],
+    [
+     "0171_00",
+     "majin-buu-evil"
+    ],
+    [
+     "0170_00",
+     "majin-buu"
+    ],
+    [
+     "0240_01",
+     "majuub-gt"
+    ],
+    [
+     "0153_10",
+     "mecha-frieza"
+    ],
+    [
+     "0172_11",
+     "super-buu-gohan-absorbed"
+    ],
+    [
+     "0110_04",
+     "super-gogeta-z"
+    ],
+    [
+     "0081_20",
+     "super-trunks"
+    ],
+    [
+     "0351_00",
+     "super-zarbon"
+    ],
+    [
+     "0082_00",
+     "trunks-kid"
+    ],
+    [
+     "0080_11",
+     "trunks-melee-super-saiyan"
+    ],
+    [
+     "0080_10",
+     "trunks-melee"
+    ],
+    [
+     "0080_01",
+     "trunks-sword-super-saiyan"
+    ],
+    [
+     "0080_00",
+     "trunks-sword"
+    ],
+    [
+     "0240_00",
+     "uub-gt"
+    ],
+    [
+     "0022_62",
+     "vegeta-super-super-saiyan-god"
+    ],
+    [
+     "0020_61",
+     "vegeta-super-super-saiyan"
+    ],
+    [
+     "0020_60",
+     "vegeta-super"
+    ],
+    [
+     "0020_11",
+     "vegeta-z-early-super-saiyan"
+    ],
+    [
+     "0020_10",
+     "vegeta-z-early"
+    ],
+    [
+     "0020_32",
+     "vegeta-z-end-super-saiyan-2"
+    ],
+    [
+     "0020_31",
+     "vegeta-z-end-super-saiyan"
+    ],
+    [
+     "0020_30",
+     "vegeta-z-end"
+    ],
+    [
+     "0020_00",
+     "vegeta-z-scouter"
+    ],
+    [
+     "0350_00",
+     "zarbon"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "owners": [
+    [
+     "0470_00",
+     "android-19"
+    ],
+    [
+     "0490_00",
+     "babidi"
+    ],
+    [
+     "0310_00",
+     "bardock"
+    ],
+    [
+     "0380_00",
+     "captain-ginyu"
+    ],
+    [
+     "0161_00",
+     "cell-2nd-form"
+    ],
+    [
+     "0163_00",
+     "cell-jr"
+    ],
+    [
+     "0370_00",
+     "cui"
+    ],
+    [
+     "0360_00",
+     "dodoria"
+    ],
+    [
+     "0480_00",
+     "dr-gero"
+    ],
+    [
+     "0153_20",
+     "frieza-super"
+    ],
+    [
+     "0150_00",
+     "frieza-z-1st-form"
+    ],
+    [
+     "0151_00",
+     "frieza-z-2nd-form"
+    ],
+    [
+     "0152_00",
+     "frieza-z-3rd-form"
+    ],
+    [
+     "0110_01",
+     "gogeta-super-super-saiyan"
+    ],
+    [
+     "0032_01",
+     "gohan-adult-super-saiyan"
+    ],
+    [
+     "0031_01",
+     "gohan-teen-super-saiyan"
+    ],
+    [
+     "0002_32",
+     "goku-gt-super-saiyan-3"
+    ],
+    [
+     "0000_43",
+     "goku-super-super-saiyan-god-super-saiyan"
+    ],
+    [
+     "0001_42",
+     "goku-super-super-saiyan-god"
+    ],
+    [
+     "0000_40",
+     "goku-super"
+    ],
+    [
+     "0000_00",
+     "goku-z-early"
+    ],
+    [
+     "0000_22",
+     "goku-z-end-super-saiyan-2"
+    ],
+    [
+     "0000_10",
+     "goku-z-mid"
+    ],
+    [
+     "0120_02",
+     "gotenks-super-saiyan-3"
+    ],
+    [
+     "0120_01",
+     "gotenks-super-saiyan"
+    ],
+    [
+     "0420_00",
+     "guldo"
+    ],
+    [
+     "0410_00",
+     "jeice"
+    ],
+    [
+     "0173_00",
+     "kid-buu"
+    ],
+    [
+     "0430_00",
+     "king-cold"
+    ],
+    [
+     "0171_00",
+     "majin-buu-evil"
+    ],
+    [
+     "0170_00",
+     "majin-buu"
+    ],
+    [
+     "0240_01",
+     "majuub-gt"
+    ],
+    [
+     "0153_10",
+     "mecha-frieza"
+    ],
+    [
+     "0040_20",
+     "nail"
+    ],
+    [
+     "0340_00",
+     "nappa"
+    ],
+    [
+     "0040_00",
+     "piccolo"
+    ],
+    [
+     "0320_00",
+     "raditz"
+    ],
+    [
+     "0081_20",
+     "super-trunks"
+    ],
+    [
+     "0351_00",
+     "super-zarbon"
+    ],
+    [
+     "0082_01",
+     "trunks-kid-super-saiyan"
+    ],
+    [
+     "0080_11",
+     "trunks-melee-super-saiyan"
+    ],
+    [
+     "0080_01",
+     "trunks-sword-super-saiyan"
+    ],
+    [
+     "0020_50",
+     "vegeta-gt-super-saiyan-4"
+    ],
+    [
+     "0022_62",
+     "vegeta-super-super-saiyan-god"
+    ],
+    [
+     "0020_61",
+     "vegeta-super-super-saiyan"
+    ],
+    [
+     "0020_60",
+     "vegeta-super"
+    ],
+    [
+     "0020_11",
+     "vegeta-z-early-super-saiyan"
+    ],
+    [
+     "0020_10",
+     "vegeta-z-early"
+    ],
+    [
+     "0020_31",
+     "vegeta-z-end-super-saiyan"
+    ],
+    [
+     "0020_00",
+     "vegeta-z-scouter"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Explosive Wave knockback/ki-shield reset",
+   "owners": [
+    [
+     "0163_00",
+     "cell-jr"
+    ],
+    [
+     "0162_00",
+     "cell-perfect-form"
+    ],
+    [
+     "0151_00",
+     "frieza-z-2nd-form"
+    ],
+    [
+     "0152_00",
+     "frieza-z-3rd-form"
+    ],
+    [
+     "0032_01",
+     "gohan-adult-super-saiyan"
+    ],
+    [
+     "0031_01",
+     "gohan-teen-super-saiyan"
+    ],
+    [
+     "0410_00",
+     "jeice"
+    ],
+    [
+     "0430_00",
+     "king-cold"
+    ],
+    [
+     "0081_20",
+     "super-trunks"
+    ],
+    [
+     "0082_01",
+     "trunks-kid-super-saiyan"
+    ],
+    [
+     "0080_11",
+     "trunks-melee-super-saiyan"
+    ],
+    [
+     "0080_10",
+     "trunks-melee"
+    ],
+    [
+     "0080_01",
+     "trunks-sword-super-saiyan"
+    ],
+    [
+     "0020_50",
+     "vegeta-gt-super-saiyan-4"
+    ],
+    [
+     "0022_62",
+     "vegeta-super-super-saiyan-god"
+    ],
+    [
+     "0020_60",
+     "vegeta-super"
+    ],
+    [
+     "0020_11",
+     "vegeta-z-early-super-saiyan"
+    ],
+    [
+     "0020_10",
+     "vegeta-z-early"
+    ],
+    [
+     "0020_32",
+     "vegeta-z-end-super-saiyan-2"
+    ],
+    [
+     "0020_31",
+     "vegeta-z-end-super-saiyan"
+    ],
+    [
+     "0020_00",
+     "vegeta-z-scouter"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "No transform path — fixed kit with no mid-match power spike",
+   "owners": [
+    [
+     "0490_00",
+     "babidi"
+    ],
+    [
+     "0400_00",
+     "burter"
+    ],
+    [
+     "0380_00",
+     "captain-ginyu"
+    ],
+    [
+     "0163_00",
+     "cell-jr"
+    ],
+    [
+     "0370_00",
+     "cui"
+    ],
+    [
+     "0360_00",
+     "dodoria"
+    ],
+    [
+     "0030_00",
+     "gohan-kid"
+    ],
+    [
+     "0002_50",
+     "goku-teen"
+    ],
+    [
+     "0000_00",
+     "goku-z-early"
+    ],
+    [
+     "0410_00",
+     "jeice"
+    ],
+    [
+     "0050_00",
+     "krillin"
+    ],
+    [
+     "0040_20",
+     "nail"
+    ],
+    [
+     "0340_00",
+     "nappa"
+    ],
+    [
+     "0230_00",
+     "pan-gt"
+    ],
+    [
+     "0040_10",
+     "piccolo-fused-with-kami"
+    ],
+    [
+     "0040_00",
+     "piccolo"
+    ],
+    [
+     "0320_00",
+     "raditz"
+    ],
+    [
+     "0060_00",
+     "yamcha"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "Average 1,750 recovery, no teleport",
+   "owners": [
+    [
+     "1190_00",
+     "bergamo"
+    ],
+    [
+     "0630_00",
+     "bojack"
+    ],
+    [
+     "0890_02",
+     "cabba-super-saiyan-2"
+    ],
+    [
+     "0890_01",
+     "cabba-super-saiyan"
+    ],
+    [
+     "0900_02",
+     "caulifla-super-saiyan-2"
+    ],
+    [
+     "0900_00",
+     "caulifla"
+    ],
+    [
+     "1331_00",
+     "kakunsa"
+    ],
+    [
+     "0912_00",
+     "kale-super-saiyan"
+    ],
+    [
+     "3140_00",
+     "majin-duu"
+    ],
+    [
+     "3010_01",
+     "piccolo-super-hero-power-awakening"
+    ],
+    [
+     "3010_00",
+     "piccolo-super-hero"
+    ],
+    [
+     "0700_00",
+     "syn-shenron-gt"
+    ],
+    [
+     "0660_00",
+     "tapion"
+    ],
+    [
+     "3080_00",
+     "third-eye-gomah"
+    ],
+    [
+     "0940_00",
+     "toppo"
+    ],
+    [
+     "3000_02",
+     "ultimate-gohan-super-hero"
+    ],
+    [
+     "3060_00",
+     "vegeta-mini"
+    ],
+    [
+     "0810_00",
+     "zamasu"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Super Kamehameha (30,000-ki super)",
+   "owners": [
+    [
+     "0162_00",
+     "cell-perfect-form"
+    ],
+    [
+     "0110_01",
+     "gogeta-super-super-saiyan"
+    ],
+    [
+     "0031_01",
+     "gohan-teen-super-saiyan"
+    ],
+    [
+     "0002_32",
+     "goku-gt-super-saiyan-3"
+    ],
+    [
+     "0002_31",
+     "goku-gt-super-saiyan"
+    ],
+    [
+     "0000_41",
+     "goku-super-super-saiyan"
+    ],
+    [
+     "0000_40",
+     "goku-super"
+    ],
+    [
+     "0000_21",
+     "goku-z-end-super-saiyan"
+    ],
+    [
+     "0000_11",
+     "goku-z-mid-super-saiyan"
+    ],
+    [
+     "0173_00",
+     "kid-buu"
+    ],
+    [
+     "0171_00",
+     "majin-buu-evil"
+    ],
+    [
+     "0170_00",
+     "majin-buu"
+    ],
+    [
+     "0172_11",
+     "super-buu-gohan-absorbed"
+    ],
+    [
+     "0240_00",
+     "uub-gt"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Wild Sense counter-dodge (gutted Dec 2025 — situational now)",
+   "owners": [
+    [
+     "0080_30",
+     "future-trunks"
+    ],
+    [
+     "0032_30",
+     "gohan-future"
+    ],
+    [
+     "0031_00",
+     "gohan-teen"
+    ],
+    [
+     "0002_31",
+     "goku-gt-super-saiyan"
+    ],
+    [
+     "0000_41",
+     "goku-super-super-saiyan"
+    ],
+    [
+     "0000_21",
+     "goku-z-end-super-saiyan"
+    ],
+    [
+     "0000_20",
+     "goku-z-end"
+    ],
+    [
+     "0000_11",
+     "goku-z-mid-super-saiyan"
+    ],
+    [
+     "0155_00",
+     "golden-frieza"
+    ],
+    [
+     "0040_10",
+     "piccolo-fused-with-kami"
+    ],
+    [
+     "0080_10",
+     "trunks-melee"
+    ],
+    [
+     "0240_00",
+     "uub-gt"
+    ],
+    [
+     "0020_32",
+     "vegeta-z-end-super-saiyan-2"
+    ],
+    [
+     "0350_00",
+     "zarbon"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "Leans on Wild Sense, which was gutted Dec 2025 — situational defense",
+   "owners": [
+    [
+     "0080_30",
+     "future-trunks"
+    ],
+    [
+     "0032_30",
+     "gohan-future"
+    ],
+    [
+     "0031_00",
+     "gohan-teen"
+    ],
+    [
+     "0002_31",
+     "goku-gt-super-saiyan"
+    ],
+    [
+     "0000_41",
+     "goku-super-super-saiyan"
+    ],
+    [
+     "0000_21",
+     "goku-z-end-super-saiyan"
+    ],
+    [
+     "0000_20",
+     "goku-z-end"
+    ],
+    [
+     "0000_11",
+     "goku-z-mid-super-saiyan"
+    ],
+    [
+     "0155_00",
+     "golden-frieza"
+    ],
+    [
+     "0040_10",
+     "piccolo-fused-with-kami"
+    ],
+    [
+     "0080_10",
+     "trunks-melee"
+    ],
+    [
+     "0240_00",
+     "uub-gt"
+    ],
+    [
+     "0020_32",
+     "vegeta-z-end-super-saiyan-2"
+    ],
+    [
+     "0350_00",
+     "zarbon"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "Slow 1,500 ki recovery / 8.0 charge",
+   "owners": [
+    [
+     "3040_00",
+     "cell-max"
+    ],
+    [
+     "3150_00",
+     "giant-gomah"
+    ],
+    [
+     "3000_01",
+     "gohan-super-hero-super-saiyan"
+    ],
+    [
+     "3120_04",
+     "goku-daima-super-saiyan-4"
+    ],
+    [
+     "3050_01",
+     "goku-mini-super-saiyan"
+    ],
+    [
+     "0681_00",
+     "great-ape-baby-gt"
+    ],
+    [
+     "0670_00",
+     "hirudegarn"
+    ],
+    [
+     "3012_00",
+     "orange-piccolo-giant-form"
+    ],
+    [
+     "0680_01",
+     "super-baby-1-gt"
+    ],
+    [
+     "3100_03",
+     "vegeta-daima-super-saiyan-3"
+    ],
+    [
+     "3060_02",
+     "vegeta-mini-super-saiyan-2"
+    ],
+    [
+     "3060_03",
+     "vegeta-mini-super-saiyan-3"
+    ],
+    [
+     "3060_01",
+     "vegeta-mini-super-saiyan"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "DP4 — efficient DP-queue filler; frees budget for a premium carry",
+   "owners": [
+    [
+     "0310_00",
+     "bardock"
+    ],
+    [
+     "0380_00",
+     "captain-ginyu"
+    ],
+    [
+     "0480_00",
+     "dr-gero"
+    ],
+    [
+     "0031_00",
+     "gohan-teen"
+    ],
+    [
+     "0000_00",
+     "goku-z-early"
+    ],
+    [
+     "0090_00",
+     "goten"
+    ],
+    [
+     "0430_00",
+     "king-cold"
+    ],
+    [
+     "0040_20",
+     "nail"
+    ],
+    [
+     "0040_00",
+     "piccolo"
+    ],
+    [
+     "0082_00",
+     "trunks-kid"
+    ],
+    [
+     "0080_00",
+     "trunks-sword"
+    ],
+    [
+     "0240_00",
+     "uub-gt"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Saiyan Spirit ki/attack buff",
+   "owners": [
+    [
+     "0310_00",
+     "bardock"
+    ],
+    [
+     "0002_32",
+     "goku-gt-super-saiyan-3"
+    ],
+    [
+     "0000_21",
+     "goku-z-end-super-saiyan"
+    ],
+    [
+     "0340_00",
+     "nappa"
+    ],
+    [
+     "0230_00",
+     "pan-gt"
+    ],
+    [
+     "0320_00",
+     "raditz"
+    ],
+    [
+     "0022_62",
+     "vegeta-super-super-saiyan-god"
+    ],
+    [
+     "0020_61",
+     "vegeta-super-super-saiyan"
+    ],
+    [
+     "0020_31",
+     "vegeta-z-end-super-saiyan"
+    ],
+    [
+     "0020_30",
+     "vegeta-z-end"
+    ],
+    [
+     "0020_00",
+     "vegeta-z-scouter"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Full-Power Energy Wave (30,000-ki super)",
+   "owners": [
+    [
+     "0470_00",
+     "android-19"
+    ],
+    [
+     "0380_00",
+     "captain-ginyu"
+    ],
+    [
+     "0370_00",
+     "cui"
+    ],
+    [
+     "0480_00",
+     "dr-gero"
+    ],
+    [
+     "0120_00",
+     "gotenks"
+    ],
+    [
+     "0410_00",
+     "jeice"
+    ],
+    [
+     "0040_20",
+     "nail"
+    ],
+    [
+     "0330_00",
+     "saibaman"
+    ],
+    [
+     "0082_01",
+     "trunks-kid-super-saiyan"
+    ],
+    [
+     "0082_00",
+     "trunks-kid"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "35,000 HP — below the 40k baseline, dies a combo earlier",
+   "owners": [
+    [
+     "0163_00",
+     "cell-jr"
+    ],
+    [
+     "0002_50",
+     "goku-teen"
+    ],
+    [
+     "0090_00",
+     "goten"
+    ],
+    [
+     "0050_00",
+     "krillin"
+    ],
+    [
+     "0230_00",
+     "pan-gt"
+    ],
+    [
+     "0330_00",
+     "saibaman"
+    ],
+    [
+     "0082_01",
+     "trunks-kid-super-saiyan"
+    ],
+    [
+     "0082_00",
+     "trunks-kid"
+    ],
+    [
+     "0060_00",
+     "yamcha"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "False Courage instant ki gain",
+   "owners": [
+    [
+     "0470_00",
+     "android-19"
+    ],
+    [
+     "0370_00",
+     "cui"
+    ],
+    [
+     "0360_00",
+     "dodoria"
+    ],
+    [
+     "0480_00",
+     "dr-gero"
+    ],
+    [
+     "0002_50",
+     "goku-teen"
+    ],
+    [
+     "0120_01",
+     "gotenks-super-saiyan"
+    ],
+    [
+     "0040_10",
+     "piccolo-fused-with-kami"
+    ],
+    [
+     "0351_00",
+     "super-zarbon"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "Wild Sense is one-hit only",
+   "owners": [
+    [
+     "0890_01",
+     "cabba-super-saiyan"
+    ],
+    [
+     "0900_00",
+     "caulifla"
+    ],
+    [
+     "1331_00",
+     "kakunsa"
+    ],
+    [
+     "0912_00",
+     "kale-super-saiyan"
+    ],
+    [
+     "0920_00",
+     "kefla"
+    ],
+    [
+     "3010_01",
+     "piccolo-super-hero-power-awakening"
+    ],
+    [
+     "3010_00",
+     "piccolo-super-hero"
+    ],
+    [
+     "3160_00",
+     "shallot"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "DP3 — efficient DP-queue filler; frees budget for a premium carry",
+   "owners": [
+    [
+     "0490_00",
+     "babidi"
+    ],
+    [
+     "0400_00",
+     "burter"
+    ],
+    [
+     "0370_00",
+     "cui"
+    ],
+    [
+     "0030_00",
+     "gohan-kid"
+    ],
+    [
+     "0410_00",
+     "jeice"
+    ],
+    [
+     "0050_00",
+     "krillin"
+    ],
+    [
+     "0060_00",
+     "yamcha"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Explosive Wave S1 (free) reversal",
+   "owners": [
+    [
+     "0680_00",
+     "baby-vegeta-gt"
+    ],
+    [
+     "0890_02",
+     "cabba-super-saiyan-2"
+    ],
+    [
+     "0890_01",
+     "cabba-super-saiyan"
+    ],
+    [
+     "0890_00",
+     "cabba"
+    ],
+    [
+     "3012_00",
+     "orange-piccolo-giant-form"
+    ],
+    [
+     "0680_02",
+     "super-baby-2-gt"
+    ],
+    [
+     "3060_02",
+     "vegeta-mini-super-saiyan-2"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Kamehameha (30,000-ki super)",
+   "owners": [
+    [
+     "0160_00",
+     "cell-1st-form"
+    ],
+    [
+     "0002_30",
+     "goku-gt"
+    ],
+    [
+     "0002_50",
+     "goku-teen"
+    ],
+    [
+     "0000_00",
+     "goku-z-early"
+    ],
+    [
+     "0000_20",
+     "goku-z-end"
+    ],
+    [
+     "0230_00",
+     "pan-gt"
+    ],
+    [
+     "0060_00",
+     "yamcha"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Solar Flare — unblockable screen-blind opener",
+   "owners": [
+    [
+     "0160_00",
+     "cell-1st-form"
+    ],
+    [
+     "0161_00",
+     "cell-2nd-form"
+    ],
+    [
+     "0163_00",
+     "cell-jr"
+    ],
+    [
+     "0080_30",
+     "future-trunks"
+    ],
+    [
+     "0002_30",
+     "goku-gt"
+    ],
+    [
+     "0000_00",
+     "goku-z-early"
+    ],
+    [
+     "0050_00",
+     "krillin"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "Outclassed by transforming/fusion picks at equivalent DP — no standout edge",
+   "owners": [
+    [
+     "0160_00",
+     "cell-1st-form"
+    ],
+    [
+     "0032_31",
+     "gohan-future-super-saiyan"
+    ],
+    [
+     "0002_30",
+     "goku-gt"
+    ],
+    [
+     "0120_00",
+     "gotenks"
+    ],
+    [
+     "0172_11",
+     "super-buu-gohan-absorbed"
+    ],
+    [
+     "0080_00",
+     "trunks-sword"
+    ],
+    [
+     "0020_30",
+     "vegeta-z-end"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "8.0 ki charge / 1,500/s recovery",
+   "owners": [
+    [
+     "0154_00",
+     "frieza-z-full-power"
+    ],
+    [
+     "0080_31",
+     "future-trunks-super-saiyan"
+    ],
+    [
+     "0110_02",
+     "gogeta-gt-super-saiyan-4"
+    ],
+    [
+     "0110_03",
+     "gogeta-super-super-saiyan-god-super-saiyan"
+    ],
+    [
+     "0000_23",
+     "goku-z-end-super-saiyan-3"
+    ],
+    [
+     "0100_01",
+     "super-vegito"
+    ],
+    [
+     "0020_63",
+     "vegeta-super-super-saiyan-god-super-saiyan"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Full Power attack buff (4 stock)",
+   "owners": [
+    [
+     "0031_01",
+     "gohan-teen-super-saiyan"
+    ],
+    [
+     "0002_31",
+     "goku-gt-super-saiyan"
+    ],
+    [
+     "0000_22",
+     "goku-z-end-super-saiyan-2"
+    ],
+    [
+     "0040_20",
+     "nail"
+    ],
+    [
+     "0320_00",
+     "raditz"
+    ],
+    [
+     "0020_10",
+     "vegeta-z-early"
+    ],
+    [
+     "0350_00",
+     "zarbon"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "Average 1,750 recovery, no escape tool",
+   "owners": [
+    [
+     "0680_00",
+     "baby-vegeta-gt"
+    ],
+    [
+     "0890_00",
+     "cabba"
+    ],
+    [
+     "3000_00",
+     "gohan-super-hero"
+    ],
+    [
+     "3050_00",
+     "goku-mini"
+    ],
+    [
+     "0910_00",
+     "kale"
+    ],
+    [
+     "0590_00",
+     "lord-slug"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "Bottom-tier kit — limited damage ceiling and few defensive tools",
+   "owners": [
+    [
+     "0310_00",
+     "bardock"
+    ],
+    [
+     "0190_00",
+     "chiaotzu"
+    ],
+    [
+     "0420_00",
+     "guldo"
+    ],
+    [
+     "0430_00",
+     "king-cold"
+    ],
+    [
+     "0330_00",
+     "saibaman"
+    ],
+    [
+     "0130_00",
+     "videl"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "DP7 with only 40,000 HP — fragile for the cost",
+   "owners": [
+    [
+     "0890_02",
+     "cabba-super-saiyan-2"
+    ],
+    [
+     "3030_00",
+     "gamma-2"
+    ],
+    [
+     "3050_14",
+     "goku-mini-super-saiyan-4"
+    ],
+    [
+     "3140_00",
+     "majin-duu"
+    ],
+    [
+     "3100_03",
+     "vegeta-daima-super-saiyan-3"
+    ],
+    [
+     "3060_03",
+     "vegeta-mini-super-saiyan-3"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "High Speed Rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "owners": [
+    [
+     "0152_00",
+     "frieza-z-3rd-form"
+    ],
+    [
+     "0120_00",
+     "gotenks"
+    ],
+    [
+     "0330_00",
+     "saibaman"
+    ],
+    [
+     "0082_01",
+     "trunks-kid-super-saiyan"
+    ],
+    [
+     "0082_00",
+     "trunks-kid"
+    ],
+    [
+     "0080_10",
+     "trunks-melee"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Instant Transmission teleport repositioning",
+   "owners": [
+    [
+     "0110_01",
+     "gogeta-super-super-saiyan"
+    ],
+    [
+     "0000_43",
+     "goku-super-super-saiyan-god-super-saiyan"
+    ],
+    [
+     "0000_40",
+     "goku-super"
+    ],
+    [
+     "0000_22",
+     "goku-z-end-super-saiyan-2"
+    ],
+    [
+     "0000_20",
+     "goku-z-end"
+    ],
+    [
+     "0173_00",
+     "kid-buu"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "DP8 — premium cost, poor points-per-DP value",
+   "owners": [
+    [
+     "0110_01",
+     "gogeta-super-super-saiyan"
+    ],
+    [
+     "0000_43",
+     "goku-super-super-saiyan-god-super-saiyan"
+    ],
+    [
+     "0155_00",
+     "golden-frieza"
+    ],
+    [
+     "0120_02",
+     "gotenks-super-saiyan-3"
+    ],
+    [
+     "0110_04",
+     "super-gogeta-z"
+    ],
+    [
+     "0020_50",
+     "vegeta-gt-super-saiyan-4"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Afterimage Strike auto-dodge (3 stock; ends on a Super Counter post-May-2026)",
+   "owners": [
+    [
+     "0030_00",
+     "gohan-kid"
+    ],
+    [
+     "0002_30",
+     "goku-gt"
+    ],
+    [
+     "0002_50",
+     "goku-teen"
+    ],
+    [
+     "0050_00",
+     "krillin"
+    ],
+    [
+     "0230_00",
+     "pan-gt"
+    ],
+    [
+     "0130_00",
+     "videl"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Wild Sense S1 (free) gives a 1-hit auto-dodge counter",
+   "owners": [
+    [
+     "0620_00",
+     "android-13"
+    ],
+    [
+     "0900_02",
+     "caulifla-super-saiyan-2"
+    ],
+    [
+     "3050_14",
+     "goku-mini-super-saiyan-4"
+    ],
+    [
+     "1331_00",
+     "kakunsa"
+    ],
+    [
+     "0700_01",
+     "omega-shenron-gt"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "30,000 HP — melts in roughly two combos",
+   "owners": [
+    [
+     "0490_00",
+     "babidi"
+    ],
+    [
+     "0190_00",
+     "chiaotzu"
+    ],
+    [
+     "0030_00",
+     "gohan-kid"
+    ],
+    [
+     "0420_00",
+     "guldo"
+    ],
+    [
+     "0130_00",
+     "videl"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "Average 1,750 ki recovery for the cost",
+   "owners": [
+    [
+     "0601_00",
+     "cooler-final-form"
+    ],
+    [
+     "0810_01",
+     "fused-zamasu"
+    ],
+    [
+     "0920_02",
+     "kefla-super-saiyan-2"
+    ],
+    [
+     "0700_01",
+     "omega-shenron-gt"
+    ],
+    [
+     "3011_00",
+     "orange-piccolo"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "Slow 6 ki charge — sluggish to fund supers",
+   "owners": [
+    [
+     "0490_00",
+     "babidi"
+    ],
+    [
+     "0162_00",
+     "cell-perfect-form"
+    ],
+    [
+     "0173_00",
+     "kid-buu"
+    ],
+    [
+     "0130_00",
+     "videl"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Special Beam Cannon (30,000-ki super)",
+   "owners": [
+    [
+     "0160_00",
+     "cell-1st-form"
+    ],
+    [
+     "0163_00",
+     "cell-jr"
+    ],
+    [
+     "0032_31",
+     "gohan-future-super-saiyan"
+    ],
+    [
+     "0040_10",
+     "piccolo-fused-with-kami"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Super Kamehameha 50,000-ki ultimate finisher",
+   "owners": [
+    [
+     "0163_00",
+     "cell-jr"
+    ],
+    [
+     "0032_30",
+     "gohan-future"
+    ],
+    [
+     "0031_00",
+     "gohan-teen"
+    ],
+    [
+     "0000_22",
+     "goku-z-end-super-saiyan-2"
+    ]
+   ]
+  },
+  {
+   "kind": "T:howToFight",
+   "text": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the High Speed Rush rather than mashing into it.",
+   "owners": [
+    [
+     "0152_00",
+     "frieza-z-3rd-form"
+    ],
+    [
+     "0120_00",
+     "gotenks"
+    ],
+    [
+     "0082_01",
+     "trunks-kid-super-saiyan"
+    ],
+    [
+     "0082_00",
+     "trunks-kid"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "High-Tension self ki-charge buff",
+   "owners": [
+    [
+     "0152_00",
+     "frieza-z-3rd-form"
+    ],
+    [
+     "0002_32",
+     "goku-gt-super-saiyan-3"
+    ],
+    [
+     "0172_11",
+     "super-buu-gohan-absorbed"
+    ],
+    [
+     "0351_00",
+     "super-zarbon"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Full-Power Energy Blast Volley (30,000-ki super)",
+   "owners": [
+    [
+     "0032_01",
+     "gohan-adult-super-saiyan"
+    ],
+    [
+     "0002_32",
+     "goku-gt-super-saiyan-3"
+    ],
+    [
+     "0002_31",
+     "goku-gt-super-saiyan"
+    ],
+    [
+     "0420_00",
+     "guldo"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Super Explosive Wave 50,000-ki ultimate finisher",
+   "owners": [
+    [
+     "0002_31",
+     "goku-gt-super-saiyan"
+    ],
+    [
+     "0081_20",
+     "super-trunks"
+    ],
+    [
+     "0240_00",
+     "uub-gt"
+    ],
+    [
+     "0020_10",
+     "vegeta-z-early"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Paralyze Beam — unblockable stun",
+   "owners": [
+    [
+     "0171_00",
+     "majin-buu-evil"
+    ],
+    [
+     "0170_00",
+     "majin-buu"
+    ],
+    [
+     "0240_01",
+     "majuub-gt"
+    ],
+    [
+     "0040_00",
+     "piccolo"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Burning Attack (30,000-ki super)",
+   "owners": [
+    [
+     "0081_20",
+     "super-trunks"
+    ],
+    [
+     "0080_11",
+     "trunks-melee-super-saiyan"
+    ],
+    [
+     "0080_10",
+     "trunks-melee"
+    ],
+    [
+     "0080_01",
+     "trunks-sword-super-saiyan"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "DP5 with no transform — low ceiling",
+   "owners": [
+    [
+     "1190_00",
+     "bergamo"
+    ],
+    [
+     "1331_00",
+     "kakunsa"
+    ],
+    [
+     "1341_00",
+     "roasie"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Death Beam (20,000-ki super)",
+   "owners": [
+    [
+     "0153_20",
+     "frieza-super"
+    ],
+    [
+     "0150_00",
+     "frieza-z-1st-form"
+    ],
+    [
+     "0153_10",
+     "mecha-frieza"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Psychokinesis — unblockable hold",
+   "owners": [
+    [
+     "0153_20",
+     "frieza-super"
+    ],
+    [
+     "0150_00",
+     "frieza-z-1st-form"
+    ],
+    [
+     "0153_10",
+     "mecha-frieza"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Masenko (30,000-ki super)",
+   "owners": [
+    [
+     "0080_30",
+     "future-trunks"
+    ],
+    [
+     "0032_30",
+     "gohan-future"
+    ],
+    [
+     "0030_00",
+     "gohan-kid"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "Subject to all giant nerfs — less damage, longer whiff recovery, takes more melee, slower back-dash",
+   "owners": [
+    [
+     "3150_00",
+     "giant-gomah"
+    ],
+    [
+     "0670_00",
+     "hirudegarn"
+    ],
+    [
+     "3012_00",
+     "orange-piccolo-giant-form"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "DP4 with no transform — low ceiling",
+   "owners": [
+    [
+     "3070_00",
+     "glorio"
+    ],
+    [
+     "0561_00",
+     "super-garlic-jr"
+    ],
+    [
+     "0660_00",
+     "tapion"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Spirit Bomb 50,000-ki ultimate finisher",
+   "owners": [
+    [
+     "0002_30",
+     "goku-gt"
+    ],
+    [
+     "0000_00",
+     "goku-z-early"
+    ],
+    [
+     "0000_10",
+     "goku-z-mid"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Transforms (1 stock to Goku (Super)) for a mid-match power spike",
+   "owners": [
+    [
+     "0001_42",
+     "goku-super-super-saiyan-god"
+    ],
+    [
+     "0000_41",
+     "goku-super-super-saiyan"
+    ],
+    [
+     "0000_40",
+     "goku-super"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "Android: cannot manually charge ki (charge speed 0, 4,500/s passive only) — slow to reach supers",
+   "owners": [
+    [
+     "0470_00",
+     "android-19"
+    ],
+    [
+     "0480_00",
+     "dr-gero"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Purple Comet Attack 50,000-ki ultimate finisher",
+   "owners": [
+    [
+     "0400_00",
+     "burter"
+    ],
+    [
+     "0410_00",
+     "jeice"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Barrage Death Beam (20,000-ki super)",
+   "owners": [
+    [
+     "0162_00",
+     "cell-perfect-form"
+    ],
+    [
+     "0152_00",
+     "frieza-z-3rd-form"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Afterimage S2 (free) gives a 1-hit auto-dodge read",
+   "owners": [
+    [
+     "0600_00",
+     "cooler"
+    ],
+    [
+     "0660_00",
+     "tapion"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "Average 1,750 recovery, no teleport in base",
+   "owners": [
+    [
+     "0600_00",
+     "cooler"
+    ],
+    [
+     "0800_00",
+     "goku-black"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Standard 40,000 HP and 1,750 recovery",
+   "owners": [
+    [
+     "0950_00",
+     "dyspo"
+    ],
+    [
+     "1341_00",
+     "roasie"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "No transform; fixed ceiling",
+   "owners": [
+    [
+     "0950_00",
+     "dyspo"
+    ],
+    [
+     "3020_00",
+     "gamma-1"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "Slower 7.0 ki charge; no auto-dodge",
+   "owners": [
+    [
+     "0153_00",
+     "frieza-z-4th-form"
+    ],
+    [
+     "0172_00",
+     "super-buu"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Explosive Wave S1 (free) reversal/space-maker",
+   "owners": [
+    [
+     "0881_00",
+     "frost"
+    ],
+    [
+     "0670_00",
+     "hirudegarn"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "Average recovery, no teleport/mobility tool",
+   "owners": [
+    [
+     "0881_00",
+     "frost"
+    ],
+    [
+     "3160_00",
+     "shallot"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "DP8 anchor — expensive on the budget",
+   "owners": [
+    [
+     "0810_01",
+     "fused-zamasu"
+    ],
+    [
+     "3011_00",
+     "orange-piccolo"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "No super-armor; loses straight trades",
+   "owners": [
+    [
+     "3020_00",
+     "gamma-1"
+    ],
+    [
+     "0651_00",
+     "super-janemba"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Giant-class: oversized hitbox, super-armor, grab-immune, big HP",
+   "owners": [
+    [
+     "3150_00",
+     "giant-gomah"
+    ],
+    [
+     "3012_00",
+     "orange-piccolo-giant-form"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "Unlocked behind 120,000 Zeni (shop)",
+   "owners": [
+    [
+     "0110_02",
+     "gogeta-gt-super-saiyan-4"
+    ],
+    [
+     "0000_50",
+     "goku-super-ultra-instinct-sign"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "40,000-equivalent durability, no heal",
+   "owners": [
+    [
+     "0032_02",
+     "gohan-adult-super-saiyan-2"
+    ],
+    [
+     "0031_02",
+     "gohan-teen-super-saiyan-2"
+    ]
+   ]
+  },
+  {
+   "kind": "T:howToFight",
+   "text": "Bait his Wild Sense (gutted Dec 2025) then punish the recovery — it's his main evasion. Respect Super Kamehameha on knockdown — bait it out and punish the recovery.",
+   "owners": [
+    [
+     "0032_30",
+     "gohan-future"
+    ],
+    [
+     "0031_00",
+     "gohan-teen"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Super Destructive Wave (40,000-ki super)",
+   "owners": [
+    [
+     "0032_30",
+     "gohan-future"
+    ],
+    [
+     "0040_20",
+     "nail"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Energy Blast Barrage (20,000-ki super)",
+   "owners": [
+    [
+     "0030_00",
+     "gohan-kid"
+    ],
+    [
+     "0031_00",
+     "gohan-teen"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "DP8 with only 40,000 HP — fragile for the cost",
+   "owners": [
+    [
+     "3120_04",
+     "goku-daima-super-saiyan-4"
+    ],
+    [
+     "3000_02",
+     "ultimate-gohan-super-hero"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "Afterimage is one-hit only",
+   "owners": [
+    [
+     "3050_01",
+     "goku-mini-super-saiyan"
+    ],
+    [
+     "3060_01",
+     "vegeta-mini-super-saiyan"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "God Kamehameha (30,000-ki super)",
+   "owners": [
+    [
+     "0000_43",
+     "goku-super-super-saiyan-god-super-saiyan"
+    ],
+    [
+     "0001_42",
+     "goku-super-super-saiyan-god"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "\"No Hard Feelings\" Hit (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "owners": [
+    [
+     "0000_43",
+     "goku-super-super-saiyan-god-super-saiyan"
+    ],
+    [
+     "0155_00",
+     "golden-frieza"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Super Energy Wave Combo (30,000-ki super)",
+   "owners": [
+    [
+     "0000_21",
+     "goku-z-end-super-saiyan"
+    ],
+    [
+     "0020_10",
+     "vegeta-z-early"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Victory Cannon 50,000-ki ultimate finisher",
+   "owners": [
+    [
+     "0120_00",
+     "gotenks"
+    ],
+    [
+     "0082_01",
+     "trunks-kid-super-saiyan"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "DP2 — dirt-cheap DP-queue body; frees budget for a premium carry",
+   "owners": [
+    [
+     "0420_00",
+     "guldo"
+    ],
+    [
+     "0130_00",
+     "videl"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "Transform gated behind 3 stocks",
+   "owners": [
+    [
+     "0650_00",
+     "janemba"
+    ],
+    [
+     "3000_02",
+     "ultimate-gohan-super-hero"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "D-tier — weak kit overall",
+   "owners": [
+    [
+     "3110_00",
+     "majin-kuu"
+    ],
+    [
+     "1321_00",
+     "ribrianne"
+    ]
+   ]
+  },
+  {
+   "kind": "L:weaknesses",
+   "text": "No transform; average recovery; no mobility",
+   "owners": [
+    [
+     "3110_00",
+     "majin-kuu"
+    ],
+    [
+     "1321_00",
+     "ribrianne"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Majin Beam (40,000-ki super)",
+   "owners": [
+    [
+     "0240_01",
+     "majuub-gt"
+    ],
+    [
+     "0172_11",
+     "super-buu-gohan-absorbed"
+    ]
+   ]
+  },
+  {
+   "kind": "T:howToFight",
+   "text": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Respect Super Explosive Wave on knockdown — bait it out and punish the recovery.",
+   "owners": [
+    [
+     "0081_20",
+     "super-trunks"
+    ],
+    [
+     "0020_10",
+     "vegeta-z-early"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Finish Buster (30,000-ki super)",
+   "owners": [
+    [
+     "0081_20",
+     "super-trunks"
+    ],
+    [
+     "0080_00",
+     "trunks-sword"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Finish Buster 50,000-ki ultimate finisher",
+   "owners": [
+    [
+     "0082_00",
+     "trunks-kid"
+    ],
+    [
+     "0080_10",
+     "trunks-melee"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Wild Sense S1 (free) 1-hit auto-dodge",
+   "owners": [
+    [
+     "3000_02",
+     "ultimate-gohan-super-hero"
+    ],
+    [
+     "3060_03",
+     "vegeta-mini-super-saiyan-3"
+    ]
+   ]
+  },
+  {
+   "kind": "L:strengths",
+   "text": "Afterimage Strike S2 (3 stock) gives a launch-era auto-dodge window",
+   "owners": [
+    [
+     "3060_02",
+     "vegeta-mini-super-saiyan-2"
+    ],
+    [
+     "0810_00",
+     "zamasu"
+    ]
+   ]
+  }
+ ],
+ "contradictions": [
+  [
+   "0470_00",
+   "android-19",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "uper) high power rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) dr"
+  ],
+  [
+   "0490_00",
+   "babidi",
+   15000,
+   [
+    30000,
+    40000,
+    50000
+   ],
+   "lt. pui pui nice shot (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) ul"
+  ],
+  [
+   "0310_00",
+   "bardock",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "super) final revenger (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) fi"
+  ],
+  [
+   "0400_00",
+   "burter",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "er) space mach attack (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) pu"
+  ],
+  [
+   "0161_00",
+   "cell-2nd-form",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "uper) drain life cell (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) un"
+  ],
+  [
+   "0163_00",
+   "cell-jr",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "super) innocence rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) su"
+  ],
+  [
+   "0150_00",
+   "frieza-z-1st-form",
+   15000,
+   [
+    20000,
+    30000,
+    50000
+   ],
+   "super) punishing rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) de"
+  ],
+  [
+   "0152_00",
+   "frieza-z-3rd-form",
+   15000,
+   [
+    20000,
+    30000,
+    50000
+   ],
+   "uper) high speed rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) cr"
+  ],
+  [
+   "0881_00",
+   "frost",
+   30000,
+   [
+    50000
+   ],
+   "wave s1 (free) reversal/space-maker two 30,000-ki supers (one speed-impact at 15,000 trig"
+  ],
+  [
+   "0110_02",
+   "gogeta-gt-super-saiyan-4",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "ings ultimate impact speed-impact rush (15,000 ki on trigger) + ultra big bang kamehameha"
+  ],
+  [
+   "0110_01",
+   "gogeta-super-super-saiyan",
+   15000,
+   [
+    30000
+   ],
+   "super) rising vortex (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) in"
+  ],
+  [
+   "0032_02",
+   "gohan-adult-super-saiyan-2",
+   15000,
+   [
+    20000,
+    30000,
+    50000
+   ],
+   "plosive flash strike speed-impact rush (15,000 ki on trigger) for extensions super kameha"
+  ],
+  [
+   "0031_01",
+   "gohan-teen-super-saiyan",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   ") super assault combo (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) ra"
+  ],
+  [
+   "0000_33",
+   "goku-gt-super-saiyan-4",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "ierce) meteor crash speed-impact super (15,000 ki on combo trigger) extends pressure chea"
+  ],
+  [
+   "0002_30",
+   "goku-gt",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "ki super) dragon fist (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) sp"
+  ],
+  [
+   "0000_43",
+   "goku-super-super-saiyan-god-super-saiyan",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "no hard feelings\" hit (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) li"
+  ],
+  [
+   "0001_42",
+   "goku-super-super-saiyan-god",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "-ki super) god impact (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) go"
+  ],
+  [
+   "0000_41",
+   "goku-super-super-saiyan",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "i super) dragon blast (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) so"
+  ],
+  [
+   "0000_40",
+   "goku-super",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "i super) dragon burst (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) su"
+  ],
+  [
+   "0002_50",
+   "goku-teen",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "encing counterattack! (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) ke"
+  ],
+  [
+   "0000_00",
+   "goku-z-early",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "super) kaioken attack (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) sp"
+  ],
+  [
+   "0000_22",
+   "goku-z-end-super-saiyan-2",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "i super) meteor crash (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) su"
+  ],
+  [
+   "0000_20",
+   "goku-z-end",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "i super) meteor smash (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) su"
+  ],
+  [
+   "0000_11",
+   "goku-z-mid-super-saiyan",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "i super) meteor smash (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) an"
+  ],
+  [
+   "0000_10",
+   "goku-z-mid",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "i super) kaioken rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) sp"
+  ],
+  [
+   "0155_00",
+   "golden-frieza",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "no hard feelings\" hit (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) ea"
+  ],
+  [
+   "0090_01",
+   "goten-super-saiyan",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "0-ki ult and charge! speed-impact rush (15,000 ki on trigger) wild sense evasion + false"
+  ],
+  [
+   "0120_00",
+   "gotenks",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "uper) high speed rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) vi"
+  ],
+  [
+   "0032_10",
+   "great-saiyaman",
+   15000,
+   [
+    30000,
+    40000,
+    50000
+   ],
+   "0-ki ult and justice rush speed-impact (15,000 ki on trigger) justice bomber 40,000-ki su"
+  ],
+  [
+   "0173_00",
+   "kid-buu",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "r) mystic combination (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) pl"
+  ],
+  [
+   "0230_00",
+   "pan-gt",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "i super) giru missile (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) ma"
+  ],
+  [
+   "0040_00",
+   "piccolo",
+   15000,
+   [
+    20000,
+    30000,
+    50000
+   ],
+   "plosive breath cannon (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) sp"
+  ],
+  [
+   "0320_00",
+   "raditz",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "super) sonic assault (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) be"
+  ],
+  [
+   "0330_00",
+   "saibaman",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "uper) high speed rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) sa"
+  ],
+  [
+   "0110_04",
+   "super-gogeta-z",
+   20000,
+   [
+    30000,
+    40000,
+    50000
+   ],
+   "super) punisher drive (40,000-ki super, 20,000-ki on combo trigger, speed-impact rush) st"
+  ],
+  [
+   "0351_00",
+   "super-zarbon",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "super) wild pressure (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) mo"
+  ],
+  [
+   "0082_01",
+   "trunks-kid-super-saiyan",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "uper) high speed rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) vi"
+  ],
+  [
+   "0082_00",
+   "trunks-kid",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "uper) high speed rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) fi"
+  ],
+  [
+   "0080_11",
+   "trunks-melee-super-saiyan",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "uper) burning breaker (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) he"
+  ],
+  [
+   "0080_10",
+   "trunks-melee",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "uper) high speed rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) fi"
+  ],
+  [
+   "0240_00",
+   "uub-gt",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "blazing barrage palm (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) su"
+  ],
+  [
+   "0020_50",
+   "vegeta-gt-super-saiyan-4",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "pirit breaking cannon (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) fi"
+  ],
+  [
+   "0022_62",
+   "vegeta-super-super-saiyan-god",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "-ki super) gamma fist (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) pr"
+  ],
+  [
+   "0020_61",
+   "vegeta-super-super-saiyan",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "uper) galick uppercut (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) fi"
+  ],
+  [
+   "0020_60",
+   "vegeta-super",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "super) absolute rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) fi"
+  ],
+  [
+   "0020_11",
+   "vegeta-z-early-super-saiyan",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "super) cosmic impact (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) bi"
+  ],
+  [
+   "0020_30",
+   "vegeta-z-end",
+   15000,
+   [
+    20000,
+    30000,
+    50000
+   ],
+   "double galick cannon (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) su"
+  ],
+  [
+   "0020_00",
+   "vegeta-z-scouter",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   ") final galick cannon (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) di"
+  ],
+  [
+   "0100_00",
+   "vegito",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "dder rampaging rush speed-impact super (15,000 ki on combo trigger) for cheap extensions"
+  ],
+  [
+   "0130_00",
+   "videl",
+   15000,
+   [
+    20000,
+    30000,
+    50000
+   ],
+   "rush) desperado rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) vi"
+  ],
+  [
+   "0060_00",
+   "yamcha",
+   15000,
+   [
+    30000,
+    50000
+   ],
+   "super) wolf fang fist (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) sp"
+  ],
+  [
+   "0350_00",
+   "zarbon",
+   15000,
+   [
+    20000,
+    30000,
+    50000
+   ],
+   "i super) bloody dance (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush) el"
+  ]
+ ],
+ "vanish_mislabel": []
+}

@@ -1,0 +1,1499 @@
+{
+  "A Servant's Latent Power": {
+    "effect": "Spopovich unleashes his Majin-implanted latent power as a self power-up, raising his combat stats; very cheap.",
+    "magnitude": "+attack/stat",
+    "notes": "Spopovich. Datamine type 能力 (Boost), cost 1 (cheapest buff). [datamine: stock cost 1; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Acid": {
+    "effect": "Saibaman spits corrosive acid that, on hit, paralyzes/restrains the opponent in place for a short window, opening a free punish; unblockable.",
+    "magnitude": "immobilize on hit",
+    "notes": "Saibaman only. Datamine type 拘束 (Stun/Bind), unblockable + no-auto-guard, cost 2 (Fandom). [datamine: flags: no-auto-guard, unblockable; 1 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Afterimage Strike": {
+    "effect": "Auto-dodges EVERY incoming melee attack for the duration (does not evade Ki blasts); ends early if the opponent lands a Perception or a Super Counter.",
+    "durationSec": 10,
+    "magnitude": "continuous melee evasion for the full window",
+    "notes": "3 skill stock; launch 15s -> 10s (Dec 2024); the most-patched skill. Since May 2026 can also evade unblockable charge Blasts. [datamine: stock cost 3; 11 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "research/04-mechanics-frame-data.md §4.2",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Afterimage": {
+    "effect": "Persistent auto-dodge: while active, the instant the user is about to be hit by a melee attack they automatically vanish behind the opponent (no counter); the buff lasts until it triggers. Does not evade Ki blasts/beams.",
+    "magnitude": "single melee dodge per trigger, re-arms",
+    "notes": "Datamine type 残像拳/'Dodge'; sparkingzerometa lists it as Evade, cost 2, duration 999s (i.e. until triggered). [datamine: 17 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "All-Encompassing Power": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode. A broad stat boost (Goku Super).",
+    "magnitude": "+attack/stat",
+    "notes": "Goku (Super). Datamine type 能力, cost 3. [datamine: stock cost 3; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "All Fired Up": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Goku (Super). Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "All I Need Is Five Seconds!": {
+    "effect": "A burst self-buff that raises the user's stats for a short window and (since Jan 2025) fully recovers Ki on activation — a tempo/comeback button.",
+    "durationSec": 5,
+    "magnitude": "+stats + full Ki recovery",
+    "notes": "Trunks line. Dec 2024 cost 3->2 + boost up; Jan 2025 added full Ki recovery. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "research/03-patches-balance.md",
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "All-Out": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Piccolo. sparkingzerometa: type Sparking, Instant Sparking: Yes, cost 4, 2s activation. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "All Warmed Up": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Vegeta (Super). Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Ancient Soul": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Shallot. Datamine type 能力 (Boost) — awakens latent ancestral power. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Android Barrier": {
+    "effect": "Creates an energy barrier around the user for a brief moment, leaving them immobile but defending against ALL attacks (melee, Rush, Ki Blasts, Ki beams, Ki-blast Ultimates, Spirit Bombs, unblockable beams and giant AoE); it can be activated while being hit, functioning as a combo breaker. Android-exclusive.",
+    "magnitude": "blocks everything briefly / combo breaker",
+    "notes": "Android fighters only. sparkingzerometa: Barrier, unblockable-type, cost 2-3; Fandom verbatim. [datamine: stock cost 3; 6 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Audacious Laugh": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Goku Black. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Awakened by Anger": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Vegeta (Z-Early). Datamine type 能力 (Boost). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Barrier": {
+    "effect": "Creates an energy barrier around the user for a brief moment, leaving them immobile but defending against ALL attacks (melee, Rush, Ki Blasts, Ki beams, Ki-blast Ultimates, Spirit Bombs, unblockable beams and giant AoE); it can be activated while being hit, functioning as a combo breaker.",
+    "magnitude": "blocks everything briefly / combo breaker",
+    "notes": "Dr. Wheelo / Whis. Datamine type 爆破 (Barrier family), cost 3. [datamine: stock cost 3; 2 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Beast Sense": {
+    "effect": "Works identically to Wild Sense (one-hit auto-dodge of the next melee attack plus an automatic counter); after the counter triggers, Gohan Beast gains a small Melee buff for ~5 seconds.",
+    "durationSec": 5,
+    "magnitude": "+Melee (post-counter), 1 dodge+counter",
+    "notes": "Gohan Beast only. Datamine type 残像拳; Fandom Counter/Boost, cost 2, unblockable. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Behave Yourself!": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Orange Piccolo. Datamine type 能力 but cost 4 + no-auto-guard (Sparking-activation behavior). [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Berserk Rage": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Kale. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Berserker": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Spopovich. Datamine type 能力 (Boost) — a berserk self power-up. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Burning Heart": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Trunks (Sword). Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Buying Time": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Nail. Datamine type 能力 (Boost) — stalls/empowers to buy time. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Cloak Ki": {
+    "effect": "The user conceals/cloaks their ki, suppressing their energy signature to reduce the opponent's ability to read or lock onto them (a stealth/evasion-support self skill).",
+    "notes": "Not in s1Skills extract. BT-series 'Cloak Ki' suppresses the ki signature; treat exact in-game numbers as unverified.",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)"
+    ]
+  },
+  "Come at Me!": {
+    "effect": "Bergamo's provoking taunt/activation (Special type): a power-up stance that bolsters him as he goads the opponent to attack — part of the Sparking-activation family.",
+    "notes": "Bergamo. Datamine type 特殊 (no cost serialized); thematically a provoke + self power-up. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Cry of Rage": {
+    "effect": "Kale's enraged scream that, on connect, restrains the opponent; it is also her berserk trigger, building toward her transformed Berserk state; unblockable.",
+    "magnitude": "immobilize on hit",
+    "notes": "Kale. Datamine type 拘束 (Bind), unblockable + no-auto-guard. May 26 2026 increased its activation time (nerf to Berserk access). [datamine: flags: no-auto-guard, unblockable; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "research/03-patches-balance.md (May 2026)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Dangerous Shock": {
+    "effect": "Captain Ginyu (and frog-body variants) deliver a shock that staggers/destabilizes the opponent or empowers the user — a cheap disruptive activation.",
+    "notes": "Captain Ginyu. Datamine type 能力, cost 1. Two datamine entries exist (003 and 165). [datamine: stock cost 1; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Dark Eyes": {
+    "effect": "Afterimage-class auto-evasion skill (Hirudegarn): while active the user automatically dodges an incoming attack instead of being hit.",
+    "magnitude": "auto-dodge on trigger",
+    "notes": "Hirudegarn only. Datamine type 残像拳 ('Afterimage Fist' / Dodge family). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Demon Eye": {
+    "effect": "Babidi's gaze binds the opponent, immobilizing them in place for ~4 seconds; unblockable.",
+    "durationSec": 4,
+    "magnitude": "immobilize ~4s on hit",
+    "notes": "Babidi. sparkingzerometa: Bind, cost 2, 1.5s activation, 4s duration, unblockable. [datamine: flags: no-auto-guard, unblockable; 1 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Dimension Shift": {
+    "effect": "Super Janemba warps through dimensions to instantly reposition behind/away from the opponent (teleport reposition).",
+    "magnitude": "instant reposition / warp",
+    "notes": "Super Janemba. sparkingzerometa: type Teleport, cost 2, instant. [datamine: 1 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Even Greater Potential": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode. Draws out more of the user's latent potential as a stat boost.",
+    "magnitude": "+attack/stat",
+    "notes": "Goku (Super). Datamine type 能力, cost 3. [datamine: stock cost 3; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Evil Barrier": {
+    "effect": "Demon/'Evil' energy barrier (Future Gohan): briefly encases the user in a shield that blocks incoming attacks and can break a combo; the user is immobile while it holds.",
+    "notes": "Future Gohan; Fandom groups it as a Barrier-type ('Devil Barrier'). Datamine tags it 残像拳, cost 3. [datamine: stock cost 3; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Evil Breath": {
+    "effect": "Dabura exhales an unblockable breath that, on hit, chips/stuns the opponent and opens a mix-up; a very cheap, guard-piercing poke opener.",
+    "magnitude": "unblockable chip/stun on hit",
+    "notes": "Dabura only, 1 skill stock. Datamine type 特殊 + unblockable + no-auto-guard; described as a cheap chip/mix-up opener. [datamine: stock cost 1; flags: no-auto-guard, unblockable; 1 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "data-mined/enrichment/sw_b.json (Dabura writeup)",
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Explosive Wave": {
+    "effect": "Bursts ki outward in a close-range shockwave that knocks surrounding opponents back and clears/cancels incoming Ki Blasts — a get-off-me / neutral-reset tool that interrupts an opponent's offense and returns both players to neutral.",
+    "magnitude": "AoE knockback + Ki-blast clear",
+    "notes": "Very common Blast 1. Exists in 2-cost and 3-cost variants by character. Datamine type 爆破. [datamine: 37 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "research/04-mechanics-frame-data.md §4.2",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "False Courage": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode. A nerve-steeling self-buff for weaker fighters.",
+    "magnitude": "+stat (activation buff)",
+    "notes": "Yamcha/Krillin/etc. Skill Count cost raised 1->2 in the Dec 2024 patch. [datamine: 15 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "research/03-patches-balance.md",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Finish Sign": {
+    "effect": "Gain offensive buffs (a self power-up that raises attack output for a window).",
+    "magnitude": "+offensive stats",
+    "notes": "TheGamer (Frieza family): 'Gain offensive buffs.' Datamine type 能力 (Boost). [datamine: 12 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Fruit of the Tree of Might": {
+    "effect": "Turles eats the Fruit of the Tree of Might for a large stat boost plus Ki recovery.",
+    "magnitude": "+large stat boost + Ki recovery",
+    "notes": "Turles only. Jun 2025/May 2026: bigger boost + Ki recovery. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "research/03-patches-balance.md",
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Full-Power Charge": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode. Channels to full power, boosting stats.",
+    "magnitude": "+attack/stat",
+    "notes": "Gohan line / others. Datamine type 能力 (Boost). [datamine: 9 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Full Power": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode. Generic max-power activation.",
+    "magnitude": "+attack/stat",
+    "notes": "Frieza/Cooler/Broly line. Sep 2025: transforming via Skill Stock grants a permanent ATK buff (single battle); buff economy reshaped 2025-2026. [datamine: stock cost 4; flags: no-auto-guard; 14 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "research/03-patches-balance.md",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Fury": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode. Anger-driven self power-up (Gohan).",
+    "magnitude": "+attack/stat",
+    "notes": "Gohan (Teen/Adult). Not in s1Skills extract; per research it's an anger self power-up. No discrete numeric patch change documented.",
+    "confidence": "community",
+    "sources": [
+      "research/04-mechanics-frame-data.md",
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)"
+    ]
+  },
+  "Gamma Superhero Pose 1": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Gamma 1. Datamine type 特殊 (Sparking-pose activation family). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Gamma Superhero Pose 2": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Gamma 2. Datamine type 特殊 (Sparking-pose activation family). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Give Me Your Energy!": {
+    "effect": "Goku (Z-Mid) raises his arms to gather energy, gaining 1 stack of Spirit Bomb Ki per use (up to 3 stacks); the stacks are automatically consumed to empower his Spirit Bomb Ultimate when fired.",
+    "magnitude": "+1 Spirit Bomb stack (max 3)",
+    "notes": "Goku (Z-Mid) only; tied to the Spirit Bomb ultimate. Fandom verbatim. Cutscene, cost 2. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "God Bind": {
+    "effect": "Goku (Super)'s divine bind restrains the opponent in place for a short window, setting up a guaranteed follow-up; unblockable.",
+    "magnitude": "immobilize on hit",
+    "notes": "SSGSS Goku (Super). Datamine type 拘束, unblockable + no-auto-guard. [datamine: flags: no-auto-guard, unblockable; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Going Berserk": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Broly (Super) / Kale. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 2 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Growth": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Cabba. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Guess It's My Turn": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Gohan Beast. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Hakai Aura": {
+    "effect": "Toppo cloaks himself in a Hakai (destruction) aura that acts as a protective barrier, briefly shielding/repelling incoming attacks.",
+    "magnitude": "brief block / repel",
+    "notes": "Toppo. Datamine type 爆破 (Barrier family), cost 3. Community note: it is a protective barrier, not a stat buff. [datamine: stock cost 3; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Here We Go!": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Gogeta (Super). Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Hero's Flute": {
+    "effect": "Creates an energy barrier around the user for a brief moment, leaving them immobile but defending against ALL attacks (melee, Rush, Ki Blasts, Ki beams, Ki-blast Ultimates, Spirit Bombs, unblockable beams and giant AoE); it can be activated while being hit, functioning as a combo breaker. Tapion plays his ocarina to raise the barrier.",
+    "magnitude": "blocks everything briefly / combo breaker",
+    "notes": "Tapion only. Fandom: Barrier type, unblockable, cost 2 (verbatim barrier text). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "High-Tension": {
+    "effect": "Powers up to boost Melee power, Ki Charge speed and Blast power for ~25 seconds (on some users the Ki-Charge boost is replaced by a Ki-Blast boost). Super Gotenks's version also fully refills the Ki gauge.",
+    "durationSec": 25,
+    "magnitude": "+Melee/+Ki Charge/+Blast",
+    "notes": "3 skill stock. Fandom verbatim: 25s buff. NOTE: despite the name, High-Tension is a Boost buff, NOT an instant-Sparking skill. [datamine: stock cost 3; 11 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Howl": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Giant/heavy bruisers (Great Ape Vegeta, Janemba, Cell Max, etc.). Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 7 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "I am Super Vegeta!": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Super Vegeta. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "I Can't Wait!": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Goku (Z-Mid). Datamine type 能力 (Boost) — an eager self power-up. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "I'll Get You For This...": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Vegeta (Super). Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "I'm No Pushover!": {
+    "effect": "Vegeta (Super) powers up, gaining boosts to Melee power, Ki Charge speed and Blast power for ~25 seconds.",
+    "durationSec": 25,
+    "magnitude": "+Melee/+Ki Charge/+Blast",
+    "notes": "SSGSS Vegeta (Super). Fandom verbatim: 25s buff (Melee/Ki Charge/Blast). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "I'm Number One!": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Kefla. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "I'm the One Who Will Defeat You!": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Super Gogeta (Z). Datamine type 能力 (Boost). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Immortal Body": {
+    "effect": "The user channels their immortality through a long start-up stance to recover 20% of max HP (~8,000 on a 40k-HP body) if uninterrupted.",
+    "magnitude": "+20% max HP (heal)",
+    "notes": "Zamasu line. sparkingzerometa: type Health, cost 4, 1.4s activation, +8000 HP. NOTE: it is a HEAL, not a damage-resist buff. [datamine: stock cost 4; flags: no-auto-guard; 2 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Immovable Stance": {
+    "effect": "Super Gogeta (Z) plants an immovable stance that boosts his stability/stats for a window (a defensive self-buff that resists being moved/staggered).",
+    "magnitude": "+stat / poise",
+    "notes": "Super Gogeta (Z). Datamine type 能力 (Boost). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Inexperienced Power Up": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Super Trunks. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Instant Transmission": {
+    "effect": "Instantly teleports the user to (behind) the opponent from any distance to reposition or launch an immediate strike — a free repositioning warp used to escape pressure or close full-screen gaps.",
+    "magnitude": "instant reposition / warp behind",
+    "notes": "Goku/Cell line. sparkingzerometa: type Teleport, cost 2, instant. A documented counter to distance-scaled Z-Burst Dash pressure (May 2026). [datamine: 8 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Justice Finishing Pose": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Great Saiyaman. Datamine type 能力 (Boost) — a finishing pose self-buff. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Justice Pose": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Great Saiyaman. Datamine type 能力 (Boost) — strikes a heroic pose to self-buff. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Justice!": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Toppo. Datamine type 能力 (Boost) — a Pride-Trooper resolve buff. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Kaioken": {
+    "effect": "The user multiplies their power via Kaioken, gaining boosts to Melee power and Ki-recovery rate (Z-Early Goku also +Defense/+Blast) for ~15 seconds, at the cost of potential recoil.",
+    "durationSec": 15,
+    "magnitude": "+Melee/+Ki recovery (+Defense/+Blast for some)",
+    "notes": "Goku (Z-Early) / SSGSS Goku. Fandom verbatim: 15s. Jan 20 2025 reduced its skill-stock cost for Z-Early. [datamine: 2 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "research/03-patches-balance.md",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Kakarottt!": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Broly (Z). sparkingzerometa: type Sparking, Instant Sparking: Yes, cost 4, 1.5s. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Ki Clone": {
+    "effect": "Afterimage-class auto-evasion (Hit): leaves a ki double so that the next incoming attack is automatically dodged rather than connecting.",
+    "magnitude": "auto-dodge on trigger",
+    "notes": "Hit's primary Blast 1. Datamine type 残像拳 (Dodge family). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Ki Pressure": {
+    "effect": "Jiren releases a burst of ki pressure in a shockwave around himself, knocking nearby opponents back and clearing incoming Ki Blasts (an Explosive-Wave-class get-off-me).",
+    "magnitude": "AoE knockback + Ki-blast clear",
+    "notes": "Jiren. Datamine type 爆破 (Explosive-Wave family). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Ki Storm": {
+    "effect": "Jiren unleashes a storm of ki in a wide shockwave that repels surrounding opponents and clears incoming Ki Blasts (Explosive-Wave-class).",
+    "magnitude": "AoE knockback + Ki-blast clear",
+    "notes": "Jiren. Datamine type 爆破 (Explosive-Wave family). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "King's Dignity": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "King Cold. Datamine type 能力 (Boost). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Last Chance Full Power": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Panzy (DAIMA). Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Light of Justice": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Fused Zamasu. Datamine type 能力 (Boost). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Light of Love": {
+    "effect": "Ribrianne's heart-light binds the opponent, locking them in place for a short window; unblockable.",
+    "magnitude": "immobilize on hit",
+    "notes": "Ribrianne. Datamine type 拘束, unblockable + no-auto-guard. [datamine: flags: no-auto-guard, unblockable; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Limit Breaker Power": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "DAIMA Goku/Vegeta + Mini Goku. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 3 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Limits?! I Break Them!": {
+    "effect": "Vegeta (Super) breaks past his limits in a self power-up, granting a large stat boost; expensive to activate.",
+    "magnitude": "+large stat boost",
+    "notes": "Vegeta (Super). Datamine type 能力 (Boost), cost 5 (one of the priciest buffs). [datamine: stock cost 5; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Long Awaited-for 100%": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Frieza (Z) Final-Form line. TheGamer guide: 'Enter Sparking Mode' (3 Skill Count on that form). Datamine cost 4 + no-auto-guard. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Magic Bind": {
+    "effect": "Third Eye Gomah's magic snares the opponent, holding them immobile for a short window; unblockable.",
+    "magnitude": "immobilize on hit",
+    "notes": "Third Eye Gomah (DAIMA). Datamine type 拘束, unblockable + no-auto-guard. [datamine: flags: no-auto-guard, unblockable; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Maiden's Fury": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Ribrianne/Kakunsa/Roasie. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 3 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Majin Power": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Majin Kuu (DAIMA). Datamine type 能力 (Boost) — Majin empowerment. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Majin's Awakening": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Majin Vegeta. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Makyo Star": {
+    "effect": "Super Garlic Jr. draws on the Makyo Star's energy to power up / restore himself, gaining a boost tied to his immortality (Makyo-Star empowerment).",
+    "notes": "Super Garlic Jr. Datamine type 能力 (ability/buff), cost 3. Fandom groups it with the heal/restore skills. [datamine: stock cost 3; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Meditation": {
+    "effect": "Jiren sits and hovers to meditate, recovering 20% of max HP if uninterrupted.",
+    "magnitude": "+20% max HP (heal)",
+    "notes": "Jiren only. sparkingzerometa: type Health/Heal, cost 4, +20% HP. NOTE: it is a HEAL, not ki recovery. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Mystic Breath": {
+    "effect": "Exhales a short-range repelling breath/shield: a quick forward push-burst that knocks back close attackers and can deflect incoming pressure; unblockable, very cheap.",
+    "magnitude": "short-range knockback / shield burst",
+    "notes": "Buu/Janemba/Garlic line. sparkingzerometa types it 'Push' (Janemba) / 'Shield' (Buu), cost 1, 0.4s, unblockable. [datamine: stock cost 1; flags: no-auto-guard, unblockable; 5 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "No Backing Down": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Goku (Super). Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Now I'm Angry!": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Goku (Z-Mid). Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Paralysis": {
+    "effect": "Guldo freezes time/paralyzes the opponent, locking them in place for a brief window so the user can act freely; unblockable.",
+    "magnitude": "immobilize on hit",
+    "notes": "Guldo. Datamine type 拘束, unblockable + no-auto-guard. [datamine: flags: no-auto-guard, unblockable; 1 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Paralyze Beam": {
+    "effect": "Fires a small electric beam (usually from the antenna) that, on hit, traps the opponent in an electric snare, immobilizing them for ~3 seconds; unblockable.",
+    "durationSec": 3,
+    "magnitude": "immobilize ~3s on hit",
+    "notes": "Piccolo / Buu line. Fandom: 'electric snare for 3 seconds'; datamine 拘束, unblockable, cost 2. [datamine: flags: no-auto-guard, unblockable; 4 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Power of Revenge": {
+    "effect": "Gain offensive buffs (a vengeance-fueled self power-up that raises attack output for a window).",
+    "magnitude": "+offensive stats",
+    "notes": "Frieza (Super). TheGamer (Frieza family): 'Gain offensive buffs.' Datamine type 能力. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Power Up to the Very Limit": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge, and on most users also grants stat boosts (typically +Melee/Defense/Ki-Blast/Blast) for ~15 seconds.",
+    "durationSec": 15,
+    "magnitude": "+2 Melee/Defense/Ki-Blast/Blast (varies by user)",
+    "notes": "Returning BT3 skill. Fandom verbatim: enters Sparking + buffs Melee/Defense/Ki-Blast/Blast for 15s (+2 each); some users get only Sparking. Cost 4. [datamine: stock cost 4; flags: no-auto-guard; 9 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Powerful Shout": {
+    "effect": "Majin Duu's shockwave shout restrains/staggers the opponent, holding them for a short window; unblockable.",
+    "magnitude": "immobilize on hit",
+    "notes": "Majin Duu (DAIMA). Datamine type 拘束, unblockable + no-auto-guard. [datamine: flags: no-auto-guard, unblockable; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Pride Trooper Pose 1": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Toppo. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Pride Trooper Pose 2": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Dyspo. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Prince's Pride": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Majin Vegeta. Datamine type 能力 (Boost). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Psycho Barrier": {
+    "effect": "Creates an energy barrier around the user for a brief moment, leaving them immobile but defending against ALL attacks (melee, Rush, Ki Blasts, Ki beams, Ki-blast Ultimates, Spirit Bombs, unblockable beams and giant AoE); it can be activated while being hit, functioning as a combo breaker.",
+    "magnitude": "blocks everything briefly / combo breaker",
+    "notes": "Bojack/Cooler line. sparkingzerometa: Barrier, cost 3, 0.4s activation; Fandom verbatim. [datamine: stock cost 3; 3 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Psychokinesis": {
+    "effect": "Telekinetically seizes the opponent and paralyzes them in place for ~3 seconds, leaving them open to a free attack; unblockable.",
+    "durationSec": 3,
+    "magnitude": "immobilize ~3s on hit",
+    "notes": "Frieza/Cooler line. sparkingzerometa: Bind, cost 2, 1.5s activation, 3s duration, unblockable. [datamine: flags: no-auto-guard, unblockable; 4 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Pump Up": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode. Some versions (e.g. 1st-Form Frieza) trade the boost off against reduced Ki recovery.",
+    "durationSec": 15,
+    "magnitude": "+offensive stats (some -Ki recovery)",
+    "notes": "TheGamer (Frieza): 'offensive buffs and reduced Ki recovery for 15s'. Duration increased Jun 2025 / May 2026. [datamine: 11 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "research/03-patches-balance.md",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Regeneration": {
+    "effect": "The user regenerates their body to recover a chunk of HP during a start-up stance (self-heal for regenerating Namekian/Buu/Cooler-line bodies); unblockable.",
+    "magnitude": "HP heal (~portion of max)",
+    "notes": "Metal Cooler / Super Buu. Datamine type 特殊 + unblockable + no-auto-guard, cost 4; underpins revival/regen kits. [datamine: stock cost 4; flags: no-auto-guard, unblockable; 2 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Resolution": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Toppo. Datamine type 能力 (Boost) — steels his resolve for a stat boost. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Revive Bug": {
+    "effect": "Mini Vegeta eats a Revive Bug, regaining 30% of his max HP as his aura briefly bursts.",
+    "magnitude": "+30% max HP (heal)",
+    "notes": "Vegeta (Mini), DAIMA. Fandom verbatim: 'regaining 30% of his max health'. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Royal Raiment?!": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Mr. Satan. Datamine type 能力 (Boost) — a bravado self power-up. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Saiyan Burst": {
+    "effect": "DAIMA Goku/Vegeta erupt with a Saiyan ki burst in a shockwave that knocks the opponent out of their offense and clears Ki Blasts (Explosive-Wave-class).",
+    "magnitude": "AoE knockback + Ki-blast clear",
+    "notes": "Goku/Vegeta (DAIMA). Datamine type 爆破, cost 3 (Explosive-Wave family). [datamine: stock cost 3; 2 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Saiyan Spirit": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode. Saiyan-flavored attack/stat boost.",
+    "magnitude": "+attack/stat (Saiyan buff)",
+    "notes": "Vegeta/Saiyan line. Buff duration increased in the Jun 2025 and May 2026 patches. [datamine: 14 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "research/03-patches-balance.md",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Sealing Paralyze Beam": {
+    "effect": "Super Garlic Jr.'s paralysis beam: on hit it snares the opponent in place for a short window (a Paralyze-Beam variant); unblockable.",
+    "magnitude": "immobilize on hit",
+    "notes": "Super Garlic Jr. Datamine type 拘束, unblockable + no-auto-guard. [datamine: flags: no-auto-guard, unblockable; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Senzu Beans": {
+    "effect": "Yajirobe eats a Senzu Bean to FULLY restore his health.",
+    "magnitude": "full HP heal",
+    "notes": "Yajirobe only. Cost raised 5->6 and starting stock 2->0 in the first patch, killing the senzu-stall meta. [datamine: stock cost 6; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "research/04-mechanics-frame-data.md §4.2",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Settling the Score": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Vegito. Datamine type 能力 (Boost). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Shenron Aura": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode. (Shenron/dragon-aura empowerment).",
+    "magnitude": "+attack/stat",
+    "notes": "SSGSS Goku (Super). Datamine type 能力 (Boost). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Shockwave of Rebellion": {
+    "effect": "Bardock unleashes a powerful rebellious shockwave that knocks the opponent back AND simultaneously puts him into Sparking! Mode — a hybrid explosive-wave + instant-Sparking activation.",
+    "magnitude": "AoE knockback + enters Sparking! Mode",
+    "notes": "Bardock only, 5 skill stock. Datamine type 爆破 + no-auto-guard; Fandom lists type 'Explosion/Sparking'. [datamine: stock cost 5; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Sleep": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Goten/Buu/Beerus line. Datamine type 特殊/能力 + no-auto-guard, cost 4 — a self power-up stance that enters Sparking! Mode (named 'Sleep' as a gag for nappers like Buu/Beerus). [datamine: stock cost 4; flags: no-auto-guard; 7 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Snack Time": {
+    "effect": "The user sneaks a spoonful of ice cream and, if uninterrupted, recovers 20% of max HP.",
+    "magnitude": "+20% max HP (heal)",
+    "notes": "Whis / Majin Kuu / Majin Duu. sparkingzerometa: type Health, cost 4, +20% HP. [datamine: stock cost 4; flags: no-auto-guard; 3 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Solar Flare": {
+    "effect": "Emits a blinding flash that whites out the opponent's screen and strips their lock-on for about 5 seconds, interrupting their actions to open a punish or escape; unblockable, but the opponent must be at close range and facing the user.",
+    "durationSec": 5,
+    "magnitude": "blind / lock-on loss ~5s",
+    "notes": "2 skill stock. Jan 2026 patch: blind now persists through Dragon Dash / Z-Burst Dash approaches. [datamine: flags: no-auto-guard, unblockable; 7 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "research/04-mechanics-frame-data.md",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "SP Fighting Pose 1": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Recoome. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "SP Fighting Pose 2": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Burter. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "SP Fighting Pose 3": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Jeice. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "SP Fighting Pose 4": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Guldo. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "SP Fighting Pose 5": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Captain Ginyu. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Spark Bind": {
+    "effect": "Glorio's electric bind that snares the opponent in place for a short window (no-auto-guard; not flagged fully unblockable).",
+    "magnitude": "immobilize on hit",
+    "notes": "Glorio (DAIMA). Datamine type 拘束, flag: no-auto-guard. [datamine: flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Special Training Results": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Mini Vegeta. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Stardust Barrier": {
+    "effect": "Super Gogeta raises a brief defensive barrier/burst that repels incoming attacks; cheap to activate.",
+    "magnitude": "brief block / repel",
+    "notes": "Gogeta (Super). Datamine type 爆破, cost 1 (cheapest barrier). [datamine: stock cost 1; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Strength is Absolute!": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Jiren. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Super Maximum Light Speed Mode": {
+    "effect": "Dyspo enters a light-speed mode that massively boosts his movement speed/mobility for a window; while active, the Ki cost of his Short Dash is reduced.",
+    "magnitude": "+speed/mobility (-Short Dash Ki cost)",
+    "notes": "Dyspo only. May 26 2026: Short-Dash Ki cost reduced while active + status icon added. Datamine type 能力. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "research/03-patches-balance.md",
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Super Unyielding Spirit": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge, and on most users also grants stat boosts (typically +Melee/Defense/Ki-Blast/Blast) for ~15 seconds.",
+    "durationSec": 15,
+    "magnitude": "+2 Melee/+2 Blast (varies by user)",
+    "notes": "Fandom verbatim: long start-up stance auto-enters Sparking with +Melee/+Blast for 15s; Kid Gohan gets Sparking only. Cost 4. [datamine: stock cost 4; flags: no-auto-guard; 5 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Ta-dah!": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Gotenks. Datamine type 能力 (Boost). Skill Count cost reduced in the Jan 20 2025 patch. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "research/03-patches-balance.md",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Telekinesis": {
+    "effect": "Chiaotzu telekinetically restrains the opponent, freezing them in place for a short window so the user can follow up; unblockable.",
+    "magnitude": "immobilize on hit",
+    "notes": "Chiaotzu. Datamine type 拘束, unblockable + no-auto-guard. [datamine: flags: no-auto-guard, unblockable; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "That Shenron...": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Orange Piccolo. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "The Power to Rise Again": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Ultimate Gohan (Super Hero). Datamine type 能力 (Boost). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Third Eye Barrier": {
+    "effect": "Third Eye Gomah raises a protective barrier that briefly shields the user from incoming attacks (Barrier-family).",
+    "magnitude": "brief block / combo breaker",
+    "notes": "Third Eye Gomah (DAIMA). Datamine type 爆破 (Barrier family). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Third Eye Enhance": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Giant Gomah. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Third Eye Heal": {
+    "effect": "Giant Gomah uses its third eye to recover a portion of its HP during a start-up stance (self-heal).",
+    "magnitude": "HP heal",
+    "notes": "Giant Gomah (DAIMA). Datamine type 特殊 + no-auto-guard, cost 4; Fandom groups with heal skills. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "This is True Justice!": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Fused Zamasu. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "This Won't End the Same Way": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Piccolo (Super Hero). Datamine type 能力 (Boost). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Thunder Charge": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Glorio (DAIMA). Datamine type 能力 (Boost) — electrically charges up for a stat boost. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Time Skip": {
+    "effect": "Hit skips time for a fraction of a second, instantly warping behind the opponent while making them lose sight of him — a teleport reposition that sets up an unseen punish.",
+    "magnitude": "instant reposition / warp behind, opponent loses sight",
+    "notes": "Hit only. sparkingzerometa: type Teleport; Fandom verbatim. [datamine: 1 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Time to Get Serious": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Android 17 (Super) / SSGSS Goku&Vegeta line. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "True Golden Frieza": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Golden Frieza. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Ultra Movement": {
+    "effect": "Subconsciously auto-dodges a single incoming attack with no animation/tell, then automatically retaliates with a counterattack (works like Wild Sense, but for UI Goku and able to read more than melee).",
+    "magnitude": "single dodge + auto-counter",
+    "notes": "Ultra Instinct Goku (Super) only; new skill, Counter type, unblockable (datamine 残像拳). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Ultrasonic Sensor": {
+    "effect": "Afterimage-class auto-evasion (Anilaza): the user senses and automatically dodges the next incoming attack.",
+    "magnitude": "auto-dodge on trigger",
+    "notes": "Anilaza only. Datamine type 残像拳 (Dodge family). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Unforgivable": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Teen Gohan. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Untamed Instinct": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Broly (Super). Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Verdict of Destruction": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Beerus. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Vice Shout": {
+    "effect": "A piercing shout that staggers and restrains the opponent in place for a brief window; unblockable.",
+    "magnitude": "immobilize on hit",
+    "notes": "Gotenks / Super Buu. Datamine type 拘束, unblockable + no-auto-guard. [datamine: flags: no-auto-guard, unblockable; 2 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Warm-up Exercise": {
+    "effect": "Activation self-buff: the user powers up to raise their combat stats (typically Melee, Ki Charge and Blast power) for a timed window, without entering Sparking! Mode.",
+    "magnitude": "+attack/stat",
+    "notes": "Goku (Mini), DAIMA. Datamine type 能力 (Boost) — warms up to raise his stats. [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Wasabi Bomb": {
+    "effect": "Panzy lobs a wasabi bomb that, on hit, stuns/restrains the opponent for a short window (no-auto-guard).",
+    "magnitude": "immobilize on hit",
+    "notes": "Panzy (DAIMA). Datamine type 拘束, flag: no-auto-guard. [datamine: flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Welcome to My World": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Frost. Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Wild Move": {
+    "effect": "Broly (Super) makes an erratic high-speed warp to instantly reposition behind/around the opponent (teleport reposition).",
+    "magnitude": "instant reposition / warp",
+    "notes": "Broly (Super). Datamine type 瞬間移動 (Teleport family). [datamine: 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Wild Sense": {
+    "effect": "Persistent one-hit auto-dodge that, when the user is about to be hit by melee, automatically vanishes behind the opponent AND counterattacks; consumed on trigger, then must be re-applied.",
+    "magnitude": "single melee dodge + counter per activation",
+    "notes": "2 skill stock. Gutted Dec 2025 (can no longer auto-dodge mid-combo continuation); cancelled if opponent uses Perception during activation. [datamine: 34 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "research/04-mechanics-frame-data.md §4.2",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Wizard Barrier": {
+    "effect": "Babidi conjures a protective barrier/burst that briefly shields him; on the ground it manifests as a repelling explosion, in the air as a barrier, defending against incoming attacks for an instant.",
+    "magnitude": "brief block / repel",
+    "notes": "Babidi. sparkingzerometa: type 'Explosion', cost 2, 0.3s activation. [datamine: 1 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "You'll Never Beat Me": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Goku (Super). Datamine type 特殊 + no-auto-guard, cost 4. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "community",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  },
+  "Your Arrogance Disgusts Me!": {
+    "effect": "Performs a long start-up power-up stance that automatically puts the user into Sparking! Mode (granting Ultimate access, ki-free actions and Ki-blast-stun immunity) — an Instant-Sparking activation that skips the Sparking gauge; some users get accompanying stat boosts, others only the Sparking activation.",
+    "notes": "Frieza (Z). sparkingzerometa: type Sparking, Instant Sparking: Yes, cost 4 (datamine) / listed 3 on Frieza form; 1.5s. [datamine: stock cost 4; flags: no-auto-guard; 1 user(s)]",
+    "confidence": "datamined",
+    "sources": [
+      "https://dbzsparkingzero.fandom.com/wiki/Blast_1 (Sparking! ZERO Wiki, Blast 1 skill pages)",
+      "https://sparkingzerometa.com (datamine: skill type/cost/duration/heal)",
+      "data-mined/characters.json s1Skills (game-file flags & stock costs, Steam build 22517964)"
+    ]
+  }
+}

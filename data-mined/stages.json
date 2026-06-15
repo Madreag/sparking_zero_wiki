@@ -1,0 +1,202 @@
+[
+ {
+  "key": "ST_MAP_0000",
+  "id": "0000",
+  "name": "Planet Namek"
+ },
+ {
+  "key": "ST_MAP_0001",
+  "id": "0001",
+  "name": "Open Field"
+ },
+ {
+  "key": "ST_MAP_0002",
+  "id": "0002",
+  "name": "Rocky Land"
+ },
+ {
+  "key": "ST_MAP_0003",
+  "id": "0003",
+  "name": "City"
+ },
+ {
+  "key": "ST_MAP_0004",
+  "id": "0004",
+  "name": "World Tournament"
+ },
+ {
+  "key": "ST_MAP_0005",
+  "id": "0005",
+  "name": "Tournament of Power Arena"
+ },
+ {
+  "key": "ST_MAP_0006",
+  "id": "0006",
+  "name": "Hyperbolic Time Chamber"
+ },
+ {
+  "key": "ST_MAP_0007",
+  "id": "0007",
+  "name": "Land of the Kais"
+ },
+ {
+  "key": "ST_MAP_0008",
+  "id": "0008",
+  "name": "Islands"
+ },
+ {
+  "key": "ST_MAP_0009",
+  "id": "0009",
+  "name": "Cell Games Arena"
+ },
+ {
+  "key": "ST_MAP_0010",
+  "id": "0010",
+  "name": "City Ruins"
+ },
+ {
+  "key": "ST_MAP_0011",
+  "id": "0011",
+  "name": "Destroyed Planet Namek"
+ },
+ {
+  "key": "ST_MAP_0020",
+  "id": "0020",
+  "name": "First Demon World"
+ },
+ {
+  "key": "ST_MAP_0053",
+  "id": "0053",
+  "name": "City (Daytime - Cloudy)"
+ },
+ {
+  "key": "ST_MAP_0101",
+  "id": "0101",
+  "name": "Open Field (Evening)"
+ },
+ {
+  "key": "ST_MAP_0102",
+  "id": "0102",
+  "name": "Rocky Land (Evening)"
+ },
+ {
+  "key": "ST_MAP_0103",
+  "id": "0103",
+  "name": "City (Evening)"
+ },
+ {
+  "key": "ST_MAP_0108",
+  "id": "0108",
+  "name": "Islands (Evening)"
+ },
+ {
+  "key": "ST_MAP_0109",
+  "id": "0109",
+  "name": "Cell Games Arena (Evening)"
+ },
+ {
+  "key": "ST_MAP_0201",
+  "id": "0201",
+  "name": "Open Field (Night)"
+ },
+ {
+  "key": "ST_MAP_0202",
+  "id": "0202",
+  "name": "Rocky Land (Night)"
+ },
+ {
+  "key": "ST_MAP_0203",
+  "id": "0203",
+  "name": "City (Night)"
+ },
+ {
+  "key": "ST_MAP_0204",
+  "id": "0204",
+  "name": "World Tournament (No Crowd)"
+ },
+ {
+  "key": "ST_MAP_0208",
+  "id": "0208",
+  "name": "Islands (Night)"
+ },
+ {
+  "key": "ST_MAP_0209",
+  "id": "0209",
+  "name": "Cell Games Arena (Night)"
+ },
+ {
+  "key": "ST_MAP_0500",
+  "id": "0500",
+  "name": "Kame House"
+ },
+ {
+  "key": "ST_MAP_0501",
+  "id": "0501",
+  "name": "Raditz's Pod Crash Location"
+ },
+ {
+  "key": "ST_MAP_0502",
+  "id": "0502",
+  "name": "Guru's House"
+ },
+ {
+  "key": "ST_MAP_0503",
+  "id": "0503",
+  "name": "Capsule Corporation"
+ },
+ {
+  "key": "ST_MAP_0505",
+  "id": "0505",
+  "name": "Goku's House"
+ },
+ {
+  "key": "ST_MAP_0507",
+  "id": "0507",
+  "name": "The Lookout"
+ },
+ {
+  "key": "ST_MAP_0508",
+  "id": "0508",
+  "name": "Porunga Background"
+ },
+ {
+  "key": "ST_MAP_0509",
+  "id": "0509",
+  "name": "Super Shenron Background"
+ },
+ {
+  "key": "ST_MAP_0700",
+  "id": "0700",
+  "name": "World Map"
+ },
+ {
+  "key": "ST_MAP_0710",
+  "id": "0710",
+  "name": "Outer Space"
+ },
+ {
+  "key": "ST_MAP_0720",
+  "id": "0720",
+  "name": "Kame House TV Dimension"
+ },
+ {
+  "key": "ST_MAP_0730",
+  "id": "0730",
+  "name": "Whis's Stamp Book"
+ },
+ {
+  "key": "ST_MAP_0740",
+  "id": "0740",
+  "name": "Kame House TV Dimension"
+ },
+ {
+  "key": "ST_MAP_0800",
+  "id": "0800",
+  "name": "Hero Select & Outer Space Chart"
+ },
+ {
+  "key": "ST_MAP_0900",
+  "id": "0900",
+  "name": "Custom Battle"
+ }
+]

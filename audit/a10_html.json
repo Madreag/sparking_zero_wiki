@@ -1,0 +1,161 @@
+{
+ "html_files": 1144,
+ "structural": {
+  "gt_null_lt": 1,
+  "gt_undefined_lt": 0,
+  "gt_None_lt": 0,
+  "gt_NaN_lt": 0,
+  "object_Object": 0,
+  "leaked_wikilink": 0,
+  "leaked_pipe_escape": 0,
+  "empty_td": 1175
+ },
+ "structural_samples": {
+  "gt_null_lt": [
+   "mechanics/vanish-z-counter.html"
+  ],
+  "gt_undefined_lt": [],
+  "gt_None_lt": [],
+  "gt_NaN_lt": [],
+  "object_Object": [],
+  "leaked_wikilink": [],
+  "leaked_pipe_escape": [],
+  "empty_td": [
+   "characters/all-members.html",
+   "characters/ally.html",
+   "characters/android-13.html",
+   "characters/android-16.html",
+   "characters/android-17-super.html",
+   "characters/android-17-z.html",
+   "characters/android-18.html",
+   "characters/android-19.html",
+   "characters/anilaza.html",
+   "characters/announcer.html",
+   "characters/babidi.html",
+   "characters/baby-vegeta-gt.html"
+  ]
+ },
+ "word_artifacts": {
+  "null": {
+   "count": 22,
+   "samples": [
+    [
+     "characters/anilaza.html",
+     "DP8 Anilaza Giant fusion; null-HP, super-armor body,"
+    ],
+    [
+     "characters/cell-max.html",
+     "DP9 Cell Max Giant boss; null-HP giant,"
+    ],
+    [
+     "characters/giant-gomah.html",
+     "DP8 Giant Gomah; null-HP giant, dual"
+    ],
+    [
+     "characters/gohan-beast.html",
+     "DP9 Gohan Beast; giant-ish (null HP), 2,000 ki recovery,"
+    ],
+    [
+     "characters/janemba.html",
+     "DP5 Janemba base; giant-ish (null HP),"
+    ],
+    [
+     "characters/jiren-full-power.html",
+     "; giant-ish (null HP), 2,000 ki recovery,"
+    ],
+    [
+     "characters/kefla-super-saiyan-2.html",
+     "SS2; null-HP fusion,"
+    ],
+    [
+     "characters/kefla-super-saiyan.html",
+     "SS; null-HP fusion,"
+    ],
+    [
+     "characters/kefla.html",
+     "DP6 Kefla base; giant-ish (null HP) fusion,"
+    ],
+    [
+     "characters/orange-piccolo-giant-form.html",
+     "Giant Form; null-HP giant,"
+    ],
+    [
+     "characters/toppo-god-of-destruction.html",
+     "God of Destruction; giant-ish (null HP), 2,000 ki recovery,"
+    ],
+    [
+     "dlc/ultimate-upgrade-pack.html",
+     "is null)."
+    ],
+    [
+     "guides/dp-team-value-math.html",
+     "Caveat \u2014 some top fusions have null HP in the datamine."
+    ],
+    [
+     "guides/dp-team-value-math.html",
+     "hp: null"
+    ],
+    [
+     "guides/dp-team-value-math.html",
+     "(est., null in datamine)"
+    ],
+    [
+     "guides/dp-team-value-math.html",
+     "40,000 (est., null)"
+    ],
+    [
+     "guides/dp-team-value-math.html",
+     "40,000 (est., null)"
+    ],
+    [
+     "guides/dp-team-value-math.html",
+     "40,000 (est., null)"
+    ],
+    [
+     "guides/dp-team-value-math.html",
+     "40,000 (est., null)"
+    ],
+    [
+     "mechanics/vanish-z-counter.html",
+     "~\u22485,000 energy (community-measured) (community estimate; not a datamined field \u2014"
+    ]
+   ]
+  },
+  "undefined": {
+   "count": 0,
+   "samples": []
+  },
+  "NaN": {
+   "count": 0,
+   "samples": []
+  },
+  "None": {
+   "count": 4,
+   "samples": [
+    [
+     "game-modes/player-match.html",
+     "None (unranked)"
+    ],
+    [
+     "patches/switch-launch-2025-11-14.html",
+     "None at the gameplay level \u2014 this is a platform expansion. The cross-platform ba"
+    ],
+    [
+     "patches/v2026-02-19.html",
+     "None at the cross-platform competitive level \u2014 there are"
+    ],
+    [
+     "patches/v2026-04-21.html",
+     "None at the roster level. This was the last update before the"
+    ]
+   ]
+  }
+ },
+ "unformatted_numbers": {
+  "occurrences": 0,
+  "pages": 0,
+  "by_number": [],
+  "samples": [],
+  "sample_pages": []
+ }
+}

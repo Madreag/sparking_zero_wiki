@@ -1,0 +1,1751 @@
+{
+ "0000_00": {
+  "dp": 4,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0000_10": {
+  "dp": 5,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0000_11": {
+  "dp": 6,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0000_20": {
+  "dp": 5,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0000_21": {
+  "dp": 6,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0000_22": {
+  "dp": 6,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0000_23": {
+  "dp": 7,
+  "era": "Z",
+  "tier": "A",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0000_33": {
+  "dp": 8,
+  "era": "GT",
+  "tier": "A",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0000_40": {
+  "dp": 5,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0000_41": {
+  "dp": 6,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0000_43": {
+  "dp": 8,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0000_50": {
+  "dp": 8,
+  "era": "Super",
+  "unlock": "120,000 Zeni (shop)",
+  "tier": "A",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)",
+   "research/06-pve-dlc-unlocks.md (shop Zeni costs)"
+  ]
+ },
+ "0000_51": {
+  "dp": 9,
+  "era": "Super",
+  "tier": "S",
+  "summary": "DP9 auto-dodge S-tier (134.4k); nerfed May 2026 (Smash Ki Blast cooldown up, Rush Chain beats dodge) but still top.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0001_42": {
+  "dp": 7,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0002_30": {
+  "dp": 5,
+  "era": "GT",
+  "unlock": "75,000 Zeni (shop)",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/06-pve-dlc-unlocks.md (shop Zeni costs)"
+  ]
+ },
+ "0002_31": {
+  "dp": 6,
+  "era": "GT",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0002_32": {
+  "dp": 7,
+  "era": "GT",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0002_50": {
+  "dp": 3,
+  "era": "DB",
+  "unlock": "45,000 Zeni (shop)",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/06-pve-dlc-unlocks.md (shop Zeni costs)"
+  ]
+ },
+ "0020_00": {
+  "dp": 4,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0020_10": {
+  "dp": 5,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0020_11": {
+  "dp": 6,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0020_30": {
+  "dp": 5,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0020_31": {
+  "dp": 6,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0020_32": {
+  "dp": 6,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0020_40": {
+  "dp": 7,
+  "era": "Z",
+  "unlock": "105,000 Zeni (shop)",
+  "tier": "B",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)",
+   "research/06-pve-dlc-unlocks.md (shop Zeni costs)"
+  ]
+ },
+ "0020_50": {
+  "dp": 8,
+  "era": "GT",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0020_60": {
+  "dp": 5,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0020_61": {
+  "dp": 6,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0020_63": {
+  "dp": 8,
+  "era": "Super",
+  "tier": "B",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0021_20": {
+  "dp": 6,
+  "era": "Z",
+  "tier": "B",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0022_62": {
+  "dp": 7,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0023_00": {
+  "dp": 5,
+  "era": "Z",
+  "classes": [
+   "Giant"
+  ],
+  "tier": "C",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0030_00": {
+  "dp": 3,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0031_00": {
+  "dp": 4,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0031_01": {
+  "dp": 6,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0031_02": {
+  "dp": 7,
+  "era": "Z",
+  "tier": "B",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0032_00": {
+  "dp": 4,
+  "era": "Z",
+  "tier": "C",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0032_01": {
+  "dp": 6,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0032_02": {
+  "dp": 7,
+  "era": "Z",
+  "tier": "A",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0032_10": {
+  "dp": 4,
+  "era": "Z",
+  "tier": "D",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0032_20": {
+  "dp": 7,
+  "era": "Z",
+  "tier": "B",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0032_30": {
+  "dp": 5,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0032_31": {
+  "dp": 6,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0040_00": {
+  "dp": 4,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0040_10": {
+  "dp": 5,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0040_20": {
+  "dp": 4,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0050_00": {
+  "dp": 3,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0060_00": {
+  "dp": 3,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0070_00": {
+  "dp": 4,
+  "era": "Z",
+  "tier": "C",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0080_00": {
+  "dp": 4,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0080_01": {
+  "dp": 6,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0080_10": {
+  "dp": 5,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0080_11": {
+  "dp": 6,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0080_30": {
+  "dp": 5,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0080_31": {
+  "dp": 6,
+  "era": "Z",
+  "tier": "B",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0081_20": {
+  "dp": 6,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0082_00": {
+  "dp": 4,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0082_01": {
+  "dp": 5,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0090_00": {
+  "dp": 4,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0090_01": {
+  "dp": 5,
+  "era": "Z",
+  "tier": "C",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0100_00": {
+  "dp": 7,
+  "era": "Z",
+  "classes": [
+   "Fusion"
+  ],
+  "tier": "A",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0100_01": {
+  "dp": 8,
+  "era": "Z",
+  "classes": [
+   "Fusion"
+  ],
+  "tier": "S",
+  "summary": "DP8 Potara fusion; #12 Singles (126.9k); fusion burst just below SSGSS Vegito.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0100_02": {
+  "dp": 10,
+  "era": "Super",
+  "classes": [
+   "Fusion"
+  ],
+  "tier": "S",
+  "summary": "DP10 Potara fusion; #1 Singles (sparkingzerometa 152.8k); elite fusion speed + Final Kamehameha ultimate burst.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0110_00": {
+  "dp": 7,
+  "era": "Movie",
+  "classes": [
+   "Fusion"
+  ],
+  "tier": "A",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0110_01": {
+  "dp": 8,
+  "era": "Movie",
+  "classes": [
+   "Fusion"
+  ],
+  "tier": "A",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0110_02": {
+  "dp": 10,
+  "era": "GT",
+  "classes": [
+   "Fusion"
+  ],
+  "unlock": "120,000 Zeni (shop)",
+  "tier": "S",
+  "summary": "DP10 Fusion-Dance carry; #2 Singles (151.5k); normals faster than many chars' Sparking-mode speed — premier rushdown.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)",
+   "research/06-pve-dlc-unlocks.md (shop Zeni costs)"
+  ]
+ },
+ "0110_03": {
+  "dp": 10,
+  "era": "Movie",
+  "classes": [
+   "Fusion"
+  ],
+  "tier": "S",
+  "summary": "DP10 Singles S-tier (132.7k); nerfed May 2026 (Smash Ki Blast damage + homing cut) — needs deliberate spacing.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0110_04": {
+  "dp": 8,
+  "era": "Movie",
+  "classes": [
+   "Fusion"
+  ],
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0120_00": {
+  "dp": 6,
+  "era": "Z",
+  "classes": [
+   "Fusion"
+  ],
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0120_01": {
+  "dp": 7,
+  "era": "Z",
+  "classes": [
+   "Fusion"
+  ],
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0120_02": {
+  "dp": 8,
+  "era": "Z",
+  "classes": [
+   "Fusion"
+  ],
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0130_00": {
+  "dp": 2,
+  "era": "Z",
+  "unlock": "30,000 Zeni (shop)",
+  "tier": "D",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)",
+   "research/06-pve-dlc-unlocks.md (shop Zeni costs)"
+  ]
+ },
+ "0140_00": {
+  "dp": 2,
+  "era": "DB",
+  "summary": "DP2 low-HP (30,000) flightless skirmisher; transforms to Max Power.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0141_00": {
+  "dp": 2,
+  "era": "DB",
+  "tier": "D",
+  "summary": "DP2 Max Power form; DP-efficiency S-tier (sparkingzerometa 31.2k points-per-DP) but Ki recovery nerfed May 2026; weak in standardized-HP Singles.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0150_00": {
+  "dp": 5,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0151_00": {
+  "dp": 5,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0152_00": {
+  "dp": 5,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0153_00": {
+  "dp": 6,
+  "era": "Z",
+  "tier": "C",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0153_10": {
+  "dp": 6,
+  "era": "Z",
+  "classes": [
+   "Android"
+  ],
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0153_20": {
+  "dp": 6,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0154_00": {
+  "dp": 7,
+  "era": "Z",
+  "tier": "B",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0155_00": {
+  "dp": 8,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0160_00": {
+  "dp": 5,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0161_00": {
+  "dp": 5,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0162_00": {
+  "dp": 6,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0162_01": {
+  "dp": 7,
+  "era": "Z",
+  "tier": "B",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0163_00": {
+  "dp": 3,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0170_00": {
+  "dp": 6,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0171_00": {
+  "dp": 6,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0172_00": {
+  "dp": 6,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0172_10": {
+  "dp": 7,
+  "era": "Z",
+  "tier": "A",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0172_11": {
+  "dp": 7,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0173_00": {
+  "dp": 7,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0180_00": {
+  "dp": 1,
+  "era": "Z",
+  "tier": "D",
+  "summary": "DP1 — lowest DP in the game; weakest Singles score (8.7k); joke/utility pick only.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0190_00": {
+  "dp": 2,
+  "era": "Z",
+  "tier": "D",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0210_00": {
+  "dp": 2,
+  "era": "Z",
+  "tier": "D",
+  "summary": "DP2 Senzu healer; once meta-defining stall, gutted to niche DP tank (Senzu 6 stock / 0 start; Ki recovery nerfed May 2026).",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0230_00": {
+  "dp": 3,
+  "era": "GT",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0240_00": {
+  "dp": 4,
+  "era": "GT",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0240_01": {
+  "dp": 6,
+  "era": "GT",
+  "classes": [
+   "Fusion"
+  ],
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0310_00": {
+  "dp": 4,
+  "era": "Z",
+  "tier": "D",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0320_00": {
+  "dp": 3,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0330_00": {
+  "dp": 2,
+  "era": "Z",
+  "tier": "D",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0340_00": {
+  "dp": 3,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0350_00": {
+  "dp": 3,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0351_00": {
+  "dp": 3,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0360_00": {
+  "dp": 3,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0370_00": {
+  "dp": 3,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0380_00": {
+  "dp": 4,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0390_00": {
+  "dp": 3,
+  "era": "Z",
+  "tier": "C",
+  "summary": "DP3 heavy bruiser; DP-value S-tier (30.3k) for points-per-DP, but HP reduced in May 2026 patch.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0400_00": {
+  "dp": 3,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0410_00": {
+  "dp": 3,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0420_00": {
+  "dp": 2,
+  "era": "Z",
+  "tier": "D",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0430_00": {
+  "dp": 4,
+  "era": "Z",
+  "tier": "D",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0440_00": {
+  "dp": 5,
+  "era": "Z",
+  "classes": [
+   "Android"
+  ],
+  "tier": "B",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0450_00": {
+  "dp": 5,
+  "era": "Z",
+  "classes": [
+   "Android"
+  ],
+  "tier": "C",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0450_10": {
+  "dp": 6,
+  "era": "Super",
+  "classes": [
+   "Android"
+  ],
+  "tier": "B",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0460_00": {
+  "dp": 5,
+  "era": "Z",
+  "classes": [
+   "Android"
+  ],
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0470_00": {
+  "dp": 4,
+  "era": "Z",
+  "classes": [
+   "Android"
+  ],
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0480_00": {
+  "dp": 4,
+  "era": "Z",
+  "classes": [
+   "Android"
+  ],
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0490_00": {
+  "dp": 3,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0500_00": {
+  "dp": 6,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0540_00": {
+  "dp": 2,
+  "era": "Z",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0550_00": {
+  "dp": 5,
+  "era": "Movie",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0551_00": {
+  "dp": 7,
+  "era": "Movie",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0552_00": {
+  "dp": 9,
+  "era": "Movie",
+  "tier": "S",
+  "summary": "DP9 berserker; top-3 both modes (Singles 150.6k / DP 29.1k); tanky, huge damage, scales with permanent attack-buff transform.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0553_00": {
+  "dp": 5,
+  "era": "Movie",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0554_00": {
+  "dp": 7,
+  "era": "Movie",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0555_00": {
+  "dp": 9,
+  "era": "Movie",
+  "tier": "S",
+  "summary": "DP9 armor bruiser; #4 Singles (149.6k) and top DP value (29.0k); Broly (Super) ceiling form.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0561_00": {
+  "dp": 4,
+  "era": "Movie",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0570_00": {
+  "dp": 4,
+  "era": "Movie",
+  "tier": "C",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0580_00": {
+  "dp": 4,
+  "era": "Movie",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0590_00": {
+  "dp": 4,
+  "era": "Movie",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0591_00": {
+  "dp": 6,
+  "era": "Movie",
+  "classes": [
+   "Giant"
+  ],
+  "tier": "C",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0600_00": {
+  "dp": 6,
+  "era": "Movie",
+  "tier": "C",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0600_10": {
+  "dp": 7,
+  "era": "Movie",
+  "classes": [
+   "Android"
+  ],
+  "tier": "A",
+  "summary": "DP7 Android; A-tier Singles (116.4k); revival + regeneration kit.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0601_00": {
+  "dp": 7,
+  "era": "Movie",
+  "tier": "A",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0620_00": {
+  "dp": 5,
+  "era": "Movie",
+  "classes": [
+   "Android"
+  ],
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0621_00": {
+  "dp": 7,
+  "era": "Movie",
+  "classes": [
+   "Giant",
+   "Android",
+   "Fusion"
+  ],
+  "tier": "S",
+  "summary": "DP7 Giant/Android fusion; #13 Singles (125.2k) and strong DP value (24.7k); surprise high-tier.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0630_00": {
+  "dp": 5,
+  "era": "Movie",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0631_00": {
+  "dp": 7,
+  "era": "Movie",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0650_00": {
+  "dp": 5,
+  "era": "Movie",
+  "tier": "C",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0651_00": {
+  "dp": 7,
+  "era": "Movie",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0660_00": {
+  "dp": 4,
+  "era": "Movie",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0670_00": {
+  "dp": 6,
+  "era": "Movie",
+  "classes": [
+   "Giant"
+  ],
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0680_00": {
+  "dp": 5,
+  "era": "GT",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0680_01": {
+  "dp": 6,
+  "era": "GT",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0680_02": {
+  "dp": 7,
+  "era": "GT",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0681_00": {
+  "dp": 7,
+  "era": "GT",
+  "classes": [
+   "Giant"
+  ],
+  "tier": "B",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0700_00": {
+  "dp": 7,
+  "era": "GT",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0700_01": {
+  "dp": 8,
+  "era": "GT",
+  "tier": "A",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0760_00": {
+  "dp": 2,
+  "era": "Z",
+  "summary": "DP2 tank; DP-efficiency S-tier (28.2k) overperformer, but HP reduced May 2026.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0780_00": {
+  "dp": 10,
+  "era": "Super",
+  "tier": "A",
+  "summary": "DP10 God of Destruction; A-tier Singles (120.9k) but perennial competitive pick for cheap-DP mobility/zoning.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0790_00": {
+  "dp": 10,
+  "era": "Super",
+  "tier": "S",
+  "summary": "DP10 deity; #6 Singles (135.4k); best-in-class mobility + auto-dodge (Rush-Chain-counterable post-May-2026).",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0800_00": {
+  "dp": 5,
+  "era": "Super",
+  "unlock": "75,000 Zeni (shop)",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/06-pve-dlc-unlocks.md (shop Zeni costs)"
+  ]
+ },
+ "0800_01": {
+  "dp": 8,
+  "era": "Super",
+  "tier": "A",
+  "summary": "DP8 pressure/okizeme specialist (Singles 113.0k); strong ladder + tournament pick, solid DP body (20.7k).",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0810_00": {
+  "dp": 5,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0810_01": {
+  "dp": 8,
+  "era": "Super",
+  "classes": [
+   "Fusion"
+  ],
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0811_00": {
+  "dp": 9,
+  "era": "Super",
+  "classes": [
+   "Fusion"
+  ],
+  "tier": "A",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0870_00": {
+  "dp": 8,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0881_00": {
+  "dp": 6,
+  "era": "Super",
+  "unlock": "90,000 Zeni (shop)",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/06-pve-dlc-unlocks.md (shop Zeni costs)"
+  ]
+ },
+ "0890_00": {
+  "dp": 5,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0890_01": {
+  "dp": 6,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0890_02": {
+  "dp": 7,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0900_00": {
+  "dp": 5,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0900_02": {
+  "dp": 7,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0910_00": {
+  "dp": 5,
+  "era": "Super",
+  "unlock": "60,000 Zeni (shop)",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/06-pve-dlc-unlocks.md (shop Zeni costs)"
+  ]
+ },
+ "0911_00": {
+  "dp": 7,
+  "era": "Super",
+  "tier": "S",
+  "summary": "DP7 berserker; #9 Singles (129.1k), strong DP value (25.5k); Cry of Rage activation time raised May 2026.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0912_00": {
+  "dp": 6,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0920_00": {
+  "dp": 6,
+  "era": "Super",
+  "classes": [
+   "Fusion"
+  ],
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0920_01": {
+  "dp": 7,
+  "era": "Super",
+  "classes": [
+   "Fusion"
+  ],
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0920_02": {
+  "dp": 8,
+  "era": "Super",
+  "classes": [
+   "Fusion"
+  ],
+  "tier": "A",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0930_00": {
+  "dp": 8,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0931_00": {
+  "dp": 9,
+  "era": "Super",
+  "tier": "S",
+  "summary": "DP9 Singles S-tier (140.3k); armor + counters + raw power, but low DP efficiency (12.0k) — an expensive anchor.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0940_00": {
+  "dp": 7,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "0941_00": {
+  "dp": 8,
+  "era": "Super",
+  "tier": "S",
+  "summary": "DP8 God of Destruction; #11 Singles (128.0k); armor + raw power anchor.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "0950_00": {
+  "dp": 6,
+  "era": "Super",
+  "unlock": "90,000 Zeni (shop)",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/06-pve-dlc-unlocks.md (shop Zeni costs)"
+  ]
+ },
+ "1190_00": {
+  "dp": 5,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "1321_00": {
+  "dp": 5,
+  "era": "Super",
+  "tier": "D",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "1331_00": {
+  "dp": 5,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "1341_00": {
+  "dp": 5,
+  "era": "Super",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "1500_00": {
+  "dp": 8,
+  "era": "Super",
+  "classes": [
+   "Giant",
+   "Fusion"
+  ],
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "3000_00": {
+  "dp": 4,
+  "era": "Movie",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "3000_01": {
+  "dp": 6,
+  "era": "Movie",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "3000_02": {
+  "dp": 8,
+  "era": "Movie",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "3000_03": {
+  "dp": 9,
+  "era": "Movie",
+  "tier": "S",
+  "summary": "DP9 DLC carry; #10 Singles (128.7k) AND #1 DP (33.9k) — best all-around pick across both modes.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "3010_00": {
+  "dp": 5,
+  "era": "Movie",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "3010_01": {
+  "dp": 6,
+  "era": "Movie",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "3011_00": {
+  "dp": 8,
+  "era": "Movie",
+  "tier": "A",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "3012_00": {
+  "dp": 8,
+  "era": "Movie",
+  "classes": [
+   "Giant"
+  ],
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "3020_00": {
+  "dp": 7,
+  "era": "Movie",
+  "classes": [
+   "Android"
+  ],
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "3030_00": {
+  "dp": 7,
+  "era": "Movie",
+  "classes": [
+   "Android"
+  ],
+  "tier": "B",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "3040_00": {
+  "dp": 9,
+  "era": "Movie",
+  "classes": [
+   "Giant"
+  ],
+  "tier": "B",
+  "summary": "DP9 Giant boss; Max Bomb made unblockable Jan 2026; B-tier Singles after broad May 2026 giant nerfs.",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "3050_00": {
+  "dp": 4,
+  "era": "DAIMA",
+  "tier": "D",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "3050_01": {
+  "dp": 5,
+  "era": "DAIMA",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "3050_14": {
+  "dp": 7,
+  "era": "DAIMA",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "3060_00": {
+  "dp": 4,
+  "era": "DAIMA",
+  "tier": "C",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "3060_01": {
+  "dp": 5,
+  "era": "DAIMA",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "3060_02": {
+  "dp": 6,
+  "era": "DAIMA",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "3060_03": {
+  "dp": 7,
+  "era": "DAIMA",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "3070_00": {
+  "dp": 4,
+  "era": "DAIMA",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "3080_00": {
+  "dp": 7,
+  "era": "DAIMA",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "3100_03": {
+  "dp": 7,
+  "era": "DAIMA",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "3110_00": {
+  "dp": 5,
+  "era": "DAIMA",
+  "tier": "D",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "3120_04": {
+  "dp": 8,
+  "era": "DAIMA",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "3130_00": {
+  "dp": 2,
+  "era": "DAIMA",
+  "tier": "D",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)",
+   "research/05-meta-pvp-tiers.md (sparkingzerometa + propelrc, May 26 2026 patch)"
+  ]
+ },
+ "3140_00": {
+  "dp": 7,
+  "era": "DAIMA",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "3150_00": {
+  "dp": 8,
+  "era": "DAIMA",
+  "classes": [
+   "Giant"
+  ],
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ },
+ "3160_00": {
+  "dp": 5,
+  "era": "Legends",
+  "sources": [
+   "research/02-roster-dp-dlc.md (Game8/Fandom DP tables)"
+  ]
+ }
+}

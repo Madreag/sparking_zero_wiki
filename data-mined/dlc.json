@@ -1,0 +1,268 @@
+{
+ "DLC_000": {
+  "id": "DLC_000",
+  "title": "Pre-order Pack",
+  "fullText": "Pre-order Pack\r\n\r\n- Playable characters unlocked early (x6):\r\n  Gogeta (Super)\r\n  Gogeta (Super), Super Saiyan\r\n  Gogeta (Super), Super Saiyan God Super Saiyan\r\n  Broly (Super)\r\n  Broly (Super), Super Saiyan\r\n  Broly (Super), Super Saiyan (Full Power)\r\n- Playable character:\r\n  Goku (Mini)",
+  "characterIds": [
+   "0110_00",
+   "0553_00",
+   "3050_00"
+  ],
+  "characters": [
+   "Gogeta (Super)",
+   "Broly (Super)",
+   "Goku (Mini)"
+  ],
+  "summonTickets": null
+ },
+ "DLC_001": {
+  "id": "DLC_001",
+  "title": "Ultimate Upgrade Pack",
+  "fullText": "Ultimate Upgrade Pack\r\n\r\n- Costume: Goku (Super) Costume 8: Power Pole Outfit\r\n- Player Cards (x2)\r\n  Player Card 11\r\n  Player Card 12\r\n- Ability Item: Almighty Boost\r\n- Emote Voiceover Collection (x30)\r\n  Emote Voiceover Collection 4 for the following characters:\r\n  Goku (Z - Early)\r\n  Goku (Z - Mid), Super Saiyan\r\n  Goku (Super)\r\n  Goku (Super), Ultra Instinct -Sign-\r\n  Goku (Super), Ultra Instinct\r\n  Vegeta (Z - Scouter)\r\n  Vegeta (Z - Early), Super Saiyan\r\n  Vegeta (Super), Super Saiyan\r\n  Great Saiyaman\r\n  Ultimate Gohan\r\n  Piccolo (Fused with Kami)\r\n  Yamcha\r\n  Trunks (Sword)\r\n  Future Trunks, Super Saiyan\r\n  Super Vegito\r\n  Vegito, Super Saiyan God Super Saiyan\r\n  Master Roshi\r\n  Frieza (Z), 1st Form\r\n  Frieza (Z), 4th Form\r\n  Frieza (Super)\r\n  Cell, Perfect Form\r\n  Super Buu (Gohan Absorbed)\r\n  Android 17 (Super)\r\n  Android 18\r\n  Goku Black, Super Saiyan Rosé\r\n  Zamasu\r\n  Fused Zamasu\r\n  Hit\r\n  Jiren, Full Power\r\n  Ribrianne",
+  "characterIds": [],
+  "characters": [],
+  "summonTickets": null
+ },
+ "DLC_002": {
+  "id": "DLC_002",
+  "title": "Summon Super Shenron",
+  "fullText": "Summon Super Shenron\r\n\r\nCan summon Super Shenron 1 time and have a wish granted.\r\n*This will allow you to choose certain benefits to\r\nreceive, like unlocking characters or gaining Zeni.",
+  "characterIds": [],
+  "characters": [],
+  "summonTickets": [
+   {
+    "Key": "EDragonType::SH002",
+    "Value": 1
+   }
+  ]
+ },
+ "DLC_003": {
+  "id": "DLC_003",
+  "title": "Anime Music Pack 1",
+  "fullText": "Anime Music Pack 1\r\n\r\nClassic Anime OP/ED & BGM (11 Tracks)\r\n*Can be used as BGM in regular battles, Custom Battles, and more.",
+  "characterIds": [],
+  "characters": [],
+  "summonTickets": null
+ },
+ "DLC_004": {
+  "id": "DLC_004",
+  "title": "Anime Music Pack 2",
+  "fullText": "Anime Music Pack 2\r\n\r\nClassic Anime OP/ED & BGM (12 Tracks)\r\n*Can be used as BGM in regular battles, Custom Battles, and more.",
+  "characterIds": [],
+  "characters": [],
+  "summonTickets": null
+ },
+ "DLC_005": {
+  "id": "DLC_005",
+  "title": "Victory Pack",
+  "fullText": "Victory Pack\r\n\r\n- Accessory: V Jump Aura\r\n*Can only be used with certain characters\r\n- Ability Item: Victory Power",
+  "characterIds": [],
+  "characters": [],
+  "summonTickets": null
+ },
+ "DLC_006": {
+  "id": "DLC_006",
+  "title": "Martial Arts Pack",
+  "fullText": "Martial Arts Pack\r\n\r\n- Playable characters unlocked early (x3)\r\n  Bardock\r\n  Gohan (Future)\r\n  Gohan (Future), Super Saiyan\r\n- Costume: Bardock Costume 2\r\n- Ability Item: Super Sparking!",
+  "characterIds": [
+   "0310_00",
+   "0032_30"
+  ],
+  "characters": [
+   "Bardock",
+   "Gohan (Future)"
+  ],
+  "summonTickets": null
+ },
+ "DLC_007": {
+  "id": "DLC_007",
+  "title": "Summon Shenron",
+  "fullText": "Summon Shenron\r\n\r\nCan summon Shenron 1 time and have a wish granted.\r\n*This will allow you to receive certain benefits,\r\nlike costumes and Zeni.",
+  "characterIds": [],
+  "characters": [],
+  "summonTickets": [
+   {
+    "Key": "EDragonType::SH000",
+    "Value": 1
+   }
+  ]
+ },
+ "DLC_009": {
+  "id": "DLC_009",
+  "title": "\"Heroes of Justice\" Pack",
+  "fullText": "\"Heroes of Justice\" Pack\r\n\r\n- Playable characters (x11)\r\n  Gohan (Super Hero)\r\n  Gohan (Super Hero), Super Saiyan\r\n  Ultimate Gohan (Super Hero)\r\n  Gohan Beast\r\n  Piccolo (Super Hero)\r\n  Piccolo (Super Hero), Power Awakening\r\n  Orange Piccolo\r\n  Orange Piccolo, Giant Form\r\n  Gamma 1\r\n  Gamma 2\r\n  Cell Max\r\n- Outfits\r\n  Piccolo (Super Hero) / Piccolo (Super Hero), Power Awakening Outfit 2\r\n- 3 Bonus Battles\r\n  \"Outshine Grandfather\"\r\n  \"Cell Max Games are underway\"\r\n  \"Unleash Beast power!\"",
+  "characterIds": [
+   "3000_00",
+   "3010_00",
+   "3020_00",
+   "3030_00",
+   "3040_00"
+  ],
+  "characters": [
+   "Gohan (Super Hero)",
+   "Piccolo (Super Hero)",
+   "Gamma 1",
+   "Gamma 2",
+   "Cell Max"
+  ],
+  "summonTickets": null
+ },
+ "DLC_010": {
+  "id": "DLC_010",
+  "title": "Dragon Ball DAIMA Character Pack 1",
+  "fullText": "Dragon Ball DAIMA Character Pack 1\r\n\r\n- Playable characters (x9)\r\n  Goku (Mini)\r\n  Goku (Mini), Super Saiyan\r\n  Vegeta (Mini)\r\n  Vegeta (Mini), Super Saiyan\r\n  Vegeta (Mini), Super Saiyan 2\r\n  Vegeta (Mini), Super Saiyan 3\r\n  Glorio\r\n  Panzy\r\n  Majin Kuu",
+  "characterIds": [
+   "3050_00",
+   "3060_00",
+   "3070_00",
+   "3110_00",
+   "3130_00"
+  ],
+  "characters": [
+   "Goku (Mini)",
+   "Vegeta (Mini)",
+   "Glorio",
+   "Majin Kuu",
+   "Panzy"
+  ],
+  "summonTickets": null
+ },
+ "DLC_011": {
+  "id": "DLC_011",
+  "title": "Dragon Ball DAIMA Character Pack 2",
+  "fullText": "Dragon Ball DAIMA Character Pack 2\r\n\r\n- Playable characters (x6)\r\n  Goku (Mini), Super Saiyan 4\r\n  Goku (DAIMA), Super Saiyan 4\r\n  Vegeta (DAIMA), Super Saiyan 3\r\n  Majin Duu\r\n  Third Eye Gomah\r\n  Giant Gomah",
+  "characterIds": [
+   "3050_14",
+   "3120_04",
+   "3100_03",
+   "3140_00",
+   "3080_00",
+   "3150_00"
+  ],
+  "characters": [
+   "Goku (Mini)",
+   "Goku (DAIMA)",
+   "Vegeta (DAIMA)",
+   "Majin Duu",
+   "Third Eye Gomah",
+   "Giant Gomah"
+  ],
+  "summonTickets": null
+ },
+ "DLC_012": {
+  "id": "DLC_012",
+  "title": "Shallot (DRAGON BALL LEGENDS)",
+  "fullText": "Shallot (DRAGON BALL LEGENDS)\r\n\r\n- Playable characters (x1)\r\n  Shallot",
+  "characterIds": [
+   "3160_00"
+  ],
+  "characters": [
+   "Shallot"
+  ],
+  "summonTickets": null
+ },
+ "DLC_900": {
+  "id": "DLC_900",
+  "title": "DLC for operation",
+  "fullText": "DLC for operation",
+  "characterIds": [
+   "0000_50",
+   "0002_30",
+   "0002_50",
+   "0020_40",
+   "0020_50",
+   "0032_30",
+   "0040_20",
+   "0110_00",
+   "0110_02",
+   "0110_04",
+   "0130_00",
+   "0153_10",
+   "0163_00",
+   "0171_00",
+   "0210_00",
+   "0230_00",
+   "0240_00",
+   "0310_00",
+   "0330_00",
+   "0370_00",
+   "0430_00",
+   "0540_00",
+   "0553_00",
+   "0561_00",
+   "0570_00",
+   "0580_00",
+   "0590_00",
+   "0600_00",
+   "0600_10",
+   "0620_00",
+   "0630_00",
+   "0650_00",
+   "0660_00",
+   "0670_00",
+   "0680_00",
+   "0700_00",
+   "0760_00",
+   "0800_00",
+   "0810_01",
+   "0881_00",
+   "0900_00",
+   "0910_00",
+   "0950_00",
+   "1190_00",
+   "1331_00",
+   "1341_00",
+   "1500_00"
+  ],
+  "characters": [
+   "Goku (Super)",
+   "Goku (GT)",
+   "Goku (Teen)",
+   "Majin Vegeta",
+   "Vegeta (GT)",
+   "Gohan (Future)",
+   "Nail",
+   "Gogeta (Super)",
+   "Gogeta (GT)",
+   "Super Gogeta (Z) ",
+   "Videl",
+   "Mecha Frieza",
+   "Cell Jr.",
+   "Majin Buu (Evil)",
+   "Yajirobe",
+   "Pan (GT)",
+   "Uub (GT)",
+   "Bardock",
+   "Saibaman",
+   "Cui",
+   "King Cold",
+   "Frieza Force Soldier",
+   "Broly (Super)",
+   "Super Garlic Jr.",
+   "Dr. Wheelo",
+   "Turles",
+   "Lord Slug",
+   "Cooler",
+   "Metal Cooler",
+   "Android 13",
+   "Bojack",
+   "Janemba",
+   "Tapion",
+   "Hirudegarn",
+   "Baby Vegeta (GT)",
+   "Syn Shenron (GT)",
+   "Spopovich",
+   "Goku Black",
+   "Fused Zamasu",
+   "Frost",
+   "Caulifla",
+   "Kale",
+   "Dyspo",
+   "Bergamo",
+   "Kakunsa",
+   "Roasie",
+   "Anilaza"
+  ],
+  "summonTickets": null
+ }
+}

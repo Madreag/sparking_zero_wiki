@@ -1,0 +1,869 @@
+{
+ "counts": {
+  "HIGH": 2,
+  "LOW": 102,
+  "MEDIUM": 8
+ },
+ "findings": [
+  {
+   "sev": "HIGH",
+   "check": "slug-dedup",
+   "slug": "full-power-energy-blast-volley-super",
+   "msg": "blast 'Full-Power Energy Blast Volley' (super) collides on slug with kept 'Full Power Energy Blast Volley' -> page dropped, its users orphaned",
+   "evidence": "slug=full-power-energy-blast-volley-super"
+  },
+  {
+   "sev": "HIGH",
+   "check": "slug-dedup",
+   "slug": "high-speed-rush-super",
+   "msg": "blast 'High-Speed Rush' (super) collides on slug with kept 'High Speed Rush' -> page dropped, its users orphaned",
+   "evidence": "slug=high-speed-rush-super"
+  },
+  {
+   "sev": "LOW",
+   "check": "body",
+   "slug": "body-change-ultimate",
+   "msg": "tag 'When you and your opponent switch bodies, you cannot use\r Transformation, Switch, skills, Blasts, or Ultimate Blasts.' missing from body bullet list",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "angry-kamehameha-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category None) but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "berserker-crash-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "big-bang-attack-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category 'Fire') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "bloody-dance-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "charge-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "cosmic-impact-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "dodoria-head-ram-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "drain-life-19-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "drain-life-20-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "drain-life-cell-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "drain-life-cell-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "dynamite-kick-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "elegant-blaster-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category 'Beam') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "energy-strike-super",
+   "msg": "datamined power is melee/Combatives-derived (category None) but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "evil-containment-wave-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category 'Short-range energy attack') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "final-explosion-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category 'Explosive Wave') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "final-flash-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category 'Beam') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "galactic-donut-volley-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Fire') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "galick-rush-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Fire') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "giga-magic-burst-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category None) but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "gigantic-blaze-super",
+   "msg": "datamined power is melee/Combatives-derived (category \"Attack opponent's location\") but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "gigantic-bomber-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "gigantic-flame-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category 'Beam') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "god-shine-attack-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Continuous Fire') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "infinity-flasher-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "ka-blam-attack-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "last-chance-shock-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Fire') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "life-risking-blow-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "magic-missile-super",
+   "msg": "datamined power is melee/Combatives-derived (category None) but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "maidens-charge-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "majin-corkscrew-attack-super",
+   "msg": "datamined power is melee/Combatives-derived (category None) but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "mighty-fist-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "mr-buu-arrives-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "nova-strike-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "point-blank-kamehameha-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "present-bomb-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "primal-charge-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "primal-instinct-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "quick-rush-super",
+   "msg": "datamined power is melee/Combatives-derived (category None) but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "raging-masenko-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category 'Continuous Fire') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "revenge-death-ball-final-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category None) but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "revenge-death-ball-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category 'Fire') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "rolling-attack-super",
+   "msg": "datamined power is melee/Combatives-derived (category None) but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "spirit-ball-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category 'Fire') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "spirit-bomb-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category 'Fire') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "super-death-ball-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category 'Fire') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "super-galick-gun-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category None) but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "super-kamehameha-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category 'Beam') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "super-spirit-bomb-ultimate",
+   "msg": "datamined power is melee/Combatives-derived (category None) but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "true-divine-dragon-strike-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Fire') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "videl-kick-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "wording",
+   "slug": "wolf-fang-fist-super",
+   "msg": "datamined power is melee/Combatives-derived (category 'Rush') but body calls it 'projectile/beam values'",
+   "evidence": ""
+  },
+  {
+   "sev": "MEDIUM",
+   "check": "xcoll",
+   "slug": "gohan-adult-super-saiyan",
+   "msg": "char has blast2 'Full-Power Energy Blast Volley' but is not listed as a user on 'full-power-energy-blast-volley-super'",
+   "evidence": ""
+  },
+  {
+   "sev": "MEDIUM",
+   "check": "xcoll",
+   "slug": "gohan-super-hero",
+   "msg": "char has blast2 'High-Speed Rush' but is not listed as a user on 'high-speed-rush-super'",
+   "evidence": ""
+  },
+  {
+   "sev": "MEDIUM",
+   "check": "xcoll",
+   "slug": "goku-gt-super-saiyan-3",
+   "msg": "char has blast2 'Full-Power Energy Blast Volley' but is not listed as a user on 'full-power-energy-blast-volley-super'",
+   "evidence": ""
+  },
+  {
+   "sev": "MEDIUM",
+   "check": "xcoll",
+   "slug": "goku-gt-super-saiyan",
+   "msg": "char has blast2 'Full-Power Energy Blast Volley' but is not listed as a user on 'full-power-energy-blast-volley-super'",
+   "evidence": ""
+  },
+  {
+   "sev": "MEDIUM",
+   "check": "xcoll",
+   "slug": "guldo",
+   "msg": "char has blast2 'Full-Power Energy Blast Volley' but is not listed as a user on 'full-power-energy-blast-volley-super'",
+   "evidence": ""
+  },
+  {
+   "sev": "MEDIUM",
+   "check": "xcoll",
+   "slug": "kale",
+   "msg": "char has blast2 'Full-Power Energy Blast Volley' but is not listed as a user on 'full-power-energy-blast-volley-super'",
+   "evidence": ""
+  },
+  {
+   "sev": "MEDIUM",
+   "check": "xcoll",
+   "slug": "roasie",
+   "msg": "char has blast2 'Full-Power Energy Blast Volley' but is not listed as a user on 'full-power-energy-blast-volley-super'",
+   "evidence": ""
+  },
+  {
+   "sev": "MEDIUM",
+   "check": "xcoll",
+   "slug": "vegeta-mini-super-saiyan",
+   "msg": "char has blast2 'Full-Power Energy Blast Volley' but is not listed as a user on 'full-power-energy-blast-volley-super'",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "berserker-crash-super",
+   "msg": "super user Spopovich kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "black-bind-super",
+   "msg": "super user Goku Black kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "blaster-meteor-super",
+   "msg": "super user Broly (Super) kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "darkness-illusion-super",
+   "msg": "super user Super Garlic Jr. kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "death-storm-super",
+   "msg": "super user Frieza (Z) kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "dodoria-head-ram-super",
+   "msg": "super user Dodoria kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "explosive-flash-super",
+   "msg": "super user Gohan Beast kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "final-flash-super",
+   "msg": "super user Future Trunks kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "final-kamehameha-super",
+   "msg": "super user Super Vegito kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "gigantic-blaze-super",
+   "msg": "super user Omega Shenron (GT) kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "gigantic-bomber-super",
+   "msg": "super user Dr. Wheelo kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "gigantic-crash-super",
+   "msg": "super user Broly (Super) kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "gigantic-hammer-super",
+   "msg": "super user Broly (Z) kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "hell-flash-super",
+   "msg": "super user Android 16 kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "justice-bomber-super",
+   "msg": "super user Great Saiyaman kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "ka-blam-attack-super",
+   "msg": "super user Yajirobe kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "last-chance-shock-super",
+   "msg": "super user Panzy kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "lock-on-buster-super",
+   "msg": "super user Metal Cooler kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "magic-tempest-super",
+   "msg": "super user Giant Gomah kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "maidens-charge-super",
+   "msg": "super user Ribrianne kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "majin-beam-super",
+   "msg": "super user Majuub (GT) kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "majin-beam-super",
+   "msg": "super user Super Buu kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "majin-beam-super",
+   "msg": "super user Super Buu kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "majin-corkscrew-attack-super",
+   "msg": "super user Majin Kuu kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "mighty-fist-super",
+   "msg": "super user Cell Max kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "mighty-fist-super",
+   "msg": "super user Orange Piccolo kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "nova-strike-super",
+   "msg": "super user Frieza (Z) kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "overheating-blast-super",
+   "msg": "super user Jiren kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "present-bomb-super",
+   "msg": "super user Mr. Satan kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "primal-charge-super",
+   "msg": "super user Kakunsa kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "punisher-drive-super",
+   "msg": "super user Super Gogeta (Z)  kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "rolling-attack-super",
+   "msg": "super user Majin Duu kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "spirit-breaker-super",
+   "msg": "super user Vegeta (DAIMA) kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "super-destructive-wave-super",
+   "msg": "super user Gohan (Future) kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "super-destructive-wave-super",
+   "msg": "super user Nail kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "super-explosive-wave-super",
+   "msg": "super user Caulifla kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "super-explosive-wave-super",
+   "msg": "super user Fusion Android 13 kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "super-explosive-wave-super",
+   "msg": "super user Gogeta (Super) kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "super-explosive-wave-super",
+   "msg": "super user Hirudegarn kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "super-explosive-wave-super",
+   "msg": "super user Kale kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "super-explosive-wave-super",
+   "msg": "super user King Cold kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "super-explosive-wave-super",
+   "msg": "super user Lord Slug kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "super-nova-strike-super",
+   "msg": "super user Frieza (Super) kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "thunder-shock-surprise-super",
+   "msg": "super user Master Roshi kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "time-skip-jump-spike-super",
+   "msg": "super user Hit kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "ultimate-explosive-power-super",
+   "msg": "super user Babidi kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "ultra-barrage-super",
+   "msg": "super user Goku (Super) kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "volcano-explosion-super",
+   "msg": "super user Nappa kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  },
+  {
+   "sev": "LOW",
+   "check": "kicost",
+   "slug": "warp-punch-super",
+   "msg": "super user Anilaza kiCost=40000 outside 10k/20k/30k",
+   "evidence": ""
+  }
+ ],
+ "stats": {
+  "pages": 453,
+  "idx": 455,
+  "expected": 453,
+  "dropped": [
+   [
+    "full-power-energy-blast-volley-super",
+    "Full-Power Energy Blast Volley",
+    "super"
+   ],
+   [
+    "high-speed-rush-super",
+    "High-Speed Rush",
+    "super"
+   ]
+  ],
+  "damage_users": 83,
+  "traced_ok": 83,
+  "honesty_violations": 0,
+  "melee_pages": [
+   "angry-kamehameha-ultimate",
+   "berserker-crash-super",
+   "big-bang-attack-ultimate",
+   "bloody-dance-super",
+   "charge-super",
+   "cosmic-impact-super",
+   "dodoria-head-ram-super",
+   "drain-life-19-ultimate",
+   "drain-life-20-ultimate",
+   "drain-life-cell-super",
+   "drain-life-cell-ultimate",
+   "dynamite-kick-super",
+   "elegant-blaster-ultimate",
+   "energy-strike-super",
+   "evil-containment-wave-ultimate",
+   "final-explosion-ultimate",
+   "final-flash-ultimate",
+   "galactic-donut-volley-super",
+   "galick-rush-super",
+   "giga-magic-burst-ultimate",
+   "gigantic-blaze-super",
+   "gigantic-bomber-super",
+   "gigantic-flame-ultimate",
+   "god-shine-attack-super",
+   "infinity-flasher-ultimate",
+   "ka-blam-attack-super",
+   "last-chance-shock-super",
+   "life-risking-blow-ultimate",
+   "magic-missile-super",
+   "maidens-charge-super",
+   "majin-corkscrew-attack-super",
+   "mighty-fist-super",
+   "mr-buu-arrives-ultimate",
+   "nova-strike-super",
+   "point-blank-kamehameha-ultimate",
+   "present-bomb-super",
+   "primal-charge-super",
+   "primal-instinct-super",
+   "quick-rush-super",
+   "raging-masenko-ultimate",
+   "revenge-death-ball-final-ultimate",
+   "revenge-death-ball-ultimate",
+   "rolling-attack-super",
+   "spirit-ball-ultimate",
+   "spirit-bomb-ultimate",
+   "super-death-ball-ultimate",
+   "super-galick-gun-ultimate",
+   "super-kamehameha-ultimate",
+   "super-spirit-bomb-ultimate",
+   "true-divine-dragon-strike-super",
+   "videl-kick-super",
+   "wolf-fang-fist-super"
+  ],
+  "xcoll_user_missing": 0,
+  "xcoll_char_missing": 8
+ }
+}

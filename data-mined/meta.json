@@ -1,0 +1,281 @@
+{
+  "asOf": "v2.2 (2026-05-26 update)",
+  "updated": "2026-06-10",
+  "sourceNote": "Synthesized from sparkingzerometa.com (scored), propelrc June 2026, r/SparkingZero community lists — see research/05.",
+  "singles": [
+    {
+      "tier": "Z",
+      "entries": [
+        { "name": "Vegito (Super Saiyan God Super Saiyan)", "slug": "vegito-super-saiyan-god-super-saiyan", "score": 152.8 },
+        { "name": "Gogeta (GT), Super Saiyan 4", "slug": "gogeta-gt-super-saiyan-4", "score": 151.5 },
+        { "name": "Broly (Z), Legendary Super Saiyan", "slug": "broly-z-legendary-super-saiyan", "score": 150.6 },
+        { "name": "Broly (Super), Super Saiyan (Full Power)", "slug": "broly-super-super-saiyan-full-power", "score": 149.6 },
+        { "name": "Jiren, Full Power", "slug": "jiren-full-power", "score": 140.3 },
+        { "name": "Whis", "slug": "whis", "score": 135.4 },
+        { "name": "Goku (Super), Ultra Instinct", "slug": "goku-super-ultra-instinct", "score": 134.4 },
+        { "name": "Gogeta (Super), Super Saiyan God Super Saiyan", "slug": "gogeta-super-super-saiyan-god-super-saiyan", "score": 132.7 },
+        { "name": "Kale, Super Saiyan (Berserk)", "slug": "kale-super-saiyan-berserk", "score": 129.1 },
+        { "name": "Gohan Beast", "slug": "gohan-beast", "score": 128.7 },
+        { "name": "Toppo, God of Destruction", "slug": "toppo-god-of-destruction", "score": 128.0 },
+        { "name": "Super Vegito", "slug": "super-vegito", "score": 126.9 },
+        { "name": "Fusion Android 13", "slug": "fusion-android-13", "score": 125.2 }
+      ]
+    },
+    {
+      "tier": "S",
+      "entries": [
+        { "name": "Gogeta (Super), Super Saiyan", "slug": "gogeta-super-super-saiyan", "score": 123.4 },
+        { "name": "Fused Zamasu, Half-Corrupted", "slug": "fused-zamasu-half-corrupted", "score": 122.3 },
+        { "name": "Beerus", "slug": "beerus", "score": 120.9 },
+        { "name": "Vegito", "slug": "vegito", "score": 120.8 },
+        { "name": "Super Buu (Gotenks Absorbed)", "slug": "super-buu-gotenks-absorbed", "score": 118.6 },
+        { "name": "Goku (GT), Super Saiyan 4", "slug": "goku-gt-super-saiyan-4", "score": 117.8 },
+        { "name": "Metal Cooler", "slug": "metal-cooler", "score": 116.4 },
+        { "name": "Goku (Super), Ultra Instinct -Sign-", "slug": "goku-super-ultra-instinct-sign", "score": 116.1 },
+        { "name": "Kefla, Super Saiyan 2", "slug": "kefla-super-saiyan-2", "score": 113.4 },
+        { "name": "Goku Black, Super Saiyan Rosé", "slug": "goku-black-super-saiyan-ros", "score": 113.0 },
+        { "name": "Omega Shenron (GT)", "slug": "omega-shenron-gt" },
+        { "name": "Cooler, Final Form", "slug": "cooler-final-form" },
+        { "name": "Orange Piccolo", "slug": "orange-piccolo", "score": 104.0 },
+        { "name": "Gohan (Adult), Super Saiyan 2", "slug": "gohan-adult-super-saiyan-2" },
+        { "name": "Goku (Z - End), Super Saiyan 3", "slug": "goku-z-end-super-saiyan-3" },
+        { "name": "Gotenks, Super Saiyan", "slug": "gotenks-super-saiyan" }
+      ]
+    },
+    {
+      "tier": "A",
+      "entries": [
+        { "name": "Future Trunks, Super Saiyan", "slug": "future-trunks-super-saiyan", "score": 93.4 },
+        { "name": "Gamma 2", "slug": "gamma-2" },
+        { "name": "Cell Max", "slug": "cell-max" },
+        { "name": "Gohan (Teen), Super Saiyan 2", "slug": "gohan-teen-super-saiyan-2" },
+        { "name": "Majin Vegeta", "slug": "majin-vegeta" },
+        { "name": "Perfect Cell", "slug": "perfect-cell" },
+        { "name": "Ultimate Gohan", "slug": "ultimate-gohan" },
+        { "name": "Super Vegeta", "slug": "super-vegeta" },
+        { "name": "Great Ape Baby (GT)", "slug": "great-ape-baby-gt" },
+        { "name": "Vegeta (Super), Super Saiyan God Super Saiyan", "slug": "vegeta-super-super-saiyan-god-super-saiyan" },
+        { "name": "Android 16", "slug": "android-16" },
+        { "name": "Frieza (Z), Full Power", "slug": "frieza-z-full-power" },
+        { "name": "Android 17 (Super)", "slug": "android-17-super" }
+      ]
+    },
+    {
+      "tier": "B",
+      "entries": [
+        { "name": "Recoome", "slug": "recoome" },
+        { "name": "Lord Slug, Giant Form", "slug": "lord-slug-giant-form" },
+        { "name": "Janemba", "slug": "janemba" },
+        { "name": "Dr. Wheelo", "slug": "dr-wheelo" },
+        { "name": "Goten, Super Saiyan", "slug": "goten-super-saiyan" },
+        { "name": "Frieza (Z), 4th Form", "slug": "frieza-z-4th-form" },
+        { "name": "Great Ape Vegeta", "slug": "great-ape-vegeta" },
+        { "name": "Android 17 (Z)", "slug": "android-17-z" },
+        { "name": "Tien", "slug": "tien" },
+        { "name": "Gohan (Adult)", "slug": "gohan-adult" },
+        { "name": "Cooler", "slug": "cooler" },
+        { "name": "Vegeta (Mini)", "slug": "vegeta-mini" }
+      ]
+    },
+    {
+      "tier": "D",
+      "entries": [
+        { "name": "Majin Kuu", "slug": "majin-kuu" },
+        { "name": "Ribrianne", "slug": "ribrianne" },
+        { "name": "King Cold", "slug": "king-cold" },
+        { "name": "Yajirobe", "slug": "yajirobe" },
+        { "name": "Goku (Mini)", "slug": "goku-mini" },
+        { "name": "Bardock", "slug": "bardock" },
+        { "name": "Videl", "slug": "videl" },
+        { "name": "Great Saiyaman", "slug": "great-saiyaman" },
+        { "name": "Saibaman", "slug": "saibaman" },
+        { "name": "Panzy", "slug": "panzy" },
+        { "name": "Chiaotzu", "slug": "chiaotzu" },
+        { "name": "Guldo", "slug": "guldo" },
+        { "name": "Mr. Satan", "slug": "mr-satan", "score": 8.7 }
+      ]
+    }
+  ],
+  "dp": [
+    {
+      "tier": "Z",
+      "entries": [
+        { "name": "Gohan Beast", "slug": "gohan-beast", "score": 33.9 },
+        { "name": "Master Roshi, Max Power", "slug": "master-roshi-max-power", "score": 31.2 },
+        { "name": "Yajirobe", "slug": "yajirobe", "score": 30.7 },
+        { "name": "Recoome", "slug": "recoome", "score": 30.3 },
+        { "name": "Broly (Z), Legendary Super Saiyan", "slug": "broly-z-legendary-super-saiyan", "score": 29.1 },
+        { "name": "Broly (Super), Super Saiyan (Full Power)", "slug": "broly-super-super-saiyan-full-power", "score": 29.0 },
+        { "name": "Spopovich", "slug": "spopovich", "score": 28.2 },
+        { "name": "Kale, Super Saiyan (Berserk)", "slug": "kale-super-saiyan-berserk", "score": 25.5 },
+        { "name": "Gohan (Super Hero), Super Saiyan", "slug": "gohan-super-hero-super-saiyan", "score": 25.1 },
+        { "name": "Vegeta (Mini), Super Saiyan 3", "slug": "vegeta-mini-super-saiyan-3", "score": 25.1 },
+        { "name": "Vegeta (Mini), Super Saiyan 2", "slug": "vegeta-mini-super-saiyan-2", "score": 24.8 },
+        { "name": "Fusion Android 13", "slug": "fusion-android-13", "score": 24.7 },
+        { "name": "Super Zarbon", "slug": "super-zarbon", "score": 24.5 }
+      ]
+    },
+    {
+      "tier": "S",
+      "entries": [
+        { "name": "Android 16", "slug": "android-16", "score": 21.5 },
+        { "name": "Android 19", "slug": "android-19", "score": 21.3 },
+        { "name": "Dodoria", "slug": "dodoria" },
+        { "name": "Vegito (Super Saiyan God Super Saiyan)", "slug": "vegito-super-saiyan-god-super-saiyan", "score": 21.2 },
+        { "name": "Goku (Mini), Super Saiyan", "slug": "goku-mini-super-saiyan" },
+        { "name": "Full-Power Bojack", "slug": "full-power-bojack" },
+        { "name": "Orange Piccolo", "slug": "orange-piccolo" },
+        { "name": "Saibaman", "slug": "saibaman" },
+        { "name": "Goku Black, Super Saiyan Rosé", "slug": "goku-black-super-saiyan-ros" },
+        { "name": "Goku (Super), Super Saiyan", "slug": "goku-super-super-saiyan" },
+        { "name": "Videl", "slug": "videl", "score": 20.1 },
+        { "name": "Vegeta (Mini), Super Saiyan", "slug": "vegeta-mini-super-saiyan" },
+        { "name": "Gogeta (Super), Super Saiyan God Super Saiyan", "slug": "gogeta-super-super-saiyan-god-super-saiyan" }
+      ]
+    },
+    {
+      "tier": "A",
+      "entries": [
+        { "name": "Burter", "slug": "burter" },
+        { "name": "Cooler, Final Form", "slug": "cooler-final-form" },
+        { "name": "Fused Zamasu, Half-Corrupted", "slug": "fused-zamasu-half-corrupted" },
+        { "name": "Vegeta (Z - End), Super Saiyan 2", "slug": "vegeta-z-end-super-saiyan-2" },
+        { "name": "Super Garlic Jr.", "slug": "super-garlic-jr" },
+        { "name": "Metal Cooler", "slug": "metal-cooler" },
+        { "name": "Broly (Super)", "slug": "broly-super" },
+        { "name": "Trunks (Melee), Super Saiyan", "slug": "trunks-melee-super-saiyan" },
+        { "name": "Gogeta (Super), Super Saiyan", "slug": "gogeta-super-super-saiyan" },
+        { "name": "Goku (Z - End), Super Saiyan 2", "slug": "goku-z-end-super-saiyan-2" },
+        { "name": "Hirudegarn", "slug": "hirudegarn" },
+        { "name": "Kefla", "slug": "kefla" },
+        { "name": "Vegeta (Super), Super Saiyan God Super Saiyan", "slug": "vegeta-super-super-saiyan-god-super-saiyan" }
+      ]
+    },
+    {
+      "tier": "C",
+      "entries": [
+        { "name": "Goku (Super), Ultra Instinct", "slug": "goku-super-ultra-instinct", "score": 15.5 },
+        { "name": "Gogeta (GT), Super Saiyan 4", "slug": "gogeta-gt-super-saiyan-4", "score": 15.1 },
+        { "name": "Cell Max", "slug": "cell-max", "score": 13.9 },
+        { "name": "Whis", "slug": "whis", "score": 13.5 },
+        { "name": "Beerus", "slug": "beerus", "score": 12.0 },
+        { "name": "Jiren, Full Power", "slug": "jiren-full-power", "score": 12.0 }
+      ]
+    },
+    {
+      "tier": "D",
+      "entries": [
+        { "name": "Kid Buu", "slug": "kid-buu" },
+        { "name": "Dyspo", "slug": "dyspo", "score": 8.3 }
+      ]
+    }
+  ],
+  "counters": [
+    {
+      "slug": "vegito-super-saiyan-god-super-saiyan",
+      "name": "Vegito (Super Saiyan God Super Saiyan)",
+      "beats": ["jiren-full-power", "toppo-god-of-destruction", "gohan-beast", "cell-max"],
+      "losesTo": ["whis", "goku-super-ultra-instinct"],
+      "why": "#1 Singles (152.8) — fastest fusion normals + Final Kamehameha burst overwhelm armor anchors, but auto-dodge picks evade the read-heavy approach."
+    },
+    {
+      "slug": "gogeta-gt-super-saiyan-4",
+      "name": "Gogeta (GT), Super Saiyan 4",
+      "beats": ["jiren-full-power", "toppo-god-of-destruction", "beerus", "orange-piccolo"],
+      "losesTo": ["whis", "goku-super-ultra-instinct"],
+      "why": "#2 Singles (151.5) — normals out-speed most characters' Sparking-mode speed, relentless rushdown beats armor/zoners; auto-dodge defense still resets his pressure."
+    },
+    {
+      "slug": "broly-z-legendary-super-saiyan",
+      "name": "Broly (Z), Legendary Super Saiyan",
+      "beats": ["beerus", "goku-black-super-saiyan-ros", "metal-cooler", "kefla-super-saiyan-2"],
+      "losesTo": ["vegito-super-saiyan-god-super-saiyan", "gogeta-gt-super-saiyan-4"],
+      "why": "#3 Singles (150.6), also #1-tier DP (29.1) — tanky berserker with permanent attack buff from the new transform rule trades up vs squishier pressure, loses the speed race to top fusions."
+    },
+    {
+      "slug": "broly-super-super-saiyan-full-power",
+      "name": "Broly (Super), Super Saiyan (Full Power)",
+      "beats": ["goku-black-super-saiyan-ros", "kefla-super-saiyan-2", "android-16", "recoome"],
+      "losesTo": ["vegito-super-saiyan-god-super-saiyan", "gogeta-super-super-saiyan-god-super-saiyan"],
+      "why": "#4 Singles (149.6) and top DP value (29.0) — armor + raw damage muscle through bruisers, but fusion vanish pressure outpaces him."
+    },
+    {
+      "slug": "jiren-full-power",
+      "name": "Jiren, Full Power",
+      "beats": ["gohan-beast", "kale-super-saiyan-berserk", "recoome", "android-16"],
+      "losesTo": ["vegito-super-saiyan-god-super-saiyan", "gogeta-gt-super-saiyan-4", "whis"],
+      "why": "#5 Singles (140.3) — armor + counters punish aggressive bruisers, but DP-inefficient (12.0) and gets out-sped/out-mobilized by top fusions and Whis."
+    },
+    {
+      "slug": "whis",
+      "name": "Whis",
+      "beats": ["vegito-super-saiyan-god-super-saiyan", "gogeta-gt-super-saiyan-4", "jiren-full-power", "broly-z-legendary-super-saiyan"],
+      "losesTo": ["goku-super-ultra-instinct"],
+      "why": "#6 Singles (135.4) — auto-dodge + best-in-class mobility neutralize rushdown and armor, but post-May-26 Rush Chain can now counter the auto-dodge so mirror-style readers contest him."
+    },
+    {
+      "slug": "goku-super-ultra-instinct",
+      "name": "Goku (Super), Ultra Instinct",
+      "beats": ["vegito-super-saiyan-god-super-saiyan", "gogeta-gt-super-saiyan-4", "jiren-full-power", "kale-super-saiyan-berserk"],
+      "losesTo": ["whis"],
+      "why": "#7 Singles (134.4) — auto-dodge defense walls melee rushdown; nerfed May 26 (Smash Ki Blast cooldown up, Rush Chain beats his dodge) so disciplined pressure can crack him."
+    },
+    {
+      "slug": "gogeta-super-super-saiyan-god-super-saiyan",
+      "name": "Gogeta (Super), Super Saiyan God Super Saiyan",
+      "beats": ["beerus", "metal-cooler", "orange-piccolo", "gohan-beast"],
+      "losesTo": ["whis", "goku-super-ultra-instinct", "vegito-super-saiyan-god-super-saiyan"],
+      "why": "#8 Singles (132.7) — strong vanish pressure, but nerfed May 26 (Smash Ki Blast damage + homing cut) so he now needs deliberate spacing and folds to auto-dodge gods."
+    },
+    {
+      "slug": "kale-super-saiyan-berserk",
+      "name": "Kale, Super Saiyan (Berserk)",
+      "beats": ["recoome", "android-16", "metal-cooler", "spopovich"],
+      "losesTo": ["jiren-full-power", "goku-super-ultra-instinct", "whis"],
+      "why": "#9 Singles (129.1), strong DP (25.5) — berserker damage overruns mid-roster bruisers; Cry of Rage activation slowed May 26, so armor/auto-dodge anchors blunt her."
+    },
+    {
+      "slug": "gohan-beast",
+      "name": "Gohan Beast",
+      "beats": ["recoome", "android-16", "frieza-z-full-power", "majin-vegeta"],
+      "losesTo": ["vegito-super-saiyan-god-super-saiyan", "jiren-full-power", "whis"],
+      "why": "#10 Singles (128.7) and #1 DP (33.9) — best all-around carry, top damage kit beats mid-tiers in both modes, but raw fusion speed and armor outclass him at the very top."
+    },
+    {
+      "slug": "toppo-god-of-destruction",
+      "name": "Toppo, God of Destruction",
+      "beats": ["gohan-beast", "kale-super-saiyan-berserk", "recoome", "android-16"],
+      "losesTo": ["vegito-super-saiyan-god-super-saiyan", "gogeta-gt-super-saiyan-4", "whis"],
+      "why": "#11 Singles (128.0) — GoD armor + raw power anchor punishes aggression, but top fusion speed and auto-dodge mobility get around the armor."
+    },
+    {
+      "slug": "super-vegito",
+      "name": "Super Vegito",
+      "beats": ["beerus", "metal-cooler", "goku-black-super-saiyan-ros", "kefla-super-saiyan-2"],
+      "losesTo": ["vegito-super-saiyan-god-super-saiyan", "whis", "goku-super-ultra-instinct"],
+      "why": "#12 Singles (126.9) — fusion burst pressure, sits just below SSGSS Vegito and loses to the auto-dodge defensive gods above him."
+    },
+    {
+      "slug": "fusion-android-13",
+      "name": "Fusion Android 13",
+      "beats": ["recoome", "android-16", "frieza-z-full-power", "spopovich"],
+      "losesTo": ["vegito-super-saiyan-god-super-saiyan", "gogeta-gt-super-saiyan-4", "jiren-full-power"],
+      "why": "#13 Singles (125.2) and DP value (24.7) — strong neutral surprise-pick beats mid-roster, but lacks the ult thresholds and speed of the fusion top tier."
+    },
+    {
+      "slug": "beerus",
+      "name": "Beerus",
+      "beats": ["gohan-beast", "majin-vegeta", "perfect-cell", "android-16"],
+      "losesTo": ["vegito-super-saiyan-god-super-saiyan", "gogeta-gt-super-saiyan-4", "broly-z-legendary-super-saiyan"],
+      "why": "A-tier Singles (120.9) but a tournament favorite for elite cheap-DP mobility/zoning; out-statted by top fusions and tanky berserkers in a straight fight."
+    },
+    {
+      "slug": "goku-black-super-saiyan-ros",
+      "name": "Goku Black, Super Saiyan Rosé",
+      "beats": ["android-16", "majin-vegeta", "perfect-cell", "recoome"],
+      "losesTo": ["vegito-super-saiyan-god-super-saiyan", "broly-z-legendary-super-saiyan", "whis"],
+      "why": "A-tier Singles (113.0), good DP body — strong pressure/okizeme beats mid-roster, but berserker damage and fusion speed overwhelm his sustain."
+    }
+  ],
+  "unmatched": ["Super Buu variants (B-tier Singles — generic plural, no single character page)"]
+}

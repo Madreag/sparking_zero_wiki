@@ -1,0 +1,49 @@
+======================================================================
+RAW vs PARSED transformations.json
+======================================================================
+raw edges: 228  parsed edges: 208
+PARSED transformations.json hpRecovery: zero=181  positive=27  total=208
+RAW CharacterData.json   hpRecovery: zero=198  positive=30  total=228
+raw-vs-parsed field mismatches: 0
+
+Positive-heal transforms (parsed) and raw confirmation:
+  Goku (Super), Ultra Instinct -Sign- -> Goku (Super), Ultra Instinct: parsed hpRecovery=10,000 kind=transform [OK]
+  Vegeta (Z - Scouter) -> Great Ape Vegeta: parsed hpRecovery=10,000 kind=transform [OK]
+  Frieza (Z), 1st Form -> Frieza (Z), 2nd Form: parsed hpRecovery=5,000 kind=transform [OK]
+  Frieza (Z), 2nd Form -> Frieza (Z), 3rd Form: parsed hpRecovery=5,000 kind=transform [OK]
+  Frieza (Z), 3rd Form -> Frieza (Z), 4th Form: parsed hpRecovery=5,000 kind=transform [OK]
+  Cell, 1st Form -> Cell, 2nd Form: parsed hpRecovery=5,000 kind=transform [OK]
+  Cell, 2nd Form -> Cell, Perfect Form: parsed hpRecovery=5,000 kind=transform [OK]
+  Broly (Z) -> Broly (Z), Legendary Super Saiyan: parsed hpRecovery=5,000 kind=transform [OK]
+  Broly (Z), Super Saiyan -> Broly (Z), Legendary Super Saiyan: parsed hpRecovery=5,000 kind=transform [OK]
+  Broly (Super) -> Broly (Super), Super Saiyan (Full Power): parsed hpRecovery=5,000 kind=transform [OK]
+  Broly (Super), Super Saiyan -> Broly (Super), Super Saiyan (Full Power): parsed hpRecovery=5,000 kind=transform [OK]
+  Lord Slug -> Lord Slug, Giant Form: parsed hpRecovery=10,000 kind=transform [OK]
+  Cooler -> Cooler, Final Form: parsed hpRecovery=6,000 kind=transform [OK]
+  Android 13 -> Fusion Android 13: parsed hpRecovery=5,000 kind=transform [OK]
+  Bojack -> Full-Power Bojack: parsed hpRecovery=5,000 kind=transform [OK]
+  Super Baby 2 (GT) -> Great Ape Baby (GT): parsed hpRecovery=10,000 kind=transform [OK]
+  Syn Shenron (GT) -> Omega Shenron (GT): parsed hpRecovery=5,000 kind=transform [OK]
+  Fused Zamasu -> Fused Zamasu, Half-Corrupted: parsed hpRecovery=5,000 kind=transform [OK]
+  Kale -> Kale, Super Saiyan (Berserk): parsed hpRecovery=5,000 kind=transform [OK]
+  Jiren -> Jiren, Full Power: parsed hpRecovery=10,000 kind=transform [OK]
+  Toppo -> Toppo, God of Destruction: parsed hpRecovery=10,000 kind=transform [OK]
+  Gohan (Super Hero) -> Ultimate Gohan (Super Hero): parsed hpRecovery=5,000 kind=transform [OK]
+  Gohan (Super Hero), Super Saiyan -> Ultimate Gohan (Super Hero): parsed hpRecovery=5,000 kind=transform [OK]
+  Ultimate Gohan (Super Hero) -> Gohan Beast: parsed hpRecovery=10,000 kind=transform [OK]
+  Piccolo (Super Hero), Power Awakening -> Orange Piccolo: parsed hpRecovery=5,000 kind=transform [OK]
+  Orange Piccolo -> Orange Piccolo, Giant Form: parsed hpRecovery=5,000 kind=transform [OK]
+  Third Eye Gomah -> Giant Gomah: parsed hpRecovery=10,000 kind=transform [OK]
+
+======================================================================
+PAGE-LEVEL CHECKS
+======================================================================
+content/transformations pages: 164  generator non-revert slugs: 164
+
+FINDINGS BY CATEGORY:
+
+recomputed statChanges for 164 pages
+pages with positive heal in data: 27  zero heal: 137
+
+MOVESET DIFF spot-check (first 12 pages): page-table rows vs recomputed kit
+moveset diff: checked=164 mismatches=0

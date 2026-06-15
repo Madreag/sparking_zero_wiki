@@ -1,0 +1,1907 @@
+{
+ "0000_00": {
+  "summary": "DP4 Z-era fighter; 40,000 HP; Kamehameha 30,000-ki super, Spirit Bomb 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Kamehameha (30,000-ki super)",
+   "Kaioken Attack (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Spirit Bomb 50,000-ki ultimate finisher",
+   "Solar Flare — unblockable screen-blind opener",
+   "DP4 — efficient DP-queue filler; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No transform path — fixed kit with no mid-match power spike"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Watch for his unblockable opener (Solar Flare/Psychokinesis/Paralyze type) — don't sit blocking predictably. Perception (2 stock) or vanish the Kaioken Attack rush rather than mashing into it."
+ },
+ "0000_10": {
+  "summary": "DP5 Z-era fighter; 40,000 HP; x20 Kaioken Kamehameha 30,000-ki super, Spirit Bomb 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "x20 Kaioken Kamehameha (30,000-ki super)",
+   "Kaioken Rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Spirit Bomb 50,000-ki ultimate finisher",
+   "Transforms (1 stock to Goku (Z - Mid)) for a mid-match power spike"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Kaioken Rush rather than mashing into it."
+ },
+ "0000_11": {
+  "summary": "DP6 Z-era fighter; 40,000 HP; Super Kamehameha 30,000-ki super, Angry Kamehameha 50,000-ki ult.",
+  "playstyle": "Evasive rushdown",
+  "strengths": [
+   "Super Kamehameha (30,000-ki super)",
+   "Meteor Smash (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Angry Kamehameha 50,000-ki ultimate finisher",
+   "Wild Sense counter-dodge (gutted Dec 2025 — situational now)"
+  ],
+  "weaknesses": [
+   "Leans on Wild Sense, which was gutted Dec 2025 — situational defense",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "Bait his Wild Sense (gutted Dec 2025) then punish the recovery — it's his main evasion. Perception (2 stock) or vanish the Meteor Smash rush rather than mashing into it."
+ },
+ "0000_20": {
+  "summary": "DP5 Z-era fighter; 40,000 HP; Kamehameha 30,000-ki super, Super Spirit Bomb 50,000-ki ult.",
+  "playstyle": "Evasive rushdown",
+  "strengths": [
+   "Kamehameha (30,000-ki super)",
+   "Meteor Smash (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Super Spirit Bomb 50,000-ki ultimate finisher",
+   "Instant Transmission teleport repositioning",
+   "Wild Sense counter-dodge (gutted Dec 2025 — situational now)"
+  ],
+  "weaknesses": [
+   "Leans on Wild Sense, which was gutted Dec 2025 — situational defense",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "Bait his Wild Sense (gutted Dec 2025) then punish the recovery — it's his main evasion. Perception (2 stock) or vanish the Meteor Smash rush rather than mashing into it."
+ },
+ "0000_21": {
+  "summary": "DP6 Z-era fighter; 40,000 HP; Super Kamehameha 30,000-ki super, Instant Transmission Kamehameha 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Super Kamehameha (30,000-ki super)",
+   "Super Energy Wave Combo (30,000-ki super)",
+   "Instant Transmission Kamehameha 50,000-ki ultimate finisher",
+   "Wild Sense counter-dodge (gutted Dec 2025 — situational now)",
+   "Saiyan Spirit ki/attack buff"
+  ],
+  "weaknesses": [
+   "Leans on Wild Sense, which was gutted Dec 2025 — situational defense",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "Bait his Wild Sense (gutted Dec 2025) then punish the recovery — it's his main evasion. Respect Instant Transmission Kamehameha on knockdown — bait it out and punish the recovery."
+ },
+ "0000_22": {
+  "summary": "DP6 Z-era fighter; 40,000 HP; Instant Transmission Kamehameha 30,000-ki super, Super Kamehameha 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Instant Transmission Kamehameha (30,000-ki super)",
+   "Meteor Crash (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Super Kamehameha 50,000-ki ultimate finisher",
+   "Instant Transmission teleport repositioning",
+   "Full Power attack buff (4 stock)"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Meteor Crash rush rather than mashing into it."
+ },
+ "0000_23": {
+  "summary": "DP7 Goku (Z-End) SS3: A-tier; 40,000 HP, 8.0 ki charge; Super Kamehameha (30,000 ki) + Dragon Fist 50,000-ki ult; top of the Z-End transform chain.",
+  "playstyle": "Rushdown finisher",
+  "strengths": [
+   "A-tier finisher form with Dragon Fist 50,000-ki homing ultimate",
+   "Super Dragon Twin Fists speed-impact rush (15,000 ki on trigger) for cheap combo extensions",
+   "Power Up to the Very Limit (4 stock) for a late attack spike; Instant Transmission for mix-ups",
+   "8.0 ki charge / 1,500/s recovery"
+  ],
+  "weaknesses": [
+   "DP7 and sits at the top of a 3-stock transform ladder from base Z-End — slow and stock-hungry to reach",
+   "No auto-dodge or heal; relies on raw offense",
+   "SS3 historically drains gauge fast — limited Sparking uptime"
+  ],
+  "howToFight": "Pressure him during the transform climb; each stage costs a stock. Once in SS3, bait Dragon Fist and Super Counter (free) his rush approaches. Keep him blocking to starve the gauge."
+ },
+ "0000_33": {
+  "summary": "DP8 Goku (GT) SS4: A-tier; 40,000 HP, 8.0 ki charge; x10 Kamehameha (30,000 ki) + Dragon Fist 50,000-ki ult; 'All I Need Is Five Seconds!' burst buff.",
+  "playstyle": "Mobile rushdown",
+  "strengths": [
+   "A-tier GT rushdown — strong neutral and Dragon Fist 50,000-ki ultimate (homing pierce)",
+   "Meteor Crash speed-impact super (15,000 ki on combo trigger) extends pressure cheaply",
+   "Instant Transmission teleport for mix-ups and gap-closing",
+   "8.0 ki charge + 1,500/s recovery keeps supers online"
+  ],
+  "weaknesses": [
+   "DP8 — expensive; in the DP queue the cheaper SS3/SS2 stages give better value",
+   "Reached only at the top of the GT transform ladder (3 stock from base GT) — slow to access",
+   "40,000-equivalent durability; no heal once committed"
+  ],
+  "howToFight": "Catch him mid-transform-ladder before he reaches SS4 — the climb costs stock and time. Respect Dragon Fist on knockdown; vanish or Perception (2 stock) the Meteor Crash rush. He has no defensive auto-dodge, so trade into his approaches with Super Counter (free)."
+ },
+ "0000_40": {
+  "summary": "DP5 Super-era fighter; 40,000 HP; Super Kamehameha 30,000-ki super, Super Spirit Bomb 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Super Kamehameha (30,000-ki super)",
+   "Dragon Burst (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Super Spirit Bomb 50,000-ki ultimate finisher",
+   "Instant Transmission teleport repositioning",
+   "Transforms (1 stock to Goku (Super)) for a mid-match power spike"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Dragon Burst rush rather than mashing into it."
+ },
+ "0000_41": {
+  "summary": "DP6 Super-era fighter; 40,000 HP; Super Kamehameha 30,000-ki super, Sonic Blast 50,000-ki ult.",
+  "playstyle": "Evasive rushdown",
+  "strengths": [
+   "Super Kamehameha (30,000-ki super)",
+   "Dragon Blast (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Sonic Blast 50,000-ki ultimate finisher",
+   "Wild Sense counter-dodge (gutted Dec 2025 — situational now)",
+   "Transforms (1 stock to Goku (Super)) for a mid-match power spike"
+  ],
+  "weaknesses": [
+   "Leans on Wild Sense, which was gutted Dec 2025 — situational defense",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "Bait his Wild Sense (gutted Dec 2025) then punish the recovery — it's his main evasion. Perception (2 stock) or vanish the Dragon Blast rush rather than mashing into it."
+ },
+ "0000_43": {
+  "summary": "DP8 Super-era fighter; 40,000 HP; God Kamehameha 30,000-ki super, Limit Breaker God Kamehameha 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "God Kamehameha (30,000-ki super)",
+   "\"No Hard Feelings\" Hit (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Limit Breaker God Kamehameha 50,000-ki ultimate finisher",
+   "Instant Transmission teleport repositioning"
+  ],
+  "weaknesses": [
+   "DP8 — premium cost, poor points-per-DP value",
+   "No auto-dodge/evasion skill — active defense is Super Counter only"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the \"No Hard Feelings\" Hit rush rather than mashing into it."
+ },
+ "0000_50": {
+  "summary": "DP8 Goku (Super) -Sign-, A-tier; 40,000 HP; transforms to UI Goku (-Sign- → DP9) consuming 2 stock + 10,000 HP heal; Even Greater Potential (3 stock) buff.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Transforms into Ultra Instinct -Sign- (s1 'You'll Never Beat Me', heals 10,000 HP on the change) — strong mid-match power spike",
+   "A-tier; balanced rushdown with Kamehameha -Sign- (30,000 ki) and Flash -Sign- speed-impact rush (15,000 on trigger)",
+   "Even Greater Potential (3 stock) attack buff sets up the transform window",
+   "40,000 HP baseline bulk"
+  ],
+  "weaknesses": [
+   "DP8 — premium cost for a non-fusion all-rounder",
+   "Unlocked behind 120,000 Zeni (shop)",
+   "Base form lacks the auto-dodge; must survive to transform to access the UI engine"
+  ],
+  "howToFight": "Punish the transform animation — the 2-stock change has a 5s window where he's committed. Keep him in base form by applying constant pressure so he can't safely spend stock. Once he is UI -Sign-, switch to Rush Chain reads rather than raw strings."
+ },
+ "0000_51": {
+  "summary": "DP9 Ultra Instinct: S-tier Singles (sparkingzerometa 134.4k) on passive auto-dodge; Ultra Kamehameha 30,000-ki + Supreme Kamehameha 50,000-ki ult; nerfed May 2026 but still elite.",
+  "playstyle": "Auto-dodge counter god",
+  "strengths": [
+   "Ultra Movement passive auto-dodge — evades melee/blast without spending stock (best defensive engine in the game)",
+   "S-tier Singles, sparkingzerometa 134.4k — top-8 standardized-HP pick",
+   "Supreme Kamehameha 50,000-ki ultimate plus Ultra Barrage (40,000-ki speed-impact rush, 20,000 on trigger)",
+   "Slow 6.0 ki charge offset by 2,000/s recovery and constant evasion pressure"
+  ],
+  "weaknesses": [
+   "Nerfed May 2026: Rush Chain now connects through the auto-dodge; Smash Ki Blast cooldown increased",
+   "DP9 — expensive, weak points-per-DP in the 15-DP queue",
+   "No transform/heal; once the dodge is solved he has only 40k-equivalent durability"
+  ],
+  "howToFight": "Do not throw raw strings into the auto-dodge — bait it, then use Rush Chain (post-May-2026 it beats the dodge) or grab. Pressure his slow 6.0 ki charge by forcing blocks so he can't reach Ultra Kamehameha. Spend Perception (2 stock) on his Ultra Barrage rush rather than mashing into the evade."
+ },
+ "0001_42": {
+  "summary": "DP7 Super-era fighter; 40,000 HP; God Kamehameha 30,000-ki super, God Burst Kamehameha 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "God Kamehameha (30,000-ki super)",
+   "God Impact (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "God Burst Kamehameha 50,000-ki ultimate finisher",
+   "Transforms (1 stock to Goku (Super)) for a mid-match power spike"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the God Impact rush rather than mashing into it."
+ },
+ "0002_30": {
+  "summary": "DP5 GT-era fighter; 40,000 HP; Kamehameha 30,000-ki super, Spirit Bomb 50,000-ki ult.",
+  "playstyle": "Evasive rushdown",
+  "strengths": [
+   "Kamehameha (30,000-ki super)",
+   "Dragon Fist (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Spirit Bomb 50,000-ki ultimate finisher",
+   "Solar Flare — unblockable screen-blind opener",
+   "Afterimage Strike auto-dodge (3 stock; ends on a Super Counter post-May-2026)"
+  ],
+  "weaknesses": [
+   "No heal/regen — fixed effective durability once committed",
+   "Outclassed by transforming/fusion picks at equivalent DP — no standout edge"
+  ],
+  "howToFight": "Land a Super Counter (free) to instantly pop his Afterimage Strike, then punish; don't feed raw strings into it. Watch for his unblockable opener (Solar Flare/Psychokinesis/Paralyze type) — don't sit blocking predictably. Perception (2 stock) or vanish the Dragon Fist rush rather than mashing into it."
+ },
+ "0002_31": {
+  "summary": "DP6 GT-era fighter; 40,000 HP; Super Kamehameha 30,000-ki super, Super Explosive Wave 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Super Kamehameha (30,000-ki super)",
+   "Full-Power Energy Blast Volley (30,000-ki super)",
+   "Super Explosive Wave 50,000-ki ultimate finisher",
+   "Wild Sense counter-dodge (gutted Dec 2025 — situational now)",
+   "Full Power attack buff (4 stock)"
+  ],
+  "weaknesses": [
+   "Leans on Wild Sense, which was gutted Dec 2025 — situational defense",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "Bait his Wild Sense (gutted Dec 2025) then punish the recovery — it's his main evasion. Respect Super Explosive Wave on knockdown — bait it out and punish the recovery."
+ },
+ "0002_32": {
+  "summary": "DP7 GT-era fighter; 40,000 HP; Super Kamehameha 30,000-ki super, Dragon Fist 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Super Kamehameha (30,000-ki super)",
+   "Full-Power Energy Blast Volley (30,000-ki super)",
+   "Dragon Fist 50,000-ki ultimate finisher",
+   "Saiyan Spirit ki/attack buff",
+   "High-Tension self ki-charge buff"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Respect Dragon Fist on knockdown — bait it out and punish the recovery."
+ },
+ "0002_50": {
+  "summary": "DP3 DB-era fighter; 35,000 HP; Kamehameha 30,000-ki super, Keep Going! 50,000-ki ult.",
+  "playstyle": "Evasive rushdown",
+  "strengths": [
+   "Kamehameha (30,000-ki super)",
+   "Commencing Counterattack! (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Keep Going! 50,000-ki ultimate finisher",
+   "Afterimage Strike auto-dodge (3 stock; ends on a Super Counter post-May-2026)",
+   "False Courage instant ki gain"
+  ],
+  "weaknesses": [
+   "35,000 HP — below the 40k baseline, dies a combo earlier",
+   "No transform path — fixed kit with no mid-match power spike"
+  ],
+  "howToFight": "Land a Super Counter (free) to instantly pop his Afterimage Strike, then punish; don't feed raw strings into it. Perception (2 stock) or vanish the Commencing Counterattack! rush rather than mashing into it."
+ },
+ "0020_00": {
+  "summary": "DP4 Z-era fighter; 40,000 HP; Galick Gun 30,000-ki super, Dirty Fireworks 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Galick Gun (30,000-ki super)",
+   "Final Galick Cannon (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Dirty Fireworks 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset",
+   "Saiyan Spirit ki/attack buff"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Final Galick Cannon rush rather than mashing into it."
+ },
+ "0020_10": {
+  "summary": "DP5 Z-era fighter; 40,000 HP; Galick Gun 30,000-ki super, Super Explosive Wave 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Galick Gun (30,000-ki super)",
+   "Super Energy Wave Combo (30,000-ki super)",
+   "Super Explosive Wave 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset",
+   "Full Power attack buff (4 stock)"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Respect Super Explosive Wave on knockdown — bait it out and punish the recovery."
+ },
+ "0020_11": {
+  "summary": "DP6 Z-era fighter; 40,000 HP; Maximum Flasher 30,000-ki super, Big Bang Attack 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Maximum Flasher (30,000-ki super)",
+   "Cosmic Impact (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Big Bang Attack 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset",
+   "Transforms (1 stock to Super Vegeta) for a mid-match power spike"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Cosmic Impact rush rather than mashing into it."
+ },
+ "0020_30": {
+  "summary": "DP5 Z-era fighter; 40,000 HP; Double Galick Cannon 30,000-ki speed-impact super, Big Bang Attack 50,000-ki ult.",
+  "playstyle": "Melee rushdown",
+  "strengths": [
+   "Double Galick Cannon (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Super Energy Wave Combo (20,000-ki super)",
+   "Big Bang Attack 50,000-ki ultimate finisher",
+   "Afterimage evasive step",
+   "Saiyan Spirit ki/attack buff"
+  ],
+  "weaknesses": [
+   "No heal/regen — fixed effective durability once committed",
+   "Outclassed by transforming/fusion picks at equivalent DP — no standout edge"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Double Galick Cannon rush rather than mashing into it."
+ },
+ "0020_31": {
+  "summary": "DP6 Z-era fighter; 40,000 HP; Final Flash 30,000-ki super, Cosmic Circle 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Final Flash (30,000-ki super)",
+   "Infinite Blaster (20,000-ki super)",
+   "Cosmic Circle 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset",
+   "Saiyan Spirit ki/attack buff"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Respect Cosmic Circle on knockdown — bait it out and punish the recovery."
+ },
+ "0020_32": {
+  "summary": "DP6 Z-era fighter; 40,000 HP; Big Bang Attack 30,000-ki super, Infinity Flasher 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Big Bang Attack (30,000-ki super)",
+   "Infinite Blaster (20,000-ki super)",
+   "Infinity Flasher 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset",
+   "Wild Sense counter-dodge (gutted Dec 2025 — situational now)"
+  ],
+  "weaknesses": [
+   "Leans on Wild Sense, which was gutted Dec 2025 — situational defense",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "Bait his Wild Sense (gutted Dec 2025) then punish the recovery — it's his main evasion. Respect Infinity Flasher on knockdown — bait it out and punish the recovery."
+ },
+ "0020_40": {
+  "summary": "DP7 Majin Vegeta: B-tier; 40,000 HP, 8.0 ki charge; Final Impact + Big Bang Attack (both 30,000 ki) + Final Explosion 50,000-ki suicide ult; Majin's Awakening (4 stock).",
+  "playstyle": "Berserker bruiser",
+  "strengths": [
+   "Final Explosion 50,000-ki ultimate — huge burst (self-KO finisher) that can swing a match",
+   "B-tier bruiser; two 30,000-ki supers (Final Impact, Big Bang Attack) and Prince's Pride buff",
+   "Majin's Awakening (4 stock) attack spike for the kill window",
+   "40,000 HP baseline"
+  ],
+  "weaknesses": [
+   "DP7 with no auto-dodge — eats pressure if the ki isn't up",
+   "Final Explosion is suicidal: misusing it loses you the body",
+   "Unlocked behind 105,000 Zeni (shop)"
+  ],
+  "howToFight": "Stay aware of Final Explosion at point-blank on his knockdown/wake — don't crowd him at low HP. Bait Majin's Awakening, then pressure his lack of evasion with Super Counter (free) and vanish reads."
+ },
+ "0020_50": {
+  "summary": "DP8 GT-era fighter; 40,000 HP; Final Flash 30,000-ki super, Final Shine Attack 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Final Flash (30,000-ki super)",
+   "Spirit Breaking Cannon (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Final Shine Attack 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset"
+  ],
+  "weaknesses": [
+   "DP8 — premium cost, poor points-per-DP value",
+   "No auto-dodge/evasion skill — active defense is Super Counter only"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Spirit Breaking Cannon rush rather than mashing into it."
+ },
+ "0020_60": {
+  "summary": "DP5 Super-era fighter; 40,000 HP; Galick Gun 30,000-ki super, Final Flash 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Galick Gun (30,000-ki super)",
+   "Absolute Rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Final Flash 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset",
+   "Transforms (1 stock to Vegeta (Super)) for a mid-match power spike"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Absolute Rush rather than mashing into it."
+ },
+ "0020_61": {
+  "summary": "DP6 Super-era fighter; 40,000 HP; Galick Rush 30,000-ki super, Final Galick Blast 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Galick Rush (30,000-ki super)",
+   "Galick Uppercut (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Final Galick Blast 50,000-ki ultimate finisher",
+   "Saiyan Spirit ki/attack buff",
+   "Transforms (1 stock to Vegeta (Super)) for a mid-match power spike"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Galick Uppercut rush rather than mashing into it."
+ },
+ "0020_63": {
+  "summary": "DP8 Vegeta (Super) SSGSS Evolved: B-tier; 40,000 HP, 8.0 ki charge; God Final Flash (30,000 ki) + Final God Explosion 50,000-ki ult; Limits?! I Break Them! (5 stock).",
+  "playstyle": "Beam bruiser",
+  "strengths": [
+   "B-tier; God Final Flash (30,000 ki) charge beam + Gamma Burst Flash (cheap 20,000 ki) + Final God Explosion 50,000-ki ult",
+   "Limits?! I Break Them! (5 stock) big attack buff for a kill window",
+   "Top of the Super Vegeta transform ladder (3 stock from base)",
+   "8.0 ki charge / 1,500/s recovery"
+  ],
+  "weaknesses": [
+   "DP8 — premium cost for a non-fusion bruiser",
+   "No auto-dodge; the 5-stock buff is slow to fund",
+   "Long transform climb to reach this form"
+  ],
+  "howToFight": "Vanish or Perception (2 stock) the God Final Flash beam — it's slow to start. He has no evasion, so Super Counter (free) his rushes. Pressure him before he climbs to this form and watch Final God Explosion on knockdown."
+ },
+ "0021_20": {
+  "summary": "DP6 Super Vegeta (Z): B-tier; 40,000 HP, 8.0 ki charge; Big Bang Attack (30,000 ki) + Spirit Breaking Cannon speed-impact (15,000 on trigger) + Final Flash 50,000-ki ult.",
+  "playstyle": "Rushdown bruiser",
+  "strengths": [
+   "B-tier bruiser; Spirit Breaking Cannon speed-impact rush (15,000 ki on trigger) for cheap extensions",
+   "Final Flash 50,000-ki ultimate charge beam; Big Bang Attack 30,000-ki super",
+   "I am Super Vegeta! (4 stock) attack buff; Explosive Wave reset",
+   "40,000 HP / 8.0 ki charge"
+  ],
+  "weaknesses": [
+   "DP6 with no auto-dodge — defense is Super Counter only",
+   "Reached as a transform from Z-Early Vegeta",
+   "Outclassed by higher forms; no heal"
+  ],
+  "howToFight": "Super Counter (free) his rushes and vanish the Spirit Breaking Cannon. Bait I am Super Vegeta! then pressure. Respect the Final Flash on knockdown."
+ },
+ "0022_62": {
+  "summary": "DP7 Super-era fighter; 40,000 HP; God Shine Attack 30,000-ki super, Prominence Flash 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "God Shine Attack (30,000-ki super)",
+   "Gamma Fist (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Prominence Flash 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset",
+   "Saiyan Spirit ki/attack buff"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Gamma Fist rush rather than mashing into it."
+ },
+ "0023_00": {
+  "summary": "DP5 Great Ape Vegeta (Giant): C-tier; 45,000 HP; Chou Makouhou + Chou Makouhou Barrage (both 30,000 ki) + Super Galick Gun 50,000-ki ult; Giants broadly nerfed May 2026.",
+  "playstyle": "Giant AoE wall",
+  "strengths": [
+   "Giant-class: 45,000 HP and hyper-armor on big-body attacks — AoE wall pressure",
+   "Two 30,000-ki Chou Makouhou mouth-beams plus Super Galick Gun 50,000-ki ult",
+   "Howl (4 stock) buff; reached as a transform from base Z-Scouter Vegeta (heals 10,000 HP on the change)",
+   "C-tier but threatening vs unprepared opponents"
+  ],
+  "weaknesses": [
+   "Giants nerfed May 2026: less rush/smash damage, more whiff recovery, take more melee damage, slower back-dash; normal charge Blasts now knock giants back",
+   "Huge hurtbox — easy to combo and zone",
+   "DP5 with no evasion; immobile relative to normal-size fighters"
+  ],
+  "howToFight": "Use the post-May-2026 anti-giant tools: charge Blasts now damage and knock him back, and he takes extra melee damage with slow recovery on whiffs. Stay mobile, punish his laggy big-body swings, and avoid standing in the Chou Makouhou AoE."
+ },
+ "0030_00": {
+  "summary": "DP3 Z-era fighter; 30,000 HP; Masenko 30,000-ki super, Wild Rush Blaster 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Masenko (30,000-ki super)",
+   "Energy Blast Barrage (20,000-ki super)",
+   "Wild Rush Blaster 50,000-ki ultimate finisher",
+   "Afterimage Strike auto-dodge (3 stock; ends on a Super Counter post-May-2026)",
+   "DP3 — efficient DP-queue filler; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "30,000 HP — melts in roughly two combos",
+   "No transform path — fixed kit with no mid-match power spike"
+  ],
+  "howToFight": "Land a Super Counter (free) to instantly pop his Afterimage Strike, then punish; don't feed raw strings into it. Respect Wild Rush Blaster on knockdown — bait it out and punish the recovery."
+ },
+ "0031_00": {
+  "summary": "DP4 Z-era fighter; 40,000 HP; Super Masenko 30,000-ki super, Super Kamehameha 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Super Masenko (30,000-ki super)",
+   "Energy Blast Barrage (20,000-ki super)",
+   "Super Kamehameha 50,000-ki ultimate finisher",
+   "Wild Sense counter-dodge (gutted Dec 2025 — situational now)",
+   "DP4 — efficient DP-queue filler; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "Leans on Wild Sense, which was gutted Dec 2025 — situational defense",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "Bait his Wild Sense (gutted Dec 2025) then punish the recovery — it's his main evasion. Respect Super Kamehameha on knockdown — bait it out and punish the recovery."
+ },
+ "0031_01": {
+  "summary": "DP6 Z-era fighter; 40,000 HP; Super Kamehameha 30,000-ki super, Raging Masenko 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Super Kamehameha (30,000-ki super)",
+   "Super Assault Combo (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Raging Masenko 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset",
+   "Full Power attack buff (4 stock)"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Super Assault Combo rush rather than mashing into it."
+ },
+ "0031_02": {
+  "summary": "DP7 Gohan (Teen) SS2: B-tier; 40,000 HP, 8.0 ki charge; cheap Super Kamehameha (20,000 ki) + Father-Son Kamehameha 50,000-ki ult; Unforgivable (4 stock).",
+  "playstyle": "Rushdown finisher",
+  "strengths": [
+   "B-tier; Father-Son Kamehameha 50,000-ki signature ultimate (iconic beam)",
+   "Super Kamehameha here is a cheap 20,000-ki super + Explosive Rush speed-impact (15,000 on trigger)",
+   "Unforgivable (4 stock) rage attack buff; 8.0 ki charge / 1,500/s recovery",
+   "Top of the Teen Gohan transform chain (2 stock from base)"
+  ],
+  "weaknesses": [
+   "No auto-dodge (Explosive Wave + Unforgivable) — defense is Super Counter only",
+   "DP7; must climb the transform ladder to reach SS2",
+   "40,000-equivalent durability, no heal"
+  ],
+  "howToFight": "Punish before he reaches SS2. With no evasive skill he trades poorly into Super Counter (free) and vanish. Respect Father-Son Kamehameha on knockdown and Perception (2 stock) the Explosive Rush."
+ },
+ "0032_00": {
+  "summary": "DP4 Gohan (Adult) base: C-tier; 40,000 HP; Explosive Cannon (20,000 ki) + Explosive Flash Strike speed-impact (15,000 on trigger) + Super Kamehameha 50,000-ki ult; Wild Sense.",
+  "playstyle": "All-rounder",
+  "strengths": [
+   "C-tier efficient DP4 entry — transforms up to SS/SS2 (A-tier) for 1-2 stock",
+   "Cheap Explosive Cannon (20,000 ki) chip + Explosive Flash Strike speed-impact (15,000 on trigger)",
+   "Wild Sense evasion; can also switch to Great Saiyaman form",
+   "40,000 HP baseline"
+  ],
+  "weaknesses": [
+   "Base form is weak — wants to transform to be effective",
+   "DP4 with only Wild Sense (gutted Dec 2025) for defense; no heal",
+   "Slower 7.0 ki charge in base"
+  ],
+  "howToFight": "Deny the transform window with early pressure to keep him in the weak base form. Bait Wild Sense and Super Counter (free) the Explosive Flash Strike. Out-damage him before he reaches SS2."
+ },
+ "0032_01": {
+  "summary": "DP6 Z-era fighter; 40,000 HP; Full-Power Energy Blast Volley 30,000-ki super, Bros. Kamehameha 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Explosive Cannon (20,000-ki super)",
+   "Full-Power Energy Blast Volley (30,000-ki super)",
+   "Bros. Kamehameha 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset",
+   "Transforms (1 stock to Gohan (Adult)) for a mid-match power spike"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Respect Bros. Kamehameha on knockdown — bait it out and punish the recovery."
+ },
+ "0032_02": {
+  "summary": "DP7 Gohan (Adult) SS2: A-tier; 40,000 HP, 8.0 ki charge; Super Explosive Cannon (20,000 ki) + Super Kamehameha 50,000-ki ult; Full Power (4 stock).",
+  "playstyle": "Rushdown all-rounder",
+  "strengths": [
+   "A-tier all-rounder — Super Explosive Cannon is a cheap 20,000-ki super for constant chip",
+   "Super Explosive Flash Strike speed-impact rush (15,000 ki on trigger) for extensions",
+   "Super Kamehameha 50,000-ki ultimate; Full Power (4 stock) for a damage spike",
+   "8.0 ki charge / 1,500/s recovery feeds the low-cost supers easily"
+  ],
+  "weaknesses": [
+   "No auto-dodge skill (Explosive Wave + Full Power) — relies on Super Counter for defense",
+   "DP7; top of the Adult Gohan transform chain (2 stock from base)",
+   "40,000-equivalent durability, no heal"
+  ],
+  "howToFight": "He has no evasive skill, so trade into his strings with Super Counter (free) and vanish. His cheap 20,000-ki super means he'll fish for it — Perception (2 stock) the rush follow-ups. Pressure before he climbs to SS2."
+ },
+ "0032_10": {
+  "summary": "DP4 Great Saiyaman: D-tier; 40,000 HP; Justice Bomber 40,000-ki super + Justice Rush speed-impact (15,000 on trigger) + Justice Judgment 50,000-ki ult; pose-based utility.",
+  "playstyle": "Gimmick rushdown",
+  "strengths": [
+   "D-tier novelty; Justice Judgment 50,000-ki ult and Justice Rush speed-impact (15,000 ki on trigger)",
+   "Justice Bomber 40,000-ki super for a burst read",
+   "DP4 filler; can revert to Gohan (Adult) for the real kit",
+   "40,000 HP baseline"
+  ],
+  "weaknesses": [
+   "D-tier — joke form; Justice Pose skills are flavor utility, not strong defense",
+   "No auto-dodge, no heal",
+   "Outclassed even by base Adult Gohan's transform potential"
+  ],
+  "howToFight": "Treat it like a weak rushdown body — Super Counter (free) the Justice Rush and overwhelm. The pose skills don't threaten you; just play straightforward offense."
+ },
+ "0032_20": {
+  "summary": "DP7 Ultimate Gohan: B-tier; 40,000 HP; Super Kamehameha (30,000 ki) + Burst Rush 50,000-ki ult; Wild Sense + Power Up to the Very Limit (4 stock).",
+  "playstyle": "Rushdown all-rounder",
+  "strengths": [
+   "B-tier rushdown with Burst Rush 50,000-ki ultimate and Fierce Combination speed-impact rush (15,000 on trigger)",
+   "Wild Sense evasion plus Power Up to the Very Limit (4 stock) damage spike",
+   "Mystic power — no transform needed, full kit from the start",
+   "40,000 HP baseline"
+  ],
+  "weaknesses": [
+   "DP7 and 7.0 ki charge — slower super access than the 8.0-charge sluggers",
+   "Wild Sense was gutted Dec 2025; no heal",
+   "Outclassed at the top by fusion speed"
+  ],
+  "howToFight": "Bait Wild Sense then punish — it's his only evasion. Super Counter (free) the Fierce Combination rush and vanish the Super Kamehameha. Pressure his 7.0 ki charge by forcing blocks."
+ },
+ "0032_30": {
+  "summary": "DP5 Z-era fighter; 40,000 HP; Super Destructive Wave 40,000-ki super, Super Kamehameha 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Masenko (30,000-ki super)",
+   "Super Destructive Wave (40,000-ki super)",
+   "Super Kamehameha 50,000-ki ultimate finisher",
+   "Wild Sense counter-dodge (gutted Dec 2025 — situational now)",
+   "Transforms (1 stock to Gohan (Future)) for a mid-match power spike"
+  ],
+  "weaknesses": [
+   "Leans on Wild Sense, which was gutted Dec 2025 — situational defense",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "Bait his Wild Sense (gutted Dec 2025) then punish the recovery — it's his main evasion. Respect Super Kamehameha on knockdown — bait it out and punish the recovery."
+ },
+ "0032_31": {
+  "summary": "DP6 Z-era fighter; 40,000 HP; Hyper Masenko 30,000-ki super, Fierce Combination 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Hyper Masenko (30,000-ki super)",
+   "Special Beam Cannon (30,000-ki super)",
+   "Fierce Combination 50,000-ki ultimate finisher",
+   "Evil Barrier guard (3 stock)"
+  ],
+  "weaknesses": [
+   "No heal/regen — fixed effective durability once committed",
+   "Outclassed by transforming/fusion picks at equivalent DP — no standout edge"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Respect Fierce Combination on knockdown — bait it out and punish the recovery."
+ },
+ "0040_00": {
+  "summary": "DP4 Z-era fighter; 40,000 HP; Explosive Breath Cannon 30,000-ki speed-impact super, Special Beam Cannon 50,000-ki ult.",
+  "playstyle": "Melee rushdown",
+  "strengths": [
+   "Explosive Demon Wave (20,000-ki super)",
+   "Explosive Breath Cannon (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Special Beam Cannon 50,000-ki ultimate finisher",
+   "Paralyze Beam — unblockable stun",
+   "DP4 — efficient DP-queue filler; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No transform path — fixed kit with no mid-match power spike"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Watch for his unblockable opener (Solar Flare/Psychokinesis/Paralyze type) — don't sit blocking predictably. Perception (2 stock) or vanish the Explosive Breath Cannon rush rather than mashing into it."
+ },
+ "0040_10": {
+  "summary": "DP5 Z-era fighter; 40,000 HP; Special Beam Cannon 30,000-ki super, Hellzone Grenade 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Special Beam Cannon (30,000-ki super)",
+   "Light Grenade (30,000-ki super)",
+   "Hellzone Grenade 50,000-ki ultimate finisher",
+   "Wild Sense counter-dodge (gutted Dec 2025 — situational now)",
+   "False Courage instant ki gain"
+  ],
+  "weaknesses": [
+   "Leans on Wild Sense, which was gutted Dec 2025 — situational defense",
+   "No transform path — fixed kit with no mid-match power spike"
+  ],
+  "howToFight": "Bait his Wild Sense (gutted Dec 2025) then punish the recovery — it's his main evasion. Respect Hellzone Grenade on knockdown — bait it out and punish the recovery."
+ },
+ "0040_20": {
+  "summary": "DP4 Z-era fighter; 40,000 HP; Super Destructive Wave 40,000-ki super, Mystic Flasher 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Full-Power Energy Wave (30,000-ki super)",
+   "Super Destructive Wave (40,000-ki super)",
+   "Mystic Flasher 50,000-ki ultimate finisher",
+   "Full Power attack buff (4 stock)",
+   "DP4 — efficient DP-queue filler; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No transform path — fixed kit with no mid-match power spike"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Respect Mystic Flasher on knockdown — bait it out and punish the recovery."
+ },
+ "0050_00": {
+  "summary": "DP3 Z-era fighter; 35,000 HP; Chain Destructo Disc 50,000-ki ult.",
+  "playstyle": "All-rounder fighter",
+  "strengths": [
+   "Chain Destructo Disc 50,000-ki ultimate finisher",
+   "Solar Flare — unblockable screen-blind opener",
+   "Afterimage Strike auto-dodge (3 stock; ends on a Super Counter post-May-2026)",
+   "DP3 — efficient DP-queue filler; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "35,000 HP — below the 40k baseline, dies a combo earlier",
+   "No transform path — fixed kit with no mid-match power spike"
+  ],
+  "howToFight": "Land a Super Counter (free) to instantly pop his Afterimage Strike, then punish; don't feed raw strings into it. Watch for his unblockable opener (Solar Flare/Psychokinesis/Paralyze type) — don't sit blocking predictably. Respect Chain Destructo Disc on knockdown — bait it out and punish the recovery."
+ },
+ "0060_00": {
+  "summary": "DP3 Z-era fighter; 35,000 HP; Kamehameha 30,000-ki super, Spirit Ball 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Kamehameha (30,000-ki super)",
+   "Wolf Fang Fist (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Spirit Ball 50,000-ki ultimate finisher",
+   "Afterimage evasive step",
+   "DP3 — efficient DP-queue filler; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "35,000 HP — below the 40k baseline, dies a combo earlier",
+   "No transform path — fixed kit with no mid-match power spike"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Wolf Fang Fist rush rather than mashing into it."
+ },
+ "0070_00": {
+  "summary": "DP4 Tien: C-tier; 40,000 HP; Dodon Ray (20,000 ki) + Tri-Beam (30,000 ki) + Neo Tri-Beam 50,000-ki ult; Solar Flare unblockable + Wild Sense.",
+  "playstyle": "Glass-cannon zoner",
+  "strengths": [
+   "Solar Flare — unblockable screen-blind opener that persists through dashes (Jan 2026 buff)",
+   "C-tier; cheap Dodon Ray (20,000 ki) chip + Neo Tri-Beam 50,000-ki ultimate (multi-hit)",
+   "Wild Sense evasion; DP4 efficient filler",
+   "40,000 HP baseline"
+  ],
+  "weaknesses": [
+   "DP4 with no heal; Wild Sense gutted Dec 2025",
+   "Neo Tri-Beam is high-commitment for the payoff",
+   "Outclassed in raw stats by transforming Saiyans"
+  ],
+  "howToFight": "Expect Solar Flare on his approach — don't get blinded into a combo. Super Counter (free) his rushes and punish the long Neo Tri-Beam recovery. He has no real defense beyond Wild Sense."
+ },
+ "0080_00": {
+  "summary": "DP4 Z-era fighter; 40,000 HP; Finish Buster 30,000-ki super, Lightning Sword Slash 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Finish Buster (30,000-ki super)",
+   "Burning Storm (30,000-ki super)",
+   "Lightning Sword Slash 50,000-ki ultimate finisher",
+   "Afterimage evasive step",
+   "DP4 — efficient DP-queue filler; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "No heal/regen — fixed effective durability once committed",
+   "Outclassed by transforming/fusion picks at equivalent DP — no standout edge"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Respect Lightning Sword Slash on knockdown — bait it out and punish the recovery."
+ },
+ "0080_01": {
+  "summary": "DP6 Z-era fighter; 40,000 HP; Burning Attack 30,000-ki super, Shining Sword Attack 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Burning Attack (30,000-ki super)",
+   "Burning Storm (30,000-ki super)",
+   "Shining Sword Attack 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Respect Shining Sword Attack on knockdown — bait it out and punish the recovery."
+ },
+ "0080_10": {
+  "summary": "DP5 Z-era fighter; 40,000 HP; Burning Attack 30,000-ki super, Finish Buster 50,000-ki ult.",
+  "playstyle": "Evasive rushdown",
+  "strengths": [
+   "Burning Attack (30,000-ki super)",
+   "High Speed Rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Finish Buster 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset",
+   "Wild Sense counter-dodge (gutted Dec 2025 — situational now)"
+  ],
+  "weaknesses": [
+   "Leans on Wild Sense, which was gutted Dec 2025 — situational defense",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "Bait his Wild Sense (gutted Dec 2025) then punish the recovery — it's his main evasion. Perception (2 stock) or vanish the High Speed Rush rather than mashing into it."
+ },
+ "0080_11": {
+  "summary": "DP6 Z-era fighter; 40,000 HP; Burning Attack 30,000-ki super, Heat Dome Attack 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Burning Attack (30,000-ki super)",
+   "Burning Breaker (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Heat Dome Attack 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset",
+   "Transforms (1 stock to Super Trunks) for a mid-match power spike"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Burning Breaker rush rather than mashing into it."
+ },
+ "0080_30": {
+  "summary": "DP5 Z-era fighter; 40,000 HP; Masenko 30,000-ki super, Shining Slash 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Masenko (30,000-ki super)",
+   "Lightning Sword Slash (30,000-ki super)",
+   "Shining Slash 50,000-ki ultimate finisher",
+   "Solar Flare — unblockable screen-blind opener",
+   "Wild Sense counter-dodge (gutted Dec 2025 — situational now)"
+  ],
+  "weaknesses": [
+   "Leans on Wild Sense, which was gutted Dec 2025 — situational defense",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "Bait his Wild Sense (gutted Dec 2025) then punish the recovery — it's his main evasion. Watch for his unblockable opener (Solar Flare/Psychokinesis/Paralyze type) — don't sit blocking predictably. Respect Shining Slash on knockdown — bait it out and punish the recovery."
+ },
+ "0080_31": {
+  "summary": "DP6 Future Trunks SS: B-tier; 40,000 HP, 8.0 ki charge; Galick Gun (30,000 ki) + Final Flash 40,000-ki super + Final Hope Slash 50,000-ki ult; Power Up to the Very Limit (4 stock).",
+  "playstyle": "Sword rushdown",
+  "strengths": [
+   "B-tier (sparkingzerometa 93.4k Singles) sword rushdown — Final Hope Slash 50,000-ki ultimate",
+   "Final Flash 40,000-ki charge super + Galick Gun (30,000 ki)",
+   "Power Up to the Very Limit (4 stock) attack spike; Explosive Wave reset",
+   "8.0 ki charge / 1,500/s recovery"
+  ],
+  "weaknesses": [
+   "DP6 with no auto-dodge in this form (base form has Solar Flare + Wild Sense)",
+   "Reached via transform from base Future Trunks",
+   "No heal; outclassed by fusion speed at the top"
+  ],
+  "howToFight": "Super Counter (free) his sword strings and vanish the Final Flash. Bait the 4-stock buff. Respect Final Hope Slash on knockdown."
+ },
+ "0081_20": {
+  "summary": "DP6 Z-era fighter; 40,000 HP; Finish Buster 30,000-ki super, Super Explosive Wave 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Finish Buster (30,000-ki super)",
+   "Burning Attack (30,000-ki super)",
+   "Super Explosive Wave 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Respect Super Explosive Wave on knockdown — bait it out and punish the recovery."
+ },
+ "0082_00": {
+  "summary": "DP4 Z-era fighter; 35,000 HP; Full-Power Energy Wave 30,000-ki super, Finish Buster 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Full-Power Energy Wave (30,000-ki super)",
+   "High Speed Rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Finish Buster 50,000-ki ultimate finisher",
+   "Afterimage evasive step",
+   "DP4 — efficient DP-queue filler; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "35,000 HP — below the 40k baseline, dies a combo earlier",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the High Speed Rush rather than mashing into it."
+ },
+ "0082_01": {
+  "summary": "DP5 Z-era fighter; 35,000 HP; Full-Power Energy Wave 30,000-ki super, Victory Cannon 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Full-Power Energy Wave (30,000-ki super)",
+   "High Speed Rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Victory Cannon 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset"
+  ],
+  "weaknesses": [
+   "35,000 HP — below the 40k baseline, dies a combo earlier",
+   "No auto-dodge/evasion skill — active defense is Super Counter only"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the High Speed Rush rather than mashing into it."
+ },
+ "0090_00": {
+  "summary": "DP4 Z-era fighter; 35,000 HP; Boulder Toss Barrage 20,000-ki super, Super Kamekameha 50,000-ki ult.",
+  "playstyle": "Melee rushdown",
+  "strengths": [
+   "Boulder Toss Barrage (20,000-ki super)",
+   "Charge! (20,000-ki super, speed-impact rush)",
+   "Super Kamekameha 50,000-ki ultimate finisher",
+   "Afterimage evasive step",
+   "DP4 — efficient DP-queue filler; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "35,000 HP — below the 40k baseline, dies a combo earlier",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Charge! rush rather than mashing into it."
+ },
+ "0090_01": {
+  "summary": "DP5 Goten SS: C-tier; 35,000 HP; Kamekameha (30,000 ki) + Charge! speed-impact (15,000 on trigger) + Double Kamehameha 50,000-ki ult; Wild Sense evasion.",
+  "playstyle": "Fragile rushdown",
+  "strengths": [
+   "C-tier; Double Kamehameha 50,000-ki ult and Charge! speed-impact rush (15,000 ki on trigger)",
+   "Wild Sense evasion + False Courage instant ki",
+   "DP5 and 8.0 ki charge keeps supers funded",
+   "Transforms back to base for utility"
+  ],
+  "weaknesses": [
+   "35,000 HP — below baseline, dies a combo earlier",
+   "DP5 with only Wild Sense (gutted Dec 2025) for defense; no heal",
+   "Child kit — limited reach and damage ceiling"
+  ],
+  "howToFight": "His 35,000 HP folds fast — open him once and commit. Bait Wild Sense, Super Counter (free) the Charge! rush, and overwhelm before he funds Double Kamehameha."
+ },
+ "0100_00": {
+  "summary": "DP7 Vegito (base Z): A-tier fusion; Big Bang Cannon (30,000 ki) + Rampaging Rush speed-impact (15,000 on trigger); transforms to Super Vegito / SSGSS.",
+  "playstyle": "Fusion rushdown",
+  "strengths": [
+   "A-tier fusion neutral at a reasonable DP7 — good entry into the Vegito ladder",
+   "Rampaging Rush speed-impact super (15,000 ki on combo trigger) for cheap extensions",
+   "Transforms up to Super Vegito (1 stock) then SSGSS (2 stock) for a mid-match power spike",
+   "High-Tension self ki-charge to fuel supers"
+  ],
+  "weaknesses": [
+   "Base form ult is only Super Kamehameha (50,000 ki) — weaker than the God Final Kamehameha it gains later",
+   "DP7 with no defensive auto-dodge in base form",
+   "Wants to transform to be at full strength, costing stock"
+  ],
+  "howToFight": "Pressure base Vegito before it climbs to SSGSS. No auto-dodge here, so Super Counter (free) and vanish punish his strings. Watch for the 1-stock transform into Super Vegito which adds Afterimage Strike."
+ },
+ "0100_01": {
+  "summary": "DP8 Super Vegito: S-tier, #12 Singles (126.9k); Final Kamehameha 40,000-ki super + Beam Sword Slash 50,000-ki ult; Afterimage Strike (3 stock).",
+  "playstyle": "Fusion burst rushdown",
+  "strengths": [
+   "S-tier fusion burst — Final Kamehameha 40,000-ki super and Beam Sword Slash 50,000-ki ultimate",
+   "#12 Singles (126.9k); fast fusion normals just below SSGSS Vegito",
+   "Afterimage Strike (3 stock) auto-dodge gives it a defensive option base Vegito lacks",
+   "8.0 ki charge / 1,500/s recovery"
+  ],
+  "weaknesses": [
+   "DP8 — premium cost; the SSGSS form (DP10) outclasses it where budget allows",
+   "Afterimage Strike ends on a Super Counter and was duration-nerfed (Dec 2025)",
+   "No heal; standardized fusion durability"
+  ],
+  "howToFight": "Land a Super Counter (free) to instantly pop his Afterimage Strike, then punish. Don't feed raw strings into the auto-dodge — bait it first. Respect Beam Sword Slash and Final Kamehameha on knockdown."
+ },
+ "0100_02": {
+  "summary": "DP10 Potara fusion — #1 Singles (sparkingzerometa 152.8k); God Kamehameha 30,000-ki + God Final Kamehameha 50,000-ki ult; Omega Finishing Blow speed-impact rush.",
+  "playstyle": "Premium fusion rushdown",
+  "strengths": [
+   "#1 Singles overall (152.8k) — elite fusion normals, among the fastest strings in the game",
+   "God Final Kamehameha 50,000-ki ultimate is a catastrophic burst finisher",
+   "Omega Finishing Blow speed-impact rush (15,000 ki on trigger) + Full-Power Charge for instant ki",
+   "8.0 ki charge / 1,500/s recovery feeds the high-ki kit easily"
+  ],
+  "weaknesses": [
+   "DP10 — max cost; in DP queue you pair it with cheap value bodies, leaving little budget",
+   "No auto-dodge defensive skill — relies on offense and vanish reads",
+   "Premium fusion is a single pick: lose the body and you lose half your DP"
+  ],
+  "howToFight": "You cannot out-neutral the fusion speed — play defense, hoard Perception (2 stock) and Super Counter (free) for his strings, and punish whiffed Omega Finishing Blow rushes. Bait the God Final Kamehameha and vanish/sidestep it. Trade DP efficiency: make the DP10 body earn its cost."
+ },
+ "0110_00": {
+  "summary": "DP7 Gogeta (Super) base SS: A-tier; Super Kamehameha (30,000 ki) + Big Bang Kamehameha 50,000-ki ult; transforms toward SSGSS; Here We Go! (4 stock) buff.",
+  "playstyle": "Fusion rushdown",
+  "strengths": [
+   "A-tier fusion at DP7 — solid neutral and Big Bang Kamehameha 50,000-ki ultimate",
+   "Super Explosive Wave 40,000-ki AoE super for crowd/space control",
+   "Wild Sense evasion + Here We Go! (4 stock) attack buff; transforms up to SSGSS",
+   "7.0 ki charge / 1,750/s recovery"
+  ],
+  "weaknesses": [
+   "Base form is the weakest of the Gogeta ladder — wants to reach SSGSS (DP10)",
+   "DP7 with only Wild Sense (gutted Dec 2025) for defense",
+   "No heal"
+  ],
+  "howToFight": "Keep him in base SS — deny the transform window with pressure. Super Counter (free) his approaches and bait Wild Sense. Respect Big Bang Kamehameha on knockdown."
+ },
+ "0110_01": {
+  "summary": "DP8 Movie-era fusion, A-tier; Super Kamehameha 30,000-ki super.",
+  "playstyle": "Fusion rushdown",
+  "strengths": [
+   "Super Kamehameha (30,000-ki super)",
+   "Rising Vortex (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Instant Transmission teleport repositioning",
+   "Transforms (1 stock to Gogeta (Super)) for a mid-match power spike"
+  ],
+  "weaknesses": [
+   "DP8 — premium cost, poor points-per-DP value",
+   "No auto-dodge/evasion skill — active defense is Super Counter only"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Rising Vortex rush rather than mashing into it."
+ },
+ "0110_02": {
+  "summary": "DP10 Fusion-Dance carry — #2 Singles (151.5k); Big Bang Kamehameha (30,000 ki) + Ultra Big Bang Kamehameha 50,000-ki ult; normals faster than many chars' Sparking speed.",
+  "playstyle": "Premium fusion rushdown",
+  "strengths": [
+   "#2 Singles (151.5k) — 'the king'; base normals outspeed many characters' Sparking-mode strings",
+   "Ultimate Impact speed-impact rush (15,000 ki on trigger) + Ultra Big Bang Kamehameha 50,000-ki ult",
+   "Wild Sense + Power Up to the Very Limit (4 stock) for evasion and a damage spike",
+   "8.0 ki charge / 1,500/s recovery"
+  ],
+  "weaknesses": [
+   "DP10 — max cost; eats most of a 15-DP team budget",
+   "Unlocked behind 120,000 Zeni (shop)",
+   "No auto-dodge engine — pure offense; relies on raw speed not defensive reads"
+  ],
+  "howToFight": "You will lose the neutral speed race — turtle and punish. Bank Perception (2 stock) and Super Counter (free) for his rushdown, and sidestep/vanish the Ultimate Impact rush. Make the DP10 body pay by trading efficiently."
+ },
+ "0110_03": {
+  "summary": "DP10 Gogeta (Super) SSGSS: S-tier Singles (132.7k); Stardust Blaster (30,000 ki) + Ultimate Kamehameha 50,000-ki ult; nerfed May 2026 (Smash Ki Blast damage + homing cut).",
+  "playstyle": "Spacing rushdown",
+  "strengths": [
+   "S-tier Singles (132.7k) fusion with Ultimate Kamehameha 50,000-ki ult and Meteor Explosion speed-impact rush (15,000 on trigger)",
+   "Stardust Barrier (1 stock — cheapest defensive skill in the game) for a near-free block",
+   "Instant Transmission for teleport mix-ups",
+   "8.0 ki charge / 1,500/s recovery"
+  ],
+  "weaknesses": [
+   "Nerfed May 2026: Smash Ki Blast damage and homing cut — now needs deliberate spacing, less braindead pressure",
+   "DP10 — max cost",
+   "No auto-dodge; leans on Stardust Barrier and spacing rather than evasion"
+  ],
+  "howToFight": "Post-nerf his Smash Ki Blast is weaker, so contest neutral instead of fearing chip. Bait the cheap Stardust Barrier then strike after it drops. Vanish the Meteor Explosion rush and respect Ultimate Kamehameha on knockdown."
+ },
+ "0110_04": {
+  "summary": "DP8 Movie-era fusion; Punisher Drive 40,000-ki speed-impact super, Stardust Breaker 50,000-ki ult.",
+  "playstyle": "Fusion rushdown",
+  "strengths": [
+   "Big Bang Kamehameha (30,000-ki super)",
+   "Punisher Drive (40,000-ki super, 20,000-ki on combo trigger, speed-impact rush)",
+   "Stardust Breaker 50,000-ki ultimate finisher",
+   "Immovable Stance super-armor"
+  ],
+  "weaknesses": [
+   "DP8 — premium cost, poor points-per-DP value",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Punisher Drive rush rather than mashing into it."
+ },
+ "0120_00": {
+  "summary": "DP6 Z-era fusion; 45,000 HP; Full-Power Energy Wave 30,000-ki super, Victory Cannon 50,000-ki ult.",
+  "playstyle": "Fusion rushdown",
+  "strengths": [
+   "45,000 HP — above-baseline bulk",
+   "Full-Power Energy Wave (30,000-ki super)",
+   "High Speed Rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Victory Cannon 50,000-ki ultimate finisher",
+   "Afterimage evasive step"
+  ],
+  "weaknesses": [
+   "No heal/regen — fixed effective durability once committed",
+   "Outclassed by transforming/fusion picks at equivalent DP — no standout edge"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the High Speed Rush rather than mashing into it."
+ },
+ "0120_01": {
+  "summary": "DP7 Z-era fusion; 45,000 HP; Victory Cannon 30,000-ki super, Super Ghost Kamikaze Attack 50,000-ki ult.",
+  "playstyle": "Fusion rushdown",
+  "strengths": [
+   "45,000 HP — above-baseline bulk",
+   "Victory Cannon (30,000-ki super)",
+   "Galactic Donuts (30,000-ki super)",
+   "Super Ghost Kamikaze Attack 50,000-ki ultimate finisher",
+   "False Courage instant ki gain"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Respect Super Ghost Kamikaze Attack on knockdown — bait it out and punish the recovery."
+ },
+ "0120_02": {
+  "summary": "DP8 Z-era fusion; 45,000 HP; Victory Bazooka 30,000-ki super, Charging Ultra Buu Buu Volleyball 50,000-ki ult.",
+  "playstyle": "Fusion rushdown",
+  "strengths": [
+   "45,000 HP — above-baseline bulk",
+   "Victory Bazooka (30,000-ki super)",
+   "DIE DIE Missile Barrage (30,000-ki super)",
+   "Charging Ultra Buu Buu Volleyball 50,000-ki ultimate finisher",
+   "Vice Shout — unblockable shockwave"
+  ],
+  "weaknesses": [
+   "DP8 — premium cost, poor points-per-DP value",
+   "No auto-dodge/evasion skill — active defense is Super Counter only"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Watch for his unblockable opener (Solar Flare/Psychokinesis/Paralyze type) — don't sit blocking predictably. Respect Charging Ultra Buu Buu Volleyball on knockdown — bait it out and punish the recovery."
+ },
+ "0130_00": {
+  "summary": "DP2 Z-era fighter, D-tier; 30,000 HP; Desperado Rush 30,000-ki speed-impact super, Videl Rush 50,000-ki ult.",
+  "playstyle": "Evasive rushdown",
+  "strengths": [
+   "Videl Kick (20,000-ki super, speed-impact rush)",
+   "Desperado Rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Videl Rush 50,000-ki ultimate finisher",
+   "Afterimage Strike auto-dodge (3 stock; ends on a Super Counter post-May-2026)",
+   "DP2 — dirt-cheap DP-queue body; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "30,000 HP — melts in roughly two combos",
+   "Slow 6 ki charge — sluggish to fund supers",
+   "Bottom-tier kit — limited damage ceiling and few defensive tools"
+  ],
+  "howToFight": "Land a Super Counter (free) to instantly pop his Afterimage Strike, then punish; don't feed raw strings into it. Pressure his slow 6 ki charge by forcing blocks so he can't reach his supers. Perception (2 stock) or vanish the Videl Kick rush rather than mashing into it."
+ },
+ "0140_00": {
+  "summary": "DP2 Master Roshi (base): 30,000 HP, flightless skirmisher; Afterimage Strike (3 stock) + Evil Containment Wave 50,000-ki ult; transforms to Max Power (2 stock).",
+  "playstyle": "Tricky DP filler",
+  "strengths": [
+   "Afterimage Strike (3 stock) auto-dodge on a DP2 body — disproportionate value in the DP queue",
+   "DP2 — extremely cheap; transforms to Max Power (DP-efficiency S-tier) for 2 stock",
+   "Evil Containment Wave 50,000-ki ultimate is an unusual seal/punish; Thunder Shock Surprise 40,000-ki super",
+   "False Courage for instant ki despite low charge access"
+  ],
+  "weaknesses": [
+   "30,000 HP — extremely fragile, dies in roughly two combos",
+   "Base form is flightless and slow; wants to transform to Max Power immediately",
+   "Ki recovery nerfed May 2026; useless tankiness in standardized-HP Singles"
+  ],
+  "howToFight": "His 30,000 HP melts — open him up once and commit. Land a Super Counter (free) to pop Afterimage Strike, then burst. In Singles his value collapses (no DP tank edge). Deny the Max Power transform with early pressure."
+ },
+ "0141_00": {
+  "summary": "DP2 Roshi (Max Power): D-tier Singles but DP-efficiency S-tier (sparkingzerometa 31.2k points-per-DP); 40,000 HP; Max Power Kamehameha 50,000-ki ult; Ki recovery nerfed May 2026.",
+  "playstyle": "DP-value bruiser",
+  "strengths": [
+   "DP-efficiency S-tier (31.2k points-per-DP) — overperforms its DP2 cost massively in the DP queue",
+   "40,000 HP in this form (up from 30k base) plus Turtle School Ultimate Fist speed-impact rush (15,000 on trigger)",
+   "Max Power Kamehameha 50,000-ki ultimate; Pump Up defensive buff",
+   "DP2 — frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "Ki-recovery nerfed May 2026 — expect a downward drift on the next DP list",
+   "D-tier in Singles: standardized HP erases the tank value that makes him good in DP",
+   "No auto-dodge in this form; transform-locked off the fragile 30k base"
+  ],
+  "howToFight": "In Singles ignore his DP reputation — out-damage the 40k body normally. In DP, end the round fast before the cheap value snowballs. He has no evasion here, so Super Counter (free) and vanish punish his rushes."
+ },
+ "0150_00": {
+  "summary": "DP5 Z-era fighter; 40,000 HP; Punishing Rush 30,000-ki speed-impact super, Death Ball 50,000-ki ult.",
+  "playstyle": "Melee rushdown",
+  "strengths": [
+   "Death Beam (20,000-ki super)",
+   "Punishing Rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Death Ball 50,000-ki ultimate finisher",
+   "Psychokinesis — unblockable hold",
+   "Pump Up defense buff"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Watch for his unblockable opener (Solar Flare/Psychokinesis/Paralyze type) — don't sit blocking predictably. Perception (2 stock) or vanish the Punishing Rush rather than mashing into it."
+ },
+ "0151_00": {
+  "summary": "DP5 Z-era fighter; 40,000 HP; Death Storm 40,000-ki super, HAIL Frieza 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Punishing Blaster (30,000-ki super)",
+   "Death Storm (40,000-ki super)",
+   "HAIL Frieza 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset",
+   "Transforms (1 stock to Frieza (Z), heals 5,000 HP on the change) for a mid-match power spike"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Respect HAIL Frieza on knockdown — bait it out and punish the recovery."
+ },
+ "0152_00": {
+  "summary": "DP5 Z-era fighter; 40,000 HP; High Speed Rush 30,000-ki speed-impact super, Crazy Finger Beam 50,000-ki ult.",
+  "playstyle": "Melee rushdown",
+  "strengths": [
+   "Barrage Death Beam (20,000-ki super)",
+   "High Speed Rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Crazy Finger Beam 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset",
+   "High-Tension self ki-charge buff"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the High Speed Rush rather than mashing into it."
+ },
+ "0153_00": {
+  "summary": "DP6 Frieza (Z) Final Form: C-tier; 40,000 HP; Barrage Death Beam (20,000 ki) + You Might Die This Time speed-impact (15,000 on trigger) + 50,000-ki ult; Psychokinesis unblockable.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Psychokinesis — unblockable hold to crack defenders",
+   "C-tier; cheap Barrage Death Beam (20,000 ki) chip + speed-impact rush (15,000 on trigger)",
+   "Your Arrogance Disgusts Me! (4 stock) attack buff; 50,000-ki ult; transforms to 100%",
+   "40,000 HP baseline"
+  ],
+  "weaknesses": [
+   "Slower 7.0 ki charge; no auto-dodge",
+   "Wants to transform up to 100% (DP7) to hit harder",
+   "No heal"
+  ],
+  "howToFight": "Don't block predictably — Psychokinesis is unblockable. Super Counter (free) the rush super and vanish the beams. Pressure before he transforms to 100%."
+ },
+ "0153_10": {
+  "summary": "DP6 Z-era android; 40,000 HP; Fissure Slash 30,000-ki super, Supernova 50,000-ki ult.",
+  "playstyle": "Android drain zoner",
+  "strengths": [
+   "Death Beam (20,000-ki super)",
+   "Fissure Slash (30,000-ki super)",
+   "Supernova 50,000-ki ultimate finisher",
+   "Psychokinesis — unblockable hold"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Watch for his unblockable opener (Solar Flare/Psychokinesis/Paralyze type) — don't sit blocking predictably. Respect Supernova on knockdown — bait it out and punish the recovery. He can't auto-reflect (DP<7 under the May 2026 rule), so contest his blasts freely."
+ },
+ "0153_20": {
+  "summary": "DP6 Super-era fighter; 40,000 HP; Super Nova Strike 40,000-ki speed-impact super, Super Death Ball 50,000-ki ult.",
+  "playstyle": "Melee rushdown",
+  "strengths": [
+   "Death Beam (20,000-ki super)",
+   "Super Nova Strike (40,000-ki super, 20,000-ki on combo trigger, speed-impact rush)",
+   "Super Death Ball 50,000-ki ultimate finisher",
+   "Psychokinesis — unblockable hold",
+   "Transforms (3 stock to Golden Frieza) for a mid-match power spike"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Watch for his unblockable opener (Solar Flare/Psychokinesis/Paralyze type) — don't sit blocking predictably. Perception (2 stock) or vanish the Super Nova Strike rush rather than mashing into it."
+ },
+ "0154_00": {
+  "summary": "DP7 Frieza 100% (Z): B-tier; 40,000 HP, 8.0 ki charge; Death Saucer (30,000 ki) + Nova Strike 40,000-ki speed-impact + 50,000-ki ult; Psychokinesis unblockable hold.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Psychokinesis — unblockable hold that opens defenders for a combo",
+   "B-tier; Nova Strike 40,000-ki speed-impact charge super and Death Saucer (30,000 ki) homing discs",
+   "Long Awaited-for 100% (4 stock) full-power attack buff; 50,000-ki ult",
+   "8.0 ki charge / 1,500/s recovery"
+  ],
+  "weaknesses": [
+   "DP7 with no auto-dodge — Super Counter is the only active defense",
+   "Top of the Frieza Z transform chain — must climb to reach 100%",
+   "No heal"
+  ],
+  "howToFight": "Respect Psychokinesis — don't sit blocking predictably or you eat the unblockable. Vanish the Nova Strike and Super Counter (free) his approaches. Pressure before he reaches the 100% form."
+ },
+ "0155_00": {
+  "summary": "DP8 Super-era fighter; 40,000 HP; Great Death Beam 30,000-ki super, Earth Breaker 50,000-ki ult.",
+  "playstyle": "Evasive rushdown",
+  "strengths": [
+   "Great Death Beam (30,000-ki super)",
+   "\"No Hard Feelings\" Hit (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Earth Breaker 50,000-ki ultimate finisher",
+   "Wild Sense counter-dodge (gutted Dec 2025 — situational now)"
+  ],
+  "weaknesses": [
+   "DP8 — premium cost, poor points-per-DP value",
+   "Leans on Wild Sense, which was gutted Dec 2025 — situational defense"
+  ],
+  "howToFight": "Bait his Wild Sense (gutted Dec 2025) then punish the recovery — it's his main evasion. Perception (2 stock) or vanish the \"No Hard Feelings\" Hit rush rather than mashing into it."
+ },
+ "0160_00": {
+  "summary": "DP5 Z-era fighter; 40,000 HP; Kamehameha 30,000-ki super, Drain Life Cell 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Kamehameha (30,000-ki super)",
+   "Special Beam Cannon (30,000-ki super)",
+   "Drain Life Cell 50,000-ki ultimate finisher",
+   "Solar Flare — unblockable screen-blind opener",
+   "Afterimage evasive step"
+  ],
+  "weaknesses": [
+   "No heal/regen — fixed effective durability once committed",
+   "Outclassed by transforming/fusion picks at equivalent DP — no standout edge"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Watch for his unblockable opener (Solar Flare/Psychokinesis/Paralyze type) — don't sit blocking predictably. Respect Drain Life Cell on knockdown — bait it out and punish the recovery."
+ },
+ "0161_00": {
+  "summary": "DP5 Z-era fighter; 40,000 HP; Big Bang Crash 30,000-ki super, Unforgivable! 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Big Bang Crash (30,000-ki super)",
+   "Drain Life Cell (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Unforgivable! 50,000-ki ultimate finisher",
+   "Solar Flare — unblockable screen-blind opener",
+   "Pump Up defense buff"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Watch for his unblockable opener (Solar Flare/Psychokinesis/Paralyze type) — don't sit blocking predictably. Perception (2 stock) or vanish the Drain Life Cell rush rather than mashing into it."
+ },
+ "0162_00": {
+  "summary": "DP6 Z-era fighter; 40,000 HP; Super Kamehameha 30,000-ki super, Perfect Barrier 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Super Kamehameha (30,000-ki super)",
+   "Barrage Death Beam (20,000-ki super)",
+   "Perfect Barrier 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset",
+   "Afterimage evasive step"
+  ],
+  "weaknesses": [
+   "Slow 6 ki charge — sluggish to fund supers",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Pressure his slow 6 ki charge by forcing blocks so he can't reach his supers. Respect Perfect Barrier on knockdown — bait it out and punish the recovery."
+ },
+ "0162_01": {
+  "summary": "DP7 Perfect Cell: B-tier; 40,000 HP; Perfect Beam (20,000 ki) + Perfect Rush speed-impact (15,000 on trigger) + Solar Kamehameha 50,000-ki ult; slow 6.0 ki charge.",
+  "playstyle": "All-rounder zoner",
+  "strengths": [
+   "B-tier all-rounder with Instant Transmission teleport mix-ups and Wild Sense evasion",
+   "Cheap Perfect Beam (20,000 ki) for constant chip + Perfect Rush speed-impact (15,000 on trigger)",
+   "Solar Kamehameha 50,000-ki ultimate",
+   "40,000 HP baseline"
+  ],
+  "weaknesses": [
+   "Slow 6.0 ki charge (2,000/s recovery) — sluggish to reach supers",
+   "DP7 with only Wild Sense (gutted Dec 2025) for active defense",
+   "No heal/regen in this form"
+  ],
+  "howToFight": "Exploit his slow 6.0 ki charge — force blocks so he can't fund supers. Bait Wild Sense and Super Counter (free) his Perfect Rush. Watch Instant Transmission for teleport pressure and react to the Solar Kamehameha on knockdown."
+ },
+ "0163_00": {
+  "summary": "DP3 Z-era fighter; 35,000 HP; Special Beam Cannon 30,000-ki super, Super Kamehameha 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Special Beam Cannon (30,000-ki super)",
+   "Innocence Rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Super Kamehameha 50,000-ki ultimate finisher",
+   "Solar Flare — unblockable screen-blind opener",
+   "Explosive Wave knockback/ki-shield reset"
+  ],
+  "weaknesses": [
+   "35,000 HP — below the 40k baseline, dies a combo earlier",
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No transform path — fixed kit with no mid-match power spike"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Watch for his unblockable opener (Solar Flare/Psychokinesis/Paralyze type) — don't sit blocking predictably. Perception (2 stock) or vanish the Innocence Rush rather than mashing into it."
+ },
+ "0170_00": {
+  "summary": "DP6 Z-era fighter; 40,000 HP; Buu Buu Gum 30,000-ki super, Angry Explosion 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Buu Buu Gum (30,000-ki super)",
+   "Super Kamehameha (30,000-ki super)",
+   "Angry Explosion 50,000-ki ultimate finisher",
+   "Paralyze Beam — unblockable stun"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Watch for his unblockable opener (Solar Flare/Psychokinesis/Paralyze type) — don't sit blocking predictably. Respect Angry Explosion on knockdown — bait it out and punish the recovery."
+ },
+ "0171_00": {
+  "summary": "DP6 Z-era fighter; 40,000 HP; Super Kamehameha 30,000-ki super, Guilty Flash 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Super Kamehameha (30,000-ki super)",
+   "Flame Shower Breath (30,000-ki super)",
+   "Guilty Flash 50,000-ki ultimate finisher",
+   "Paralyze Beam — unblockable stun"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Watch for his unblockable opener (Solar Flare/Psychokinesis/Paralyze type) — don't sit blocking predictably. Respect Guilty Flash on knockdown — bait it out and punish the recovery."
+ },
+ "0172_00": {
+  "summary": "DP6 Super Buu (base): 40,000 HP; Assault Rain (30,000 ki) + Majin Beam 40,000-ki super + Revenge Death Bomber 50,000-ki ult; Regeneration (4 stock) + Vice Shout unblockable.",
+  "playstyle": "Regen zoner",
+  "strengths": [
+   "Regeneration (4 stock) HP sustain and Vice Shout — an unblockable shockwave opener",
+   "Majin Beam 40,000-ki super + Revenge Death Bomber 50,000-ki ult for burst",
+   "Transforms to the absorbed (Gotenks) form for a power spike",
+   "40,000 HP baseline"
+  ],
+  "weaknesses": [
+   "DP6; Regeneration costs 4 stock and was no-auto-guard (interruptible)",
+   "Slower 7.0 ki charge; no auto-dodge",
+   "Wants to transform to reach A-tier absorbed form"
+  ],
+  "howToFight": "Interrupt the Regeneration cast (4 stock) to deny the heal. Block the Vice Shout reads and punish the recovery. Keep him from stalling to transform."
+ },
+ "0172_10": {
+  "summary": "DP7 Super Buu (Gotenks absorbed): A-tier; 40,000 HP; Galactic Donut Volley (30,000 ki) + Super Kamehameha 50,000-ki ult; Regeneration (4 stock) sustain.",
+  "playstyle": "Tanky regen zoner",
+  "strengths": [
+   "Regeneration (4 stock) restores HP — sustain that effectively raises his durability",
+   "A-tier; Galactic Donut Volley + Special Beam Cannon (both 30,000 ki) and Super Kamehameha 50,000-ki ult",
+   "Absorbed-form power spike (reached via 2-stock transform from base Super Buu)",
+   "Explosive Wave reset"
+  ],
+  "weaknesses": [
+   "Regeneration costs a full 4 stock and was no-auto-guard — vulnerable during the cast",
+   "DP7; needs to transform up from base Super Buu to reach this form",
+   "No true auto-dodge; slower 7.0 ki charge"
+  ],
+  "howToFight": "Punish the Regeneration cast (4 stock, no auto-guard) — interrupt it to deny the heal. Don't let him stall to full; apply constant pressure. Vanish the Special Beam Cannon and Super Counter (free) his rushes."
+ },
+ "0172_11": {
+  "summary": "DP7 Z-era fighter; 40,000 HP; Majin Beam 40,000-ki super, Super Ghost Buu Attack 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Super Kamehameha (30,000-ki super)",
+   "Majin Beam (40,000-ki super)",
+   "Super Ghost Buu Attack 50,000-ki ultimate finisher",
+   "Afterimage evasive step",
+   "High-Tension self ki-charge buff"
+  ],
+  "weaknesses": [
+   "No heal/regen — fixed effective durability once committed",
+   "Outclassed by transforming/fusion picks at equivalent DP — no standout edge"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Respect Super Ghost Buu Attack on knockdown — bait it out and punish the recovery."
+ },
+ "0173_00": {
+  "summary": "DP7 Z-era fighter; 40,000 HP; Super Kamehameha 30,000-ki super, Planet Burst 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Super Kamehameha (30,000-ki super)",
+   "Mystic Combination (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Planet Burst 50,000-ki ultimate finisher",
+   "Instant Transmission teleport repositioning"
+  ],
+  "weaknesses": [
+   "Slow 6 ki charge — sluggish to fund supers",
+   "No auto-dodge/evasion skill — active defense is Super Counter only"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Pressure his slow 6 ki charge by forcing blocks so he can't reach his supers. Perception (2 stock) or vanish the Mystic Combination rush rather than mashing into it."
+ },
+ "0180_00": {
+  "summary": "DP1 Mr. Satan — lowest DP in the game; 30,000 HP; weakest Singles score (8.7k); Dynamite Kick + Present Bomb speed-impact supers + Mr. Buu Arrives! 50,000-ki ult; joke pick.",
+  "playstyle": "Joke / utility",
+  "strengths": [
+   "DP1 — the single cheapest body in the game; pure budget filler",
+   "Present Bomb 40,000-ki speed-impact super (20,000 on trigger) is a surprising burst gimmick",
+   "Mr. Buu Arrives! 50,000-ki ultimate; Royal Raiment?! utility",
+   "False Courage for instant ki"
+  ],
+  "weaknesses": [
+   "Lowest Singles score in the game (8.7k); 30,000 HP — melts in two combos",
+   "DP1 but brings no real combat value; Ki-recovery nerfed May 2026",
+   "No transform, no auto-dodge, no heal"
+  ],
+  "howToFight": "Just attack — 30,000 HP and no evasion means he dies almost immediately. The only thing to respect is a desperation Present Bomb gimmick at point-blank. Otherwise overwhelm him."
+ },
+ "0190_00": {
+  "summary": "DP2 Z-era fighter, D-tier; 30,000 HP; Dodon Ray 20,000-ki super, Farewell, Mr. Tien 50,000-ki ult.",
+  "playstyle": "All-rounder fighter",
+  "strengths": [
+   "Dodon Ray (20,000-ki super)",
+   "Psychic Rock Throw (20,000-ki super)",
+   "Farewell, Mr. Tien 50,000-ki ultimate finisher",
+   "Telekinesis — unblockable hold",
+   "Afterimage evasive step"
+  ],
+  "weaknesses": [
+   "30,000 HP — melts in roughly two combos",
+   "Bottom-tier kit — limited damage ceiling and few defensive tools"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Watch for his unblockable opener (Solar Flare/Psychokinesis/Paralyze type) — don't sit blocking predictably. Respect Farewell, Mr. Tien on knockdown — bait it out and punish the recovery."
+ },
+ "0210_00": {
+  "summary": "DP2 Yajirobe: D-tier; 35,000 HP; Senzu Beans heal (6 stock, start with 0) — once a meta-defining stall, gutted; Ki recovery nerfed May 2026.",
+  "playstyle": "Senzu staller",
+  "strengths": [
+   "Senzu Beans (6 stock) full-heal — the famous stall tool, still a niche DP2 tank",
+   "DP2 — dirt-cheap DP-queue body; pairs with a premium carry",
+   "Ka-Blam Attack 40,000-ki speed-impact super + Miracle Ka-Blam Slash 50,000-ki ult give it a punish",
+   "Super Unyielding Spirit (4 stock) for a defensive buff"
+  ],
+  "weaknesses": [
+   "Senzu starts at 0 stock and costs 6 — you must build a long time before the first heal (Oct-2024 nerf)",
+   "Ki-recovery speed reduced May 2026; standardized Singles HP removes his tank value entirely",
+   "35,000 HP, no offense to speak of — pure utility; D-tier"
+  ],
+  "howToFight": "Race the stock clock: he can't heal until 6 skill stock, so burst him before the first Senzu lands. In Singles his HP is standardized so the stall does nothing — just out-damage him. Bait Super Unyielding Spirit and keep the pressure relentless."
+ },
+ "0230_00": {
+  "summary": "DP3 GT-era fighter; 35,000 HP; Kamehameha 30,000-ki super, Maiden's Rage 50,000-ki ult.",
+  "playstyle": "Evasive rushdown",
+  "strengths": [
+   "Kamehameha (30,000-ki super)",
+   "Giru Missile (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Maiden's Rage 50,000-ki ultimate finisher",
+   "Afterimage Strike auto-dodge (3 stock; ends on a Super Counter post-May-2026)",
+   "Saiyan Spirit ki/attack buff"
+  ],
+  "weaknesses": [
+   "35,000 HP — below the 40k baseline, dies a combo earlier",
+   "No transform path — fixed kit with no mid-match power spike"
+  ],
+  "howToFight": "Land a Super Counter (free) to instantly pop his Afterimage Strike, then punish; don't feed raw strings into it. Perception (2 stock) or vanish the Giru Missile rush rather than mashing into it."
+ },
+ "0240_00": {
+  "summary": "DP4 GT-era fighter; 40,000 HP; Super Kamehameha 30,000-ki super, Super Explosive Wave 50,000-ki ult.",
+  "playstyle": "Evasive rushdown",
+  "strengths": [
+   "Super Kamehameha (30,000-ki super)",
+   "Blazing Barrage Palm (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Super Explosive Wave 50,000-ki ultimate finisher",
+   "Wild Sense counter-dodge (gutted Dec 2025 — situational now)",
+   "DP4 — efficient DP-queue filler; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "Leans on Wild Sense, which was gutted Dec 2025 — situational defense",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "Bait his Wild Sense (gutted Dec 2025) then punish the recovery — it's his main evasion. Perception (2 stock) or vanish the Blazing Barrage Palm rush rather than mashing into it."
+ },
+ "0240_01": {
+  "summary": "DP6 GT-era fusion; 40,000 HP; Majin Beam 40,000-ki super, Lightning Arrow 50,000-ki ult.",
+  "playstyle": "Fusion rushdown",
+  "strengths": [
+   "Super Consecutive Energy Blast (20,000-ki super)",
+   "Majin Beam (40,000-ki super)",
+   "Lightning Arrow 50,000-ki ultimate finisher",
+   "Paralyze Beam — unblockable stun"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Watch for his unblockable opener (Solar Flare/Psychokinesis/Paralyze type) — don't sit blocking predictably. Respect Lightning Arrow on knockdown — bait it out and punish the recovery."
+ },
+ "0310_00": {
+  "summary": "DP4 Z-era fighter, D-tier; 40,000 HP; Riot Blaster 30,000-ki super, Final Spirit Cannon 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Riot Blaster (30,000-ki super)",
+   "Final Revenger (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Final Spirit Cannon 50,000-ki ultimate finisher",
+   "Saiyan Spirit ki/attack buff",
+   "DP4 — efficient DP-queue filler; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "Bottom-tier kit — limited damage ceiling and few defensive tools"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Final Revenger rush rather than mashing into it."
+ },
+ "0320_00": {
+  "summary": "DP3 Z-era fighter; 40,000 HP; Energy Crash 30,000-ki super, Begone! 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Energy Crash (30,000-ki super)",
+   "Sonic Assault (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Begone! 50,000-ki ultimate finisher",
+   "Saiyan Spirit ki/attack buff",
+   "Full Power attack buff (4 stock)"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No transform path — fixed kit with no mid-match power spike"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Sonic Assault rush rather than mashing into it."
+ },
+ "0330_00": {
+  "summary": "DP2 Z-era fighter, D-tier; 35,000 HP; Full-Power Energy Wave 30,000-ki super, Saibaman Bomb 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Full-Power Energy Wave (30,000-ki super)",
+   "High Speed Rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Saibaman Bomb 50,000-ki ultimate finisher",
+   "Acid — unblockable debuff",
+   "Afterimage evasive step"
+  ],
+  "weaknesses": [
+   "35,000 HP — below the 40k baseline, dies a combo earlier",
+   "Bottom-tier kit — limited damage ceiling and few defensive tools"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Watch for his unblockable opener (Solar Flare/Psychokinesis/Paralyze type) — don't sit blocking predictably. Perception (2 stock) or vanish the High Speed Rush rather than mashing into it."
+ },
+ "0340_00": {
+  "summary": "DP3 Z-era fighter; 40,000 HP; Volcano Explosion 40,000-ki super, Nappa Cannon 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Volcano Explosion (40,000-ki super)",
+   "Blazing Storm (20,000-ki super)",
+   "Nappa Cannon 50,000-ki ultimate finisher",
+   "Saiyan Spirit ki/attack buff",
+   "Pump Up defense buff"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No transform path — fixed kit with no mid-match power spike"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Respect Nappa Cannon on knockdown — bait it out and punish the recovery."
+ },
+ "0350_00": {
+  "summary": "DP3 Z-era fighter; 40,000 HP; Bloody Dance 30,000-ki speed-impact super, Elegant Blaster 50,000-ki ult.",
+  "playstyle": "Evasive rushdown",
+  "strengths": [
+   "Shooting Star Arrow (20,000-ki super)",
+   "Bloody Dance (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Elegant Blaster 50,000-ki ultimate finisher",
+   "Wild Sense counter-dodge (gutted Dec 2025 — situational now)",
+   "Full Power attack buff (4 stock)"
+  ],
+  "weaknesses": [
+   "Leans on Wild Sense, which was gutted Dec 2025 — situational defense",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "Bait his Wild Sense (gutted Dec 2025) then punish the recovery — it's his main evasion. Perception (2 stock) or vanish the Bloody Dance rush rather than mashing into it."
+ },
+ "0351_00": {
+  "summary": "DP3 Z-era fighter; 40,000 HP; Elegant Blaster 30,000-ki super, Monster Crush 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Elegant Blaster (30,000-ki super)",
+   "Wild Pressure (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Monster Crush 50,000-ki ultimate finisher",
+   "False Courage instant ki gain",
+   "High-Tension self ki-charge buff"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Wild Pressure rush rather than mashing into it."
+ },
+ "0360_00": {
+  "summary": "DP3 Z-era fighter; 40,000 HP; Dodoria Head Ram 40,000-ki speed-impact super, Maximum Buster 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Chou Makouhou (30,000-ki super)",
+   "Dodoria Head Ram (40,000-ki super, speed-impact rush)",
+   "Maximum Buster 50,000-ki ultimate finisher",
+   "False Courage instant ki gain",
+   "Pump Up defense buff"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No transform path — fixed kit with no mid-match power spike"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Dodoria Head Ram rush rather than mashing into it."
+ },
+ "0370_00": {
+  "summary": "DP3 Z-era fighter; 40,000 HP; Full-Power Energy Wave 30,000-ki super, Ah! Lord Frieza! 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Full-Power Energy Wave (30,000-ki super)",
+   "Full-Power Energy Wave Combo (30,000-ki super)",
+   "Ah! Lord Frieza! 50,000-ki ultimate finisher",
+   "False Courage instant ki gain",
+   "DP3 — efficient DP-queue filler; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No transform path — fixed kit with no mid-match power spike"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Respect Ah! Lord Frieza! on knockdown — bait it out and punish the recovery."
+ },
+ "0380_00": {
+  "summary": "DP4 Z-era fighter; 40,000 HP; Full-Power Energy Wave 30,000-ki super, Body Change 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Full-Power Energy Wave (30,000-ki super)",
+   "Galaxy Dynamite (30,000-ki super)",
+   "Body Change 50,000-ki ultimate finisher",
+   "DP4 — efficient DP-queue filler; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No transform path — fixed kit with no mid-match power spike"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Respect Body Change on knockdown — bait it out and punish the recovery."
+ },
+ "0390_00": {
+  "summary": "DP3 Recoome: C-tier Singles, DP-value S-tier (sparkingzerometa 30.3k points-per-DP); 40,000 HP; two 30,000-ki supers + Recoome Fighting Bomber 50,000-ki ult; HP reduced May 2026.",
+  "playstyle": "DP-value tank",
+  "strengths": [
+   "DP-value S-tier (30.3k points-per-DP) — a cheap DP3 wall that overperforms its cost",
+   "40,000 HP bruiser with Recoome Eraser Gun + Recoome Grenade Bomber (both 30,000 ki)",
+   "Recoome Fighting Bomber 50,000-ki ultimate; SP Fighting Pose 1 (4 stock) buff",
+   "DP3 — cheap body for value-spam DP teams"
+  ],
+  "weaknesses": [
+   "HP reduced in the May 2026 patch — less tanky than its peak",
+   "C-tier in Singles; no auto-dodge, slow approach",
+   "Below DP7, so it loses auto-reflect in Sparking mode under the new rule"
+  ],
+  "howToFight": "Out-space him — he has no evasion and only False Courage/Fighting Pose for utility. In DP, kill the round quickly so the cheap value doesn't accrue. Super Counter (free) his rushes; he can't auto-reflect (DP3 < 7)."
+ },
+ "0400_00": {
+  "summary": "DP3 Z-era fighter; 40,000 HP; Full-Power Energy Ball 30,000-ki super, Purple Comet Attack 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Full-Power Energy Ball (30,000-ki super)",
+   "Space Mach Attack (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Purple Comet Attack 50,000-ki ultimate finisher",
+   "Afterimage evasive step",
+   "DP3 — efficient DP-queue filler; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "No transform path — fixed kit with no mid-match power spike",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Space Mach Attack rush rather than mashing into it."
+ },
+ "0410_00": {
+  "summary": "DP3 Z-era fighter; 40,000 HP; Full-Power Energy Wave 30,000-ki super, Purple Comet Attack 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Full-Power Energy Wave (30,000-ki super)",
+   "Crusher Ball (30,000-ki super)",
+   "Purple Comet Attack 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset",
+   "DP3 — efficient DP-queue filler; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No transform path — fixed kit with no mid-match power spike"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Respect Purple Comet Attack on knockdown — bait it out and punish the recovery."
+ },
+ "0420_00": {
+  "summary": "DP2 Z-era fighter, D-tier; 30,000 HP; Psychic Rock Throw 30,000-ki super, Guldo Special 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Psychic Rock Throw (30,000-ki super)",
+   "Full-Power Energy Blast Volley (30,000-ki super)",
+   "Guldo Special 50,000-ki ultimate finisher",
+   "Paralysis — unblockable stun",
+   "DP2 — dirt-cheap DP-queue body; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "30,000 HP — melts in roughly two combos",
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "Bottom-tier kit — limited damage ceiling and few defensive tools"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Watch for his unblockable opener (Solar Flare/Psychokinesis/Paralyze type) — don't sit blocking predictably. Respect Guldo Special on knockdown — bait it out and punish the recovery."
+ },
+ "0430_00": {
+  "summary": "DP4 Z-era fighter, D-tier; 40,000 HP; Super Explosive Wave 40,000-ki super, Power of the Cold Clan 50,000-ki ult.",
+  "playstyle": "Beam zoner",
+  "strengths": [
+   "Full-Power Death Beam (20,000-ki super)",
+   "Super Explosive Wave (40,000-ki super)",
+   "Power of the Cold Clan 50,000-ki ultimate finisher",
+   "Explosive Wave knockback/ki-shield reset",
+   "DP4 — efficient DP-queue filler; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "Bottom-tier kit — limited damage ceiling and few defensive tools"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Respect Power of the Cold Clan on knockdown — bait it out and punish the recovery."
+ },
+ "0440_00": {
+  "summary": "DP5 Android 16: B-tier; 40,000 HP; CANNOT charge ki (0 charge, 1,700/s recovery); Hell Flash 40,000-ki speed-impact + Self Destruct Device 50,000-ki ult.",
+  "playstyle": "Self-destruct tank",
+  "strengths": [
+   "Self Destruct Device 50,000-ki ultimate — massive guaranteed burst, the signature A16 finisher",
+   "B-tier; Hell Flash 40,000-ki speed-impact super (20,000 on trigger) + Hell's Impact (30,000 ki)",
+   "40,000 HP tank; Explosive Wave + Pump Up defense buff",
+   "DP5 — decent DP-queue value (sparkingzerometa 21.5k)"
+  ],
+  "weaknesses": [
+   "Android: cannot manually charge ki (charge 0) — only 1,700/s passive recovery, slow to fund supers",
+   "No auto-dodge; large, deliberate body",
+   "Self Destruct is high-commitment and telegraphed"
+  ],
+  "howToFight": "Watch for Self Destruct Device at point-blank — keep spacing when he has ki. Exploit that he can't charge ki: rush him before passive recovery funds Hell Flash. Super Counter (free) his approaches."
+ },
+ "0450_00": {
+  "summary": "DP5 Android 17 (Z): C-tier; 40,000 HP; CANNOT charge ki (0 charge, 1,800/s recovery); Photon Flash + Full-Power Energy Ball (both 30,000 ki) + Sadistic Dance 50,000-ki ult.",
+  "playstyle": "Barrier zoner",
+  "strengths": [
+   "C-tier; Android Barrier block and Sadistic Dance 50,000-ki ultimate",
+   "Two 30,000-ki supers (Full-Power Energy Ball, Photon Flash) for zoning",
+   "DP5 efficient filler",
+   "40,000 HP baseline"
+  ],
+  "weaknesses": [
+   "Android: cannot manually charge ki (1,800/s passive only) — slow to reach supers",
+   "C-tier; Android Barrier is a block, not evasion; no heal",
+   "Below DP7 so no auto-reflect in Sparking mode"
+  ],
+  "howToFight": "Rush him before passive recovery funds supers. Bait Android Barrier and punish. Super Counter (free) his approaches; he can't auto-reflect (DP5 < 7)."
+ },
+ "0450_10": {
+  "summary": "DP6 Android 17 (Super): B-tier; 40,000 HP; CANNOT charge ki (0 charge, 2,000/s recovery); High Power Blitz (30,000 ki) + Barrier Explosion 50,000-ki ult; Android Barrier.",
+  "playstyle": "Barrier zoner",
+  "strengths": [
+   "B-tier; Android Barrier damage-block + Barrier Explosion 50,000-ki ultimate",
+   "High Power Blitz + Super Electric Strike (both 30,000 ki); Time to Get Serious (4 stock) buff",
+   "Highest android passive recovery in this set (2,000/s) eases the no-charge limit",
+   "40,000 HP baseline"
+  ],
+  "weaknesses": [
+   "Android: cannot manually charge ki — slower super access than chargers",
+   "DP6; Android Barrier is a block, not an evasion (no auto-dodge)",
+   "No heal"
+  ],
+  "howToFight": "Apply early pressure before passive recovery funds his supers. Bait Android Barrier then strike after it drops. Super Counter (free) his rushes and watch Barrier Explosion on wake-up."
+ },
+ "0460_00": {
+  "summary": "DP5 Z-era android; 40,000 HP; Chain Destructo Disc 30,000-ki super, Sadistic 18 50,000-ki ult.",
+  "playstyle": "Android barrier zoner",
+  "strengths": [
+   "Infinity Bullet (20,000-ki super)",
+   "Chain Destructo Disc (30,000-ki super)",
+   "Sadistic 18 50,000-ki ultimate finisher",
+   "Android Barrier damage-block"
+  ],
+  "weaknesses": [
+   "Android: cannot manually charge ki (charge speed 0, 2,000/s passive only) — slow to reach supers",
+   "No heal/regen — fixed effective durability once committed"
+  ],
+  "howToFight": "Bait the Android Barrier block, then strike after it drops. Exploit that he can't charge ki — rush him before passive recovery funds his supers. Respect Sadistic 18 on knockdown — bait it out and punish the recovery. He can't auto-reflect (DP<7 under the May 2026 rule), so contest his blasts freely."
+ },
+ "0470_00": {
+  "summary": "DP4 Z-era android; 40,000 HP; Full-Power Energy Wave 30,000-ki super, Drain Life 19 50,000-ki ult.",
+  "playstyle": "Android drain zoner",
+  "strengths": [
+   "Full-Power Energy Wave (30,000-ki super)",
+   "High Power Rush (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Drain Life 19 50,000-ki ultimate finisher",
+   "False Courage instant ki gain",
+   "Pump Up defense buff"
+  ],
+  "weaknesses": [
+   "Android: cannot manually charge ki (charge speed 0, 4,500/s passive only) — slow to reach supers",
+   "No auto-dodge/evasion skill — active defense is Super Counter only"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Exploit that he can't charge ki — rush him before passive recovery funds his supers. Perception (2 stock) or vanish the High Power Rush rather than mashing into it. He can't auto-reflect (DP<7 under the May 2026 rule), so contest his blasts freely."
+ },
+ "0480_00": {
+  "summary": "DP4 Z-era android; 40,000 HP; Full-Power Energy Wave 30,000-ki super, Drain Life 20 50,000-ki ult.",
+  "playstyle": "Android drain zoner",
+  "strengths": [
+   "Full-Power Energy Wave (30,000-ki super)",
+   "Bionic Punisher (30,000-ki super)",
+   "Drain Life 20 50,000-ki ultimate finisher",
+   "False Courage instant ki gain",
+   "DP4 — efficient DP-queue filler; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "Android: cannot manually charge ki (charge speed 0, 4,500/s passive only) — slow to reach supers",
+   "No auto-dodge/evasion skill — active defense is Super Counter only"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Exploit that he can't charge ki — rush him before passive recovery funds his supers. Respect Drain Life 20 on knockdown — bait it out and punish the recovery. He can't auto-reflect (DP<7 under the May 2026 rule), so contest his blasts freely."
+ },
+ "0490_00": {
+  "summary": "DP3 Z-era fighter; 30,000 HP; Ultimate Explosive Power 40,000-ki super, Super Electroshock Sorcery 50,000-ki ult.",
+  "playstyle": "All-rounder rushdown",
+  "strengths": [
+   "Pui Pui Nice Shot (30,000-ki super, 15,000-ki on combo trigger, speed-impact rush)",
+   "Ultimate Explosive Power (40,000-ki super)",
+   "Super Electroshock Sorcery 50,000-ki ultimate finisher",
+   "Demon Eye — unblockable control",
+   "DP3 — efficient DP-queue filler; frees budget for a premium carry"
+  ],
+  "weaknesses": [
+   "30,000 HP — melts in roughly two combos",
+   "Slow 6 ki charge — sluggish to fund supers",
+   "No auto-dodge/evasion skill — active defense is Super Counter only",
+   "No transform path — fixed kit with no mid-match power spike"
+  ],
+  "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Watch for his unblockable opener (Solar Flare/Psychokinesis/Paralyze type) — don't sit blocking predictably. Pressure his slow 6 ki charge by forcing blocks so he can't reach his supers. Perception (2 stock) or vanish the Pui Pui Nice Shot rush rather than mashing into it."
+ }
+}

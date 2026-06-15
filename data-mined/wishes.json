@@ -1,0 +1,279 @@
+[
+ {
+  "dragon": "SH000_00",
+  "dragonType": "SH000",
+  "categories": [
+   {
+    "category": "Wish004",
+    "rewards": [
+     {
+      "rewardId": "Reward_SR001",
+      "caption": "I want more Zeni."
+     }
+    ]
+   },
+   {
+    "category": "Wish005",
+    "rewards": [
+     {
+      "rewardId": "神龍プレイヤーランク",
+      "caption": "プレイヤーレベル報酬テスト01"
+     }
+    ]
+   },
+   {
+    "category": "Wish008",
+    "rewards": [
+     {
+      "rewardId": "Reward_SR008",
+      "caption": "King"
+     },
+     {
+      "rewardId": "Reward_SR009",
+      "caption": "Delightful Lover"
+     },
+     {
+      "rewardId": "Reward_SR010",
+      "caption": "King of the World"
+     }
+    ]
+   },
+   {
+    "category": "Wish001",
+    "rewards": [
+     {
+      "rewardId": "Reward_SR004",
+      "caption": "Yamcha Outfit"
+     },
+     {
+      "rewardId": "Reward_SR005",
+      "caption": "Master Roshi Outfit"
+     },
+     {
+      "rewardId": "Reward_SR006",
+      "caption": "Goku (Super) Outfit"
+     },
+     {
+      "rewardId": "Reward_SR007",
+      "caption": "Vegeta (Super) Outfit"
+     }
+    ]
+   },
+   {
+    "category": "Wish009",
+    "rewards": [
+     {
+      "rewardId": "神龍ドラゴンオーブ付与",
+      "caption": "I want to complete an Episode Battle."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "dragon": "SH001_00",
+  "dragonType": "SH001",
+  "categories": [
+   {
+    "category": "Wish004",
+    "rewards": [
+     {
+      "rewardId": "Reward_SR002",
+      "caption": "I want more Zeni."
+     }
+    ]
+   },
+   {
+    "category": "Wish005",
+    "rewards": [
+     {
+      "rewardId": "ポルンガプレイヤーランク",
+      "caption": "プレイヤーレベル報酬テスト01"
+     }
+    ]
+   },
+   {
+    "category": "Wish008",
+    "rewards": [
+     {
+      "rewardId": "Reward_SR012",
+      "caption": "World Domination"
+     },
+     {
+      "rewardId": "Reward_SR013",
+      "caption": "Fancy Necklace"
+     },
+     {
+      "rewardId": "Reward_SR014",
+      "caption": "Moneybags"
+     }
+    ]
+   },
+   {
+    "category": "Wish003",
+    "rewards": [
+     {
+      "rewardId": "Reward_SR016",
+      "caption": "Super Transformation"
+     },
+     {
+      "rewardId": "Reward_SR017",
+      "caption": "Broly's Ring"
+     },
+     {
+      "rewardId": "Reward_SR018",
+      "caption": "Water's Blessing"
+     },
+     {
+      "rewardId": "Reward_SR019",
+      "caption": "Miracle Master"
+     },
+     {
+      "rewardId": "Reward_SR020",
+      "caption": "Guard Master"
+     },
+     {
+      "rewardId": "Reward_SR021",
+      "caption": "Mirage"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "dragon": "SH002_00",
+  "dragonType": "SH002",
+  "categories": [
+   {
+    "category": "Wish000",
+    "rewards": [
+     {
+      "rewardId": "Reward_SR027",
+      "caption": "Goku Black"
+     },
+     {
+      "rewardId": "Reward_SR028",
+      "caption": "Fused Zamasu"
+     }
+    ]
+   },
+   {
+    "category": "Wish004",
+    "rewards": [
+     {
+      "rewardId": "Reward_SR003",
+      "caption": "I want more Zeni."
+     }
+    ]
+   },
+   {
+    "category": "Wish005",
+    "rewards": [
+     {
+      "rewardId": "超神龍プレイヤーランク",
+      "caption": "プレイヤーレベル報酬テスト01"
+     }
+    ]
+   },
+   {
+    "category": "Wish001",
+    "rewards": [
+     {
+      "rewardId": "Reward_SR004",
+      "caption": "Yamcha Outfit"
+     },
+     {
+      "rewardId": "Reward_SR005",
+      "caption": "Master Roshi Outfit"
+     },
+     {
+      "rewardId": "Reward_SR006",
+      "caption": "Goku (Super) Outfit"
+     },
+     {
+      "rewardId": "Reward_SR007",
+      "caption": "Vegeta (Super) Outfit"
+     }
+    ]
+   },
+   {
+    "category": "Wish003",
+    "rewards": [
+     {
+      "rewardId": "Reward_SR016",
+      "caption": "Super Transformation"
+     },
+     {
+      "rewardId": "Reward_SR017",
+      "caption": "Broly's Ring"
+     },
+     {
+      "rewardId": "Reward_SR018",
+      "caption": "Water's Blessing"
+     },
+     {
+      "rewardId": "Reward_SR019",
+      "caption": "Miracle Master"
+     },
+     {
+      "rewardId": "Reward_SR020",
+      "caption": "Guard Master"
+     },
+     {
+      "rewardId": "Reward_SR021",
+      "caption": "Mirage"
+     }
+    ]
+   },
+   {
+    "category": "Wish008",
+    "rewards": [
+     {
+      "rewardId": "Reward_SR022",
+      "caption": "Giant Sized"
+     },
+     {
+      "rewardId": "Reward_SR023",
+      "caption": "Grant My Wish of Immortality and Eternal Youth"
+     },
+     {
+      "rewardId": "Reward_SR024",
+      "caption": "Make Me Immortal"
+     },
+     {
+      "rewardId": "Reward_SR025",
+      "caption": "Give Me the World's Best Ice Cream"
+     },
+     {
+      "rewardId": "Reward_SR026",
+      "caption": "Get Out of Here. That's My Only Wish."
+     },
+     {
+      "rewardId": "Reward_SR008",
+      "caption": "King"
+     },
+     {
+      "rewardId": "Reward_SR009",
+      "caption": "Delightful Lover"
+     },
+     {
+      "rewardId": "Reward_SR010",
+      "caption": "King of the World"
+     },
+     {
+      "rewardId": "Reward_SR012",
+      "caption": "World Domination"
+     },
+     {
+      "rewardId": "Reward_SR013",
+      "caption": "Fancy Necklace"
+     },
+     {
+      "rewardId": "Reward_SR014",
+      "caption": "Moneybags"
+     }
+    ]
+   }
+  ]
+ }
+]
