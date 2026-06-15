@@ -393,15 +393,15 @@ So DP **tiers gained/lost mechanical privileges**, but a given fighter's printed
 
 ---
 
-## 6. Stat differentiators / class tags (qualitative — game does not publish HP numbers)
+## 6. Stat differentiators / class tags (datamined stats + class tags — the in-game UI hides the numbers)
 
-Sparking! ZERO does **not** expose numeric health/stat values in-game or in official material; the cost (DP) system is the only published balancing number. Known class/trait tags that affect play:
+Sparking! ZERO does **not** *display* numeric health/stat values in-game or in official material, but **per-fighter HP is datamined** from the game files (`CharacterData`): four discrete bands — **30,000 / 35,000 / 40,000 / 45,000** at **9 / 14 / 147 / 16** fighters (`system_constants.json`). The **DP cost** is the only *balancing* number that is **not** in the files (community-sourced — see §5). Known class/trait tags that affect play:
 
 - **Giant-class** (oversized hitbox, super armor on many moves, can't be grabbed normally, takes a board slot weight): Great Ape Vegeta, Great Ape Baby, Hirudegarn, Lord Slug Giant Form, Orange Piccolo Giant Form, Giant Gomah, Cell Max, Fusion Android 13, Anilaza, (upcoming Super 17).
 - **Android** (ki does not deplete from natural drain the same way / "infinite ki" behavior on some, e.g. Androids 16/17/18, Cell line, Gammas, Hell Fighter 17): listed in roster with "Android" note above.
 - **Fusion** (time-limited canon but unlimited in-game; high DP): see Section 4.
 - **Super Armor** moves are character-specific (heavies like Broly, Recoome, Nappa, Bojack) rather than a global tag.
-- HP/defense differences exist (heavier characters tank more) but are **not numerically published** — any HP figures circulating are community estimates, not official.
+- HP/defense differences exist (heavier characters tank more) and **are datamined**: HP in the four bands above, plus a stored **Defense** stat (baseline 1000) and Energy-Defense multiplier. These aren't shown in the in-game UI, but they are real game-file values — **not** community estimates. (DP cost, by contrast, *is* community-sourced.)
 
 ---
 
@@ -409,7 +409,7 @@ Sparking! ZERO does **not** expose numeric health/stat values in-game or in offi
 
 1. **Super Limit-Breaking NEO is unreleased** as of June 10 2026 (expected "Summer 2026"). Its 27 listed slots (#209-235) come from reveals/datamines via Fandom; **DP values, exact release date, and price are unannounced**. Marketing "over 30" implies more slots than the 27 currently catalogued. "Devilman" is named in Wikipedia prose but not in the confirmed slot list — unverified.
 2. **DAIMA Pack 1 & 2 standalone prices** (~$9.99 each) are estimates; only the Season Pass ($34.99) and Hero of Justice standalone ($17.99) are firmly sourced.
-3. **No official HP / numeric stats** exist for any character — only DP. Class tags (Giant/Android/Fusion) are descriptive.
+3. **HP and core stats ARE datamined** (HP in four bands 30/35/40/45k at 9/14/147/16 fighters; plus Defense, ki economy, skill stocks from `CharacterData`) — they are simply not shown in the in-game UI or official material. **DP cost** is the one balancing number *not* in the files (community-sourced via Game8/Fandom). Class tags (Giant/Android/Fusion) are descriptive. *(Corrects an earlier framing that said no HP data exists.)*
 4. **DP renumbering across patches**: no source published a slot-by-slot historical DP diff. Conclusion "no individual DP numbers changed, only DP-gap weighting + tier-gated mechanics" is inferred from patch notes, not an exhaustive audit.
 5. **Switch/Switch 2 dates differ** from PC/PS5/Xbox (Season Pass content reached Switch ~May 27 / Jun 27 2026). Dates in Section 2 are the original PC/console dates.
 6. A handful of base-roster transform DPs (e.g. Goku Z-End SS vs SS2 both DP6) are taken verbatim from Game8; cross-checked against Fandom tier lists where possible and consistent.

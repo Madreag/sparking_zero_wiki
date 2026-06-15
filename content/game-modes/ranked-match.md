@@ -21,15 +21,15 @@ values:
     value: "June 30 2026, 08:00 UTC"
     tag: "official"
   - label: "Season 1 start"
-    value: "July 1 2026, 08:00 UTC (runs ~3 months)"
-    tag: "official"
+    value: "July 1 2026, 08:00 UTC (runs ~3 months) — NOT yet officially confirmed"
+    tag: "community"
   - label: "Win-streak bonus"
     value: "up to 2× rank-point gains on streaks"
     tag: "official"
   - label: "DP Battle budget (ranked)"
     value: "15 DP (3-character team per meta research)"
     tag: "community"
-summary: "Online competitive ladder with 26 ranks (D5 → Rank Z) across two queues (Single Battle, DP Battle / 15 DP). Season 0 ends June 30 2026 08:00 UTC; Season 1 starts July 1 2026 08:00 UTC and runs ~3 months. Final rank grants a cosmetic title; win streaks give up to 2× rank-point gains. A seasonal soft reset maps your end-of-season tier to a lower starting tier (table in body)."
+summary: "Online competitive ladder with 26 ranks (D5 → Rank Z) across two queues (Single Battle, DP Battle / 15 DP). Season 0 ends June 30 2026 08:00 UTC (official); a Season 1 is expected to start July 1 2026 08:00 UTC for ~3 months, but the formal 'Season 1' rebrand is community-inferred and NOT yet officially announced (research/01 §Gaps #9). Final rank grants a cosmetic title; win streaks give up to 2× rank-point gains. A seasonal soft reset maps your end-of-season tier to a lower starting tier (table in body)."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"
@@ -47,12 +47,14 @@ sources:
 - **Single Battle queue:** 1v1; since May 26 2026, Singles uses **standardized/equal HP** and **no DP damage scaling** (see [[dp-system]]).
 - **DP Battle queue:** team format at **15 DP** (meta research: **3-character team** standard — but see the conflict on [[dp-system]]). **Auto-reflect locked to DP7+** in Sparking! Mode.
 
-## Seasons (official, 25 May 2026 notice)
+## Seasons (25 May 2026 notice)
 
-| Event | When |
-|---|---|
-| **Season 0 ends** | **June 30, 2026, 08:00 UTC** |
-| **Season 1 starts** | **July 1, 2026, 08:00 UTC** (runs **~3 months**) |
+| Event | When | Confidence |
+|---|---|---|
+| **Season 0 ends** | **June 30, 2026, 08:00 UTC** | official |
+| **Season 1 starts** | **July 1, 2026, 08:00 UTC** (runs **~3 months**) | community / unconfirmed |
+
+> **Unconfirmed:** the 25-May-2026 notice confirms **Season 0 ends June 30 2026**, but whether the ladder formally **rebrands to "Season 1" on July 1** is **not yet officially announced** (research/01 §Gaps #9). `version.ts` documents only the current "Season 0." The July-1 start is a community inference from the reset-table framing — treat it as provisional.
 
 Final rank → cosmetic **title** reward. As of June 2026 the ladder is still labeled **"Season 0"**.
 

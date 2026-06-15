@@ -17,7 +17,7 @@ values:
     patch: "current (datamine)"
     tag: "datamined"
   - label: "Starting skill stocks (ki-drain)"
-    value: "+2 (Android 19, Dr. Gero)"
+    value: "+1 (Android 19, Dr. Gero — datamined initialSkillStock = 1, not +2)"
     patch: "current (datamine)"
     tag: "datamined"
   - label: "Ki-drain throw damage"
@@ -30,13 +30,13 @@ values:
     tag: "official"
 counters:
   - "No charge needed — ki blasts effectively unlimited"
-  - "Start with extra skill stocks (+1 / +2)"
+  - "Start with extra skill stocks (+1)"
   - "Ki-drain throws absorb opponent resources"
 counteredBy:
   - "Cannot manually charge (can't burst-refill on demand)"
   - "Auto ki-recovery stops during a Z-Counter (Apr 2025)"
   - "Super Absorb buff removed (Jun 2025 / May 2026)"
-summary: "The android class trades manual ki charging for sustained ki output. Androids CANNOT hold charge (charge speed 0) but get effectively unlimited ki blasts and start the match with extra skill stocks: +1 for infinite-ki androids (16/17/18/Super 17), +2 for ki-drain androids (19, Dr. Gero). The ki-drain pair also absorb on grab (throw damage ~3,594/3,875). The Apr 2025 patch stopped their auto ki-recovery during Z-Counters, and Jun 2025/May 2026 removed the Super-Absorption stat-boost."
+summary: "The android class trades manual ki charging for sustained ki output. Androids CANNOT hold charge (charge speed 0) but get effectively unlimited ki blasts and start the match with +1 skill stock — infinite-ki androids (16/17/18/Super 17) and ki-drain androids (19, Dr. Gero) alike (datamined initialSkillStock = 1, not +2). The ki-drain pair also absorb on grab (throw damage ~3,594/3,875). The Apr 2025 patch stopped their auto ki-recovery during Z-Counters, and Jun 2025/May 2026 removed the Super-Absorption stat-boost."
 changeHistory:
   - version: "Free Update (Dec 11, 2024)"
     date: "2024-12-11"
@@ -64,7 +64,7 @@ The **Android** class — [[android-16|16]], [[android-17-z|17]], [[android-18|1
 ## The numbers
 
 - **Manual charge speed: 0.** Androids **cannot** hold R2/RT to refill ki — the [[ki-and-charging|charge]] action does nothing for them. Instead their ki blasts are **effectively unlimited** (each shot still costs **16–22%/bar**, but the bar refills via the android mechanic rather than manual charge).
-- **Extra starting [[skill-count|skill stocks]]:** to compensate for no manual charge, androids **begin the match with bonus stocks** — **+1** for the infinite-ki group ([[android-16|16]], 17, [[android-18|18]], Super 17) and **+2** for the ki-drain group ([[android-19|19]], [[dr-gero|Dr. Gero]]).
+- **Extra starting [[skill-count|skill stocks]]:** to compensate for no manual charge, androids **begin the match with +1 stock** — the infinite-ki group ([[android-16|16]], 17, [[android-18|18]], Super 17) and the ki-drain group ([[android-19|19]], [[dr-gero|Dr. Gero]]) alike. Datamined `initialSkillStock` is **1** for both; the old **"+2 ki-drain"** figure is wrong.
 - **Ki-drain absorb-on-grab:** [[android-19|Android 19]] and [[dr-gero|Dr. Gero]] deal **~3,594 / 3,875** on a [[throws|throw]] — about **3×** a normal grab — because the throw **absorbs** the opponent's resources. This absorb identity is the whole point of the ki-drain subclass.
 
 ## Nerf history
@@ -76,5 +76,5 @@ The **Android** class — [[android-16|16]], [[android-17-z|17]], [[android-18|1
 ## Interactions
 
 - Because they **can't burst-charge**, androids can't instantly top off ki before a [[sparking-mode|Sparking]] pop the way other characters can — their ki is steady but not on-demand.
-- The +1/+2 stock head start makes early [[revenge-counter|Revenge Counter]], [[perception|Perception]], or transform plays available sooner than for a 0-stock character.
+- The +1 stock head start makes early [[revenge-counter|Revenge Counter]], [[perception|Perception]], or transform plays available sooner than for a 0-stock character.
 - Distinct from the [[giant-class|giant]] class (bulk/armor, throw-immune, 2-bar dashes) and from [[super-armor|super-armor]] moves — androids are a **resource** archetype, not a defensive-stat one.

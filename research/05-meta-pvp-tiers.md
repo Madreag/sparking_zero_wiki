@@ -45,11 +45,11 @@ This synthesizes **sparkingzerometa.com (current patch, scored)** + **propelrc (
 
 | Tier | Characters (Singles) | Why (numbers / tools) |
 |------|----------------------|------------------------|
-| **S (Z-rank)** | Vegito SSGSS (152.8k), Gogeta GT SS4 (151.5k), Broly Z LSSJ (150.6k), Broly Super SSFP (149.6k), Jiren FP (140.3k), Whis (135.4k), UI Goku (134.4k), Gogeta Super SSGSS (132.7k), Kale Berserk (129.1k), Gohan Beast (128.7k), Toppo GoD (128.0k), Super Vegito (126.9k), Fusion Android 13 (125.2k) | Fusions: fastest normals in the game (SS4 Gogeta strings hit faster than most chars' Sparking-mode speed), huge ult damage (Vegito Final Kamehameha), strong vanish pressure. Whis/UI: auto-dodge (now **counterable by Rush Chain** post-patch but still elite). Jiren/Toppo: armor + raw damage. |
-| **A (S-rank)** | Gogeta Super SS (123.4k), Fused Zamasu Half-Corrupted (122.3k), Beerus (120.9k), Vegito base (120.8k), Super Buu (Gotenks abs.) (118.6k), Goku GT SS4 (117.8k), Metal Cooler (116.4k), UI -Sign- (116.1k), Kefla SS2 (113.4k), Goku Black Rosé (113.0k), Omega Shenron, Cooler Final, Orange Piccolo (104.0k), Gohan (Adult) SS2, SS3 Goku (Z-End), Gotenks SS | High burst + good defensive options; Beerus 1-DP god-tier mobility; Metal Cooler/Cooler revival/regeneration kits; Rosé strong pressure. |
-| **B (A-rank)** | Future Trunks SS (93.4k), Gamma 2, Cell Max, Gohan Teen SS2, Majin Vegeta, Super Buu variants, Perfect Cell, Ultimate Gohan, Super Vegeta, Great Ape Baby, Vegeta Super SSGSS, Android 16, Frieza Z Full Power, Android 17 (Super) | Solid bread-and-butter mid-roster; functional but outclassed at top by fusion speed/ult thresholds. |
+| **S (Z-rank)** | Vegito SSGSS (152.8), Gogeta GT SS4 (151.5), Broly Z LSSJ (150.6), Broly Super SSFP (149.6), Jiren FP (140.3), Whis (135.4), UI Goku (134.4), Gogeta Super SSGSS (132.7), Kale Berserk (129.1), Gohan Beast (128.7), Toppo GoD (128.0), Super Vegito (126.9), Fusion Android 13 (125.2) | Fusions: fastest normals in the game (SS4 Gogeta strings hit faster than most chars' Sparking-mode speed), huge ult damage (Vegito Final Kamehameha), strong vanish pressure. Whis/UI: auto-dodge (now **counterable by Rush Chain** post-patch but still elite). Jiren/Toppo: armor + raw damage. |
+| **A (S-rank)** | Gogeta Super SS (123.4), Fused Zamasu Half-Corrupted (122.3), Beerus (120.9), Vegito base (120.8), Super Buu (Gotenks abs.) (118.6), Goku GT SS4 (117.8), Metal Cooler (116.4), UI -Sign- (116.1), Kefla SS2 (113.4), Goku Black Rosé (113.0), Omega Shenron, Cooler Final, Orange Piccolo (104.0), Gohan (Adult) SS2, SS3 Goku (Z-End), Gotenks SS | High burst + good defensive options; Beerus 1-DP god-tier mobility; Metal Cooler/Cooler revival/regeneration kits; Rosé strong pressure. |
+| **B (A-rank)** | Future Trunks SS (93.4), Gamma 2, Cell Max, Gohan Teen SS2, Majin Vegeta, Super Buu variants, Perfect Cell, Ultimate Gohan, Super Vegeta, Great Ape Baby, Vegeta Super SSGSS, Android 16, Frieza Z Full Power, Android 17 (Super) | Solid bread-and-butter mid-roster; functional but outclassed at top by fusion speed/ult thresholds. |
 | **C (B/C-rank)** | Recoome, Lord Slug (Giant), Janemba, Dr. Wheelo, Goten SS, Frieza 4th, Great Ape Vegeta, Android 17(Z), Tien, Gohan (Adult), Cooler base, Vegeta Mini base | Niche/situational; many are pre-transform base forms or specialists. |
-| **D (D-rank / Trash)** | Majin Kuu, Ribrianne, King Cold, Yajirobe (Singles), Goku Mini, Bardock, Videl, Great Saiyaman, Saibaman, Panzy, Chiaotzu, Guldo, **Mr. Satan (8.7k — lowest in game)** | Weak kits / low HP / joke characters. Note: cheese-tier DP picks (Yajirobe, Roshi) are **bad in Singles** because standardized HP removes their tankiness edge. |
+| **D (D-rank / Trash)** | Majin Kuu, Ribrianne, King Cold, Yajirobe (Singles), Goku Mini, Bardock, Videl, Great Saiyaman, Saibaman, Panzy, Chiaotzu, Guldo, **Mr. Satan (8.7 — lowest in game)** | Weak kits / low HP / joke characters. Note: cheese-tier DP picks (Yajirobe, Roshi) are **bad in Singles** because standardized HP removes their tankiness edge. |
 
 > Source: sparkingzerometa.com Singles (scored, current patch) — rank bands Z / S / A / B / C / D as drawn on the site; cross-checked vs propelrc June 2026 ("Top Meta: Whis, Beerus, SSGSS Vegito, SSGSS Gogeta, SS4 Gogeta").
 
@@ -57,10 +57,10 @@ This synthesizes **sparkingzerometa.com (current patch, scored)** + **propelrc (
 
 | Tier | Characters (DP) | Why (DP math / role) |
 |------|-----------------|-----------------------|
-| **S (Z-rank)** | Gohan Beast (33.9k), Master Roshi Max Power (31.2k), Yajirobe (30.7k), Recoome (30.3k), Broly Z LSSJ (29.1k), Broly Super SSFP (29.0k), Spopovich (28.2k), Kale Berserk (25.5k), Gohan SH SS (25.1k), Mini Vegeta SS3 (25.1k), Mini Vegeta SS2 (24.8k), Fusion Android 13 (24.7k), Super Zarbon (24.5k) | These score high because the model rewards **points per DP**: low-cost tanks/healers/bruisers (Roshi, Yajirobe, Recoome, Spopovich) give disproportionate value in a 15-DP budget. Note the May 26 patch **nerfed Roshi/Yajirobe Ki recovery** and **Recoome/Spopovich/Nappa HP**, so expect these to drift down on the next list refresh. |
-| **A (S-rank)** | Android 16 (21.5k), Android 19 (21.3k), Dodoria, Vegito SSGSS (21.2k @ DP), Mini Goku SS, FP Bojack, Orange Piccolo, Saibaman, Goku Black Rosé, Goku Super SS, Videl (20.1k), Mini Vegeta SS, Gogeta Super SSGSS | Strong DP-efficient cores; Android 16 self-destruct value; cheap Saiyans for transform-ladders. |
+| **S (Z-rank)** | Gohan Beast (33.9), Master Roshi Max Power (31.2), Yajirobe (30.7), Recoome (30.3), Broly Z LSSJ (29.1), Broly Super SSFP (29.0), Spopovich (28.2), Kale Berserk (25.5), Gohan SH SS (25.1), Mini Vegeta SS3 (25.1), Mini Vegeta SS2 (24.8), Fusion Android 13 (24.7), Super Zarbon (24.5) | These score high because the model rewards **points per DP**: low-cost tanks/healers/bruisers (Roshi, Yajirobe, Recoome, Spopovich) give disproportionate value in a 15-DP budget. Note the May 26 patch **nerfed Roshi/Yajirobe Ki recovery** and **Recoome/Spopovich/Nappa HP**, so expect these to drift down on the next list refresh. |
+| **A (S-rank)** | Android 16 (21.5), Android 19 (21.3), Dodoria, Vegito SSGSS (21.2 @ DP), Mini Goku SS, FP Bojack, Orange Piccolo, Saibaman, Goku Black Rosé, Goku Super SS, Videl (20.1), Mini Vegeta SS, Gogeta Super SSGSS | Strong DP-efficient cores; Android 16 self-destruct value; cheap Saiyans for transform-ladders. |
 | **B (A-rank)** | Burter, Cooler Final, Fused Zamasu HC, Vegeta Z-End SS2, Super Garlic Jr., Metal Cooler, Broly Super, Trunks Melee SS, Gogeta Super SS, Goku Z-End SS2, Hirudegarn, Kefla, Vegeta Super SSGSS | Mid-value roster; usable filler/anchors. |
-| **C–D (B/C/D-rank)** | Most 8–10 DP "premium carries" land here on a **pure-efficiency** list (e.g. Whis 13.5k, Beerus 12.0k, Jiren 12.0k, UI Goku 15.5k, SS4 Gogeta GT 15.1k, Cell Max 13.9k) — they're excellent characters but expensive, so points-per-DP is low. **Trash:** Kid Buu, Dyspo (8.3k, lowest DP score). | This is the key DP nuance: high-DP gods are *strong* but *inefficient* — a 15-DP team usually mixes 1 premium + cheap value picks. |
+| **C–D (B/C/D-rank)** | Most 8–10 DP "premium carries" land here on a **pure-efficiency** list (e.g. Whis 13.5, Beerus 12.0, Jiren 12.0, UI Goku 15.5, SS4 Gogeta GT 15.1, Cell Max 13.9) — they're excellent characters but expensive, so points-per-DP is low. **Trash:** Kid Buu, Dyspo (8.3, lowest DP score). | This is the key DP nuance: high-DP gods are *strong* but *inefficient* — a 15-DP team usually mixes 1 premium + cheap value picks. |
 
 > Source: sparkingzerometa.com DP (scored, current patch). **Important interpretation:** the DP score = efficiency, not raw power. A character can be S in Singles and C in DP (Whis, Jiren, SS4 Gogeta) or vice-versa (Roshi, Yajirobe, Recoome).
 
@@ -119,10 +119,10 @@ DP budget = **15** for 3 characters (standard ranked DP queue). Core principle p
 **DP costs of key picks** (community/propelrc; DP shown as the in-game point cost 1–10):
 - 10-DP "gods": SS4 Gogeta (GT), Vegito SSGSS, Gogeta Super SSGSS, UI Goku, Jiren FP.
 - ~7–9 DP: Gohan Beast (9), Orange Piccolo (8), Cell Max (9), Beerus, Whis (low DP but god-tier mobility — Whis is famously cheap), Goku Black Rosé.
-- Cheap value (1–4 DP): Yajirobe, Recoome, Saibaman (1), Master Roshi, Spopovich, Mini Vegeta forms, Frieza Force Soldier.
+- Cheap value (1–4 DP): Yajirobe, Recoome, Saibaman (2), Master Roshi, Spopovich, Mini Vegeta forms, Frieza Force Soldier. (Mr. Satan is the only DP1 in the game.)
 
 **Representative competitive structures (2026, post-patch):**
-1. **"Premium + value" 15-DP** — one 10-DP fusion carry (e.g. SS4 Gogeta GT or Vegito SSGSS) + ~5 DP of cheap DP7+ bodies for auto-reflect access and chip. Example math: 10 (SS4 Gogeta) + 5 split across two cheap DP7-eligible bruisers. Most common ladder shell.
+1. **"Premium + value" 15-DP** — one 10-DP fusion carry (e.g. SS4 Gogeta GT or Vegito SSGSS) — itself the DP7+ body that clears the auto-reflect gate — + ~5 DP of cheap **sub-DP7** bodies for chip/utility (which forgo auto-reflect; 5 DP cannot field a DP7+ body). Example math: 10 (SS4 Gogeta) + 5 split across two cheap bruisers. Most common ladder shell.
 2. **GT Ultra Pressure Duo** (PixelNitro 2026) — GT/Ultra-Instinct-centric, constant Z-Burst pressure, high damage, one primary finisher.
 3. **Divine Pressure / Control** (PixelNitro 2026) — Beerus/Whis/Black resource-domination + sustain; slow early but dominant late.
 4. **Super-Armor Counter Shell** — armor/punish anchors; predictable but strong defense.
@@ -177,23 +177,23 @@ DP budget = **15** for 3 characters (standard ranked DP queue). Core principle p
 
 ## 8. Per-Character Meta Notes — Current Top ~15 (Singles-weighted, June 2026)
 
-1. **Vegito (SSGSS)** — #1 Singles (152.8k). Elite fusion speed, **Final Kamehameha** ult = catastrophic burst, strong vanish/blast pressure. Premium 10-DP.
-2. **Gogeta (GT) SS4** — #2 (151.5k). Often called the king: normals faster than many chars' Sparking speed; relentless rushdown. 10-DP.
-3. **Broly (Z) Legendary SS** — #3 (150.6k). Tanky berserker, huge damage, top in **both** Singles and DP (29.1k DP). Scales well with the new permanent-attack-buff-on-transform Singles rule.
-4. **Broly (Super) SS Full Power** — #4 (149.6k). Same archetype; armor + damage; top DP value too (29.0k).
-5. **Jiren (Full Power)** — #5 (140.3k). Armor, counters, raw power; weak DP efficiency (12.0k) so a Singles/expensive-anchor pick.
-6. **Whis** — #6 Singles (135.4k). Auto-dodge + best-in-class mobility, cheap DP cost (a famous 1-DP-tier god in earlier metas). May 26 made his Symphonic Destruction evadable and auto-dodge Rush-Chain-counterable — still S.
-7. **Ultra Instinct Goku** — #7 (134.4k). Auto-dodge defense; **nerfed May 26** (Smash Ki Blast cooldown up, Rush Chain beats his dodge) but still top.
-8. **Gogeta (Super) SSGSS** — #8 (132.7k). **Nerfed May 26** (Smash Ki Blast damage + homing cut; stationary version buffed) — now needs deliberate spacing.
-9. **Kale (Berserk)** — #9 (129.1k). Berserker damage; strong in both lists (25.5k DP). *Cry of Rage* activation time increased May 26.
-10. **Gohan Beast** — #10 Singles (128.7k) and **#1 DP** (33.9k). The best all-around DLC carry: top damage kit + DP-efficient. Premier pick across modes.
-11. **Toppo (God of Destruction)** — #11 (128.0k). Armor + GoD power; strong anchor.
-12. **Super Vegito** — #12 (126.9k). Fusion burst; slightly below SSGSS Vegito.
-13. **Fusion Android 13** — #13 (125.2k). Surprise high-tier; strong neutral + DP value (24.7k).
-14. **Beerus** — A-tier Singles (120.9k) but a perennial **competitive favorite** for cheap-DP mobility/zoning; named among top tournament characters.
-15. **Goku Black (Super Saiyan Rosé)** — (113.0k) strong pressure/okizeme; popular ladder + tournament pick; good DP body (20.7k).
+1. **Vegito (SSGSS)** — #1 Singles (152.8). Elite fusion speed, **Final Kamehameha** ult = catastrophic burst, strong vanish/blast pressure. Premium 10-DP.
+2. **Gogeta (GT) SS4** — #2 (151.5). Often called the king: normals faster than many chars' Sparking speed; relentless rushdown. 10-DP.
+3. **Broly (Z) Legendary SS** — #3 (150.6). Tanky berserker, huge damage, top in **both** Singles and DP (29.1 DP). Scales well with the new permanent-attack-buff-on-transform Singles rule.
+4. **Broly (Super) SS Full Power** — #4 (149.6). Same archetype; armor + damage; top DP value too (29.0).
+5. **Jiren (Full Power)** — #5 (140.3). Armor, counters, raw power; weak DP efficiency (12.0) so a Singles/expensive-anchor pick.
+6. **Whis** — #6 Singles (135.4). Auto-dodge + best-in-class mobility, cheap DP cost (a famous 1-DP-tier god in earlier metas). May 26 made his Symphonic Destruction evadable and auto-dodge Rush-Chain-counterable — still S.
+7. **Ultra Instinct Goku** — #7 (134.4). Auto-dodge defense; **nerfed May 26** (Smash Ki Blast cooldown up, Rush Chain beats his dodge) but still top.
+8. **Gogeta (Super) SSGSS** — #8 (132.7). **Nerfed May 26** (Smash Ki Blast damage + homing cut; stationary version buffed) — now needs deliberate spacing.
+9. **Kale (Berserk)** — #9 (129.1). Berserker damage; strong in both lists (25.5 DP). *Cry of Rage* activation time increased May 26.
+10. **Gohan Beast** — #10 Singles (128.7) and **#1 DP** (33.9). The best all-around DLC carry: top damage kit + DP-efficient. Premier pick across modes.
+11. **Toppo (God of Destruction)** — #11 (128.0). Armor + GoD power; strong anchor.
+12. **Super Vegito** — #12 (126.9). Fusion burst; slightly below SSGSS Vegito.
+13. **Fusion Android 13** — #13 (125.2). Surprise high-tier; strong neutral + DP value (24.7).
+14. **Beerus** — A-tier Singles (120.9) but a perennial **competitive favorite** for cheap-DP mobility/zoning; named among top tournament characters.
+15. **Goku Black (Super Saiyan Rosé)** — (113.0) strong pressure/okizeme; popular ladder + tournament pick; good DP body (20.7).
 
-*Honorable mentions:* **Metal Cooler** (116.4k, revival kit), **Kefla SS2** (113.4k), **Fused Zamasu (Half-Corrupted)** (122.3k), **Orange Piccolo** (104.0k / giant variant strong), **Master Roshi Max Power** & **Recoome** (DP-only S-tier value, both Ki-nerfed May 26).
+*Honorable mentions:* **Metal Cooler** (116.4, revival kit), **Kefla SS2** (113.4), **Fused Zamasu (Half-Corrupted)** (122.3), **Orange Piccolo** (104.0 / giant variant strong), **Master Roshi Max Power** & **Recoome** (DP-only S-tier value, both Ki-nerfed May 26).
 
 ---
 

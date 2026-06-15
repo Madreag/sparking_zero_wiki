@@ -93,12 +93,12 @@ battles:
       - "Goku Black"
     rewards: "15,000 Zeni"
   - id: "s4"
-    name: "Gohan Black's True Identity (The Strongest Warrior route)"
+    name: "Goku Black's True Identity (The Strongest Warrior route)"
     vs:
       - "Zamasu"
     rewards: "15,000 Zeni"
   - id: "s5"
-    name: "Gohan Black and Gohan (The Strongest Warrior route)"
+    name: "Goku Black and Gohan (The Strongest Warrior route)"
     vs:
       - "Goku Black"
     rewards: "15,000 Zeni"

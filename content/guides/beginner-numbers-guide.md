@@ -2,13 +2,13 @@
 slug: "beginner-numbers-guide"
 title: "Beginner Numbers Guide — The 10 Numbers Every New Player Needs"
 category: "beginner"
-summary: "The ten core numbers a new player must internalize: a vanish costs ≈half a ki bar (community-measured), 10,000 HP = 1 health bar, supers cost ~30,000 / ultimates ~50,000, the Super Counter window is ~2 frames, skill stocks regen every ~14s, Perception vs blasts costs 2 stocks, HP tiers (30k/40k/45k), and the 15-DP team budget — each linked to its full mechanics page."
+summary: "The ten core numbers a new player must internalize: a vanish costs ≈half a ki bar (community-measured), 10,000 HP = 1 health bar, supers cost ~30,000 / ultimates ~50,000, the Super Counter window is ~2 frames, skill stocks regen every ~14s, Perception vs blasts costs 2 stocks, HP tiers (30k/35k/40k/45k), and the 15-DP team budget — each linked to its full mechanics page."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"
-confidence: "datamined"
+confidence: "community"
 sources:
-  - "data-mined/characters.json (vanishKiCost 2800, ultimate kiCost 50000, super kiCost 20k/30k/40k, hp tiers)"
+  - "data-mined/characters.json (ultimate kiCost 50000, super kiCost 20k/30k/40k, datamined hp tiers)"
   - "research/04-mechanics-frame-data.md §0 quick reference (must-know numbers)"
   - "research/02-roster-dp-dlc.md (15-DP budget)"
   - "content/mechanics/* (linked mechanic pages)"
@@ -53,15 +53,16 @@ Your defensive options aren't free reads — they're a **resource budget**:
 
 Spend skill stocks on defense and you can't transform or use a skill — that tradeoff is the core of high-level play.
 
-## 8. HP tiers: 30k / 40k / 45k
+## 8. HP tiers: 30k / 35k / 40k / 45k
 
-Three datamined HP bands define how tanky a pick is `[datamined]`:
+Four datamined HP bands define how tanky a pick is `[datamined]` (counts from `data-mined/system_constants.json`):
 
-| HP | Who | Read |
-|---|---|---|
-| **30,000-35,000** | Master Roshi (base), Mr. Satan, Yajirobe, Spopovich | Low-HP skirmishers (cheap DP value). |
-| **40,000** | Standard DBZ roster (Goku, Piccolo, Cell, Vegeta…) | The baseline body. |
-| **45,000** | Broly (Z) LSSJ, Broly (Super) SSFP, Beerus, Whis, Kale Berserk, Orange Piccolo | Heavies — best bulk, usually premium DP. |
+| HP | Fighters | Who | Read |
+|---|---:|---|---|
+| **30,000** | 9 | Master Roshi (base), Mr. Satan, Videl, Gohan (Kid), Guldo, Chiaotzu | Lowest-HP skirmishers (cheap DP value). |
+| **35,000** | 14 | Saibaman, Yajirobe, Spopovich, Krillin, Goten, Gohan (Super Hero), Gohan Beast | Sub-baseline bodies — die a combo earlier. |
+| **40,000** | 147 | Standard DBZ roster (Goku, Piccolo, Cell, Vegeta…) | The baseline body. |
+| **45,000** | 16 | Broly (Z) LSSJ, Broly (Super) SSFP, Beerus, Whis, Kale Berserk, Orange Piccolo | Heavies — best bulk, usually premium DP. |
 
 These matter most in **DP Battle** (see [[dp-team-value-math]]); in **Single Battle**, HP is **standardized** so this tier list doesn't apply there.
 

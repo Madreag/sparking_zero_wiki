@@ -55,7 +55,7 @@ It unlocked:
   costumes, series/gender/unlock tags.
 - `BlastForte1/2_*` → **per-character S1 skill mapping + ExpendBlastStock costs + unblockable flags**
   (→ skills pages now list datamined users).
-- Confirmed in-data: `HpRecovery: 0` on transforms (May 26, 2026 heal-removal is in the shipped data).
+- Confirmed in-data: the May 26, 2026 heal-removal shipped — **most transforms now carry `HpRecovery: 0`, but ~27/164 still recover 5k–10k** (check per-edge in `transformations.json`; it is not universal).
 
 ### Damage status (CORRECTED 2026-06-10 after full-corpus sweep)
 Per-move damage IS partially datamined — the earlier "blueprint-only" conclusion was a sampling

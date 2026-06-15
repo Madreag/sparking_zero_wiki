@@ -119,7 +119,7 @@ sources:
   - "research/06-pve-dlc-unlocks.md (§1.1 Goku Black = Ch. 6; §1.2 Proof of Justice ≈2:30 trigger; §1.3 Responsibility as a God / The Universe Gains a New Legend branch)"
   - "research/04-mechanics-frame-data.md (§3 vanish/perception; §5 Sparking; §1.5 combo scaling — boss tactics)"
 ---
-**Goku Black's campaign** has the **shortest main line**, confined to **chapter 6** (the Future Trunks arc) and **available from the start**. Each new mission pays **15,000 Zeni** on first clear. The twist: **you play the villain**, so every battle is a **2-on-1 handicap** with the AI controlling the heroes — this page tracks **13 documented battles** (main line + the *Proof of Justice* Sparking Episode + the Goku-saga Zamasu mirrors logged for cross-reference).
+**Goku Black's campaign** has the **shortest main line**, confined to **chapter 6** (the Future Trunks arc) and **available from the start**. Each new mission pays **15,000 Zeni** on first clear. The twist: **you play the villain**, so every battle is a **2-on-1 handicap** with the AI controlling the heroes — this page tracks **13 documented battles** — **9 from Goku Black's own chapter-6 line** (main missions + the *Proof of Justice* Sparking Episode) plus **4 Goku-saga Zamasu mirrors logged for cross-reference** (the `alt-…` entries). That cross-reference padding is why `battleCount` (13) runs longer than his genuinely short solo campaign.
 
 ## Walkthrough & boss strategies
 

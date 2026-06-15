@@ -1,7 +1,7 @@
 ---
 slug: "daima-character-pack-2"
 name: "Dragon Ball DAIMA: Character Pack 2"
-releaseDate: "2025-09-24"
+releaseDate: "2025-09-25"
 order: 6
 type: "paid"
 priceUSD: 9.99
@@ -28,20 +28,22 @@ adds:
   - "Free update alongside: First Demon World stage (see first-demon-world)"
   - "Gameplay tuning shipped with the same update"
 upcoming: false
-summary: "DLC 3 — released Sep 24, 2025 (early access Sep 21) at $9.99. 6 characters filling roster slots #203-208: Goku (Mini) SS4, Goku (DAIMA) SS4, Vegeta (DAIMA) SS3, Majin Duu, Third Eye Gomah and Giant Gomah. The accompanying FREE update added the First Demon World stage plus balance tuning. Completes Season Pass 1, bringing the live roster to 208."
+summary: "DLC 3 — released Sep 25, 2025 (early access Sep 21) at $9.99. 6 characters filling roster slots #203-208: Goku (Mini) SS4, Goku (DAIMA) SS4, Vegeta (DAIMA) SS3, Majin Duu, Third Eye Gomah and Giant Gomah. The accompanying FREE update added the First Demon World stage plus balance tuning. Completes Season Pass 1, bringing the live roster to 208. (DP values are community/research-02, not datamined.)"
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"
-confidence: "datamined"
+confidence: "community"
 sources:
-  - "data-mined/dlc.json (DLC_011 — datamined 'Playable characters (x6)' list)"
+  - "data-mined/dlc.json (DLC_011 — datamined 'Playable characters (x6)' list; DP NOT in dlc.json — community per research/02)"
   - "research/06-pve-dlc-unlocks.md (§4 — early access Sep 21 2025, $9.99, 6 chars + free First Demon World stage)"
   - "research/02-roster-dp-dlc.md (§3b — slots #203-208, per-character DP; Sep 24 2025 / early access Sep 21)"
   - "research/01-overview-modes-economy.md (§5 — DAIMA Pack 2 Sep 24 2025, roster total 208)"
 ---
-**Dragon Ball DAIMA: Character Pack 2** (DLC 3) — released **Sep 24, 2025** (**early access Sep 21**) at **$9.99**. It adds **6 characters** (roster slots **#203–208**) and completes **Season Pass 1**, taking the live roster to **208**. The matching **free update** shipped the **First Demon World** stage plus gameplay tuning.
+**Dragon Ball DAIMA: Character Pack 2** (DLC 3) — released **Sep 25, 2025** (**early access Sep 21**) at **$9.99**. It adds **6 characters** (roster slots **#203–208**) and completes **Season Pass 1**, taking the live roster to **208**. The matching **free update** shipped the **First Demon World** stage plus gameplay tuning.
 
-## Characters (x6, datamined — DLC_011)
+> **Date:** the patch page and official notes date full release **Sep 25, 2025** (early access Sep 21); research/01 and research/02 list **Sep 24**. This page uses **Sep 25** to match [[dlc3-2025-09-25]].
+
+## Characters (x6 — roster datamined DLC_011; DP = community / research-02)
 
 | Character | DP | Note |
 |---|---|---|

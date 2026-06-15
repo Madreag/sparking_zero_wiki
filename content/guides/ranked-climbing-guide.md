@@ -36,6 +36,8 @@ Six tiers, each with sub-divisions, low → high:
 - Season 0 is the long open period the game has run since launch. Your **final Season 0 rank** converts to a cosmetic **title** reward, then your rank **soft-resets** for Season 1.
 - Season 1 is the first **fixed ~3-month** competitive season under the new cadence.
 
+> **Ranked seasons ≠ content/DLC seasons.** This **"Season 1"** is the **ranked-ladder** season (starts July 1 2026 — confirmed by the official 25 May 2026 Bandai Namco ranked-matches notice). It is a *different* numbering track from the **content/DLC** line, where the next paid wave is **"Super Limit-Breaking NEO"** (the post-Season-Pass-1 expansion, sometimes called the "Season 2" of content). Don't conflate "ranked Season 1" with any DLC/content season number.
+
 ## Seasonal soft-reset table (official, exact)
 
 You do **not** start Season 1 from scratch — your new starting rank is derived from where you finished Season 0:
@@ -73,7 +75,7 @@ There are **two independent ranked queues**, each with its own ladder and win-st
 | Queue | Team size | DP cap | Notes (post-May 26, 2026) |
 |---|---|---|---|
 | **Single Battle** | 1 character | n/a | **DP damage scaling removed; all characters have standardized HP.** Pick freely for kit quality — see the Singles half of [[current-meta-tier-list]]. |
-| **DP Battle** | up to 3-5 characters | **15 DP** (standard ranked) | **DP gap widened** in all modes; **auto-reflect locked to DP7+** in Sparking! Mode. Build around value — see [[dp-team-value-math]]. |
+| **DP Battle** | up to 5 (ranked commonly 3) | **15 DP** (standard ranked) | **DP gap widened** in all modes; **auto-reflect locked to DP7+** in Sparking! Mode. Build around value — see [[dp-team-value-math]]. |
 
 - The **15-DP ranked standard** is the long-running default. Offline / Player Match / World Tournament / Training now expose a **10 / 15 / 20** DP toggle (persists between matches), but whether the **ranked** queue changes its 15-DP standard for Season 1 is **not yet confirmed** (treat 15 as current).
 - Matchmaking is by **cost restriction + leaderboards**; a ranked **disconnect penalty wait-time** applies to rage-quitters.

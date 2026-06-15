@@ -65,22 +65,18 @@ sources:
 ## 1. Health & Damage Basics
 
 ### 1.1 Health pool (datamined)
-Source: sparkingzerometa.com character profiles + JP atwiki "耐久" (durability) column. The datamine stores HP directly.
+Raw per-fighter HP is datamined from `CharacterData` (parsed into `data-mined/system_constants.json`). It falls into **four discrete bands** — there are no in-between raw-HP values:
 
-| Character | HP (datamined) | Notes | Tag |
-|---|---|---|---|
-| Piccolo (standard reference) | **40,000** | Defense 1000, the "baseline" body | [datamined] |
-| Goku (Z – Early) | 40,000 | | [datamined] |
-| Goku (Super) Ultra Instinct -Sign- | 41,238 | forms carry slightly higher HP | [datamined] |
-| Goku (GT) base | 36,364 | | [datamined] |
-| Goku (Kid /少年期) | 31,819 | **flightless character** (飛べないキャラ) | [datamined] |
-| Master Roshi | **30,000** | low-HP skirmisher | [datamined] |
-| Cell (Perfect) | 40,000 | | [datamined] |
-| Gamma 1 | 40,000 | | [datamined] |
+| HP band | Fighters | Examples | Tag |
+|---|---:|---|---|
+| **30,000** | 9 | Master Roshi, Mr. Satan, Videl, Gohan (Kid), Guldo, Chiaotzu | [datamined] |
+| **35,000** | 14 | Saibaman, Yajirobe, Spopovich, Krillin, Goten, Gohan (Super Hero), Gohan Beast | [datamined] |
+| **40,000** | 147 | Piccolo (baseline, Defense 1000), Goku (Z – Early), Perfect Cell, Gamma 1 — the standard roster | [datamined] |
+| **45,000** | 16 | Broly (Z), Broly (Super), Beerus, Whis, Kale (Berserk), Orange Piccolo, Gotenks, Fusion Android 13 | [datamined] |
 
-- **Most DBZ-roster fighters = 40,000 HP.** GT-era and kid/mini bodies are lower (31k–36k). A handful of forms read slightly above 40k.
+- **Most fighters = 40,000 HP** (147 of the 186 fighters that carry a datamined HP value); 16 heavies read 45,000; the 30k/35k bands are low-HP skirmishers.
 - **Health bars:** the HUD shows ~4 segments for a 40,000-HP character → **≈10,000 HP per bar**. Cross-checked by a GameFAQs lab: an SSJ4 Gogeta combo dealing **19,832 damage** was described as "**two full bars of damage**" → ≈9,900/bar. `[community-tested, ~Dec 2024]`
-- **`耐久` (durability) = HP × defense correction.** JP wiki notes giants are listed at the 1.0× factor; the displayed durability index already folds defense in.
+- **Durability index ≠ raw HP.** A third-party JP atwiki "耐久" (durability) column lists **durability = HP × defense correction**, which produces *non-round* figures (e.g. UI -Sign- **41,238**, Goku GT base **36,364**, Goku Kid **31,819**). Those fold the **Defense** stat (§1.2) into HP and are **not** the game's raw HP bands above — do **not** cite them as HP. (sparkingzerometa profiles surface the same durability column.) `[third-party]`
 
 > ⚠️ A circulating AI research write-up claimed the **Jan 2026 patch "standardized all characters to 6,000 HP."** This is **false** — datamined HP is in the tens of thousands and remains character-specific. What the Jan 2026 notes actually did: removed DP-based damage scaling in single battles and tuned individual characters. See Gaps.
 

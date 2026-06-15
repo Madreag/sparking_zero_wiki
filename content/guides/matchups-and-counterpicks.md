@@ -31,7 +31,7 @@ Before the per-character list, four tools win most neutral exchanges in 2026:
 
 ## Top-15 meta picks
 
-### 1. [[vegito-super-saiyan-god-super-saiyan|Vegito (SSGSS)]] — #1 Singles (152.8k)
+### 1. [[vegito-super-saiyan-god-super-saiyan|Vegito (SSGSS)]] — #1 Singles (152.8)
 **Gameplan:** DP10 Potara fusion; elite fusion speed strings into **God Final Kamehameha** ultimate (50,000 energy) for catastrophic burst.
 1. **Don't try to out-button the fusion** — its normals are among the fastest in the game; **Super Counter** the rush instead of pressing buttons (free, ~2f).
 2. **Respect the ultimate threshold** — when they hit full ki + Sparking, **back off**; escape the ult with **Z-Burst out** rather than guarding the 50k finisher.
@@ -39,7 +39,7 @@ Before the per-character list, four tools win most neutral exchanges in 2026:
 4. **Bait the snap-vanish** — fusions love vanish pressure; if you're **ki-ahead**, win the vanish war (more ki wins) `[community]`; if not, bail.
 - **Avoid:** trading normals; standing in ult range with full meter and no escape ki.
 
-### 2. [[gogeta-gt-super-saiyan-4|Gogeta (GT) SS4]] — #2 Singles (151.5k)
+### 2. [[gogeta-gt-super-saiyan-4|Gogeta (GT) SS4]] — #2 Singles (151.5)
 **Gameplan:** the rushdown king — normals reportedly **faster than many characters' Sparking-mode speed**; relentless pressure into a short combo → rush super (~**19,832 ≈ 2 bars**) `[community]`.
 1. **Super Counter the launcher, not the first hit** — its strings are so fast that mistiming the first hit whiffs; target the **second hit/launcher** `[community]`.
 2. **Use Revenge Counter (2 stocks) if you get turned around** — SS4 Gogeta will reset to your back; the back-rush only answers to **Revenge Counter** `[official]`.
@@ -47,7 +47,7 @@ Before the per-character list, four tools win most neutral exchanges in 2026:
 4. **Out-space in stages** — make him spend ki to reach you (Z-Burst is **distance-scaled** now) `[official]`.
 - **Avoid:** long defensive guard-holds (he'll throw you); panicking your stocks early.
 
-### 3. [[broly-z-legendary-super-saiyan|Broly (Z) Legendary SS]] — #3 Singles (150.6k) / #1-tier DP (29.1k)
+### 3. [[broly-z-legendary-super-saiyan|Broly (Z) Legendary SS]] — #3 Singles (150.6) / #1-tier DP (29.1)
 **Gameplan:** tanky berserker — high HP, huge damage, **permanent attack buff on transform** (Singles) makes him scale; he wants to bully you in melee.
 1. **Out-mobility him** — berserkers are committal; **Short Dash (0 ki) + sidestep** his linear pokes, then punish whiff recovery.
 2. **Super Counter / Sonic Sway his rush** — free SC or frame-perfect **Sonic Sway** (drains his ki) breaks his offense `[community]`.
@@ -55,7 +55,7 @@ Before the per-character list, four tools win most neutral exchanges in 2026:
 4. **Don't get cornered** — his damage off a confirm is among the highest; keep stage space.
 - **Avoid:** brawling him head-on in the corner; he wins raw melee trades.
 
-### 4. [[broly-super-super-saiyan-full-power|Broly (Super) SS Full Power]] — #4 Singles (149.6k) / top DP (29.0k)
+### 4. [[broly-super-super-saiyan-full-power|Broly (Super) SS Full Power]] — #4 Singles (149.6) / top DP (29.0)
 **Gameplan:** same archetype as Z-Broly — **armor + damage**, top DP value.
 1. **Throws beat his armor** — super armor tanks **4–5 Smash/Rush-Chain hits** `[datamined]` but **throws ignore armor**; grab him out of an armored approach (~1,250 dmg).
 2. **Super Counter** the rush; **Revenge Counter (2 stk)** the back-string.
@@ -63,15 +63,15 @@ Before the per-character list, four tools win most neutral exchanges in 2026:
 4. **Run the clock if he Sparkings** — out-space the timed buff.
 - **Avoid:** feeding his armor with single hits (use throws); cornering yourself.
 
-### 5. [[jiren-full-power|Jiren (Full Power)]] — #5 Singles (140.3k)
-**Gameplan:** armor + counters + raw power; wants you to commit so he can armor-through and punish. Weak **DP efficiency (12.0k)** — a Singles/anchor pick.
+### 5. [[jiren-full-power|Jiren (Full Power)]] — #5 Singles (140.3)
+**Gameplan:** armor + counters + raw power; wants you to commit so he can armor-through and punish. Weak **DP efficiency (12.0)** — a Singles/anchor pick.
 1. **Throws beat the armor** (same as Broly) — don't feed single hits into his armored stance.
 2. **Don't throw out punishable supers** — his kit punishes whiffs; bait his counter, then strike the recovery.
 3. **Stagger your strings** — delays beat his Super-Counter reads.
-4. **In DP, out-value him** — he's **DP-inefficient** (12.0k), so a DP team can simply field more bodies; in Singles, respect his damage and play patient.
+4. **In DP, out-value him** — he's **DP-inefficient** (12.0), so a DP team can simply field more bodies; in Singles, respect his damage and play patient.
 - **Avoid:** committal blasts into his counter; feeding armor with pokes.
 
-### 6. [[whis|Whis]] — #6 Singles (135.4k)
+### 6. [[whis|Whis]] — #6 Singles (135.4)
 **Gameplan:** auto-dodge melee + best-in-class mobility; cheap DP; zones with **Symphonic Destruction** and punishes your whiffs.
 1. **Rush Chain pierces his auto-dodge** — since **May 26 2026**, `□×1–4 + △` connects **through** the dodge (he's explicitly named) `[official]`. Lead with Rush Chain, not plain strings.
 2. **His Symphonic Destruction is now High-Speed-Evadable** `[official]` — sidestep/evade it instead of guarding.
@@ -79,7 +79,7 @@ Before the per-character list, four tools win most neutral exchanges in 2026:
 4. **Don't whiff** — his mobility punishes overcommitment; approach in **stages** (distance-scaled Z-Burst).
 - **Avoid:** plain rush strings (they auto-dodge); chasing him in open space where his mobility shines.
 
-### 7. [[goku-super-ultra-instinct|Ultra Instinct Goku]] — #7 Singles (134.4k)
+### 7. [[goku-super-ultra-instinct|Ultra Instinct Goku]] — #7 Singles (134.4)
 **Gameplan:** auto-dodge defense + Smash Ki Blast zoning; **nerfed May 26 2026** (Smash Ki Blast cooldown up again) but still top.
 1. **Rush Chain pierces the auto-dodge** — same as Whis; he is **explicitly named** in the May 2026 change `[official]`. This is THE answer.
 2. **Bait the Smash Ki Blast cooldown** — his zoning has an **increased cooldown between Smash Ki Blasts** `[official]`; after he fires, **rush in during the recovery**.
@@ -87,7 +87,7 @@ Before the per-character list, four tools win most neutral exchanges in 2026:
 4. **Perception his committed blasts** (2 stk) if he over-zones.
 - **Avoid:** mashing plain rush (auto-dodged); standing in his Smash Ki Blast range without a plan.
 
-### 8. [[kale-super-saiyan-berserk|Kale (Berserk)]] — #9 Singles (129.1k) / S-DP (25.5k)
+### 8. [[kale-super-saiyan-berserk|Kale (Berserk)]] — #9 Singles (129.1) / S-DP (25.5)
 **Gameplan:** berserker burst; **Cry of Rage** is an **unblockable** S1 `[datamined]` mixup ender; strong in both modes.
 1. **Cry of Rage activation time was INCREASED May 26 2026** `[official]` — it's now slower to come out; **interrupt it** or be ready to **vanish/sidestep** the unblockable (unblockables are auto-evasion- and Vanish-evadable since 2025) `[official]`.
 2. **Super Counter / Sonic Sway** her rush pressure.
@@ -95,7 +95,7 @@ Before the per-character list, four tools win most neutral exchanges in 2026:
 4. **Throws** beat any armored/guard-holding stretch.
 - **Avoid:** respecting Cry of Rage as un-counterable (it's evadable now); brawling in the corner.
 
-### 9. [[gohan-beast|Gohan Beast]] — #10 Singles (128.7k) AND **#1 DP (33.9k)**
+### 9. [[gohan-beast|Gohan Beast]] — #10 Singles (128.7) AND **#1 DP (33.9)**
 **Gameplan:** the best all-around DLC carry — top damage kit + DP-efficient; **Guess It's My Turn** (S2, 4 stocks, no-auto-guard) + **Special Beam Cannon** ult; DP9, **35,000 HP** `[datamined]`.
 1. **No auto-dodge** — plain rush strings and **Super Counter** all work normally; he has no evasion class to ignore your pressure.
 2. **He's DP9, so in DP he's expensive-ish** — out-value with a cheaper core if needed, but he's efficient enough to respect.
@@ -103,7 +103,7 @@ Before the per-character list, four tools win most neutral exchanges in 2026:
 4. **Slightly below 40k HP (35,000)** `[datamined]` — your damage goes a hair further; press confirms.
 - **Avoid:** giving him free Sparking time; he converts hard once boosted.
 
-### 10. [[toppo-god-of-destruction|Toppo (God of Destruction)]] — #11 Singles (128.0k)
+### 10. [[toppo-god-of-destruction|Toppo (God of Destruction)]] — #11 Singles (128.0)
 **Gameplan:** armor + GoD power; a strong anchor that armors through your offense and punishes.
 1. **Throws beat the armor** (4-5 hit stagger ignored by throws) `[datamined]`.
 2. **Stagger strings** to beat his Super-Counter reads; **delays beat mashing** `[community]`.
@@ -111,7 +111,7 @@ Before the per-character list, four tools win most neutral exchanges in 2026:
 4. **Chip the approach** with ki blasts to make armor moves whiff.
 - **Avoid:** single-hitting into armor; committal blasts.
 
-### 11. [[super-vegito|Super Vegito]] — #12 Singles (126.9k)
+### 11. [[super-vegito|Super Vegito]] — #12 Singles (126.9)
 **Gameplan:** fusion burst, a notch below SSGSS Vegito but still elite speed + burst.
 1. **Treat it like the SSGSS Vegito plan** — Super Counter the fast strings, respect the ultimate threshold, punish the Sparking pop.
 2. **Out-space the fusion** — distance-scaled Z-Burst makes him pay to approach.
@@ -119,7 +119,7 @@ Before the per-character list, four tools win most neutral exchanges in 2026:
 4. **Win the vanish war only if ki-ahead** `[community]`.
 - **Avoid:** trading normals with a fusion; ult range with no escape ki.
 
-### 12. [[yajirobe|Yajirobe]] — DP-only S (30.7k); **D-tier Singles**
+### 12. [[yajirobe|Yajirobe]] — DP-only S (30.7); **D-tier Singles**
 **Gameplan:** cheap DP tank/healer — historically looped **Senzu Bean** (full heal) to stall; **dead as a stall meta** now.
 1. **In Singles, ignore him** — standardized HP removes his tank edge; he's **D-tier** there `[community]`. He's purely a **DP body** now.
 2. **Senzu is gutted** — costs **6 skill stocks from a 0-stock start** (was 5/start-2), and his **Ki-recovery was reduced May 26 2026** `[official]` — the infinite heal-loop is gone. Just out-damage his slow stock economy.
@@ -127,15 +127,15 @@ Before the per-character list, four tools win most neutral exchanges in 2026:
 4. **In DP, he's a value pick to respect for HP**, not a win condition — kill the carry, not the tank.
 - **Avoid:** racing his (now-nerfed) heal; treating him as a Singles threat.
 
-### 13. [[master-roshi|Master Roshi]] / [[master-roshi-max-power|Roshi Max Power]] — DP-only S (31.2k); weak Singles
-**Gameplan:** cheap DP skirmisher with fast stock regen; a **value body** in DP, bad in Singles (**30,000 HP**, low) `[datamined]`.
-1. **In Singles, low HP (30,000)** means your damage **kills him faster** `[datamined]` — press confirms; he's not a Singles pick.
+### 13. [[master-roshi|Master Roshi]] / [[master-roshi-max-power|Roshi Max Power]] — DP-only S (Max Power 31.2); weak Singles
+**Gameplan:** cheap DP skirmisher with fast stock regen; a **value body** in DP, bad in Singles. Base Roshi is **30,000 HP** (low); the **Max Power** form keeps DP2 but jumps to **40,000 HP** `[datamined]`. The 31.2 DP score is Max Power's.
+1. **In Singles, base Roshi's low HP (30,000)** means your damage **kills him faster** `[datamined]` — press confirms; he's not a Singles pick.
 2. **His Ki-recovery was reduced May 26 2026** `[official]` — his economy edge is dulled.
 3. **Out-range / out-muscle him** — he's a skirmisher; **Super Counter** his rush and punish his fragility.
 4. **In DP, he's efficient (points-per-DP)** but a body, not a carry — focus the premium pick.
 - **Avoid:** over-respecting a 30k-HP skirmisher in Singles.
 
-### 14. [[recoome|Recoome]] — DP-only S (30.3k)
+### 14. [[recoome|Recoome]] — DP-only S (30.3)
 **Gameplan:** cheap DP bruiser that overperforms its DP cost; **HP reduced May 26 2026** `[official]`.
 1. **His HP was just nerfed (May 26 2026)** `[official]` — expect him to **drift down** the next tier refresh; he dies faster now.
 2. **Super Counter / Sonic Sway** his bruiser rush; he has no evasion to ignore it.

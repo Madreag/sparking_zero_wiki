@@ -43,7 +43,7 @@
 - **DP cost is not in the game files** — community-sourced via `research/02` → `enrichment/characters.json`. Tag it `community`, never `datamined`.
 - **Per-move damage is only partially datamined.** Overrides exist in `BulletSetting/BulletParam_<cid>_act*` (606 incl. 47 ultimates: Power / Shave=chip / BeamPower / BeamShave / multi-hit / ExpendEnergy) and `Combatives/<cid>` (1,761 Power entries + ArmorBreakLevel / EnergyGain / HitStop / Super-Counter-avoidable flags). `BulletSetting/Common` = generic ki-blast defaults (200 dmg / 40 chip / 2,000 ki). **Moves without an override inherit blueprint class defaults — those still need community labs**, so don't present them as datamined.
 - Energy units: **10,000 = 1 ki bar**; supers ~30,000; ultimates ~50,000. HP tiers: 30,000 / 35,000 / 40,000 / 45,000 (9 / 14 / 147 / 16 fighters); **10,000 HP per bar**. (Sanity anchors — see `PLAN.md` §5.)
-- `CharacterData_*` confirms `HpRecovery: 0` on transforms (the May 26 2026 heal-removal shipped in the data). `BlastForte1/2_*` = per-character S1 mapping + `ExpendBlastStock` + unblockable flags.
+- `CharacterData_*` carries per-edge `HpRecovery` — the May 26 2026 heal-removal shipped, so **most transforms are now `0`, but ~27/164 still recover 5k–10k** (check the edge in `transformations.json`; don't assume `0`). `BlastForte1/2_*` = per-character S1 mapping + `ExpendBlastStock` + unblockable flags.
 
 ## Generated vs curated collections
 
@@ -85,7 +85,7 @@
 
 1. **Numbers-first.** Lead every page with the quantitative data; prose explains it. Don't write a paragraph where a stat table will do.
 2. **Never hand-edit generated collections.** Characters/blasts/skills/transformations/stages/shop come from `gen_content.py` — your edit will be wiped on the next regen. Fix the datamine parse or the `enrichment/*.json` overlay instead.
-3. **Cite confidence honestly.** `datamined` only for values straight from game files. DP, vanish/Z-Counter cost, and non-override move damage are `community`. Disputed values: present both camps.
+3. **Cite confidence honestly.** `datamined` only for values straight from game files. DP, vanish/Z-Counter cost, and non-override move damage are `community`. Disputed values: present both camps. Generated fact pages carry one page-level `confidence` for their datamined stat block and flag the community DP overlay in `sources` (research/02) — never relabel DP itself as datamined (transformation bodies state this inline). A per-field provenance model is the deeper fix if the single enum ever feels dishonest.
 4. **Wikilinks** in body text use `[[slug]]` or `[[slug|Label]]`. **In table cells, escape the pipe as `\|`** before the label (the generator emits this) so it doesn't break the GFM table. Unknown targets degrade to plain text; run `python scripts/fix_links.py` + `audit.py` after large content passes.
 5. **One file at a time** for curated content; Read before Edit/Write. No bulk regex rewrites of prose (there's no git to revert).
 6. **Meta/tier claims must name their patch.** A tier list older than `CURRENT_VERSION` is history, not current — label it.

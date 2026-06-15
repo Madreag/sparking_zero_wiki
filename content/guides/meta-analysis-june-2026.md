@@ -24,8 +24,8 @@ The **May 26, 2026 update** — the biggest balance overhaul since launch — de
 game from *spam* to *precision*: [[smash-and-rush|Rush Chain]] now connects through auto-dodge
 (the direct counter to UI Goku and Whis), Rush Ki Blast spam was nerfed, auto-reflect was gated to
 **DP 7+**, heal-on-transform was removed in Singles, and [[perception]] / deliberate
-[[z-burst-dash]] play got rewarded. The post-patch S-tier (Vegito SSGSS 152.8k, Gogeta GT SS4
-151.5k, both Brolys ~150k, Jiren FP, Whis, UI Goku, Gogeta Super SSGSS, Kale Berserk, Gohan Beast,
+[[z-burst-dash]] play got rewarded. The post-patch S-tier (Vegito SSGSS 152.8, Gogeta GT SS4
+151.5, both Brolys ~150, Jiren FP, Whis, UI Goku, Gogeta Super SSGSS, Kale Berserk, Gohan Beast,
 Toppo, Super Vegito, Fusion Android 13) survived **not because of gimmicks but because of their
 engines** — see the fingerprint below.
 
@@ -77,7 +77,7 @@ projectile class does **not** predict tier; the engine does. (Full category cens
 - **Jiren FP / Toppo** — 2,000/s recovery, standardized-HP Singles favors their attrition kits.
 - **Kale Berserk** — 45k HP berserker damage on a cheap ladder (3 stocks from base).
 - **Gohan Beast** — the dual-meta outlier: elite recovery + free Beast Sense read; #1 DP value
-  (33.9k) *and* top-10 Singles.
+  (33.9) *and* top-10 Singles.
 - **Fusion Android 13** — the one android that beats the no-charge tax: 45k HP, 2,000/s recovery,
   Giant-class armor without Giant DP pricing.
 

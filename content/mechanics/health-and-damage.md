@@ -26,18 +26,18 @@ values:
     tag: "datamined"
   - label: "Rush 1st hit"
     value: "~390 (standard)"
-    patch: "current (datamine)"
-    tag: "datamined"
+    patch: "current (community lab)"
+    tag: "community"
   - label: "Rush 5-hit string"
     value: "~2,460 (≈2,289 into armor)"
-    patch: "current (datamine)"
-    tag: "datamined"
+    patch: "current (community lab)"
+    tag: "community"
   - label: "Super blast damage"
     value: "~9,080 base / ~13,660 Boosted (Super Kamehameha, Cell)"
     patch: "current (datamine)"
     tag: "datamined"
   - label: "Ultimate blast damage / cost"
-    value: "15,000–19,620 base; universally 50,000 energy cost"
+    value: "~15,000 base, up to ~19,638 Boosted (Special Beam Cannon); 50,000 energy cost (universal)"
     patch: "current (datamine)"
     tag: "datamined"
 counters:
@@ -47,7 +47,7 @@ counteredBy:
   - "Combo scaling (long combos lose damage)"
   - "Defense / Energy Defense modifiers"
   - "Single-battle HP equalization (Jun 2025)"
-summary: "The datamine stores HP directly in four tiers — 30k (9 fighters) / 35k (14) / 40k (147 standard) / 45k (16) — at ~10,000 HP per bar. Per-hit melee (~390 first hit, ~2,460 rush-5) and blast damage (super ~9k base, ultimate ~15k+) are datamined too. Combo scaling is real and aggressive: a raw Ultimate often out-damages a long combo→Ultimate. Single battle has equalized HP and removed DP damage-scaling since Jun 23, 2025."
+summary: "The datamine stores HP directly in four tiers — 30k (9 fighters) / 35k (14) / 40k (147 standard) / 45k (16) — at ~10,000 HP per bar. Per-hit melee (~390 first hit, ~2,460 rush-5) are community labs; named-move blast damage (super ~9k base, ultimate ~15k+) is datamined. Combo scaling is real and aggressive: a raw Ultimate often out-damages a long combo→Ultimate. Single battle has equalized HP and removed DP damage-scaling since Jun 23, 2025."
 changeHistory:
   - version: "Free Update (Dec 11, 2024)"
     date: "2024-12-11"
@@ -88,7 +88,7 @@ The datamine (`system_constants.json`) resolves the roster into **four clean HP 
 
 > The widely-circulated claim that the **Jan 2026 patch "standardized all characters to 6,000 HP" is FALSE.** Datamined HP remains in the **tens of thousands** and character-specific. What Jun 23, 2025 actually did: **removed DP-based damage scaling** in single battles and set all characters to the **same** health *in single battle* — the per-tier datamine values above are the underlying pools.
 
-## Damage (datamined)
+## Damage
 
 | Quantity | Value |
 |---|---|
@@ -100,7 +100,7 @@ The datamine (`system_constants.json`) resolves the roster into **four clean HP 
 | Ultimate (Special Beam Cannon, Piccolo) | **15,000** base / **19,638** Boosted |
 | Ultimate energy cost | **50,000** (universal; supers 20,000–40,000) |
 
-Higher-tier bodies scale up (Hit: 1st-hit 508, rush-5 3,283). Blasts in [[sparking-mode|Sparking! Mode]] use the **Boosted** column (~×1.2–1.5).
+The **melee aggregates** above (rush 1st hit, basic string, rush-5, throw) are **community labs** (`research/04`), not datamined; the **named-move blast** values (Super Kamehameha, Special Beam Cannon) and the 50,000 energy cost are **datamined**. Higher-tier bodies scale up (Hit: 1st-hit 508, rush-5 3,283). Blasts in [[sparking-mode|Sparking! Mode]] use the **Boosted** column (~×1.2–1.5).
 
 ## Combo scaling (community-tested)
 

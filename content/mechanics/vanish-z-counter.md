@@ -5,7 +5,7 @@ category: "defense"
 input: "Vanish (R1/RB) the instant the opponent's melee/Vanishing Assault connects; repeat to escalate a vanish war"
 values:
   - label: "Ki cost per vanish"
-    value: "~≈5,000 energy (community-measured) (community estimate; not a datamined field — vanishKiCost is null for all fighters)"
+    value: "~≈5,000 energy (community-measured) (community estimate; not a datamined field — no vanishKiCost field exists)"
     patch: "current (community)"
     tag: "community"
   - label: "Ki cost per vanish (bar estimate)"
@@ -60,7 +60,7 @@ Vanish — also called the **Z-Counter** — is the ki-cost defensive teleport. 
 
 ## The numbers
 
-- **Cost per vanish:** the community estimates the vanish action at **~0.5 of a ki bar** (up from ~0.25 at launch), sometimes quoted as **~≈5,000 energy (community-measured)**. This is **not** a datamined value — `vanishKiCost` is `null` for every fighter in `characters.json` and `system_constants.json` carries an empty `vanishKiCostDistribution`, so there is no per-character datamine number to confirm uniformity. Treat all per-vanish ki figures as community estimates; the bar conversion also predates the May 26, 2026 distance/ki re-tuning.
+- **Cost per vanish:** the community estimates the vanish action at **~0.5 of a ki bar** (up from ~0.25 at launch), sometimes quoted as **~≈5,000 energy (community-measured)**. This is **not** a datamined value — **no `vanishKiCost` field exists** in `characters.json`, and `system_constants.json` carries no vanish-cost distribution, so there is no per-character datamine number to confirm uniformity. Treat all per-vanish ki figures as community estimates; the bar conversion also predates the May 26, 2026 distance/ki re-tuning.
 - **Skill-stock gain:** each successful vanish returns roughly **15% of a skill gauge**, though the Jan 20, 2025 patch explicitly **reduced** skill-stock gain from vanish wars to stop players farming stocks off the exchange.
 - **Escalation:** since Jan 20, 2025 each vanish in a chain is **faster and costs more ki** than the last, so a long war drains both players and the **return-counter damage grows** the longer it runs.
 - **QTE after 4:** after **4 consecutive vanishes** an Impact/QTE clash triggers, resolving the war into a button-mash or directional minigame rather than letting it loop forever.

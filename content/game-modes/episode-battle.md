@@ -16,7 +16,7 @@ values:
     value: "7 (Saiyan → Universe Survival)"
     tag: "official"
   - label: "Major What-If / Sparking Episode routes"
-    value: "12"
+    value: "13"
     tag: "community"
   - label: "Minor What-If alternate stages"
     value: "~35"
@@ -27,13 +27,13 @@ values:
   - label: "Best replay-farm payout"
     value: "300,000 Zeni ('Super Saiyan Goku Awakens!')"
     tag: "community"
-summary: "The single-player story mode, told across 8 character campaigns spanning 7 chapters (Saiyan → Universe Survival). Pays ~15,000 Zeni per new mission on first clear; branches into 12 major What-If 'Sparking Episode' routes plus ~35 minor alternate stages triggered by dialogue choices or harder secondary win conditions. Best Zeni farm: replay 'Super Saiyan Goku Awakens!' for a 300,000-Zeni reward conversion."
+summary: "The single-player story mode, told across 8 character campaigns spanning 7 chapters (Saiyan → Universe Survival). Pays ~15,000 Zeni per new mission on first clear; branches into 13 major What-If 'Sparking Episode' routes plus ~35 minor alternate stages triggered by dialogue choices or harder secondary win conditions. Best Zeni farm: replay 'Super Saiyan Goku Awakens!' for a 300,000-Zeni reward conversion."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"
 confidence: "community"
 sources:
-  - "research/06-pve-dlc-unlocks.md (§1 — 8 campaigns, 7 chapters, 12 major routes, ~35 minor stages, 15k/mission, 300k farm)"
+  - "research/06-pve-dlc-unlocks.md (§1 — 8 campaigns, 7 chapters, ~35 minor stages, 15k/mission, 300k farm; its route table lists 13 Sparking Episodes — the prose's '12' is an off-by-one)"
   - "research/01-overview-modes-economy.md (§2 — Episode Battle, ~15,000 Zeni/mission, Dragon Orb eases secondary objectives)"
 ---
 **Episode Battle** is the single-player **story mode**, told across **8 character campaigns** spanning **7 chapters** (Saiyan → Namek → Android/Cell → Majin Buu → Beerus/Frieza Resurrection → Future Trunks → Universe Survival). It is the primary PVE economy engine: **~15,000 Zeni per new mission** on first clear.
@@ -62,7 +62,7 @@ sources:
 
 ## Branching: What-If routes
 
-- **12 major What-If / "Sparking Episode" routes** unlock via (a) **dialogue choices** that alter the story, or (b) **harder secondary win conditions** (e.g. "defeat X within the time limit", "win taking minimal damage", "win without transforming"). Exact triggers live on each campaign page.
+- **13 major What-If / "Sparking Episode" routes** unlock via (a) **dialogue choices** that alter the story, or (b) **harder secondary win conditions** (e.g. "defeat X within the time limit", "win taking minimal damage", "win without transforming"). Exact triggers live on each campaign page. (13 = the `sparkingEpisodes` totals across the 8 campaigns: Goku 3, Vegeta 2, Gohan 1, Piccolo 1, Frieza 1, Goku Black 1, Future Trunks 3, Jiren 1.)
 - **~35 minor What-If alternate stages** (one-scene outcomes) exist on top of the majors.
 
 See each campaign for its exact branch triggers: [[episode-goku]], [[episode-vegeta]], [[episode-gohan]], [[episode-piccolo]], [[episode-frieza]], [[episode-goku-black]], [[episode-future-trunks]], [[episode-jiren]]. Related: [[custom-battle]], [[bonus-battle]].

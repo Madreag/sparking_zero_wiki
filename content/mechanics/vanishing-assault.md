@@ -7,11 +7,11 @@ values:
   - label: "Ki cost"
     value: "small (modest base — 'Dragon Assault' item cuts it 16.5%)"
     patch: "current"
-    tag: "datamined"
+    tag: "community"
   - label: "'Dragon Assault' item reduction"
     value: "−16.5% ki cost"
     patch: "current"
-    tag: "datamined"
+    tag: "community"
   - label: "Vs grounded foes (tall characters)"
     value: "easier to land follow-ups after Jan 2026"
     patch: "Jan 26, 2026"
@@ -27,7 +27,7 @@ counteredBy:
   - "Vanish / Z-Counter on the connecting hit"
   - "Super Counter (front rush answer)"
   - "Perception read"
-summary: "The teleport-into-pressure approach: blink directly to the locked-on opponent and open with an attack. The ki cost is modest — the datamined 'Dragon Assault' item shaves it 16.5%, implying a small base. The Jan 26, 2026 patch made it easier for tall characters to land follow-ups on grounded foes. On connect it feeds into the same defensive rock-paper-scissors as any approach — Vanish, Super Counter, or Perception answer it."
+summary: "The teleport-into-pressure approach: blink directly to the locked-on opponent and open with an attack. The ki cost is modest — the 'Dragon Assault' item shaves it 16.5%, implying a small base (the cost itself is not datamined). The Jan 26, 2026 patch made it easier for tall characters to land follow-ups on grounded foes. On connect it feeds into the same defensive rock-paper-scissors as any approach — Vanish, Super Counter, or Perception answer it."
 changeHistory:
   - version: "Patch (Jan 26, 2026)"
     date: "2026-01-26"
@@ -45,7 +45,7 @@ Vanishing Assault is the **teleport-into-pressure** approach: blink directly to 
 
 ## The numbers
 
-- **Ki cost: small.** No exact value is datamined or community-measured, but the datamined **"Dragon Assault"** item reduces the Vanishing Assault ki cost by **16.5%**, which implies a **modest base** cost (you don't build an item around a free action). The precise current cost is **unpublished** and has **not been measured since May 26, 2026**.
+- **Ki cost: small.** No exact value is datamined or community-measured, but the **"Dragon Assault"** item reduces the Vanishing Assault ki cost by **16.5%**, which implies a **modest base** cost (you don't build an item around a free action). The 16.5% figure is a community reading, not a datamined cost. The precise current cost is **unpublished** and has **not been measured since May 26, 2026**.
 - **Follow-up reach (Jan 26, 2026):** the patch made it **easier for tall characters to land follow-ups on grounded opponents** off a Vanishing Attack — a hitbox/tracking fix rather than a cost change.
 
 ## Interactions

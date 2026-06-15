@@ -8,7 +8,7 @@ rewards: []
 values:
   - label: "DP scale (per character)"
     value: "1–10"
-    tag: "official"
+    tag: "community"
   - label: "Offline / Versus — team size"
     value: "up to 5 characters"
     patch: "overview source"

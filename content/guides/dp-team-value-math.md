@@ -6,7 +6,7 @@ summary: "The analysis piece: an HP-per-DP table built from datamined HP and res
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"
-confidence: "datamined"
+confidence: "community"
 sources:
   - "data-mined/characters.json (datamined HP per fighter — hp field)"
   - "research/02-roster-dp-dlc.md (DP costs per fighter, 1-10 scale)"
@@ -15,14 +15,14 @@ sources:
   - "Bandai Namco — May 26 2026 Free Update Notice (auto-reflect DP7+, DP-gap widening)"
 ---
 
-DP Battle is a **value-optimization** problem, not a strength contest. You have a **15 Destruction Point budget** for a team of up to 3-5 characters, and since the **May 26, 2026** patch the system **rewards points-per-DP** while **widening the gap** between high- and low-DP characters. This guide does the actual math: how much **HP you buy per DP** for the notable picks, which cheap bodies overperform, and how the new DP-gap rules change the build.
+DP Battle is a **value-optimization** problem, not a strength contest. You have a **15 Destruction Point budget** for a team of **up to 5 characters** (the system max; the standard ranked DP queue is commonly run as a 3-character format `[community]`), and since the **May 26, 2026** patch the system **rewards points-per-DP** while **widening the gap** between high- and low-DP characters. This guide does the actual math: how much **HP you buy per DP** for the notable picks, which cheap bodies overperform, and how the new DP-gap rules change the build.
 
 ## Reading the numbers
 
 - **HP values are `[datamined]`** from `data-mined/characters.json` (the `hp` field). Confidence: high.
-- **DP values are from `research/02`** (the 1-10 in-game point cost). Confidence: high for base roster, medium for some DLC forms.
+- **DP values are from `research/02`** (the 1-10 in-game point cost) — **community-sourced, never datamined** (DP is not in the game files). Reliability: high for base roster, medium for some DLC forms.
 - **HP/DP** below is a **value index** (datamined HP divided by DP cost), *not* an in-game stat. It captures the core DP-Battle truth: a **45,000-HP heavy at DP2** is buying more than twice the bulk-per-point of a **40,000-HP god at DP10**.
-- **Caveat — some top fusions have null HP in the datamine.** Vegito SSGSS, Gogeta GT SS4, Gohan Beast, Jiren Full Power, Toppo GoD, and Cell Max read `hp: null` in the files (their HP isn't exposed). For those, the table uses the **standardized 40,000** baseline as an estimate and flags it. Confidence on those rows: estimated.
+- **Caveat — some top fusions have null HP in the datamine.** Vegito SSGSS, Gogeta GT SS4, Jiren Full Power, Toppo GoD, and Cell Max read `hp: null` in the files (their HP isn't exposed). For those, the table uses the **standardized 40,000** baseline as an estimate and flags it. Confidence on those rows: estimated. (Gohan Beast is **not** null — it resolves to a datamined **35,000**.)
 
 ## HP-per-DP table (notable picks)
 
@@ -30,7 +30,7 @@ DP Battle is a **value-optimization** problem, not a strength contest. You have 
 |---|---:|---:|---:|---|
 | **Master Roshi** (base) | **30,000** | **2** | **15,000** | Low-HP skirmisher, but cheapest body in tier — pure DP filler. |
 | Mr. Satan | 30,000 | 1 | 30,000 | **Highest raw HP/DP in the game** by index (lowest DP). Joke kit, but a 1-DP body. |
-| Saibaman | 35,000 | 1 | 35,000 | 1-DP throwaway; self-destruct chip value. |
+| Saibaman | 35,000 | 2 | 17,500 | DP2 throwaway; self-destruct chip value. |
 | **Yajirobe** | **35,000** | **2** | **17,500** | The classic cheap tank; Senzu heal (now 6-stock / 0-start). Ki-recovery nerfed May 26. |
 | Spopovich | 35,000 | 2 | 17,500 | Tanky DP2 bruiser (Defense 1100). HP reduced May 26 — drifting down. |
 | Nappa | 40,000 | 3 | 13,333 | Standard-HP DP3 heavy. HP reduced May 26. |
@@ -47,13 +47,13 @@ DP Battle is a **value-optimization** problem, not a strength contest. You have 
 | Android 19 | 40,000 | 4 | 10,000 | DP4 standard HP; ki-drain throws, +2 starting skill stock. |
 | Mini Vegeta SS3 | 40,000 | 7 | 5,714 | DP7 standard HP; cheap transform-ladder top form, DP7+ eligible. |
 | Mini Vegeta SS2 | 40,000 | 6 | 6,667 | DP6 standard HP; efficient but **sub-DP7 → loses auto-reflect**. |
-| **Gohan Beast** | **40,000** (est., null in datamine) | **9** | ~4,444 | #1 DP **score** despite a low HP-index — proves value isn't just HP; kit/damage carry it. |
+| **Gohan Beast** | **35,000** | **9** | **3,889** | #1 DP **score** despite the lowest HP-index of any top pick — proves value isn't just HP; kit/damage carry it. |
 | Vegito SSGSS | 40,000 (est., null) | 10 | ~4,000 | Premium carry; the standard "1 god" slot. |
 | Gogeta (GT) SS4 | 40,000 (est., null) | 10 | ~4,000 | Premium carry; fastest normals in the game. |
 | Jiren Full Power | 40,000 (est., null) | 9 | ~4,444 | Armor anchor; expensive, low efficiency index. |
 | Cell Max | 40,000 (est., null) | 9 | ~4,444 | Giant-class boss; Max Bomb unblockable, but giant-nerfed. |
 
-> **Datamined facts behind the table:** standard DBZ-roster HP is **40,000** (Piccolo baseline). Heavies — Broly (Z) LSSJ, Broly (Super) SSFP, Beerus, Whis, Kale Berserk, Orange Piccolo, Fusion Android 13 — read **45,000**. The low-HP skirmishers Master Roshi (base), Mr. Satan, and Yajirobe/Spopovich read **30,000-35,000**. GT-era and kid bodies dip to 31k-36k. (`data-mined/characters.json`; HP basics also in `research/04` §1.1.)
+> **Datamined facts behind the table:** datamined HP comes in **four discrete bands — 30,000 / 35,000 / 40,000 / 45,000** (9 / 14 / 147 / 16 fighters). Standard DBZ-roster HP is **40,000** (Piccolo baseline); heavies — Broly (Z) LSSJ, Broly (Super) SSFP, Beerus, Whis, Kale Berserk, Orange Piccolo, Fusion Android 13 — read **45,000**; the low-HP skirmishers (Master Roshi base, Mr. Satan at 30k; Yajirobe, Spopovich, Saibaman at 35k) read **30,000-35,000**. (The non-round numbers like 31k/36k seen in some community tables are a *durability index* = HP × defense, **not** raw HP — see `research/04` §1.1.) (`data-mined/characters.json`, `system_constants.json`.)
 
 ## What the table tells you
 
@@ -65,11 +65,11 @@ DP Battle is a **value-optimization** problem, not a strength contest. You have 
 
 From `research/05` §5, the dominant post-patch shells. The principle is **1 premium carry + cheap value/utility**, because efficiency matters more now and auto-reflect needs DP7+.
 
-- **"Premium + value" (most common ladder shell):** one **10-DP fusion carry** (Vegito SSGSS or Gogeta GT SS4) + ~5 DP of cheap DP7+ bodies for auto-reflect access and chip. Example: **10 (SS4 Gogeta) + 5** split across two cheap bruisers.
+- **"Premium + value" (most common ladder shell):** one **10-DP fusion carry** (Vegito SSGSS or Gogeta GT SS4) — itself the **DP7+ body** that already clears the auto-reflect gate — + ~5 DP of **cheap sub-DP7 bodies** for chip/utility (they knowingly forgo auto-reflect). Example: **10 (SS4 Gogeta) + 5** split across two cheap bruisers.
 - **Gohan Beast value core:** **Gohan Beast** (DP9, #1 DP score) + **Master Roshi Max Power** (DP2) + a **DP4** body (e.g. Android 19) = 15 DP, with the best DP-efficient carry in the game anchoring it.
 - **Cheap-bruiser triple (value spam):** **Recoome** (DP3) + **Yajirobe** (DP2) + a mid like **Mini Vegeta SS3** (DP7) — three overperformers under budget. Strong on the efficiency model, but the sub-DP7 bodies **lose auto-reflect** under the new rule, so it's weaker than its pre-May-2026 form.
 - **Heavy-anchor build:** one **Broly** (DP9, 45k HP) + two ~DP3 value bodies (Recoome / Spopovich) — maximum bulk anchor + cheap chip. The Broly satisfies the DP7+ auto-reflect gate.
-- **Kale-centric efficient core:** **Kale (Berserk)** (DP7, 45k HP, DP7+ eligible) + **Recoome** (DP3) + **Android 19** (DP4) + **Saibaman** (DP1) = 15 DP across four bodies, all bulk-positive.
+- **Kale-centric efficient core:** **Kale (Berserk)** (DP7, 45k HP, DP7+ eligible) + **Recoome** (DP3) + **Nappa** (DP3) + **Saibaman** (DP2) = 15 DP across four bodies, all bulk-positive. (Saibaman is **DP2**, not DP1 — swapping in a DP1 Mr. Satan would free a point for a DP4 body.)
 
 ## DP-gap mechanics (post-May 26, 2026)
 
@@ -97,7 +97,7 @@ arbitrage, ranked (endpoint stats datamined):
 
 | Draft (DP) | → Endpoint (DP) | Arb | Stocks | End tier | End HP |
 |---|---|---|---|---|---|
-| Gohan (Super Hero) (4) | → Gohan Beast (9) | **+5** | 6 | S | ~40k |
+| Gohan (Super Hero) (4) | → Gohan Beast (9) | **+5** | 6 | S | 35,000 |
 | Broly (Z) (5) | → Legendary Super Saiyan (9) | **+4** | 3 | S | 45,000 |
 | Broly (Super) (5) | → SS Full Power (9) | **+4** | 3 | S | 45,000 |
 | Gohan (Super Hero) (4) | → Ultimate Gohan SH (8) | +4 | 3 | — | 40,000 |

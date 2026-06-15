@@ -13,7 +13,6 @@ lastVerified: "2026-06-10"
 confidence: "community"
 sources:
   - "research/04-mechanics-frame-data.md §3.3 (vanish ~0.5 ki/vanish, QTE after 4)"
-  - "data-mined/characters.json (vanishKiCost 2800)"
   - "content/mechanics/vanish-z-counter.md"
 ---
 A **Vanish War** is the rapid exchange of [[vanish-z-counter|Z-Counter]] vanishes that breaks out when both players keep teleporting behind each other's attacks. Each vanish costs **~0.5 ki bars** (community-measured — the cost is not stored in the parameter tables), and every subsequent vanish in the chain is **faster and costs more ki**. After **4 consecutive vanishes** a **QTE / Impact clash** decides the exchange, and as a rule **whoever has more ki wins** — so the standard advice is to bail out early if you're behind on ki. See [[z-counter]] and [[vanish-z-counter]].

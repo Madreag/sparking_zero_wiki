@@ -7,7 +7,7 @@ values:
   - label: "Cost"
     value: "2 skill stocks (some launch guides said 1)"
     patch: "current"
-    tag: "official"
+    tag: "community"
   - label: "Direction"
     value: "any (front, back, mid-combo)"
     patch: "current"
@@ -27,7 +27,7 @@ counteredBy:
   - "Having fewer than 2 skill stocks (cannot activate)"
   - "Super Z-Counter (Perception on the Revenge Counter)"
   - "Baiting it then whiff-punishing"
-summary: "The skill-stock 'get-off-me': press R3 while being comboed to break out from any direction for 2 skill stocks. Unlike Super Counter (free, front-only, frame-tight) it works from behind and mid-string, but the stock cost makes it a finite resource. Launch guides cited 1 stock; current community consensus and official wording put it at 2."
+summary: "The skill-stock 'get-off-me': press R3 while being comboed to break out from any direction for 2 skill stocks. Unlike Super Counter (free, front-only, frame-tight) it works from behind and mid-string, but the stock cost makes it a finite resource. Launch guides cited 1 stock; current community consensus puts it at 2, but no official numeric note has resolved it."
 changeHistory:
   - version: "Free Update (Dec 11, 2024)"
     date: "2024-12-11"

@@ -10,7 +10,7 @@ category: "system"
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"
-confidence: "datamined"
+confidence: "community"
 sources:
   - "research/04-mechanics-frame-data.md §7 (giant Z-Burst 2 bars, grab-immune, May 2026 nerfs)"
   - "research/02-roster-dp-dlc.md §6 (giant-class roster)"

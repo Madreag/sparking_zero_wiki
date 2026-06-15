@@ -10,8 +10,8 @@ values:
     tag: "official"
   - label: "Rush 5-hit damage"
     value: "~2,460 (≈2,289 into armor)"
-    patch: "current (datamine)"
-    tag: "datamined"
+    patch: "current (community lab)"
+    tag: "community"
   - label: "Skill-stock granted to victim (hit from behind)"
     value: "more skill-stock recovery to the victim on longer chains"
     patch: "current"
@@ -59,5 +59,5 @@ Smash and the Rush Chain are the **core offense**. The **Rush Chain** is `□ (�
 ## Interactions
 
 - The **Apr 21, 2025** patch fixed a hole where the opponent could **guard between** a Rush-In and the following Rush Attacks, tightening the pressure.
-- Smash launches feed the [[lightning-attack-pursuit|Lightning Attack pursuit]] (capped at 6 chases), which is the standard route from a launcher to a finisher.
+- Smash launches feed the [[lightning-attack-pursuit|Lightning Attack pursuit]] (capped by `pursuitBaseLimit` — typically 2 per combo, +2 while Sparking), which is the standard route from a launcher to a finisher.
 - Rush pressure is answered by the full defensive suite: [[super-counter|Super Counter]] (free, front), [[vanish-z-counter|Vanish]] (ki), [[revenge-counter|Revenge Counter]] (2 stocks, any direction), and [[perception|Perception]] / [[sonic-sway|Sonic Sway]] (reads).

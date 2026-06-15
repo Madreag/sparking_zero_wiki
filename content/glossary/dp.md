@@ -10,7 +10,7 @@ category: "system"
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"
-confidence: "confirmed"
+confidence: "community"
 sources:
   - "research/02-roster-dp-dlc.md (DP scale 1-10, DP1/DP10 lists, 15-DP budget)"
   - "research/05-meta-pvp-tiers.md §4-5 (DP Battle rules, DP7+ auto-reflect)"

@@ -40,9 +40,9 @@ summary: "DLC 2 — released Apr 21, 2025 (early access 21st) at $9.99. The DAIM
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"
-confidence: "datamined"
+confidence: "community"
 sources:
-  - "data-mined/dlc.json (DLC_010 — datamined 'Playable characters (x9)' list)"
+  - "data-mined/dlc.json (DLC_010 — datamined 'Playable characters (x9)' list; DP NOT in dlc.json — community per research/02)"
   - "research/06-pve-dlc-unlocks.md (§4 — Apr 21-22 2025, $9.99, DAIMA Mini cast + Technique-Changing Outfit)"
   - "research/02-roster-dp-dlc.md (§3b — slots #194-201 = 8 NEW; per-character DP; Apr 24 date variant)"
 ---
@@ -50,7 +50,7 @@ sources:
 
 > **Date conflict:** Steam DLC page implies **Apr 21, 2025**; Wikipedia summary says **Apr 24, 2025** (research/01 §Gaps). Page uses Apr 21.
 
-## Characters (x9 per datamined text — DLC_010)
+## Characters (x9 per datamined text — DLC_010; DP = community / research-02)
 
 | Character | DP | Note |
 |---|---|---|

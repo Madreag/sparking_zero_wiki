@@ -60,7 +60,7 @@ roster-only; the new free PVE modes are separate — see §1.4 and §6).
 
 ### 1.2 Major What-If / "Sparking Episode" routes — EXACT trigger conditions
 
-These are the large branching alternate storylines (12 major routes). Conditions are quoted from the
+These are the large branching alternate storylines (13 major routes — the `sparkingEpisodes` totals across the 8 campaigns sum to 13; an earlier "12" was an off-by-one). Conditions are quoted from the
 Game8 walkthrough tables. NOTE: one route ("A Mentor's Guidance") has two conflicting documented
 triggers — see flag below.
 

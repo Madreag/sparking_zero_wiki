@@ -10,7 +10,7 @@ category: "system"
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"
-confidence: "confirmed"
+confidence: "community"
 sources:
   - "research/02-roster-dp-dlc.md §5 (DP gap widened, Big Impact item +500/+250)"
   - "research/05-meta-pvp-tiers.md §4-5 (DP7+ auto-reflect, widened gap)"

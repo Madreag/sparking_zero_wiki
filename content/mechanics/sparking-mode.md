@@ -4,14 +4,18 @@ name: "Sparking! Mode"
 category: "resource"
 input: "Fill ki gauge + ≥1 skill count, keep charging to fill the Sparking gauge, then spend 1 skill count to activate (or use Instant Sparking)"
 values:
+  - label: "In-Sparking gauge drain"
+    value: "2,800 / sec (uniform across all 208 fighters)"
+    patch: "current (datamine)"
+    tag: "datamined"
   - label: "Sparking gauge charge speed"
-    value: "7.0 / sec"
-    patch: "current (datamine)"
-    tag: "datamined"
+    value: "~7.0 / sec (not in our system_constants.json)"
+    patch: "current"
+    tag: "community"
   - label: "Pre-Sparking gauge decay"
-    value: "10.5 / sec (drains if you stop charging)"
-    patch: "current (datamine)"
-    tag: "datamined"
+    value: "~10.5 / sec (drains if you stop charging)"
+    patch: "current"
+    tag: "community"
   - label: "Activation cost"
     value: "1 skill count (full ki gauge required first)"
     patch: "current"
@@ -36,7 +40,7 @@ counteredBy:
   - "Defense-down window right after activation (May 2026)"
   - "Harsher combo scaling on rush attacks inside Sparking (Dec 2024)"
   - "Running out the timer"
-summary: "The burst/comeback state (formerly 'Max Power'): fill ki + the separate Sparking gauge, spend 1 skill count, and gain your Ultimate, ki-free actions, ki-blast-stun immunity, and Boosted (~×1.2-1.5) damage. The datamine exposes the gauge charge speed (7.0/s) and the pre-Sparking decay (10.5/s) but the base DURATION in seconds and the exact stat-buff percentages are NOT published. Activation now carries a defense-down window since the panic-Sparking nerfs."
+summary: "The burst/comeback state (formerly 'Max Power'): fill ki + the separate Sparking gauge, spend 1 skill count, and gain your Ultimate, ki-free actions, ki-blast-stun immunity, and Boosted (~×1.2-1.5) damage. The datamine exposes the in-Sparking gauge drain (2,800/s, uniform across all 208 fighters) that governs duration; the gauge charge speed (~7.0/s) and pre-Sparking decay (~10.5/s) are community figures, and the base DURATION in seconds and exact stat-buff percentages are NOT published. Activation now carries a defense-down window since the panic-Sparking nerfs."
 changeHistory:
   - version: "Free Update (Dec 11, 2024)"
     date: "2024-12-11"
@@ -55,7 +59,8 @@ asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"
 confidence: "community"
 sources:
-  - "data-mined/system_constants.json + sparkingzerometa.com datamine (Sparking gauge charge 7.0/s, pre-Sparking decay 10.5/s)"
+  - "data-mined/system_constants.json (sparkingDrainDistribution 2,800/s × 208)"
+  - "community (sparkingzerometa.com): Sparking gauge charge ~7.0/s, pre-Sparking decay ~10.5/s"
   - "research/04-mechanics-frame-data.md (§5 Sparking! Mode; Gaps #1 base duration unverified)"
   - "research/03-patches-balance.md (Dec 2024; Apr 21 2025; Jun 23 2025; May 26 2026)"
   - "Bandai Namco official patch notes (Dec 11, 2024; Apr 21, 2025; Jun 23, 2025; May 26, 2026)"
@@ -64,8 +69,9 @@ Sparking! Mode (the renamed **Max Power** burst from the Budokai Tenkaichi linea
 
 ## The numbers
 
-- **Sparking gauge charge speed: 7.0 / sec** (datamined). That is how fast holding charge fills the dedicated Sparking gauge once your ki is full.
-- **Pre-Sparking decay: 10.5 / sec** (datamined). If you **stop** charging before activating, the partially-filled gauge drains at **10.5/s** — faster than it fills (7.0/s) — so you have to commit to the charge rather than feathering it.
+- **In-Sparking gauge drain: 2,800 / sec** (datamined — `sparkingDrainDistribution`, **uniform across all 208 fighters**). Once Sparking is active the gauge bleeds at this fixed rate and the mode ends when it empties. This is the **one canonical datamined "2,800"** in the game — it is the **Sparking drain, never a [[vanish-z-counter|vanish]]/Z-Counter cost**. (The gauge's *starting size* isn't published, so the exact duration in **seconds** is still unknown — see below.)
+- **Sparking gauge charge speed: ~7.0 / sec** (community — **not** in our `system_constants.json`; the figure collides with the `kiChargeSpeed` mode of 7.0, so treat it as an unverified third-party reading). That is how fast holding charge fills the dedicated Sparking gauge once your ki is full.
+- **Pre-Sparking decay: ~10.5 / sec** (community). If you **stop** charging before activating, the partially-filled gauge drains at **~10.5/s** — faster than it fills (~7.0/s) — so you have to commit to the charge rather than feathering it.
 - **Activation:** **1 skill count**, with a full ki gauge as the entry requirement.
 - **Damage:** blasts in Sparking use their **"Boosted"** values, roughly **×1.2 to ×1.5** depending on the move (e.g. Super Kamehameha 9,080 → 13,660 ≈ ×1.50; most ultimates ≈ ×1.30). See [[health-and-damage|health & damage]].
 

@@ -13,9 +13,9 @@ values:
     patch: "current"
     tag: "official"
   - label: "Manual charge speed"
-    value: "~1.3 / sec standard (Cell 1.32, Roshi 1.47, Vegeta 1.54)"
-    patch: "current (datamine)"
-    tag: "datamined"
+    value: "~1.3 bars/sec (community lab); datamined kiChargeSpeed index = 6/7/8 (Cell 6, most 7, some 8)"
+    patch: "current"
+    tag: "community"
   - label: "Ki blast cost"
     value: "16–22% of one bar per shot (Normal class ~20%, Ki-Blast class ~16%)"
     patch: "current"
@@ -25,7 +25,7 @@ values:
     patch: "current"
     tag: "datamined"
   - label: "Android starting skill stocks"
-    value: "+1 (infinite-ki) / +2 (ki-drain)"
+    value: "+1 (all androids; Android 19 & Dr. Gero = 1, not +2)"
     patch: "current"
     tag: "datamined"
   - label: "Ki-exhaustion (red bar)"
@@ -39,7 +39,7 @@ counteredBy:
   - "Pressure (no time to charge)"
   - "Ki-exhaustion lock (red bar = frozen)"
   - "Charging is interruptible"
-summary: "Ki is the universal action currency — 5 bars, 10,000 energy each (50,000 full). You refill it by holding Charge (R2) at ~1.3/sec standard, or passively by landing melee. Ki blasts cost 16–22% of a bar; a full gauge maps to the ~50,000-energy scale an Ultimate consumes. Androids CANNOT manually charge (charge speed 0) but get unlimited blasts and start with +1/+2 skill stocks to compensate. A fully depleted (red) bar freezes you until it recovers."
+summary: "Ki is the universal action currency — 5 bars, 10,000 energy each (50,000 full). You refill it by holding Charge (R2) at ~1.3/sec standard, or passively by landing melee. Ki blasts cost 16–22% of a bar; a full gauge maps to the ~50,000-energy scale an Ultimate consumes. Androids CANNOT manually charge (charge speed 0) but get unlimited blasts and start with +1 skill stock to compensate. A fully depleted (red) bar freezes you until it recovers."
 changeHistory:
   - version: "Ver.2011.010.003.007.006 (Apr 21, 2025)"
     date: "2025-04-21"
@@ -58,7 +58,8 @@ asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"
 confidence: "community"
 sources:
-  - "data-mined/system_constants.json + sparkingzerometa.com datamine (10,000/bar, charge speed ~1.3, ki blast %, android charge 0)"
+  - "data-mined/system_constants.json (kiChargeSpeedDistribution 6/7/8, ki-blast %, android charge 0; 10,000/bar datamine-inferred)"
+  - "community (sparkingzerometa.com): ~1.3 bars/sec charge conversion"
   - "research/04-mechanics-frame-data.md (§2 Ki System; §2.3 class ki quirks)"
   - "research/03-patches-balance.md (Apr 21 2025; Sep 22 2025; Jan 26 2026; May 26 2026)"
   - "Bandai Namco official patch notes (Apr 21, 2025; Sep 22, 2025; Jan 26, 2026; May 26, 2026)"
@@ -68,13 +69,13 @@ Ki is the universal action currency. It powers ki blasts, [[vanish-z-counter|Van
 ## The numbers
 
 - **Energy per bar: 10,000.** The gauge holds **5 bars**, so a full gauge is **50,000 energy** — which is exactly the scale a 50,000-energy **Ultimate** consumes, i.e. an Ultimate costs roughly a **full gauge**. (Supers cost 20,000–40,000, i.e. 2–4 bars.) See [[health-and-damage|health & damage]] for blast costs.
-- **Manual charge speed: ~1.3 / sec** standard (datamined per-character: Cell **1.32**, Master Roshi **1.47**, Vegeta **1.54**). Higher = faster refill.
+- **Manual charge speed: ~1.3 bars/sec** standard — a **community** conversion, not in our files. The datamined per-character figure is an index (`kiChargeSpeed` = **6 / 7 / 8**: Cell **6**, most fighters **7**, some **8**; androids **0**); higher = faster refill.
 - **Ki blast cost: 16–22% of one bar** per shot — Normal class ~**20%**, Ki-Blast class ~**16%**, some at **22%**.
 - **Ki-exhaustion:** when a bar goes **red** you **cannot move** until it recovers. The Jan 26, 2026 patch added an explicit **action lock** during ki depletion (certain counters disabled while out of ki).
 
 ## Androids can't charge
 
-- **[[android-class|Androids]] have a manual charge speed of 0** — they **cannot** hold R2 to refill ki. Instead they get effectively **unlimited ki blasts** (the bar refills via the android mechanic) and **start the match with extra skill stocks**: **+1** for infinite-ki androids ([[android-16|16]], 17, [[android-18|18]], Super 17) and **+2** for ki-drain androids ([[android-19|19]], [[dr-gero|Dr. Gero]]). The ki-drain pair also have huge throw damage from their absorb-on-grab identity.
+- **[[android-class|Androids]] have a manual charge speed of 0** — they **cannot** hold R2 to refill ki. Instead they get effectively **unlimited ki blasts** (the bar refills via the android mechanic) and **start the match with +1 skill stock** — including the ki-drain pair [[android-19|Android 19]] and [[dr-gero|Dr. Gero]], whose datamined `initialSkillStock` is **1** (**not +2**). The ki-drain pair also have huge throw damage from their absorb-on-grab identity.
 
 ## Charging-related patch drift
 

@@ -40,7 +40,7 @@ No DLC has added a new Episode-Battle campaign through June 2026 (DAIMA content 
 
 ## What-if route unlock order
 
-The **12 major what-if ("Sparking Episode") routes** branch off specific battles. They unlock two ways: **(a) dialogue choices** that alter the story, or **(b) harder secondary win conditions** ("defeat X within the time limit" / "win taking minimal damage" / "win without transforming"). The alternate win conditions are deliberately **harder than the default clear**.
+The **13 major what-if ("Sparking Episode") routes** branch off specific battles. They unlock two ways: **(a) dialogue choices** that alter the story, or **(b) harder secondary win conditions** ("defeat X within the time limit" / "win taking minimal damage" / "win without transforming"). The alternate win conditions are deliberately **harder than the default clear**.
 
 | Campaign | What-If Route | Exact trigger |
 |---|---|---|

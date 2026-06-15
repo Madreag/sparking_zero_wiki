@@ -9,11 +9,11 @@ values:
     patch: "pre-May 2026 (community)"
     tag: "community"
   - label: "Max skill stocks"
-    value: "character-specific, typically 4–5 (Cell/Piccolo 5; many 4; Yajirobe raised 5→6)"
+    value: "character-specific: 4 or 6 (Babidi the lone 7); no fighter has 5 (Cell, Piccolo = 6; many 4; Yajirobe raised to 6)"
     patch: "current"
     tag: "datamined"
   - label: "Starting stocks"
-    value: "usually 0; androids +1, ki-drain androids +2; 'Secret Measures' item +1"
+    value: "usually 0; androids +1 (Android 19, Dr. Gero = 1, not +2); 'Secret Measures' item +1"
     patch: "current"
     tag: "datamined"
   - label: "Revenge Counter cost"
@@ -47,14 +47,14 @@ counteredBy:
   - "Expensive skills drain it fast (Instant Sparking 4, Senzu 5)"
   - "Slowed auto-regen (May 2026)"
   - "No longer regenerates on a successful tech (Jun 2025)"
-summary: "The skill-stock economy: a character-specific bank (usually 4–5) that auto-regenerates at roughly 1 stock per 14 seconds (community estimate) plus combat events. It funds Blast Skills, defensive counters, transforms, and Instant Sparking. Costs of common actions: Revenge Counter 2, blast Perception 2, Afterimage Strike 3, Instant Sparking 4, Senzu Bean 5. The Jun 2025 and May 2026 patches slowed regen and removed tech/low-HP sources."
+summary: "The skill-stock economy: a character-specific bank (4 or 6, Babidi 7; no fighter has 5) that auto-regenerates at roughly 1 stock per 14 seconds (community estimate) plus combat events. It funds Blast Skills, defensive counters, transforms, and Instant Sparking. Costs of common actions: Revenge Counter 2, blast Perception 2, Afterimage Strike 3, Instant Sparking 4, Senzu Bean 5. The Jun 2025 and May 2026 patches slowed regen and removed tech/low-HP sources."
 changeHistory:
   - version: "Ver.2013.012.003.008.007 (Jun 23, 2025)"
     date: "2025-06-23"
     change: "Auto-recovery rate slightly reduced; no longer recovers on a successful tech; low-HP bonus regen only triggers below the LAST health bar; Attack-Break gain increased."
   - version: "Ver.2014.013.003.009.008 (Sep 22, 2025)"
     date: "2025-09-22"
-    change: "Dr. Wheelo max Skill Count reduced; Yajirobe-line Senzu loop tuned across DLC patches (max 5→6, Senzu cost →6)."
+    change: "Dr. Wheelo max Skill Count reduced; Yajirobe-line Senzu loop tuned across DLC patches (max raised to 6, Senzu cost →6)."
   - version: "Free Update (May 26, 2026)"
     date: "2026-05-26"
     change: "Skill Stock auto-recovery speed slightly reduced again (cross-platform); increased recovery on a successful Attack Break."
@@ -64,7 +64,8 @@ lastVerified: "2026-06-10"
 confidence: "community"
 sources:
   - "research/04-mechanics-frame-data.md (§4 Skill (Skill-Stock) System; §4.2 skill costs)"
-  - "data-mined/sparkingzerometa.com datamine (max stock, regen rate, starting stock)"
+  - "data-mined/system_constants.json (maxSkillStockDistribution 4/6/7; initialSkillStockDistribution — androids 1)"
+  - "community (sparkingzerometa.com): auto-regen rate (~14s/stock)"
   - "research/03-patches-balance.md (Jun 23 2025; Sep 22 2025; May 26 2026)"
   - "Bandai Namco official patch notes (Jun 23, 2025; Sep 22, 2025; May 26, 2026)"
 ---
@@ -73,8 +74,8 @@ Skill Count (the **skill-stock** bank) is the second resource alongside [[ki-and
 ## The numbers
 
 - **Auto-regen: ~1 stock every ~14 seconds** (≈**4.2 stocks/min**) on a standard character — a **community** estimate, not an official figure. A few fighters regen faster (Master Roshi ~**5.46/min**). The Jun 2025 and May 2026 patches each **slightly reduced** this rate, so the 14-second figure is a **pre-May-2026** community number and has **not been re-measured** since the latest slowdown.
-- **Max stocks: character-specific, usually 4–5** (Cell and Piccolo cap at **5**, many at **4**; Yajirobe was raised **5→6**).
-- **Starting stocks:** usually **0**, but [[android-class|androids]] start **+1** (infinite-ki) or **+2** (ki-drain), and the **"Secret Measures"** item adds **+1**.
+- **Max stocks: character-specific — 4 or 6**, with **Babidi** the lone **7**; **no fighter has 5**. Cell and Piccolo cap at **6**, many at **4**; the Yajirobe line was raised to **6**.
+- **Starting stocks:** usually **0**, but [[android-class|androids]] start **+1** — including the ki-drain pair **Android 19** and **Dr. Gero** (datamined `initialSkillStock` = **1**, **not +2**) — and the **"Secret Measures"** item adds **+1**.
 
 ## Costs of common skills
 

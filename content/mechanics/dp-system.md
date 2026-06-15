@@ -19,7 +19,7 @@ values:
   - label: "DP-difference damage (DP battle only)"
     value: "'Big Impact' item: +500 at 1 DP diff, +250 per extra DP"
     patch: "current"
-    tag: "datamined"
+    tag: "community"
   - label: "Auto-reflect DP gate"
     value: "only DP 7+ characters can auto-reflect in Sparking! Mode"
     patch: "Apr 21, 2025; re-locked May 26, 2026"
@@ -55,7 +55,7 @@ DP (Destruction Points) is the **team-cost** system inherited from Budokai Tenka
 ## The numbers
 
 - **DP budget: 15** is the standard. Since the **May 26, 2026** update the total is **selectable at 10 / 15 / 20**, and the setting is retained between matches.
-- **DP-difference damage (DP battle only):** the datamined **"Big Impact"** item adds DP-gap damage — **+500** at a 1-DP difference, **+250** per additional DP — but **only in DP Battles**. There is no longer any *innate* DP damage bonus.
+- **DP-difference damage (DP battle only):** the **"Big Impact"** item adds DP-gap damage — **+500** at a 1-DP difference, **+250** per additional DP — but **only in DP Battles**. The DP-gap math rides on per-character DP, which is **community-sourced** (not in the game files), so treat these figures as **community**. There is no longer any *innate* DP damage bonus.
 - **Auto-reflect is gated to DP 7+** characters in [[sparking-mode|Sparking! Mode]] (Apr 21, 2025; re-locked May 26, 2026) — a soft cap that keeps cheap fighters from getting the reflect.
 
 ## The singles / DP balance split (Jun 23, 2025)

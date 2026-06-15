@@ -34,23 +34,23 @@ summary: "Pre-order bonus dated Oct 10, 2024 at $1.99. Grants Goku (Mini) — th
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"
-confidence: "datamined"
+confidence: "community"
 sources:
-  - "data-mined/dlc.json (DLC_000 — datamined in-game pack contents)"
+  - "data-mined/dlc.json (DLC_000 — datamined in-game pack contents; DP NOT in dlc.json — community per research/02)"
   - "research/06-pve-dlc-unlocks.md (§4 Steam edition/pre-order DLC table — Oct 10 2024, $1.99)"
   - "research/02-roster-dp-dlc.md (Goku (Mini) DP 4; Gogeta/Broly form DP costs)"
   - "research/01-overview-modes-economy.md (Goku (Mini) is the only base char not buyable in-game)"
 ---
 **Pre-Order Pack** — released **Oct 10, 2024** at **$1.99** (Steam edition DLC). Its headline value is **Goku (Mini)**, the **only** one of the base game's 182 roster slots that is *never* purchasable with Zeni in the in-game shop (PowerPyx / IGN). Everyone who skips the pre-order can still earn Goku (Mini) only through this DLC route.
 
-## Contents (datamined — DLC_000)
+## Contents (roster datamined — DLC_000; DP = community / research-02)
 
 | Item | Type | Detail |
 |---|---|---|
 | **Goku (Mini)** | Playable character | DP **4**; the pre-order-exclusive base-roster slot |
 | 6 characters unlocked early | Early unlock | The 3 Gogeta (Super) forms + 3 Broly (Super) forms below |
 
-### Characters unlocked early (x6, datamined)
+### Characters unlocked early (x6 — roster datamined DLC_000; DP = community / research-02)
 
 | Character | DP |
 |---|---|

@@ -47,9 +47,9 @@ summary: "DLC 1 — released Jan 23, 2025 (Season Pass early access Jan 20) at $
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"
-confidence: "datamined"
+confidence: "community"
 sources:
-  - "data-mined/dlc.json (DLC_009 — datamined 11 characters, 3 Bonus Battles, outfit)"
+  - "data-mined/dlc.json (DLC_009 — datamined 11 characters, 3 Bonus Battles, outfit; DP NOT in dlc.json — community per research/02)"
   - "research/06-pve-dlc-unlocks.md (§4 — Jan 23 2025, $8.99, 11 characters, Super Hero movie)"
   - "research/02-roster-dp-dlc.md (§3b — slots #183-193, per-character DP; notes $17.99 standalone)"
   - "research/05-meta-pvp-tiers.md (Gohan Beast / Orange Piccolo / Cell Max meta impact)"
@@ -58,7 +58,7 @@ sources:
 
 > **Price conflict:** the official figure in PVE research is **$8.99**; the roster research lists a **$17.99** standalone (GG.deals). Both are recorded here; $8.99 is used as the page price.
 
-## Characters (x11, datamined — DLC_009)
+## Characters (x11 — roster datamined DLC_009; DP = community / research-02)
 
 | Character | DP | Note |
 |---|---|---|

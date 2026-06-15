@@ -9,13 +9,13 @@ values:
     patch: "current (community)"
     tag: "community"
   - label: "Grab / throw immunity"
-    value: "immune — uses a giant stagger threshold (4–5 hits to flinch) instead"
-    patch: "current (datamine)"
-    tag: "datamined"
+    value: "immune — uses a giant stagger threshold (~4–5 hits to flinch, community-measured) instead"
+    patch: "current"
+    tag: "community"
   - label: "Rush 5-hit into giant"
     value: "~2,289 (≈7% less than the ~2,460 baseline, pre-May 2026)"
-    patch: "pre-May 2026 (datamine)"
-    tag: "datamined"
+    patch: "pre-May 2026 (community lab)"
+    tag: "community"
   - label: "Melee damage taken"
     value: "increased (giants take MORE melee damage now)"
     patch: "Apr 21, 2025; re-locked May 26, 2026"
@@ -78,7 +78,7 @@ Giants were brought down over three major passes:
 - **Apr 21, 2025** — the **biggest** pass: rush & smash **damage reduced**, **whiff recovery increased**, **damage taken from melee increased**, backward Short Dash slower. Giants now **deal less and take more**.
 - **May 26, 2026** — the **definitive cross-platform lock** of the Apr 2025 nerf, plus standard **charge-type Blasts now damage + knock them back** even while the giant is in [[sparking-mode|Sparking! Mode]] (they used to whiff/nullify against giants — this was also folded in from Jun 23, 2025).
 
-> The **~2,289 rush-5-into-giant** figure is a **pre-May-2026 datamine** number; the May 26, 2026 "damage taken from melee increased" change means the **current** effective melee-into-giant value is **higher and has not been re-datamined** since.
+> The **~2,289 rush-5-into-giant** figure is a **pre-May-2026 community-lab** number; the May 26, 2026 "damage taken from melee increased" change means the **current** effective melee-into-giant value is **higher and has not been re-measured** since.
 
 ## Interactions
 
