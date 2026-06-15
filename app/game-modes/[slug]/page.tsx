@@ -78,7 +78,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
       )}
 
       {m.body && (
-        <div className="prose max-w-none text-sm" dangerouslySetInnerHTML={{ __html: renderMarkdown(m.body) }} />
+        <div className="prose max-w-none text-sm" dangerouslySetInnerHTML={{ __html: renderMarkdown(m.body, { excludeHref: `/game-modes/${m.slug}` }) }} />
       )}
 
       <div className="flex flex-wrap items-center justify-between gap-2 border-t border-border pt-4 text-xs text-muted">

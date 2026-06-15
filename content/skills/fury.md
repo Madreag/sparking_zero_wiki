@@ -2,9 +2,6 @@
 slug: "fury"
 name: "Fury"
 effect: "Anger-driven self power-up buff."
-users:
-  - "Gohan (Teen)"
-  - "Gohan (Adult)"
 tier: "B"
 summary: "Anger self-buff; no discrete numeric patch change documented through June 2026."
 asOfVersion: "v2.2 (2026-05-26 update)"

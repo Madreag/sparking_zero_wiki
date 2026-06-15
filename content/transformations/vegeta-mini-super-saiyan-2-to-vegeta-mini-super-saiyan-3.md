@@ -16,9 +16,10 @@ lastVerified: "2026-06-10"
 confidence: "datamined"
 sources:
   - "game files (CUE4Parse extract, Steam build 22517964, 2026-06-05)"
+  - "research/02-roster-dp-dlc.md (community DP costs)"
 statChanges: "No flat stat changes — this change is moveset/property-based"
 ---
-**Vegeta (Mini), Super Saiyan 2 → Vegeta (Mini), Super Saiyan 3** (in-battle transformation) — all numbers datamined from CharacterData.
+**Vegeta (Mini), Super Saiyan 2 → Vegeta (Mini), Super Saiyan 3** (in-battle transformation) — stock cost, HP recovery and stat deltas are datamined from CharacterData. DP costs are community (research/02).
 
 | Parameter | Value |
 |---|---|

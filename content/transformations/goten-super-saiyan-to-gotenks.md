@@ -16,9 +16,10 @@ lastVerified: "2026-06-10"
 confidence: "datamined"
 sources:
   - "game files (CUE4Parse extract, Steam build 22517964, 2026-06-05)"
+  - "research/02-roster-dp-dlc.md (community DP costs)"
 statChanges: "Health (max): 35,000 → 45,000 (+10,000); Ki charge speed: 8 → 7 (-1); Ki auto-recovery: 1,500/s → 1,750/s (+250/s)"
 ---
-**Goten, Super Saiyan → Gotenks** (Fusion (dance)) — all numbers datamined from CharacterData.
+**Goten, Super Saiyan → Gotenks** (Fusion (dance)) — stock cost, HP recovery and stat deltas are datamined from CharacterData. DP costs are community (research/02).
 
 | Parameter | Value |
 |---|---|

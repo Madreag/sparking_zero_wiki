@@ -16,9 +16,10 @@ lastVerified: "2026-06-10"
 confidence: "datamined"
 sources:
   - "game files (CUE4Parse extract, Steam build 22517964, 2026-06-05)"
+  - "research/02-roster-dp-dlc.md (community DP costs)"
 statChanges: "Ki charge speed: 8 → 5.5 (-2.5); Ki auto-recovery: 1,500/s → 2,250/s (+750/s)"
 ---
-**Janemba → Super Janemba** (in-battle transformation) — all numbers datamined from CharacterData.
+**Janemba → Super Janemba** (in-battle transformation) — stock cost, HP recovery and stat deltas are datamined from CharacterData. DP costs are community (research/02).
 
 | Parameter | Value |
 |---|---|

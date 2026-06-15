@@ -25,7 +25,7 @@ sources:
 
 **Drain Life Cell** is a **Rush**-class Super (Blast 2) costing **30,000 ki energy**.
 - **Played after a hit** — connects as a follow-up after the initial hit lands *[datamined]*
-- **Datamined power: 3,970** (projectile/beam values vs 40,000-HP standard cast; chip values in the table) *[datamined]*
+- **Datamined power: 3,970** (per-hit datamined Power/BeamPower where the asset overrides defaults — projectile, beam, or melee — vs the 40,000-HP standard cast; chip in the table) *[datamined]*
 - Also exists as a separate **ultimate** for other fighters: [[drain-life-cell-ultimate\|Drain Life Cell (ultimate)]]
 
 Power/chip in the table above are the move's datamined projectile values where the asset overrides defaults; '—' means the move inherits its class default (typical Beam supers land ~4,000–6,000 total on a 40,000-HP fighter). Trigger ki is the discounted cost when fired as a combo follow-up. See [[health-and-damage]] and [[ki-and-charging]].

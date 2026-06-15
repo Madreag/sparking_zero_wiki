@@ -16,9 +16,10 @@ lastVerified: "2026-06-10"
 confidence: "datamined"
 sources:
   - "game files (CUE4Parse extract, Steam build 22517964, 2026-06-05)"
+  - "research/02-roster-dp-dlc.md (community DP costs)"
 statChanges: "Ki charge speed: 7 → 6 (-1); Ki auto-recovery: 1,750/s → 2,000/s (+250/s)"
 ---
-**Jiren → Jiren, Full Power** (in-battle transformation) — all numbers datamined from CharacterData.
+**Jiren → Jiren, Full Power** (in-battle transformation) — stock cost, HP recovery and stat deltas are datamined from CharacterData. DP costs are community (research/02).
 
 | Parameter | Value |
 |---|---|
@@ -32,6 +33,7 @@ statChanges: "Ki charge speed: 7 → 6 (-1); Ki auto-recovery: 1,750/s → 2,000
 |---|---|---|---|
 | Ki charge speed | 7 | 6 | -1 |
 | Ki auto-recovery | 1,750/s | 2,000/s | +250/s |
+| Max skill stock | 6 | 6 | no change |
 
 ## Moveset change
 

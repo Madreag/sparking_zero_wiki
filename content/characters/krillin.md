@@ -32,6 +32,21 @@ moveset:
       - "unblockable"
       - "no-auto-guard"
     notes: "slot S1"
+  - name: "Kamehameha"
+    type: "blast2"
+    kiCost: 30000
+    properties:
+      - "blast-impact 5"
+      - "weak-vs-shield"
+      - "vanish: repel"
+  - name: "Spread Energy Wave"
+    type: "blast2"
+    kiCost: 30000
+    damage: 5700
+    properties:
+      - "Simultaneous Fire"
+      - "weak-vs-shield"
+    notes: "chip 1,140"
   - name: "Chain Destructo Disc"
     type: "ultimate"
     kiCost: 50000

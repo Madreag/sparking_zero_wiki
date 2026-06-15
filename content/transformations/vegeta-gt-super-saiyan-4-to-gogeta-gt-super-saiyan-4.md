@@ -16,9 +16,10 @@ lastVerified: "2026-06-10"
 confidence: "datamined"
 sources:
   - "game files (CUE4Parse extract, Steam build 22517964, 2026-06-05)"
+  - "research/02-roster-dp-dlc.md (community DP costs)"
 statChanges: "No flat stat changes — this change is moveset/property-based"
 ---
-**Vegeta (GT), Super Saiyan 4 → Gogeta (GT), Super Saiyan 4** (Fusion (dance)) — all numbers datamined from CharacterData.
+**Vegeta (GT), Super Saiyan 4 → Gogeta (GT), Super Saiyan 4** (Fusion (dance)) — stock cost, HP recovery and stat deltas are datamined from CharacterData. DP costs are community (research/02).
 
 | Parameter | Value |
 |---|---|
@@ -34,6 +35,7 @@ statChanges: "No flat stat changes — this change is moveset/property-based"
 |---|---|---|---|
 | Ki charge speed | 8 | 8 | no change |
 | Ki auto-recovery | 1,500/s | 1,500/s | no change |
+| Max skill stock | 6 | 6 | no change |
 
 ## Moveset change
 

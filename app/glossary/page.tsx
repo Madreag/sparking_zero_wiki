@@ -1,4 +1,6 @@
 import { getGlossary } from "@/lib/content";
+import { renderMarkdown } from "@/lib/markdown";
+import { linkifyText } from "@/lib/linkify";
 
 export const metadata = { title: "Glossary" };
 
@@ -24,7 +26,17 @@ export default function Page() {
               )}
               {t.category && <span className="ml-auto text-xs uppercase text-muted">{t.category}</span>}
             </dt>
-            <dd className="mt-1 text-sm text-muted">{t.definition}</dd>
+            <dd className="mt-1 text-sm text-muted">
+              {linkifyText(t.definition, `/glossary#${t.slug}`)}
+            </dd>
+            {t.body && (
+              <div
+                className="prose mt-2 max-w-none text-sm"
+                dangerouslySetInnerHTML={{
+                  __html: renderMarkdown(t.body, { excludeHref: `/glossary#${t.slug}` }),
+                }}
+              />
+            )}
           </div>
         ))}
       </dl>

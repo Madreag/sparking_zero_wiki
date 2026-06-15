@@ -39,8 +39,13 @@ const transformEntry = z.object({
   target: z.string(), // roster name of the form transformed into
   targetSlug: z.string().optional(),
   cost: z.number().nullable().optional(), // skill-stock cost
-  kind: z.enum(["transform", "fusion", "revert"]).default("transform"),
+  kind: z.enum(["transform", "fusion", "awaken", "revert"]).default("transform"),
 });
+
+// Shared tier vocabulary across collections (characters use "unranked", skills/blasts
+// use "situational"); accept the union everywhere so a cross-collection value can't
+// crash the build on regen.
+const tierEnum = z.enum(["S", "A", "B", "C", "D", "unranked", "situational"]);
 
 export const characterSchema = z.object({
   slug: z.string(),
@@ -66,7 +71,7 @@ export const characterSchema = z.object({
   skillGaugeGains: z.record(z.string(), z.number().nullable()).optional(),
   transformsTo: z.array(transformEntry).default([]),
   moveset: z.array(moveEntry).default([]),
-  tier: z.enum(["S", "A", "B", "C", "D", "unranked"]).optional(),
+  tier: tierEnum.optional(),
   playable: z.boolean().default(true),
   playstyle: z.string().optional(),
   strengths: z.array(z.string()).default([]),
@@ -87,7 +92,7 @@ export const skillSchema = z.object({
   magnitude: z.string().optional(),
   users: z.array(z.string()).default([]),
   userCount: z.number().optional(),
-  tier: z.enum(["S", "A", "B", "C", "D", "situational"]).optional(),
+  tier: tierEnum.optional(),
   summary: z.string().optional(),
   changeHistory: z.array(changeEntry).default([]),
   ...versionMetaShape,
@@ -113,7 +118,7 @@ export const blastSchema = z.object({
   class: z.enum(["super", "ultimate"]),
   category: z.string().optional(), // beam / rush / explosion / unblockable etc.
   users: z.array(blastUserEntry).default([]),
-  tier: z.enum(["S", "A", "B", "C", "D", "situational"]).optional(),
+  tier: tierEnum.optional(),
   summary: z.string().optional(),
   changeHistory: z.array(changeEntry).default([]),
   ...versionMetaShape,
@@ -140,7 +145,7 @@ const numericValue = z.object({
   label: z.string(),
   value: z.string(), // keep as string so "6f", "12.5%", "2 stocks" all fit
   patch: z.string().optional(),
-  tag: z.enum(["official", "datamined", "community"]).optional(),
+  tag: z.enum(["official", "datamined", "community", "confirmed", "unverified"]).optional(),
 });
 
 /** Core combat mechanics: vanish, super counter, sparking, perception, etc. */

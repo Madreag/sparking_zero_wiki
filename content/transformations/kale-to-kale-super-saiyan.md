@@ -16,9 +16,10 @@ lastVerified: "2026-06-10"
 confidence: "datamined"
 sources:
   - "game files (CUE4Parse extract, Steam build 22517964, 2026-06-05)"
-statChanges: "No flat stat changes — this change is moveset/property-based"
+  - "research/02-roster-dp-dlc.md (community DP costs)"
+statChanges: "Max skill stock: 4 → 6 (+2)"
 ---
-**Kale → Kale, Super Saiyan** (in-battle transformation) — all numbers datamined from CharacterData.
+**Kale → Kale, Super Saiyan** (in-battle transformation) — stock cost, HP recovery and stat deltas are datamined from CharacterData. DP costs are community (research/02).
 
 | Parameter | Value |
 |---|---|
@@ -33,6 +34,7 @@ statChanges: "No flat stat changes — this change is moveset/property-based"
 | Health (max) | 40,000 | 40,000 | no change |
 | Ki charge speed | 7 | 7 | no change |
 | Ki auto-recovery | 1,750/s | 1,750/s | no change |
+| Max skill stock | 4 | 6 | +2 |
 
 ## Moveset change
 

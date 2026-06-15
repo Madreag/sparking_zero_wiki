@@ -32,6 +32,20 @@ moveset:
   - name: "Explosive Wave"
     type: "blast1"
     notes: "slot S1"
+  - name: "Chaos Beam"
+    type: "blast2"
+    kiCost: 30000
+    properties:
+      - "Beam"
+      - "weak-vs-shield"
+  - name: "Secret Poison"
+    type: "blast2"
+    kiCost: 30000
+    properties:
+      - "Rush"
+      - "Played after a hit"
+      - "speed-impact"
+    notes: "Trigger cost 15,000 ki"
   - name: "Chaos Ball"
     type: "ultimate"
     kiCost: 50000

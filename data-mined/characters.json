@@ -7423,7 +7423,7 @@
   "supers": [
    {
     "slot": "SPM1",
-    "name": null,
+    "name": "Kamehameha",
     "kiCost": 30000,
     "triggerKiCost": 30000,
     "speedImpact": null,
@@ -7438,7 +7438,7 @@
    },
    {
     "slot": "SPM2",
-    "name": null,
+    "name": "Spread Energy Wave",
     "kiCost": 30000,
     "triggerKiCost": 30000,
     "speedImpact": null,
@@ -16339,7 +16339,7 @@
     "Unguardable",
     "Played after a hit",
     "Switch body",
-    "When you and your opponent switch bodies, you cannot use\r Transformation, Switch, skills, Blasts, or Ultimate Blasts."
+    "When you and your opponent switch bodies, you cannot use Transformation, Switch, skills, Blasts, or Ultimate Blasts."
    ],
    "bullets": [],
    "combatives": {
@@ -23446,7 +23446,7 @@
   "supers": [
    {
     "slot": "SPM1",
-    "name": null,
+    "name": "Chaos Beam",
     "kiCost": 30000,
     "triggerKiCost": 30000,
     "speedImpact": null,
@@ -23463,7 +23463,7 @@
    },
    {
     "slot": "SPM2",
-    "name": null,
+    "name": "Secret Poison",
     "kiCost": 30000,
     "triggerKiCost": 15000,
     "speedImpact": true,
@@ -32885,7 +32885,7 @@
   "supers": [
    {
     "slot": "SPM1",
-    "name": null,
+    "name": "None",
     "kiCost": 30000,
     "triggerKiCost": 30000,
     "speedImpact": null,

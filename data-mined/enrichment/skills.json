@@ -528,10 +528,7 @@
   "skillCost": null,
   "durationSec": null,
   "effect": "Anger-driven self power-up buff.",
-  "users": [
-   "Gohan (Teen)",
-   "Gohan (Adult)"
-  ],
+  "users": [],
   "tier": "B",
   "confidence": "community",
   "summary": "Anger self-buff; no discrete numeric patch change documented through June 2026.",

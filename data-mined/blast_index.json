@@ -1063,7 +1063,7 @@
      "Unguardable",
      "Played after a hit",
      "Switch body",
-     "When you and your opponent switch bodies, you cannot use\r Transformation, Switch, skills, Blasts, or Ultimate Blasts."
+     "When you and your opponent switch bodies, you cannot use Transformation, Switch, skills, Blasts, or Ultimate Blasts."
     ],
     "bullets": [],
     "combatives": {
@@ -1497,6 +1497,27 @@
       "Key": "ブラスト"
      }
     }
+   }
+  ]
+ },
+ {
+  "name": "Chaos Beam",
+  "class": "super",
+  "users": [
+   {
+    "charId": "0881_00",
+    "character": "Frost",
+    "kiCost": 30000,
+    "triggerKiCost": 30000,
+    "slot": "SPM1",
+    "category": "Beam",
+    "tags": [
+     "Ki Required"
+    ],
+    "bullets": [],
+    "combatives": {},
+    "speedImpact": null,
+    "blastImpact": null
    }
   ]
  },
@@ -8196,6 +8217,19 @@
     "blastImpact": true
    },
    {
+    "charId": "0050_00",
+    "character": "Krillin",
+    "kiCost": 30000,
+    "triggerKiCost": 30000,
+    "slot": "SPM1",
+    "category": null,
+    "tags": [],
+    "bullets": [],
+    "combatives": {},
+    "speedImpact": null,
+    "blastImpact": true
+   },
+   {
     "charId": "0060_00",
     "character": "Yamcha",
     "kiCost": 30000,
@@ -11460,6 +11494,35 @@
   ]
  },
  {
+  "name": "Secret Poison",
+  "class": "super",
+  "users": [
+   {
+    "charId": "0881_00",
+    "character": "Frost",
+    "kiCost": 30000,
+    "triggerKiCost": 15000,
+    "slot": "SPM2",
+    "category": "Rush",
+    "tags": [
+     "Ki Required",
+     "Played after a hit"
+    ],
+    "bullets": [],
+    "combatives": {
+     "meleePowers": [
+      0
+     ],
+     "ArmorBreakLevel": {
+      "Key": "ブラスト"
+     }
+    },
+    "speedImpact": true,
+    "blastImpact": null
+   }
+  ]
+ },
+ {
   "name": "Self Destruct Device",
   "class": "ultimate",
   "users": [
@@ -12131,6 +12194,55 @@
      "Ki Required"
     ],
     "bullets": [],
+    "combatives": {},
+    "speedImpact": null,
+    "blastImpact": null
+   }
+  ]
+ },
+ {
+  "name": "Spread Energy Wave",
+  "class": "super",
+  "users": [
+   {
+    "charId": "0050_00",
+    "character": "Krillin",
+    "kiCost": 30000,
+    "triggerKiCost": 30000,
+    "slot": "SPM2",
+    "category": "Simultaneous Fire",
+    "tags": [
+     "Ki Required"
+    ],
+    "bullets": [
+     {
+      "action": "actSPM2_SBM",
+      "power": 5700,
+      "chip": 1425,
+      "beamPower": 4560,
+      "beamChip": 1140,
+      "multiHit": null,
+      "fireLimit": null
+     },
+     {
+      "action": "actSPM2_SBM_2_A",
+      "power": 1900,
+      "chip": 475,
+      "beamPower": 1520,
+      "beamChip": 380,
+      "multiHit": null,
+      "fireLimit": null
+     },
+     {
+      "action": "actSPM2_SBM_2_B",
+      "power": 1900,
+      "chip": 475,
+      "beamPower": 1520,
+      "beamChip": 380,
+      "multiHit": null,
+      "fireLimit": null
+     }
+    ],
     "combatives": {},
     "speedImpact": null,
     "blastImpact": null

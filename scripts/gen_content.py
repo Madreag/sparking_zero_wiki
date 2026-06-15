@@ -322,6 +322,18 @@ def main() -> None:
 
     # ---------- blasts ----------
     n = 0
+    # Merge blast_index entries that slugify to the same page slug (different spellings
+    # of the same move — hyphen vs space, punctuation). The old loop dropped the 2nd
+    # colliding entry via `continue`, orphaning every fighter listed on it.
+    _merged: dict[str, dict] = {}
+    for _b in blasts:
+        _s = f"{slugify(_b['name'])}-{_b['class']}"
+        _m = _merged.get(_s)
+        if _m is None:
+            _m = _merged[_s] = {"name": _b["name"], "class": _b["class"], "users": []}
+        _seen = {u["charId"] for u in _m["users"]}
+        _m["users"].extend(u for u in _b["users"] if u["charId"] not in _seen)
+    blasts = list(_merged.values())
     bslugs = set()
     name_class_pairs = {(b["name"], b["class"]) for b in blasts}
     TAG_GLOSS = {
@@ -409,7 +421,7 @@ def main() -> None:
         if dmgs:
             body_lines.append(
                 f"- **Datamined power: {', '.join(fmt(d) for d in dmgs)}** "
-                f"(projectile/beam values vs 40,000-HP standard cast; chip values in the table) *[datamined]*"
+                f"(per-hit datamined Power/BeamPower where the asset overrides defaults — projectile, beam, or melee — vs the 40,000-HP standard cast; chip in the table) *[datamined]*"
             )
         if sibling:
             body_lines.append(
@@ -588,11 +600,18 @@ def main() -> None:
             "asOfDate": AS_OF_DATE,
             "lastVerified": TODAY,
             "confidence": "datamined",
-            "sources": [GAME_SOURCE],
+            "sources": [GAME_SOURCE]
+            + (
+                ["research/02-roster-dp-dlc.md (community DP costs)"]
+                if (de.get("dp") is not None or de_to.get("dp") is not None)
+                else []
+            ),
         }
         from_slug, to_slug = slugs.get(t["from"]), slugs.get(t["to"])
+        has_dp = de.get("dp") is not None or de_to.get("dp") is not None
         body = [
-            f"**{nm}** ({method or 'in-battle transformation'}) — all numbers datamined from CharacterData.",
+            f"**{nm}** ({method or 'in-battle transformation'}) — stock cost, HP recovery and stat deltas are datamined from CharacterData."
+            + (" DP costs are community (research/02)." if has_dp else ""),
             "",
             "| Parameter | Value |",
             "|---|---|",
@@ -634,17 +653,7 @@ def main() -> None:
         delta_row(
             "Ki auto-recovery", cf.get("kiAutoRecovery"), ct.get("kiAutoRecovery"), "/s"
         )
-        delta_row(
-            "Sparking gauge charge",
-            cf.get("sparkingGaugeChargeSpeed"),
-            ct.get("sparkingGaugeChargeSpeed"),
-        )
-        delta_row(
-            "Pre-Sparking gauge decay",
-            cf.get("preSparkingGaugeDecreaseSpeed"),
-            ct.get("preSparkingGaugeDecreaseSpeed"),
-            "/s",
-        )
+        delta_row("Max skill stock", cf.get("maxSkillStock"), ct.get("maxSkillStock"))
         if stat_rows:
             body += [
                 "",

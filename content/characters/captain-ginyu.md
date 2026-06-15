@@ -56,7 +56,7 @@ moveset:
       - "Unguardable"
       - "Played after a hit"
       - "Switch body"
-      - "When you and your opponent switch bodies, you cannot use\r Transformation, Switch, skills, Blasts, or Ultimate Blasts."
+      - "When you and your opponent switch bodies, you cannot use Transformation, Switch, skills, Blasts, or Ultimate Blasts."
 playable: true
 playstyle: "Beam zoner"
 strengths:

@@ -128,7 +128,8 @@ def main() -> None:
             if "BLAST_CATEGORY" in key:
                 category = txt
             else:
-                tags.append(txt.replace("\n", " ").strip())
+                # collapse all whitespace (incl. stray \r / \n / doubled spaces)
+                tags.append(" ".join(txt.split()))
         return category, tags
 
     # GR<cid><slot> -> guide
@@ -277,6 +278,13 @@ def main() -> None:
             slot = f"SPM{slot_i}"
             nm = bs_names.get(f"ST_BLASTSKILL_{cid}_act{slot}")
             asset = props(blastskill.get(f"BlastSkill{slot_i}_{cid}"))
+            if not nm and asset:
+                # Some fighters reuse another character's blast-skill name: the asset's
+                # BlastSkillName points at a different cid's locres key. Resolve via that
+                # key so the move isn't left nameless (e.g. Frost SPM1 = "Chaos Beam").
+                bsn = (asset.get("BlastSkillParamData") or {}).get("BlastSkillName")
+                if bsn:
+                    nm = bs_names.get(bsn.get("Key") or "") or text_of(bsn, loc_all)
             if not (nm or asset):
                 continue
             cat, tags = blast_guides.get((cid, slot), (None, []))
@@ -289,8 +297,8 @@ def main() -> None:
                 "blastImpact": asset.get("bCanBlastImpact"),
                 "blastImpactPower": asset.get("BlastImpactPower"),
                 "weakSpecialShield": asset.get("bWeakSpecialShield"),
-                "zCounterType": (asset.get("BlastSkillParamData") or {})
-                .get("SuperZCounterType", "")
+                "zCounterType": ((asset.get("BlastSkillParamData") or {})
+                .get("SuperZCounterType") or "")
                 .split("::")[-1]
                 or None
                 if asset.get("BlastSkillParamData")
@@ -365,11 +373,7 @@ def main() -> None:
         if not c:
             continue
         story = rec.get("StorySettingParameter") or {}
-        c["gender"] = (
-            story.get("Gender")
-            or rec.get("StorySettingParameter", {}).get("Gender")
-            or ""
-        ).split("::")[-1] or None
+        c["gender"] = (story.get("Gender") or "").split("::")[-1] or None
         c["seriesKey"] = (story.get("SeriesTitle") or {}).get("Key")
         c["unlockType"] = (rec.get("UnLockType") or "").split("::")[-1] or None
 

@@ -79,7 +79,7 @@ export function MetaBoard({
         <section className="space-y-2">
           <h2 className="text-lg font-semibold">Counter-pick cheat sheet (top picks)</h2>
           <div className="overflow-x-auto rounded-xl border border-border">
-            <table className="w-full min-w-[760px] text-sm">
+            <table data-sortable-self className="w-full min-w-[760px] text-sm">
               <thead className="bg-surface-2 text-left text-xs uppercase tracking-wide text-muted">
                 <tr>
                   <th className="px-3 py-2">Pick</th>

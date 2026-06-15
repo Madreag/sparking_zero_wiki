@@ -19,6 +19,6 @@ sources:
 ## What it does
 
 **Revenge Death Ball Final** is a **signature**-class Ultimate Blast costing **50,000 ki energy**.
-- **Datamined power: 13,000** (projectile/beam values vs 40,000-HP standard cast; chip values in the table) *[datamined]*
+- **Datamined power: 13,000** (per-hit datamined Power/BeamPower where the asset overrides defaults — projectile, beam, or melee — vs the 40,000-HP standard cast; chip in the table) *[datamined]*
 
 Power/chip in the table above are the move's datamined projectile values where the asset overrides defaults; '—' means the move inherits its class default (typical Beam supers land ~4,000–6,000 total on a 40,000-HP fighter). Trigger ki is the discounted cost when fired as a combo follow-up. See [[health-and-damage]] and [[ki-and-charging]].

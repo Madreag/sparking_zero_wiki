@@ -16,9 +16,10 @@ lastVerified: "2026-06-10"
 confidence: "datamined"
 sources:
   - "game files (CUE4Parse extract, Steam build 22517964, 2026-06-05)"
-statChanges: "Health (max): 35,000 → 45,000 (+10,000); Ki charge speed: 7 → 8 (+1); Ki auto-recovery: 1,750/s → 1,500/s (-250/s)"
+  - "research/02-roster-dp-dlc.md (community DP costs)"
+statChanges: "Health (max): 35,000 → 45,000 (+10,000); Ki charge speed: 7 → 8 (+1); Ki auto-recovery: 1,750/s → 1,500/s (-250/s); Max skill stock: 6 → 4 (-2)"
 ---
-**Trunks (Kid) → Gotenks, Super Saiyan** (Fusion (dance)) — all numbers datamined from CharacterData.
+**Trunks (Kid) → Gotenks, Super Saiyan** (Fusion (dance)) — stock cost, HP recovery and stat deltas are datamined from CharacterData. DP costs are community (research/02).
 
 | Parameter | Value |
 |---|---|
@@ -35,6 +36,7 @@ statChanges: "Health (max): 35,000 → 45,000 (+10,000); Ki charge speed: 7 → 
 | Health (max) | 35,000 | 45,000 | +10,000 |
 | Ki charge speed | 7 | 8 | +1 |
 | Ki auto-recovery | 1,750/s | 1,500/s | -250/s |
+| Max skill stock | 6 | 4 | -2 |
 
 ## Moveset change
 

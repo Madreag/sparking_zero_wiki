@@ -11,7 +11,14 @@ const tierStyles: Record<string, string> = {
   A: "bg-ki/20 text-ki border-ki/40",
   B: "bg-time/20 text-time border-time/40",
   C: "bg-surface-2 text-muted border-border",
+  D: "bg-danger/10 text-danger border-danger/30",
+  unranked: "bg-surface-2 text-muted border-border",
   situational: "bg-surface-2 text-muted border-border",
+};
+
+const tierLabels: Record<string, string> = {
+  situational: "Situational",
+  unranked: "Unranked",
 };
 
 export function TierBadge({ tier }: { tier?: string }) {
@@ -19,7 +26,7 @@ export function TierBadge({ tier }: { tier?: string }) {
   const cls = tierStyles[tier] ?? tierStyles.C;
   return (
     <span className={`inline-block rounded border px-1.5 py-0.5 text-xs font-medium ${cls}`}>
-      {tier === "situational" ? "Situational" : `${tier}-tier`}
+      {tierLabels[tier] ?? `${tier}-tier`}
     </span>
   );
 }

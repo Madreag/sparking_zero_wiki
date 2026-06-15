@@ -55,7 +55,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
       {t.summary && <p className="max-w-3xl text-muted">{t.summary}</p>}
 
       {t.body && (
-        <div className="prose max-w-none text-sm" dangerouslySetInnerHTML={{ __html: renderMarkdown(t.body) }} />
+        <div className="prose max-w-none text-sm" dangerouslySetInnerHTML={{ __html: renderMarkdown(t.body, { excludeHref: `/transformations/${t.slug}` }) }} />
       )}
 
       <div className="flex flex-wrap items-center justify-between gap-2 border-t border-border pt-4 text-xs text-muted">

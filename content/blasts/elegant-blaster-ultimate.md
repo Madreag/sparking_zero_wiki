@@ -26,7 +26,7 @@ sources:
 **Elegant Blaster** is a **Beam**-class Ultimate Blast costing **50,000 ki energy**.
 - **In Sparking! Mode** — only usable during Sparking! Mode *[datamined]*
 - **Played after a hit** — connects as a follow-up after the initial hit lands *[datamined]*
-- **Datamined power: 12,000** (projectile/beam values vs 40,000-HP standard cast; chip values in the table) *[datamined]*
+- **Datamined power: 12,000** (per-hit datamined Power/BeamPower where the asset overrides defaults — projectile, beam, or melee — vs the 40,000-HP standard cast; chip in the table) *[datamined]*
 - Also exists as a separate **super** for other fighters: [[elegant-blaster-super\|Elegant Blaster (super)]]
 
 Power/chip in the table above are the move's datamined projectile values where the asset overrides defaults; '—' means the move inherits its class default (typical Beam supers land ~4,000–6,000 total on a 40,000-HP fighter). Trigger ki is the discounted cost when fired as a combo follow-up. See [[health-and-damage]] and [[ki-and-charging]].

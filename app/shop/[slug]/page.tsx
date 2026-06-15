@@ -63,7 +63,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
       </div>
 
       {c.body && (
-        <div className="prose max-w-none text-sm" dangerouslySetInnerHTML={{ __html: renderMarkdown(c.body) }} />
+        <div className="prose max-w-none text-sm" dangerouslySetInnerHTML={{ __html: renderMarkdown(c.body, { excludeHref: `/shop/${c.slug}` }) }} />
       )}
 
       <div className="flex flex-wrap items-center justify-between gap-2 border-t border-border pt-4 text-xs text-muted">

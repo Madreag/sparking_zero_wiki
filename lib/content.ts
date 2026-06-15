@@ -154,7 +154,13 @@ export function getGlossaryTerm(slug: string) {
 }
 
 export function normalizeSlug(s: string): string {
-  return s.trim().toLowerCase().replace(/\s+/g, "-");
+  // Must mirror scripts/gen_content.py `slugify` exactly, or [[wikilinks]] typed
+  // with the display name (punctuation/accents) won't resolve to the generated slug.
+  return s
+    .toLowerCase()
+    .replace(/['’!.]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
 }
 
 /**

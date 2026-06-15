@@ -19,6 +19,14 @@ users:
     kiCost: 30000
     triggerKiCost: 15000
     notes: "SPM2"
+  - character: "Gohan (Super Hero)"
+    characterSlug: "gohan-super-hero"
+    kiCost: 30000
+    triggerKiCost: 15000
+    category: "Rush"
+    tags:
+      - "Played after a hit"
+    notes: "SPM2"
   - character: "Gotenks"
     characterSlug: "gotenks"
     kiCost: 30000
@@ -47,7 +55,7 @@ users:
     tags:
       - "Played after a hit"
     notes: "SPM2"
-summary: "Rush-class super · 8 user(s) · ki cost 30,000"
+summary: "Rush-class super · 9 user(s) · ki cost 30,000"
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

@@ -16,7 +16,7 @@ sources:
   - "game files (CUE4Parse extract, Steam build 22517964, 2026-06-05)"
 statChanges: "Ki charge speed: 7 → 8 (+1); Ki auto-recovery: 1,750/s → 1,500/s (-250/s)"
 ---
-**Gohan Black → Ultimate Gohan Black** (in-battle transformation) — all numbers datamined from CharacterData.
+**Gohan Black → Ultimate Gohan Black** (in-battle transformation) — stock cost, HP recovery and stat deltas are datamined from CharacterData.
 
 | Parameter | Value |
 |---|---|

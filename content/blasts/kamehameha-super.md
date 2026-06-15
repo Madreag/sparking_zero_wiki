@@ -38,6 +38,11 @@ users:
     kiCost: 30000
     triggerKiCost: 30000
     notes: "SPM1"
+  - character: "Krillin"
+    characterSlug: "krillin"
+    kiCost: 30000
+    triggerKiCost: 30000
+    notes: "SPM1"
   - character: "Pan (GT)"
     characterSlug: "pan-gt"
     kiCost: 30000
@@ -48,7 +53,7 @@ users:
     kiCost: 30000
     triggerKiCost: 30000
     notes: "SPM1"
-summary: "Beam-class super · 7 user(s) · ki cost 30,000 · datamined damage up to 4,560"
+summary: "Beam-class super · 8 user(s) · ki cost 30,000 · datamined damage up to 4,560"
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"
@@ -60,6 +65,6 @@ sources:
 
 **Kamehameha** is a **Beam**-class Super (Blast 2) costing **30,000 ki energy**.
 - **Chargeable** — hold the input to charge for more damage *[datamined]*
-- **Datamined power: 4,560** (projectile/beam values vs 40,000-HP standard cast; chip values in the table) *[datamined]*
+- **Datamined power: 4,560** (per-hit datamined Power/BeamPower where the asset overrides defaults — projectile, beam, or melee — vs the 40,000-HP standard cast; chip in the table) *[datamined]*
 
 Power/chip in the table above are the move's datamined projectile values where the asset overrides defaults; '—' means the move inherits its class default (typical Beam supers land ~4,000–6,000 total on a 40,000-HP fighter). Trigger ki is the discounted cost when fired as a combo follow-up. See [[health-and-damage]] and [[ki-and-charging]].

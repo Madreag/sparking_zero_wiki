@@ -1,8 +1,8 @@
-import fs from "node:fs";
-import path from "node:path";
 import Link from "next/link";
 import { fmtNum } from "@/lib/formulas";
 import { CURRENT_VERSION } from "@/lib/version";
+import constantsData from "@/data-mined/system_constants.json";
+import ranksData from "@/data-mined/ranks.json";
 
 export const metadata = { title: "Stats & System Constants" };
 
@@ -28,10 +28,6 @@ type Constants = {
   genericKiBlasts: GenericBullet[];
 };
 type Rank = { id: string; name: string | null };
-
-function readJson<T>(rel: string): T {
-  return JSON.parse(fs.readFileSync(path.join(process.cwd(), rel), "utf8")) as T;
-}
 
 function DistTable({
   title,
@@ -74,8 +70,10 @@ function DistTable({
 }
 
 export default function Page() {
-  const c = readJson<Constants>("data-mined/system_constants.json");
-  const ranks = readJson<Rank[]>("data-mined/ranks.json");
+  // Static imports keep Next's file-tracer from conservatively bundling the whole
+  // project (incl. data-mined/raw/) the way a process.cwd()+dynamic-path read did.
+  const c = constantsData as unknown as Constants;
+  const ranks = ranksData as unknown as Rank[];
 
   return (
     <div className="space-y-8">
