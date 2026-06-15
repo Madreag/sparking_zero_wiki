@@ -54,6 +54,8 @@ moveset:
       - "Rush"
       - "In Sparking! Mode"
       - "Played after a hit"
+dpTier: "S"
+dpScore: 21.3
 playable: true
 playstyle: "Android drain zoner"
 strengths:

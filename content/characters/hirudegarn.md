@@ -47,6 +47,7 @@ moveset:
       - "Beam"
       - "In Sparking! Mode"
       - "Played after a hit"
+dpTier: "A"
 playable: true
 playstyle: "Armored giant bruiser"
 strengths:

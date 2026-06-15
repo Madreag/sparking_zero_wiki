@@ -14,6 +14,7 @@ type Meta = {
   singles: TierBand[];
   dp: TierBand[];
   counters: { slug: string; name: string; beats: string[]; losesTo: string[]; why: string }[];
+  unmatched?: string[];
 };
 
 export default function Page() {
@@ -46,7 +47,13 @@ export default function Page() {
           .
         </p>
       </header>
-      <MetaBoard singles={meta.singles} dp={meta.dp} counters={meta.counters} nameOf={nameOf} />
+      <MetaBoard
+        singles={meta.singles}
+        dp={meta.dp}
+        counters={meta.counters}
+        unmatched={meta.unmatched}
+        nameOf={nameOf}
+      />
     </div>
   );
 }

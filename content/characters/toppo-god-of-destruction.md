@@ -50,11 +50,12 @@ moveset:
       - "In Sparking! Mode"
       - "Unguardable"
       - "Played after a hit"
-tier: "S"
+tier: "Z"
+singlesScore: 128
 playable: true
 playstyle: "Hakai armor anchor"
 strengths:
-  - "S-tier Singles (#11, 128.0k): super-armor and God-of-Destruction raw power"
+  - "S-tier Singles (#11, 128.0): super-armor and God-of-Destruction raw power"
   - "2,000 ki auto-recovery sustains his heavy supers"
   - "Hakai Aura S2 (3 stock) is a destruction-energy threat; Resolution S1 (free) control"
   - "Destruction Flash (20,000 ki) and Sphere of Destruction (30,000 ki); Super Large Sphere of Destruction ult (50,000 ki)"
@@ -63,7 +64,7 @@ weaknesses:
   - "Armor doesn't cover everything; vulnerable to Super Counters"
   - "Hakai Aura punishable if read"
 howToFight: "Break his armor with ~2f Super Counters and Perception (2 stock) rather than trading. Don't sit in front of Hakai threats — stay mobile and punish whiffed Hakai Aura. Win the ki war to keep his 50,000-ki ult offline; like all GoD anchors, patience and precise counters beat the armor."
-summary: "DP8 Toppo God of Destruction; giant-ish (null HP), 2,000 ki recovery, Hakai Aura (3 stock), Sphere of Destruction; S-tier (#11, 128.0k), armor anchor."
+summary: "DP8 Toppo God of Destruction; giant-ish (null HP), 2,000 ki recovery, Hakai Aura (3 stock), Sphere of Destruction; S-tier (#11, 128.0), armor anchor."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

@@ -54,7 +54,7 @@ moveset:
       - "Fire"
       - "In Sparking! Mode"
       - "Played after a hit"
-tier: "A"
+tier: "S"
 playable: true
 playstyle: "Buffing armor anchor"
 strengths:

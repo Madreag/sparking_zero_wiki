@@ -59,6 +59,7 @@ moveset:
       - "Explosive Wave"
       - "In Sparking! Mode"
       - "Played after a hit"
+dpTier: "A"
 playable: true
 playstyle: "Fusion-ladder rushdown"
 strengths:

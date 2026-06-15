@@ -53,7 +53,7 @@ moveset:
       - "Rush"
       - "In Sparking! Mode"
       - "Played after a hit"
-tier: "A"
+tier: "S"
 playable: true
 playstyle: "Rushdown finisher"
 strengths:

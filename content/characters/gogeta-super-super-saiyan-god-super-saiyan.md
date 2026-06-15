@@ -51,11 +51,13 @@ moveset:
   - name: "Ultimate Kamehameha"
     type: "ultimate"
     kiCost: 50000
-tier: "S"
+tier: "Z"
+dpTier: "S"
+singlesScore: 132.7
 playable: true
 playstyle: "Spacing rushdown"
 strengths:
-  - "S-tier Singles (132.7k) fusion with Ultimate Kamehameha 50,000-ki ult and Meteor Explosion speed-impact rush (15,000 on trigger)"
+  - "S-tier Singles (132.7) fusion with Ultimate Kamehameha 50,000-ki ult and Meteor Explosion speed-impact rush (15,000 on trigger)"
   - "Stardust Barrier (1 stock — cheapest defensive skill in the game) for a near-free block"
   - "Instant Transmission for teleport mix-ups"
   - "8.0 ki charge / 1,500/s recovery"
@@ -64,7 +66,7 @@ weaknesses:
   - "DP10 — max cost"
   - "No auto-dodge; leans on Stardust Barrier and spacing rather than evasion"
 howToFight: "Post-nerf his Smash Ki Blast is weaker, so contest neutral instead of fearing chip. Bait the cheap Stardust Barrier then strike after it drops. Vanish the Meteor Explosion rush and respect Ultimate Kamehameha on knockdown."
-summary: "DP10 Gogeta (Super) SSGSS: S-tier Singles (132.7k); Stardust Blaster (30,000 ki) + Ultimate Kamehameha 50,000-ki ult; nerfed May 2026 (Smash Ki Blast damage + homing cut)."
+summary: "DP10 Gogeta (Super) SSGSS: S-tier Singles (132.7); Stardust Blaster (30,000 ki) + Ultimate Kamehameha 50,000-ki ult; nerfed May 2026 (Smash Ki Blast damage + homing cut)."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

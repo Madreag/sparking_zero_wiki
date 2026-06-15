@@ -6,14 +6,31 @@ export function fmtPct(n: number): string {
   return `${n > 0 ? "+" : ""}${n}%`;
 }
 
-const tierStyles: Record<string, string> = {
-  S: "bg-aura/20 text-aura border-aura/40",
-  A: "bg-ki/20 text-ki border-ki/40",
-  B: "bg-time/20 text-time border-time/40",
-  C: "bg-surface-2 text-muted border-border",
-  D: "bg-danger/10 text-danger border-danger/30",
-  unranked: "bg-surface-2 text-muted border-border",
-  situational: "bg-surface-2 text-muted border-border",
+// Single source of truth for tier colours (Z is the apex band, above S). Reused by
+// the roster table, compare tool, meta board and detail pages so the scale is consistent.
+export const TIER_TONE: Record<string, string> = {
+  Z: "border-aura/70 bg-aura/25 text-aura ring-1 ring-inset ring-aura/30",
+  S: "border-aura/50 bg-aura/15 text-aura",
+  A: "border-ki/50 bg-ki/15 text-ki",
+  B: "border-time/50 bg-time/15 text-time",
+  C: "border-border bg-surface-2 text-muted",
+  D: "border-danger/30 bg-danger/10 text-danger",
+  unranked: "border-border bg-surface-2 text-muted",
+  situational: "border-border bg-surface-2 text-muted",
+};
+
+export function tierTone(tier?: string): string {
+  return TIER_TONE[tier ?? ""] ?? TIER_TONE.C;
+}
+
+/** Tier rank for sorting (Z best → D worst; unranked/missing last). */
+export const TIER_RANK: Record<string, number> = {
+  Z: 0,
+  S: 1,
+  A: 2,
+  B: 3,
+  C: 4,
+  D: 5,
 };
 
 const tierLabels: Record<string, string> = {
@@ -21,12 +38,39 @@ const tierLabels: Record<string, string> = {
   unranked: "Unranked",
 };
 
-export function TierBadge({ tier }: { tier?: string }) {
+export function TierBadge({ tier, mode }: { tier?: string; mode?: "Singles" | "DP" }) {
   if (!tier) return null;
-  const cls = tierStyles[tier] ?? tierStyles.C;
+  const label = tierLabels[tier] ?? `${tier}-tier`;
   return (
-    <span className={`inline-block rounded border px-1.5 py-0.5 text-xs font-medium ${cls}`}>
-      {tierLabels[tier] ?? `${tier}-tier`}
+    <span
+      className={`inline-flex items-center gap-1 rounded border px-1.5 py-0.5 text-xs font-medium ${tierTone(tier)}`}
+    >
+      {mode && <span className="text-[9px] font-semibold uppercase tracking-wide opacity-70">{mode}</span>}
+      {label}
+    </span>
+  );
+}
+
+/** A small "community" / "datamined" provenance marker for an individual value. */
+export function ProvenanceTag({ kind }: { kind: "community" | "datamined" | "official" }) {
+  const tone =
+    kind === "datamined"
+      ? "text-ki/90"
+      : kind === "official"
+        ? "text-good/90"
+        : "text-muted";
+  const title =
+    kind === "datamined"
+      ? "Straight from the game files"
+      : kind === "official"
+        ? "From official patch notes"
+        : "Community-sourced — not in the game files; see sources";
+  return (
+    <span
+      title={title}
+      className={`rounded bg-surface-2 px-1 py-px text-[9px] font-medium uppercase tracking-wide ${tone}`}
+    >
+      {kind}
     </span>
   );
 }

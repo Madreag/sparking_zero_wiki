@@ -107,6 +107,20 @@ def main() -> None:
     transforms: list = load(DM / "transformations.json", [])
 
     enrich = load(DM / "enrichment" / "characters.json", {}) or {}
+
+    # Two-axis community tiers from the meta board: Singles band + DP-mode band,
+    # keyed by character slug (authoritative for tier placement; enrichment is fallback).
+    meta = load(DM / "meta.json", {}) or {}
+    singles_tier: dict[str, dict] = {}
+    dp_tier: dict[str, dict] = {}
+    for band in meta.get("singles", []):
+        for ent in band.get("entries", []):
+            if ent.get("slug"):
+                singles_tier[ent["slug"]] = {"tier": band["tier"], "score": ent.get("score")}
+    for band in meta.get("dp", []):
+        for ent in band.get("entries", []):
+            if ent.get("slug"):
+                dp_tier[ent["slug"]] = {"tier": band["tier"], "score": ent.get("score")}
     # strengths/weaknesses overlays (sw_a = ids < 0500, sw_b = ids >= 0500)
     for sw_file in ("sw_a.json", "sw_b.json"):
         for cid, sw in (load(DM / "enrichment" / sw_file, {}) or {}).items():
@@ -297,7 +311,10 @@ def main() -> None:
             or (f"Shop — {fmt(c['shopPrice'])} Zeni" if c.get("shopPrice") else None),
             "transformsTo": transforms_to or e.get("transformsTo", []),
             "moveset": moveset,
-            "tier": e.get("tier"),
+            "tier": singles_tier.get(slugs[cid], {}).get("tier") or e.get("tier"),
+            "dpTier": dp_tier.get(slugs[cid], {}).get("tier"),
+            "singlesScore": singles_tier.get(slugs[cid], {}).get("score"),
+            "dpScore": dp_tier.get(slugs[cid], {}).get("score"),
             "playable": bool(e),
             "playstyle": e.get("playstyle"),
             "strengths": e.get("strengths", []),

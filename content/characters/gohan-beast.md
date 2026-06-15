@@ -54,11 +54,14 @@ moveset:
       - "Rush"
       - "In Sparking! Mode"
       - "Played after a hit"
-tier: "S"
+tier: "Z"
+dpTier: "Z"
+singlesScore: 128.7
+dpScore: 33.9
 playable: true
 playstyle: "Best all-around carry"
 strengths:
-  - "The premier dual-meta DLC carry: #10 Singles (128.7k) AND #1 DP value (33.9k) — elite in both modes"
+  - "The premier dual-meta DLC carry: #10 Singles (128.7) AND #1 DP value (33.9) — elite in both modes"
   - "2,000 ki auto-recovery keeps his kit fully funded"
   - "Beast Sense S1 (free) is a strong evasive/counter read; Guess It's My Turn S2 (4 stock) no-auto-guard damage buff"
   - "Super Explosive Ray (30,000 ki) and speed-impact Explosive Flash (40,000 ki / 20,000 trigger); Special Beam Cannon ult (50,000 ki)"
@@ -67,7 +70,7 @@ weaknesses:
   - "No super-armor; relies on Beast Sense reads to defend"
   - "Guess It's My Turn punishable on activation"
 howToFight: "Beast Sense is his defensive crutch — bait it with staggered pressure, then punish the whiff. Don't feed Guess It's My Turn (4-stock, no-auto-guard) reads. He has no armor, so ~2f Super Counters and Perception (2 stock) break his turns; starve ki to keep Explosive Flash and the ult offline. Respect his damage — one clean confirm hurts."
-summary: "DP9 Gohan Beast; giant-ish (null HP), 2,000 ki recovery, Beast Sense + Guess It's My Turn (4 stock), Explosive Flash 40k-ki; best dual-meta pick (#10 Singles 128.7k, #1 DP 33.9k)."
+summary: "DP9 Gohan Beast; giant-ish (null HP), 2,000 ki recovery, Beast Sense + Guess It's My Turn (4 stock), Explosive Flash 40k-ki; best dual-meta pick (#10 Singles 128.7, #1 DP 33.9)."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

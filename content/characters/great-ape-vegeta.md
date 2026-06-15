@@ -53,7 +53,7 @@ moveset:
     type: "ultimate"
     kiCost: 50000
     damage: 14000
-tier: "C"
+tier: "B"
 playable: true
 playstyle: "Giant AoE wall"
 strengths:

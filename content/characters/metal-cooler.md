@@ -49,7 +49,9 @@ moveset:
   - name: "Supernova"
     type: "ultimate"
     kiCost: 50000
-tier: "A"
+tier: "S"
+dpTier: "A"
+singlesScore: 116.4
 playable: true
 playstyle: "Regen/teleport android"
 strengths:
@@ -57,13 +59,13 @@ strengths:
   - "Instant Transmission S1 (free) gives true teleport mobility and escape"
   - "Top-bracket 2,000 ki auto-recovery (android trait) keeps supers funded"
   - "Lock-On Buster super at 40,000 ki is a homing heavy hit; Supernova ult at 50,000 ki"
-  - "A-tier Singles (116.4k) on the strength of the revival/regen kit"
+  - "A-tier Singles (116.4) on the strength of the revival/regen kit"
 weaknesses:
   - "Still only 40,000 HP — not a tank, leans on regen to survive"
   - "Regeneration costs 4 stock and is no-auto-guard — punishable on use"
   - "No raw armor; loses straight trades to berserkers"
 howToFight: "Punish Regeneration: it's a 4-stock no-auto-guard animation — catch it and you negate the heal plus the investment. He'll Instant Transmission out of pressure, so bait the teleport with a delayed string then re-engage. Burn his ki to keep Lock-On Buster and Supernova offline; a 40,000-HP body without sustain dies fast."
-summary: "DP7 Metal Cooler; 40k HP but best-in-range 2,000 ki recovery, Regeneration (4 stock) heal + Instant Transmission; A-tier (116.4k)."
+summary: "DP7 Metal Cooler; 40k HP but best-in-range 2,000 ki recovery, Regeneration (4 stock) heal + Instant Transmission; A-tier (116.4)."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

@@ -61,7 +61,7 @@ moveset:
       - "Fire"
       - "In Sparking! Mode"
     notes: "chip 460"
-tier: "C"
+tier: "B"
 playable: true
 playstyle: "Beam zoner"
 strengths:

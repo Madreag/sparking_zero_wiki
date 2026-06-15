@@ -20,11 +20,13 @@ export function MetaBoard({
   singles,
   dp,
   counters,
+  unmatched,
   nameOf,
 }: {
   singles: TierBand[];
   dp: TierBand[];
   counters: Counter[];
+  unmatched?: string[];
   nameOf: Record<string, string>;
 }) {
   const [tab, setTab] = useState<"singles" | "dp">("singles");
@@ -74,6 +76,16 @@ export function MetaBoard({
           );
         })}
       </div>
+
+      <p className="text-xs text-muted">
+        Number after each fighter = community model score ({tab === "singles" ? "raw 1v1 power, higher is stronger" : "points of value per DP spent"}).
+        {tab === "singles" && unmatched && unmatched.length > 0 && (
+          <>
+            {" "}
+            <span className="font-semibold text-ink">Not individually ranked:</span> {unmatched.join("; ")}.
+          </>
+        )}
+      </p>
 
       {tab === "singles" && counters.length > 0 && (
         <section className="space-y-2">

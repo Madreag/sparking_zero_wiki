@@ -51,6 +51,8 @@ moveset:
   - name: "Big Bang Attack"
     type: "ultimate"
     kiCost: 50000
+dpTier: "Z"
+dpScore: 24.8
 playable: true
 playstyle: "Mini SS2 (AIS)"
 strengths:

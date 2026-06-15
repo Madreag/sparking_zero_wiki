@@ -53,7 +53,7 @@ moveset:
     type: "ultimate"
     kiCost: 50000
     damage: 13000
-tier: "B"
+tier: "A"
 playable: true
 playstyle: "Rushdown bruiser"
 strengths:

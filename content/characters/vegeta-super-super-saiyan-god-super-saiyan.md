@@ -50,7 +50,8 @@ moveset:
       - "Unguardable"
       - "Played after a hit"
       - "You also take damage"
-tier: "B"
+tier: "A"
+dpTier: "A"
 playable: true
 playstyle: "Beam bruiser"
 strengths:

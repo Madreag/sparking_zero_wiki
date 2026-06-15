@@ -19,10 +19,10 @@ export function pctChange(oldVal: number, newVal: number): string {
   return `${d > 0 ? "+" : ""}${d.toFixed(1)}%`;
 }
 
-/** Damage per ki bar spent (ultimates ~3 bars, supers ~1-2). */
+/** Damage per ki BAR spent (10,000 energy = 1 bar; ultimates cost ~5 bars, supers ~2-3). */
 export function dmgPerKi(damage?: number | null, kiCost?: number | null): number | null {
   if (!damage || !kiCost) return null;
-  return Math.round(damage / kiCost);
+  return Math.round(damage / (kiCost / 10000));
 }
 
 /** Damage per DP — the core team-builder value metric. */

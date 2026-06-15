@@ -49,6 +49,7 @@ moveset:
       - "Beam"
       - "In Sparking! Mode"
       - "Played after a hit"
+dpTier: "S"
 playable: true
 playstyle: "All-rounder rushdown"
 strengths:

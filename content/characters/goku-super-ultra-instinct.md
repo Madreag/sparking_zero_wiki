@@ -54,12 +54,15 @@ moveset:
       - "Rush"
       - "In Sparking! Mode"
       - "Played after a hit"
-tier: "S"
+tier: "Z"
+dpTier: "C"
+singlesScore: 134.4
+dpScore: 15.5
 playable: true
 playstyle: "Auto-dodge counter god"
 strengths:
   - "Ultra Movement passive auto-dodge — evades melee/blast without spending stock (best defensive engine in the game)"
-  - "S-tier Singles, sparkingzerometa 134.4k — top-8 standardized-HP pick"
+  - "S-tier Singles, sparkingzerometa 134.4 — top-8 standardized-HP pick"
   - "Supreme Kamehameha 50,000-ki ultimate plus Ultra Barrage (40,000-ki speed-impact rush, 20,000 on trigger)"
   - "Slow 6.0 ki charge offset by 2,000/s recovery and constant evasion pressure"
 weaknesses:
@@ -67,7 +70,7 @@ weaknesses:
   - "DP9 — expensive, weak points-per-DP in the 15-DP queue"
   - "No transform/heal; once the dodge is solved he has only 40k-equivalent durability"
 howToFight: "Do not throw raw strings into the auto-dodge — bait it, then use Rush Chain (post-May-2026 it beats the dodge) or grab. Pressure his slow 6.0 ki charge by forcing blocks so he can't reach Ultra Kamehameha. Spend Perception (2 stock) on his Ultra Barrage rush rather than mashing into the evade."
-summary: "DP9 Ultra Instinct: S-tier Singles (sparkingzerometa 134.4k) on passive auto-dodge; Ultra Kamehameha 30,000-ki + Supreme Kamehameha 50,000-ki ult; nerfed May 2026 but still elite."
+summary: "DP9 Ultra Instinct: S-tier Singles (sparkingzerometa 134.4) on passive auto-dodge; Ultra Kamehameha 30,000-ki + Supreme Kamehameha 50,000-ki ult; nerfed May 2026 but still elite."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

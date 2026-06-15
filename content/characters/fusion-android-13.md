@@ -56,12 +56,15 @@ moveset:
       - "In Sparking! Mode"
       - "Unguardable"
       - "Played after a hit"
-tier: "S"
+tier: "Z"
+dpTier: "Z"
+singlesScore: 125.2
+dpScore: 24.7
 playable: true
 playstyle: "Armored fusion anchor"
 strengths:
   - "Triple-class Giant/Android/Fusion: 45,000 HP, giant armor, plus android 2,000 ki recovery"
-  - "Surprise high-tier — #13 Singles (125.2k) AND strong 24.7k DP value"
+  - "Surprise high-tier — #13 Singles (125.2) AND strong 24.7 DP value"
   - "Android Barrier S1 (3 stock) gives an on-demand absorbing shield"
   - "S.S. Deadly Bomber (30,000 ki) and Super Explosive Wave (40,000 ki) plus S.S. Deadly Hammer ult (50,000 ki)"
   - "Pump Up S2 (free) stacks more armored damage"
@@ -70,7 +73,7 @@ weaknesses:
   - "8.0/0.0 charge profile leans entirely on auto-recovery"
   - "Barrier is its main escape and costs 3 stock"
 howToFight: "Treat it like a giant: standard charge Blasts now damage and knock it back, so zone it out. Force the 3-stock Android Barrier, then pressure on its cooldown. Avoid grabs (giant immunity) and don't trade into the 45,000-HP armor — punish whiffed swings during its long recovery."
-summary: "DP7 Giant/Android fusion; 45k HP, surprise S-tier (#13, 125.2k / 24.7k DP), Android Barrier (3 stock) + 2,000 ki recovery."
+summary: "DP7 Giant/Android fusion; 45k HP, surprise S-tier (#13, 125.2 / 24.7 DP), Android Barrier (3 stock) + 2,000 ki recovery."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

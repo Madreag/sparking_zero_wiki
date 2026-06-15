@@ -53,20 +53,23 @@ moveset:
       - "Rush"
       - "In Sparking! Mode"
       - "Played after a hit"
-tier: "S"
+tier: "Z"
+dpTier: "C"
+singlesScore: 135.4
+dpScore: 13.5
 playable: true
 playstyle: "Auto-dodge deity"
 strengths:
   - "Elite 2,250 ki recovery (highest bracket) plus 45,000 HP — never starved, hard to kill"
-  - "Best-in-class mobility and auto-dodge defense; #6 Singles (135.4k)"
+  - "Best-in-class mobility and auto-dodge defense; #6 Singles (135.4)"
   - "Barrier S1 (3 stock) absorbing shield + Snack Time S2 (4 stock) utility"
   - "Prelude to Destruction (30,000 ki), Symphonic Destruction (20,000 ki), Epilogue to Destruction ult (50,000 ki)"
 weaknesses:
   - "May-2026: Rush Chain now executes even through his auto-dodge — the dodge is no longer un-pressurable"
   - "Symphonic Destruction is now high-speed-evadable"
-  - "DP10, awful DP efficiency (13.5k); no super-armor — purely evasive"
+  - "DP10, awful DP efficiency (13.5); no super-armor — purely evasive"
 howToFight: "Use Rush Chain — post-May-2026 it lands even while he's auto-dodging, the key counter to Whis. High-speed-evade his Symphonic Destruction. Force out the 3-stock Barrier, then pressure on cooldown. He has 45,000 HP and elite ki, so you won't out-resource him — you out-read him with Rush Chain and Super Counters (~2f)."
-summary: "DP10 Angel; 45k HP, top 2,250 ki recovery, auto-dodge + Barrier (3 stock), Symphonic Destruction; #6 Singles (135.4k), now Rush-Chain-counterable."
+summary: "DP10 Angel; 45k HP, top 2,250 ki recovery, auto-dodge + Barrier (3 stock), Symphonic Destruction; #6 Singles (135.4), now Rush-Chain-counterable."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

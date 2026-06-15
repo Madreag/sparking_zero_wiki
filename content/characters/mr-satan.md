@@ -57,6 +57,7 @@ moveset:
       - "In Sparking! Mode"
       - "Played after a hit"
 tier: "D"
+singlesScore: 8.7
 playable: true
 playstyle: "Joke / utility"
 strengths:
@@ -65,11 +66,11 @@ strengths:
   - "Mr. Buu Arrives! 50,000-ki ultimate; Royal Raiment?! utility"
   - "False Courage for instant ki"
 weaknesses:
-  - "Lowest Singles score in the game (8.7k); 30,000 HP — melts in two combos"
+  - "Lowest Singles score in the game (8.7); 30,000 HP — melts in two combos"
   - "DP1 but brings no real combat value; Ki-recovery nerfed May 2026"
   - "No transform, no auto-dodge, no heal"
 howToFight: "Just attack — 30,000 HP and no evasion means he dies almost immediately. The only thing to respect is a desperation Present Bomb gimmick at point-blank. Otherwise overwhelm him."
-summary: "DP1 Mr. Satan — lowest DP in the game; 30,000 HP; weakest Singles score (8.7k); Dynamite Kick + Present Bomb speed-impact supers + Mr. Buu Arrives! 50,000-ki ult; joke pick."
+summary: "DP1 Mr. Satan — lowest DP in the game; 30,000 HP; weakest Singles score (8.7); Dynamite Kick + Present Bomb speed-impact supers + Mr. Buu Arrives! 50,000-ki ult; joke pick."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

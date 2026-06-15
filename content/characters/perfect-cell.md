@@ -45,7 +45,7 @@ moveset:
   - name: "Solar Kamehameha"
     type: "ultimate"
     kiCost: 50000
-tier: "B"
+tier: "A"
 playable: true
 playstyle: "All-rounder zoner"
 strengths:

@@ -48,6 +48,8 @@ moveset:
   - name: "Galick Doom"
     type: "ultimate"
     kiCost: 50000
+dpTier: "Z"
+dpScore: 25.1
 playable: true
 playstyle: "Mini SS3 ceiling"
 strengths:

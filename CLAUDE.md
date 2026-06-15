@@ -64,7 +64,7 @@
 | ---------- | ----- | --------------- | ----- |
 | mechanics  | 22    | episode-battles | 8     |
 | patches    | 18    | guides          | 12    |
-| dlc        | 9     | glossary        | 30    |
+| dlc        | 11    | glossary        | 30    |
 | game-modes | 12    |                 |       |
 
 

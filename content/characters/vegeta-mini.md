@@ -60,7 +60,7 @@ moveset:
   - name: "Atomic Rush"
     type: "ultimate"
     kiCost: 50000
-tier: "C"
+tier: "B"
 playable: true
 playstyle: "Revival transform base"
 strengths:

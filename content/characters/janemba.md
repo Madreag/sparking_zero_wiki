@@ -61,7 +61,7 @@ moveset:
       - "In Sparking! Mode"
       - "Unguardable"
       - "Played after a hit"
-tier: "C"
+tier: "B"
 playable: true
 playstyle: "Unblockable-poke base"
 strengths:

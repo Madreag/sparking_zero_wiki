@@ -58,7 +58,7 @@ moveset:
       - "Beam"
       - "In Sparking! Mode"
       - "Played after a hit"
-tier: "B"
+tier: "A"
 playable: true
 playstyle: "Beam zoner"
 strengths:

@@ -52,7 +52,7 @@ moveset:
       - "Rush"
       - "In Sparking! Mode"
       - "Played after a hit"
-tier: "C"
+tier: "B"
 playable: true
 playstyle: "Barrier zoner"
 strengths:

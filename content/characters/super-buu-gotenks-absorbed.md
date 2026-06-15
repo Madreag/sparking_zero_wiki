@@ -52,7 +52,8 @@ moveset:
   - name: "Super Kamehameha"
     type: "ultimate"
     kiCost: 50000
-tier: "A"
+tier: "S"
+singlesScore: 118.6
 playable: true
 playstyle: "Tanky regen zoner"
 strengths:

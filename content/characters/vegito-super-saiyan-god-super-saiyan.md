@@ -47,11 +47,14 @@ moveset:
   - name: "God Final Kamehameha"
     type: "ultimate"
     kiCost: 50000
-tier: "S"
+tier: "Z"
+dpTier: "S"
+singlesScore: 152.8
+dpScore: 21.2
 playable: true
 playstyle: "Premium fusion rushdown"
 strengths:
-  - "#1 Singles overall (152.8k) — elite fusion normals, among the fastest strings in the game"
+  - "#1 Singles overall (152.8) — elite fusion normals, among the fastest strings in the game"
   - "God Final Kamehameha 50,000-ki ultimate is a catastrophic burst finisher"
   - "Omega Finishing Blow speed-impact rush (15,000 ki on trigger) + Full-Power Charge for instant ki"
   - "8.0 ki charge / 1,500/s recovery feeds the high-ki kit easily"
@@ -60,7 +63,7 @@ weaknesses:
   - "No auto-dodge defensive skill — relies on offense and vanish reads"
   - "Premium fusion is a single pick: lose the body and you lose half your DP"
 howToFight: "You cannot out-neutral the fusion speed — play defense, hoard Perception (2 stock) and Super Counter (free) for his strings, and punish whiffed Omega Finishing Blow rushes. Bait the God Final Kamehameha and vanish/sidestep it. Trade DP efficiency: make the DP10 body earn its cost."
-summary: "DP10 Potara fusion — #1 Singles (sparkingzerometa 152.8k); God Kamehameha 30,000-ki + God Final Kamehameha 50,000-ki ult; Omega Finishing Blow speed-impact rush."
+summary: "DP10 Potara fusion — #1 Singles (sparkingzerometa 152.8); God Kamehameha 30,000-ki + God Final Kamehameha 50,000-ki ult; Omega Finishing Blow speed-impact rush."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

@@ -63,6 +63,7 @@ moveset:
       - "Rush"
       - "In Sparking! Mode"
       - "Played after a hit"
+dpTier: "A"
 playable: true
 playstyle: "Berserker base form"
 strengths:

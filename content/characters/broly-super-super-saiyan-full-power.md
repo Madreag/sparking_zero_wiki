@@ -53,12 +53,15 @@ moveset:
       - "Beam"
       - "In Sparking! Mode"
       - "Played after a hit"
-tier: "S"
+tier: "Z"
+dpTier: "Z"
+singlesScore: 149.6
+dpScore: 29
 playable: true
 playstyle: "Tanky S-tier bruiser"
 strengths:
-  - "Premium 45,000 HP with armored normals — Broly (Super)'s ceiling form, #4 in Singles (149.6k)"
-  - "Best-in-class DP value among premiums (29.0k) — strong even on the efficiency model"
+  - "Premium 45,000 HP with armored normals — Broly (Super)'s ceiling form, #4 in Singles (149.6)"
+  - "Best-in-class DP value among premiums (29.0) — strong even on the efficiency model"
   - "Blaster Meteor super at 40,000 ki and Gigantic Cannon (30,000 ki) give heavy ranged threat"
   - "Untamed Instinct (4 stock) no-auto-guard buff + the May-2026 permanent attack buff on transform stack into huge damage"
   - "Wild Move S1 is a free defensive/movement option"
@@ -67,7 +70,7 @@ weaknesses:
   - "No Instant Transmission; dash-only mobility is readable"
   - "Buff activations are no-auto-guard, giving counter windows"
 howToFight: "Never sit in his armor — use ~2f Super Counters and Perception (2 stock) to break armored strings instead of trading into 45,000 HP. Keep maximum range and starve his ki so Blaster Meteor and the 50,000-ki ult stay offline. Vanish (≈half a ki bar) the instant he corners you; his permanent attack buff turns one combo into a round."
-summary: "DP9 armor bruiser; 45k HP, #4 Singles (149.6k)/top 29.0k DP, Blaster Meteor 40k-ki + Gigantic Catastrophe ult."
+summary: "DP9 armor bruiser; 45k HP, #4 Singles (149.6)/top 29.0 DP, Blaster Meteor 40k-ki + Gigantic Catastrophe ult."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

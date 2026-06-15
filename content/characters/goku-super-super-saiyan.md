@@ -60,6 +60,7 @@ moveset:
       - "Rush"
       - "In Sparking! Mode"
       - "Played after a hit"
+dpTier: "S"
 playable: true
 playstyle: "Evasive rushdown"
 strengths:

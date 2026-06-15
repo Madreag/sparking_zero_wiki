@@ -52,7 +52,8 @@ moveset:
   - name: "Dragon Fist"
     type: "ultimate"
     kiCost: 50000
-tier: "A"
+tier: "S"
+singlesScore: 117.8
 playable: true
 playstyle: "Mobile rushdown"
 strengths:

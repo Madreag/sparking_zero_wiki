@@ -57,6 +57,7 @@ moveset:
       - "In Sparking! Mode"
       - "Unguardable"
       - "Played after a hit"
+dpTier: "A"
 playable: true
 playstyle: "Unblockable-trap zoner"
 strengths:

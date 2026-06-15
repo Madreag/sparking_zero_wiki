@@ -57,6 +57,7 @@ moveset:
       - "In Sparking! Mode"
       - "Unguardable"
     notes: "chip 212"
+tier: "S"
 playable: true
 playstyle: "Fusion rushdown"
 strengths:

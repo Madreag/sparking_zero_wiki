@@ -56,7 +56,7 @@ moveset:
       - "Unguardable"
       - "Played after a hit"
       - "You also take damage"
-tier: "B"
+tier: "A"
 playable: true
 playstyle: "Android zoner"
 strengths:

@@ -50,6 +50,7 @@ moveset:
       - "Fire"
       - "In Sparking! Mode"
       - "Played after a hit"
+dpTier: "S"
 playable: true
 playstyle: "Armor-buff brawler"
 strengths:

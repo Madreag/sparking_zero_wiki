@@ -48,7 +48,9 @@ moveset:
       - "Played after a hit"
       - "speed-impact"
     notes: "Trigger cost 15,000 ki"
-tier: "A"
+tier: "S"
+dpTier: "A"
+singlesScore: 123.4
 playable: true
 playstyle: "Fusion rushdown"
 strengths:

@@ -54,11 +54,12 @@ moveset:
       - "Rush"
       - "In Sparking! Mode"
       - "Played after a hit"
-tier: "B"
+tier: "A"
+singlesScore: 93.4
 playable: true
 playstyle: "Sword rushdown"
 strengths:
-  - "B-tier (sparkingzerometa 93.4k Singles) sword rushdown — Final Hope Slash 50,000-ki ultimate"
+  - "B-tier (sparkingzerometa 93.4 Singles) sword rushdown — Final Hope Slash 50,000-ki ultimate"
   - "Final Flash 40,000-ki charge super + Galick Gun (30,000 ki)"
   - "Power Up to the Very Limit (4 stock) attack spike; Explosive Wave reset"
   - "8.0 ki charge / 1,500/s recovery"

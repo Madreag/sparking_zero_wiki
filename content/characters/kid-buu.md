@@ -52,6 +52,7 @@ moveset:
       - "Fire"
       - "In Sparking! Mode"
       - "Played after a hit"
+dpTier: "D"
 playable: true
 playstyle: "All-rounder rushdown"
 strengths:

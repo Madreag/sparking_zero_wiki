@@ -66,7 +66,9 @@ moveset:
       - "Rush"
       - "In Sparking! Mode"
       - "Played after a hit"
-tier: "A"
+tier: "S"
+dpTier: "S"
+singlesScore: 104
 playable: true
 playstyle: "Buffing armor anchor"
 strengths:

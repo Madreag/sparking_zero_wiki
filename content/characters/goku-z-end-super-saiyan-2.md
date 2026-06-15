@@ -55,6 +55,7 @@ moveset:
     type: "ultimate"
     kiCost: 50000
     damage: 12500
+dpTier: "A"
 playable: true
 playstyle: "All-rounder rushdown"
 strengths:

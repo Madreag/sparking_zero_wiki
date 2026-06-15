@@ -52,6 +52,8 @@ moveset:
   - name: "United Justice Stream"
     type: "ultimate"
     kiCost: 50000
+dpTier: "D"
+dpScore: 8.3
 playable: true
 playstyle: "Hyper-speed rushdown"
 strengths:
@@ -60,11 +62,11 @@ strengths:
   - "Pride Trooper Pose 2 S2 (4 stock) no-auto-guard buff"
   - "Standard 40,000 HP and 1,750 recovery"
 weaknesses:
-  - "Lowest DP score in the game (8.3k) — heavily outclassed in DP Battle"
+  - "Lowest DP score in the game (8.3) — heavily outclassed in DP Battle"
   - "No transform; fixed ceiling"
   - "Light-speed mode is his only real gimmick; punishable buffs"
 howToFight: "His speed buff makes him fast but he has no armor and only 40,000 HP — use Perception (2 stock) and ~2f Super Counters to interrupt the rushdown. Punish Pride Trooper Pose 2 (no-auto-guard). Once you catch him, he folds; don't get flustered by the speed."
-summary: "DP6 Dyspo; 40k HP, Super Maximum Light Speed Mode (free) speed buff, Justice Kick speed-impact; DP-floor (8.3k lowest)."
+summary: "DP6 Dyspo; 40k HP, Super Maximum Light Speed Mode (free) speed buff, Justice Kick speed-impact; DP-floor (8.3 lowest)."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

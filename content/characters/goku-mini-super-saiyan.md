@@ -52,6 +52,7 @@ moveset:
   - name: "Super Kamehameha"
     type: "ultimate"
     kiCost: 50000
+dpTier: "S"
 playable: true
 playstyle: "Mini mid-form"
 strengths:

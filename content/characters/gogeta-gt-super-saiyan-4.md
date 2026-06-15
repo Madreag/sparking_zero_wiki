@@ -51,11 +51,14 @@ moveset:
   - name: "Ultra Big Bang Kamehameha"
     type: "ultimate"
     kiCost: 50000
-tier: "S"
+tier: "Z"
+dpTier: "C"
+singlesScore: 151.5
+dpScore: 15.1
 playable: true
 playstyle: "Premium fusion rushdown"
 strengths:
-  - "#2 Singles (151.5k) — 'the king'; base normals outspeed many characters' Sparking-mode strings"
+  - "#2 Singles (151.5) — 'the king'; base normals outspeed many characters' Sparking-mode strings"
   - "Ultimate Impact speed-impact rush (15,000 ki on trigger) + Ultra Big Bang Kamehameha 50,000-ki ult"
   - "Wild Sense + Power Up to the Very Limit (4 stock) for evasion and a damage spike"
   - "8.0 ki charge / 1,500/s recovery"
@@ -64,7 +67,7 @@ weaknesses:
   - "Unlocked behind 120,000 Zeni (shop)"
   - "No auto-dodge engine — pure offense; relies on raw speed not defensive reads"
 howToFight: "You will lose the neutral speed race — turtle and punish. Bank Perception (2 stock) and Super Counter (free) for his rushdown, and sidestep/vanish the Ultimate Impact rush. Make the DP10 body pay by trading efficiently."
-summary: "DP10 Fusion-Dance carry — #2 Singles (151.5k); Big Bang Kamehameha (30,000 ki) + Ultra Big Bang Kamehameha 50,000-ki ult; normals faster than many chars' Sparking speed."
+summary: "DP10 Fusion-Dance carry — #2 Singles (151.5); Big Bang Kamehameha (30,000 ki) + Ultra Big Bang Kamehameha 50,000-ki ult; normals faster than many chars' Sparking speed."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

@@ -58,7 +58,10 @@ moveset:
       - "In Sparking! Mode"
       - "Unguardable"
       - "Played after a hit"
-tier: "A"
+tier: "S"
+dpTier: "C"
+singlesScore: 120.9
+dpScore: 12
 playable: true
 playstyle: "Mobility/zoning deity"
 strengths:
@@ -67,11 +70,11 @@ strengths:
   - "Verdict of Destruction S2 (4 stock) is a heavy no-auto-guard Hakai threat; Sleep S1 (4 stock) steals turns"
   - "Sphere of Destruction (30,000 ki) and speed-impact Hakai Headshot (30,000 ki / 15,000 trigger); Super Sphere ult (50,000 ki)"
 weaknesses:
-  - "DP10 — most expensive bracket, terrible DP efficiency (12.0k), eats the whole budget"
+  - "DP10 — most expensive bracket, terrible DP efficiency (12.0), eats the whole budget"
   - "Auto-reflect access only because he's DP7+; but no super-armor on normals"
   - "Both signature skills cost 4 stock — punishable on whiff"
 howToFight: "Don't get read by Verdict of Destruction or Sleep — both are 4-stock no-auto-guard reads; bait and punish the recovery. His strength is mobility/spacing, so close the gap and force melee where his 45,000 HP can still be ground down with Super Counters (~2f). Win the ki war (vanish ≈half a bar each) to keep his ult and Hakai offline."
-summary: "DP10 God of Destruction; 45k HP, 2,000 ki recovery, Sleep + Verdict of Destruction (4 stock each), Hakai Headshot; A-tier (120.9k), tournament staple."
+summary: "DP10 God of Destruction; 45k HP, 2,000 ki recovery, Sleep + Verdict of Destruction (4 stock each), Hakai Headshot; A-tier (120.9), tournament staple."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

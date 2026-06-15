@@ -51,6 +51,7 @@ moveset:
   - name: "Galick Gun"
     type: "ultimate"
     kiCost: 50000
+dpTier: "S"
 playable: true
 playstyle: "Mini mid-ladder"
 strengths:

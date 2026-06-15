@@ -47,7 +47,8 @@ moveset:
   - name: "Supernova"
     type: "ultimate"
     kiCost: 50000
-tier: "A"
+tier: "S"
+dpTier: "A"
 playable: true
 playstyle: "Unblockable armor anchor"
 strengths:

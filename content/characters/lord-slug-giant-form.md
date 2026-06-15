@@ -42,7 +42,7 @@ moveset:
       - "Beam"
       - "In Sparking! Mode"
       - "Played after a hit"
-tier: "C"
+tier: "B"
 playable: true
 playstyle: "Armored giant zoner"
 strengths:

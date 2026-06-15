@@ -57,11 +57,14 @@ moveset:
       - "Explosive Wave"
       - "In Sparking! Mode"
       - "Played after a hit"
-tier: "S"
+tier: "Z"
+dpTier: "Z"
+singlesScore: 129.1
+dpScore: 25.5
 playable: true
 playstyle: "S-tier berserker"
 strengths:
-  - "Top-bracket 45,000 HP berserker — strong in BOTH modes (#9 Singles 129.1k, 25.5k DP)"
+  - "Top-bracket 45,000 HP berserker — strong in BOTH modes (#9 Singles 129.1, 25.5 DP)"
   - "Cry of Rage S1 is unblockable + no-auto-guard for a guaranteed-style opener (activation time raised May-2026)"
   - "Berserk Rage S2 (4 stock) no-auto-guard buff stacks huge damage"
   - "Gigantic Impact (30,000 ki) and speed-impact Gigantic Throw (30,000 ki / 15,000 trigger); Berserk Blaster ult (50,000 ki)"
@@ -70,7 +73,7 @@ weaknesses:
   - "Average 1,750 ki recovery for a DP7"
   - "Berserk Rage punishable on activation"
 howToFight: "Cry of Rage is unblockable but its activation is now slower (May-2026 nerf) — react and vanish (≈half a ki bar) it, then punish. Don't trade into her 45,000 HP and damage buffs; use Super Counters (~2f) to interrupt. Punish Berserk Rage activations and starve ki to keep her ult offline."
-summary: "DP7 Kale Berserk; 45k HP, unblockable Cry of Rage + Berserk Rage (4 stock), Gigantic Throw speed-impact; #9 Singles (129.1k)/25.5k DP."
+summary: "DP7 Kale Berserk; 45k HP, unblockable Cry of Rage + Berserk Rage (4 stock), Gigantic Throw speed-impact; #9 Singles (129.1)/25.5 DP."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

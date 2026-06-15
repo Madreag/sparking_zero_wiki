@@ -17,6 +17,7 @@ export default function Page() {
       drain: c.sparkingDrainPerSec ?? null,
       stocksMax: c.maxSkillStock ?? null,
       tier: c.tier,
+      dpTier: c.dpTier,
       playstyle: c.playstyle,
       classes: c.classes,
       era: c.era,
@@ -26,6 +27,7 @@ export default function Page() {
         type: m.type,
         kiCost: m.kiCost ?? null,
         skillCost: m.skillCost ?? null,
+        damage: m.damage ?? null,
       })),
     }));
   return (

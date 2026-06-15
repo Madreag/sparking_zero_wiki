@@ -55,7 +55,9 @@ moveset:
       - "In Sparking! Mode"
       - "Unguardable"
       - "Played after a hit"
-tier: "B"
+tier: "A"
+dpTier: "C"
+dpScore: 13.9
 playable: true
 playstyle: "Boss giant anchor"
 strengths:

@@ -53,11 +53,12 @@ moveset:
       - "Explosive Wave"
       - "In Sparking! Mode"
       - "Played after a hit"
-tier: "A"
+tier: "S"
+singlesScore: 113.4
 playable: true
 playstyle: "A-tier fusion ceiling"
 strengths:
-  - "A-tier fusion ceiling (113.4k) with fast fusion-speed normals"
+  - "A-tier fusion ceiling (113.4) with fast fusion-speed normals"
   - "I'm Number One! S2 (4 stock) no-auto-guard buff for big damage"
   - "Saiyan Spirit S1 (free) charge"
   - "Gigantic Ray (30,000 ki) and speed-impact Gigantic Breaker (30,000 ki / 15,000 trigger); Gigantic Burst ult (50,000 ki)"
@@ -66,7 +67,7 @@ weaknesses:
   - "Average 1,750 ki recovery for the cost"
   - "I'm Number One! punishable on activation"
 howToFight: "Her fast fusion normals win the speed war — use Perception (2 stock) and ~2f Super Counters to interrupt rather than racing her buttons. Punish I'm Number One! (4-stock, no-auto-guard). Starve ki to keep Gigantic Burst offline; she has no escape, so corner pressure sticks."
-summary: "DP8 Kefla SS2; null-HP fusion, Saiyan Spirit + I'm Number One! (4 stock), Gigantic Breaker speed-impact; A-tier (113.4k)."
+summary: "DP8 Kefla SS2; null-HP fusion, Saiyan Spirit + I'm Number One! (4 stock), Gigantic Breaker speed-impact; A-tier (113.4)."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

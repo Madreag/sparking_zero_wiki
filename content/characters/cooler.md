@@ -48,7 +48,7 @@ moveset:
   - name: "Death Ball"
     type: "ultimate"
     kiCost: 50000
-tier: "C"
+tier: "B"
 playable: true
 playstyle: "Unblockable-poke base"
 strengths:

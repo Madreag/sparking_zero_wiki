@@ -48,7 +48,7 @@ moveset:
   - name: "Father-Son Kamehameha"
     type: "ultimate"
     kiCost: 50000
-tier: "B"
+tier: "A"
 playable: true
 playstyle: "Rushdown finisher"
 strengths:

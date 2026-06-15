@@ -57,7 +57,7 @@ moveset:
   - name: "Super Kamehameha"
     type: "ultimate"
     kiCost: 50000
-tier: "C"
+tier: "B"
 playable: true
 playstyle: "All-rounder"
 strengths:

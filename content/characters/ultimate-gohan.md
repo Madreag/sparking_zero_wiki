@@ -53,7 +53,7 @@ moveset:
       - "Rush"
       - "In Sparking! Mode"
       - "Played after a hit"
-tier: "B"
+tier: "A"
 playable: true
 playstyle: "Rushdown all-rounder"
 strengths:

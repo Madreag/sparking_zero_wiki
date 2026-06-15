@@ -45,7 +45,7 @@ const transformEntry = z.object({
 // Shared tier vocabulary across collections (characters use "unranked", skills/blasts
 // use "situational"); accept the union everywhere so a cross-collection value can't
 // crash the build on regen.
-const tierEnum = z.enum(["S", "A", "B", "C", "D", "unranked", "situational"]);
+const tierEnum = z.enum(["Z", "S", "A", "B", "C", "D", "unranked", "situational"]);
 
 export const characterSchema = z.object({
   slug: z.string(),
@@ -71,7 +71,10 @@ export const characterSchema = z.object({
   skillGaugeGains: z.record(z.string(), z.number().nullable()).optional(),
   transformsTo: z.array(transformEntry).default([]),
   moveset: z.array(moveEntry).default([]),
-  tier: tierEnum.optional(),
+  tier: tierEnum.optional(), // Singles-mode community tier (mirrors meta.json singles band)
+  dpTier: tierEnum.optional(), // DP-mode community tier (meta.json dp band)
+  singlesScore: z.number().nullable().optional(), // community model score (Singles)
+  dpScore: z.number().nullable().optional(), // community model score (DP value)
   playable: z.boolean().default(true),
   playstyle: z.string().optional(),
   strengths: z.array(z.string()).default([]),

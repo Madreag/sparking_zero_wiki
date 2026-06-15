@@ -189,11 +189,11 @@
   "howToFight": "Punish the transform animation — the 2-stock change has a 5s window where he's committed. Keep him in base form by applying constant pressure so he can't safely spend stock. Once he is UI -Sign-, switch to Rush Chain reads rather than raw strings."
  },
  "0000_51": {
-  "summary": "DP9 Ultra Instinct: S-tier Singles (sparkingzerometa 134.4k) on passive auto-dodge; Ultra Kamehameha 30,000-ki + Supreme Kamehameha 50,000-ki ult; nerfed May 2026 but still elite.",
+  "summary": "DP9 Ultra Instinct: S-tier Singles (sparkingzerometa 134.4) on passive auto-dodge; Ultra Kamehameha 30,000-ki + Supreme Kamehameha 50,000-ki ult; nerfed May 2026 but still elite.",
   "playstyle": "Auto-dodge counter god",
   "strengths": [
    "Ultra Movement passive auto-dodge — evades melee/blast without spending stock (best defensive engine in the game)",
-   "S-tier Singles, sparkingzerometa 134.4k — top-8 standardized-HP pick",
+   "S-tier Singles, sparkingzerometa 134.4 — top-8 standardized-HP pick",
    "Supreme Kamehameha 50,000-ki ultimate plus Ultra Barrage (40,000-ki speed-impact rush, 20,000 on trigger)",
    "Slow 6.0 ki charge offset by 2,000/s recovery and constant evasion pressure"
   ],
@@ -859,7 +859,7 @@
   "summary": "DP6 Future Trunks SS: B-tier; 40,000 HP, 8.0 ki charge; Galick Gun (30,000 ki) + Final Flash 40,000-ki super + Final Hope Slash 50,000-ki ult; Power Up to the Very Limit (4 stock).",
   "playstyle": "Sword rushdown",
   "strengths": [
-   "B-tier (sparkingzerometa 93.4k Singles) sword rushdown — Final Hope Slash 50,000-ki ultimate",
+   "B-tier (sparkingzerometa 93.4 Singles) sword rushdown — Final Hope Slash 50,000-ki ultimate",
    "Final Flash 40,000-ki charge super + Galick Gun (30,000 ki)",
    "Power Up to the Very Limit (4 stock) attack spike; Explosive Wave reset",
    "8.0 ki charge / 1,500/s recovery"
@@ -966,11 +966,11 @@
   "howToFight": "Pressure base Vegito before it climbs to SSGSS. No auto-dodge here, so Super Counter (free) and vanish punish his strings. Watch for the 1-stock transform into Super Vegito which adds Afterimage Strike."
  },
  "0100_01": {
-  "summary": "DP8 Super Vegito: S-tier, #12 Singles (126.9k); Final Kamehameha 40,000-ki super + Beam Sword Slash 50,000-ki ult; Afterimage Strike (3 stock).",
+  "summary": "DP8 Super Vegito: S-tier, #12 Singles (126.9); Final Kamehameha 40,000-ki super + Beam Sword Slash 50,000-ki ult; Afterimage Strike (3 stock).",
   "playstyle": "Fusion burst rushdown",
   "strengths": [
    "S-tier fusion burst — Final Kamehameha 40,000-ki super and Beam Sword Slash 50,000-ki ultimate",
-   "#12 Singles (126.9k); fast fusion normals just below SSGSS Vegito",
+   "#12 Singles (126.9); fast fusion normals just below SSGSS Vegito",
    "Afterimage Strike (3 stock) auto-dodge gives it a defensive option base Vegito lacks",
    "8.0 ki charge / 1,500/s recovery"
   ],
@@ -982,10 +982,10 @@
   "howToFight": "Land a Super Counter (free) to instantly pop his Afterimage Strike, then punish. Don't feed raw strings into the auto-dodge — bait it first. Respect Beam Sword Slash and Final Kamehameha on knockdown."
  },
  "0100_02": {
-  "summary": "DP10 Potara fusion — #1 Singles (sparkingzerometa 152.8k); God Kamehameha 30,000-ki + God Final Kamehameha 50,000-ki ult; Omega Finishing Blow speed-impact rush.",
+  "summary": "DP10 Potara fusion — #1 Singles (sparkingzerometa 152.8); God Kamehameha 30,000-ki + God Final Kamehameha 50,000-ki ult; Omega Finishing Blow speed-impact rush.",
   "playstyle": "Premium fusion rushdown",
   "strengths": [
-   "#1 Singles overall (152.8k) — elite fusion normals, among the fastest strings in the game",
+   "#1 Singles overall (152.8) — elite fusion normals, among the fastest strings in the game",
    "God Final Kamehameha 50,000-ki ultimate is a catastrophic burst finisher",
    "Omega Finishing Blow speed-impact rush (15,000 ki on trigger) + Full-Power Charge for instant ki",
    "8.0 ki charge / 1,500/s recovery feeds the high-ki kit easily"
@@ -1029,10 +1029,10 @@
   "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Perception (2 stock) or vanish the Rising Vortex rush rather than mashing into it."
  },
  "0110_02": {
-  "summary": "DP10 Fusion-Dance carry — #2 Singles (151.5k); Big Bang Kamehameha (30,000 ki) + Ultra Big Bang Kamehameha 50,000-ki ult; normals faster than many chars' Sparking speed.",
+  "summary": "DP10 Fusion-Dance carry — #2 Singles (151.5); Big Bang Kamehameha (30,000 ki) + Ultra Big Bang Kamehameha 50,000-ki ult; normals faster than many chars' Sparking speed.",
   "playstyle": "Premium fusion rushdown",
   "strengths": [
-   "#2 Singles (151.5k) — 'the king'; base normals outspeed many characters' Sparking-mode strings",
+   "#2 Singles (151.5) — 'the king'; base normals outspeed many characters' Sparking-mode strings",
    "Ultimate Impact speed-impact rush (15,000 ki on trigger) + Ultra Big Bang Kamehameha 50,000-ki ult",
    "Wild Sense + Power Up to the Very Limit (4 stock) for evasion and a damage spike",
    "8.0 ki charge / 1,500/s recovery"
@@ -1045,10 +1045,10 @@
   "howToFight": "You will lose the neutral speed race — turtle and punish. Bank Perception (2 stock) and Super Counter (free) for his rushdown, and sidestep/vanish the Ultimate Impact rush. Make the DP10 body pay by trading efficiently."
  },
  "0110_03": {
-  "summary": "DP10 Gogeta (Super) SSGSS: S-tier Singles (132.7k); Stardust Blaster (30,000 ki) + Ultimate Kamehameha 50,000-ki ult; nerfed May 2026 (Smash Ki Blast damage + homing cut).",
+  "summary": "DP10 Gogeta (Super) SSGSS: S-tier Singles (132.7); Stardust Blaster (30,000 ki) + Ultimate Kamehameha 50,000-ki ult; nerfed May 2026 (Smash Ki Blast damage + homing cut).",
   "playstyle": "Spacing rushdown",
   "strengths": [
-   "S-tier Singles (132.7k) fusion with Ultimate Kamehameha 50,000-ki ult and Meteor Explosion speed-impact rush (15,000 on trigger)",
+   "S-tier Singles (132.7) fusion with Ultimate Kamehameha 50,000-ki ult and Meteor Explosion speed-impact rush (15,000 on trigger)",
    "Stardust Barrier (1 stock — cheapest defensive skill in the game) for a near-free block",
    "Instant Transmission for teleport mix-ups",
    "8.0 ki charge / 1,500/s recovery"
@@ -1157,10 +1157,10 @@
   "howToFight": "His 30,000 HP melts — open him up once and commit. Land a Super Counter (free) to pop Afterimage Strike, then burst. In Singles his value collapses (no DP tank edge). Deny the Max Power transform with early pressure."
  },
  "0141_00": {
-  "summary": "DP2 Roshi (Max Power): D-tier Singles but DP-efficiency S-tier (sparkingzerometa 31.2k points-per-DP); 40,000 HP; Max Power Kamehameha 50,000-ki ult; Ki recovery nerfed May 2026.",
+  "summary": "DP2 Roshi (Max Power): D-tier Singles but DP-efficiency S-tier (sparkingzerometa 31.2 points-per-DP); 40,000 HP; Max Power Kamehameha 50,000-ki ult; Ki recovery nerfed May 2026.",
   "playstyle": "DP-value bruiser",
   "strengths": [
-   "DP-efficiency S-tier (31.2k points-per-DP) — overperforms its DP2 cost massively in the DP queue",
+   "DP-efficiency S-tier (31.2 points-per-DP) — overperforms its DP2 cost massively in the DP queue",
    "40,000 HP in this form (up from 30k base) plus Turtle School Ultimate Fist speed-impact rush (15,000 on trigger)",
    "Max Power Kamehameha 50,000-ki ultimate; Pump Up defensive buff",
    "DP2 — frees budget for a premium carry"
@@ -1473,7 +1473,7 @@
   "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Pressure his slow 6 ki charge by forcing blocks so he can't reach his supers. Perception (2 stock) or vanish the Mystic Combination rush rather than mashing into it."
  },
  "0180_00": {
-  "summary": "DP1 Mr. Satan — lowest DP in the game; 30,000 HP; weakest Singles score (8.7k); Dynamite Kick + Present Bomb speed-impact supers + Mr. Buu Arrives! 50,000-ki ult; joke pick.",
+  "summary": "DP1 Mr. Satan — lowest DP in the game; 30,000 HP; weakest Singles score (8.7); Dynamite Kick + Present Bomb speed-impact supers + Mr. Buu Arrives! 50,000-ki ult; joke pick.",
   "playstyle": "Joke / utility",
   "strengths": [
    "DP1 — the single cheapest body in the game; pure budget filler",
@@ -1482,7 +1482,7 @@
    "False Courage for instant ki"
   ],
   "weaknesses": [
-   "Lowest Singles score in the game (8.7k); 30,000 HP — melts in two combos",
+   "Lowest Singles score in the game (8.7); 30,000 HP — melts in two combos",
    "DP1 but brings no real combat value; Ki-recovery nerfed May 2026",
    "No transform, no auto-dodge, no heal"
   ],
@@ -1711,10 +1711,10 @@
   "howToFight": "He has no auto-dodge, so trade into his approaches with Super Counter (free) and vanish reads. Respect Body Change on knockdown — bait it out and punish the recovery."
  },
  "0390_00": {
-  "summary": "DP3 Recoome: C-tier Singles, DP-value S-tier (sparkingzerometa 30.3k points-per-DP); 40,000 HP; two 30,000-ki supers + Recoome Fighting Bomber 50,000-ki ult; HP reduced May 2026.",
+  "summary": "DP3 Recoome: C-tier Singles, DP-value S-tier (sparkingzerometa 30.3 points-per-DP); 40,000 HP; two 30,000-ki supers + Recoome Fighting Bomber 50,000-ki ult; HP reduced May 2026.",
   "playstyle": "DP-value tank",
   "strengths": [
-   "DP-value S-tier (30.3k points-per-DP) — a cheap DP3 wall that overperforms its cost",
+   "DP-value S-tier (30.3 points-per-DP) — a cheap DP3 wall that overperforms its cost",
    "40,000 HP bruiser with Recoome Eraser Gun + Recoome Grenade Bomber (both 30,000 ki)",
    "Recoome Fighting Bomber 50,000-ki ultimate; SP Fighting Pose 1 (4 stock) buff",
    "DP3 — cheap body for value-spam DP teams"
@@ -1798,7 +1798,7 @@
    "Self Destruct Device 50,000-ki ultimate — massive guaranteed burst, the signature A16 finisher",
    "B-tier; Hell Flash 40,000-ki speed-impact super (20,000 on trigger) + Hell's Impact (30,000 ki)",
    "40,000 HP tank; Explosive Wave + Pump Up defense buff",
-   "DP5 — decent DP-queue value (sparkingzerometa 21.5k)"
+   "DP5 — decent DP-queue value (sparkingzerometa 21.5)"
   ],
   "weaknesses": [
    "Android: cannot manually charge ki (charge 0) — only 1,700/s passive recovery, slow to fund supers",

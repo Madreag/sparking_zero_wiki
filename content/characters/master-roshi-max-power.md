@@ -53,10 +53,12 @@ moveset:
     type: "ultimate"
     kiCost: 50000
 tier: "D"
+dpTier: "Z"
+dpScore: 31.2
 playable: true
 playstyle: "DP-value bruiser"
 strengths:
-  - "DP-efficiency S-tier (31.2k points-per-DP) — overperforms its DP2 cost massively in the DP queue"
+  - "DP-efficiency S-tier (31.2 points-per-DP) — overperforms its DP2 cost massively in the DP queue"
   - "40,000 HP in this form (up from 30k base) plus Turtle School Ultimate Fist speed-impact rush (15,000 on trigger)"
   - "Max Power Kamehameha 50,000-ki ultimate; Pump Up defensive buff"
   - "DP2 — frees budget for a premium carry"
@@ -65,7 +67,7 @@ weaknesses:
   - "D-tier in Singles: standardized HP erases the tank value that makes him good in DP"
   - "No auto-dodge in this form; transform-locked off the fragile 30k base"
 howToFight: "In Singles ignore his DP reputation — out-damage the 40k body normally. In DP, end the round fast before the cheap value snowballs. He has no evasion here, so Super Counter (free) and vanish punish his rushes."
-summary: "DP2 Roshi (Max Power): D-tier Singles but DP-efficiency S-tier (sparkingzerometa 31.2k points-per-DP); 40,000 HP; Max Power Kamehameha 50,000-ki ult; Ki recovery nerfed May 2026."
+summary: "DP2 Roshi (Max Power): D-tier Singles but DP-efficiency S-tier (sparkingzerometa 31.2 points-per-DP); 40,000 HP; Max Power Kamehameha 50,000-ki ult; Ki recovery nerfed May 2026."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

@@ -52,10 +52,12 @@ moveset:
       - "Rush"
       - "In Sparking! Mode"
       - "Played after a hit"
+dpTier: "Z"
+dpScore: 28.2
 playable: true
 playstyle: "Cheap berserker body"
 strengths:
-  - "Outrageous DP efficiency for a 2-DP slot (28.2k value) — overperforms its cost in DP Battle"
+  - "Outrageous DP efficiency for a 2-DP slot (28.2 value) — overperforms its cost in DP Battle"
   - "Berserker S2 (free) is a damage-amp activation"
   - "Both supers speed-impact: Berserker Crash (40,000 ki) and Mad Banquet (30,000 ki / 15,000 trigger)"
   - "Majin Buu Resurrection ult (50,000 ki) is a surprise 50k-ki payload from a DP2 body"
@@ -64,7 +66,7 @@ weaknesses:
   - "Worthless in Singles (standardized HP erases his tank value)"
   - "Slow, no mobility, no escape tool — pure DP filler"
 howToFight: "In Singles he has no tank edge and only 35,000 HP — open him up and delete the slot. In DP he's a cheap value body, so focus him first to remove disproportionate points. Don't respect Berserker; just block the speed-impact supers and punish."
-summary: "DP2 Majin servant; only 35k HP but DP-value S-tier (28.2k), Berserker S2 + double speed-impact supers; HP cut May 2026."
+summary: "DP2 Majin servant; only 35k HP but DP-value S-tier (28.2), Berserker S2 + double speed-impact supers; HP cut May 2026."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

@@ -58,7 +58,7 @@ moveset:
       - "Beam"
       - "In Sparking! Mode"
     notes: "chip 250"
-tier: "C"
+tier: "B"
 playable: true
 playstyle: "Barrier turtle zoner"
 strengths:

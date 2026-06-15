@@ -2,9 +2,9 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getCharacter, getCharacters } from "@/lib/content";
 import { renderMarkdown } from "@/lib/markdown";
-import { fmtNum } from "@/lib/formulas";
+import { fmtNum, hpPerDp, dmgPerDp, dmgPerKi } from "@/lib/formulas";
 import { linkifyText } from "@/lib/linkify";
-import { StatStrip, ConfidenceBadge, VerifiedBadge, TierBadge } from "@/components/ui";
+import { StatStrip, ConfidenceBadge, VerifiedBadge, TierBadge, ProvenanceTag } from "@/components/ui";
 
 export function generateStaticParams() {
   return getCharacters().map((c) => ({ slug: c.slug }));
@@ -105,6 +105,21 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
   };
   const gaugeGains = Object.entries(c.skillGaugeGains ?? {}).filter(([, v]) => v != null);
 
+  // Numbers-first value metrics (community DP + datamined damage where it exists).
+  const dmgMoves = c.moveset
+    .filter((m) => (m.type === "blast2" || m.type === "ultimate") && m.damage)
+    .sort((a, b) => (b.damage ?? 0) - (a.damage ?? 0));
+  const bestMove = dmgMoves[0];
+  const valueMetrics = [
+    c.dp ? { label: "HP per DP", value: fmtNum(hpPerDp(c.hp, c.dp)), note: "tankiness value" } : null,
+    c.dp && bestMove
+      ? { label: `${bestMove.name} dmg/DP`, value: fmtNum(dmgPerDp(bestMove.damage, c.dp)), note: "damage value" }
+      : null,
+    bestMove
+      ? { label: `${bestMove.name} dmg/ki bar`, value: fmtNum(dmgPerKi(bestMove.damage, bestMove.kiCost)), note: "burst efficiency" }
+      : null,
+  ].filter((x): x is { label: string; value: string; note: string } => x != null);
+
   return (
     <article className="space-y-6">
       <div>
@@ -113,7 +128,8 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
         </Link>
         <div className="mt-2 flex flex-wrap items-center gap-3">
           <h1 className="text-2xl font-bold">{c.name}</h1>
-          <TierBadge tier={c.tier} />
+          <TierBadge tier={c.tier} mode="Singles" />
+          <TierBadge tier={c.dpTier} mode="DP" />
           {c.playstyle && (
             <span className="rounded border border-time/50 bg-time/10 px-1.5 py-0.5 text-xs text-time">
               {c.playstyle}
@@ -139,6 +155,39 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
           { label: "Unlock", value: c.unlock, tone: "muted" },
         ]}
       />
+
+      {c.playable && (
+        <p className="-mt-3 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-muted">
+          <ProvenanceTag kind="datamined" /> HP, ki economy &amp; skill stocks ·{" "}
+          <ProvenanceTag kind="community" /> DP cost, Singles/DP tiers &amp; playstyle (see sources)
+        </p>
+      )}
+
+      {valueMetrics.length > 0 && (
+        <section className="space-y-2">
+          <h2 className="flex flex-wrap items-center gap-2 text-sm font-semibold uppercase tracking-wider text-muted">
+            Team-build value
+            {(c.singlesScore != null || c.dpScore != null) && (
+              <span className="text-[10px] font-normal normal-case text-muted">
+                {c.singlesScore != null && `Singles model score ${c.singlesScore}`}
+                {c.singlesScore != null && c.dpScore != null && " · "}
+                {c.dpScore != null && `DP-value score ${c.dpScore}`}
+              </span>
+            )}
+          </h2>
+          <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
+            {valueMetrics.map((m) => (
+              <div key={m.label} className="rounded-xl border border-border bg-surface-2/50 px-4 py-3">
+                <div className="truncate text-[10px] font-medium uppercase tracking-wider text-muted" title={m.label}>
+                  {m.label}
+                </div>
+                <div className="text-xl font-bold tabular-nums text-ki">{m.value}</div>
+                <div className="text-[10px] text-muted">{m.note}</div>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
 
       <div className="grid gap-4 lg:grid-cols-2">
         <section className="rounded-xl border border-border bg-surface">

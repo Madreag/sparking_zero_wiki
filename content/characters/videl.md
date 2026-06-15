@@ -58,6 +58,8 @@ moveset:
       - "In Sparking! Mode"
       - "Played after a hit"
 tier: "D"
+dpTier: "S"
+dpScore: 20.1
 playable: true
 playstyle: "Evasive rushdown"
 strengths:

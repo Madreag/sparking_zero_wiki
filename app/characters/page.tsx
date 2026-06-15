@@ -1,4 +1,5 @@
 import { getCharacters } from "@/lib/content";
+import { hpPerDp } from "@/lib/formulas";
 import { RosterTable, type RosterRow } from "@/components/roster-table";
 
 export const metadata = { title: "Roster" };
@@ -7,27 +8,24 @@ export default function Page() {
   const chars = getCharacters();
   const playable = chars.filter((c) => c.playable);
   const bases = new Set(playable.map((c) => c.baseCharacter)).size;
-  const rows: RosterRow[] = chars.map((c) => {
-    const ult = c.moveset.find((m) => m.type === "ultimate");
-    return {
-      name: c.name,
-      slug: c.slug,
-      dp: c.dp,
-      hp: c.hp ?? null,
-      kiCharge: c.kiChargeSpeed ?? null,
-      kiRecovery: c.kiAutoRecovery ?? null,
-      stocksInit: c.initialSkillStock ?? null,
-      stocksMax: c.maxSkillStock ?? null,
-      era: c.era,
-      source: c.source,
-      tier: c.tier,
-      classes: c.classes,
-      playstyle: c.playstyle,
-      ult: ult?.name,
-      ultKi: ult?.kiCost ?? null,
-      playable: c.playable,
-    };
-  });
+  const rows: RosterRow[] = chars.map((c) => ({
+    name: c.name,
+    slug: c.slug,
+    dp: c.dp,
+    hp: c.hp ?? null,
+    hpVal: hpPerDp(c.hp, c.dp),
+    kiCharge: c.kiChargeSpeed ?? null,
+    kiRecovery: c.kiAutoRecovery ?? null,
+    stocksInit: c.initialSkillStock ?? null,
+    stocksMax: c.maxSkillStock ?? null,
+    era: c.era,
+    source: c.source,
+    tier: c.tier,
+    dpTier: c.dpTier,
+    classes: c.classes,
+    playstyle: c.playstyle,
+    playable: c.playable,
+  }));
   return (
     <div className="space-y-6">
       <header>

@@ -13,6 +13,12 @@ const GROUP_TONE: Record<string, string> = {
   Mechanic: "text-danger",
   Guide: "text-aura",
   Patch: "text-muted",
+  Mode: "text-good",
+  "Episode Battle": "text-time",
+  DLC: "text-aura",
+  Stage: "text-ki",
+  Shop: "text-good",
+  Glossary: "text-muted",
 };
 
 export function SearchButton() {
@@ -21,7 +27,13 @@ export function SearchButton() {
   const [idx, setIdx] = useState<Entry[] | null>(null);
   const [sel, setSel] = useState(0);
   const inputRef = useRef<HTMLInputElement>(null);
+  const triggerRef = useRef<HTMLButtonElement>(null);
   const router = useRouter();
+
+  const close = useCallback(() => {
+    setOpen(false);
+    setTimeout(() => triggerRef.current?.focus(), 0);
+  }, []);
 
   const load = useCallback(async () => {
     if (idx) return;
@@ -40,12 +52,12 @@ export function SearchButton() {
         setOpen((o) => !o);
         void load();
       } else if (e.key === "Escape") {
-        setOpen(false);
+        close();
       }
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [load]);
+  }, [load, close]);
 
   useEffect(() => {
     if (open) {
@@ -83,7 +95,10 @@ export function SearchButton() {
   return (
     <>
       <button
+        ref={triggerRef}
         onClick={() => setOpen(true)}
+        aria-label="Open search (Command or Control + K)"
+        aria-keyshortcuts="Meta+K Control+K"
         className="ml-auto flex items-center gap-2 rounded-lg border border-border bg-surface-2 px-3 py-1.5 text-xs text-muted transition-colors hover:border-ki/60 hover:text-ink"
       >
         <span>Search</span>
@@ -92,9 +107,12 @@ export function SearchButton() {
       {open && (
         <div
           className="fixed inset-0 z-[100] bg-void/70 p-4 backdrop-blur-sm sm:p-[10vh]"
-          onClick={() => setOpen(false)}
+          onClick={close}
         >
           <div
+            role="dialog"
+            aria-modal="true"
+            aria-label="Search the wiki"
             className="mx-auto max-w-xl overflow-hidden rounded-xl border border-border bg-surface shadow-2xl"
             onClick={(e) => e.stopPropagation()}
           >
@@ -116,6 +134,7 @@ export function SearchButton() {
                   go(results[sel]);
                 }
               }}
+              aria-label="Search the wiki"
               placeholder="Search fighters, blasts, mechanics, guides… (e.g. 'vegito', 'super counter', 'dp')"
               className="w-full border-b border-border bg-transparent px-4 py-3 text-sm outline-none placeholder:text-muted"
             />

@@ -56,7 +56,7 @@ moveset:
       - "You also take damage"
       - "Repeated usage possible"
     notes: "chip 800"
-tier: "C"
+tier: "B"
 playable: true
 playstyle: "Glass-cannon zoner"
 strengths:

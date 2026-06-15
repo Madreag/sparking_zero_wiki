@@ -55,14 +55,16 @@ moveset:
       - "Played after a hit"
       - "Unguardable"
       - "You also take damage"
-tier: "B"
+tier: "A"
+dpTier: "S"
+dpScore: 21.5
 playable: true
 playstyle: "Self-destruct tank"
 strengths:
   - "Self Destruct Device 50,000-ki ultimate — massive guaranteed burst, the signature A16 finisher"
   - "B-tier; Hell Flash 40,000-ki speed-impact super (20,000 on trigger) + Hell's Impact (30,000 ki)"
   - "40,000 HP tank; Explosive Wave + Pump Up defense buff"
-  - "DP5 — decent DP-queue value (sparkingzerometa 21.5k)"
+  - "DP5 — decent DP-queue value (sparkingzerometa 21.5)"
 weaknesses:
   - "Android: cannot manually charge ki (charge 0) — only 1,700/s passive recovery, slow to fund supers"
   - "No auto-dodge; large, deliberate body"

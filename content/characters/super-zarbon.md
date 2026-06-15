@@ -55,6 +55,8 @@ moveset:
       - "In Sparking! Mode"
       - "Unguardable"
       - "Played after a hit"
+dpTier: "Z"
+dpScore: 24.5
 playable: true
 playstyle: "All-rounder rushdown"
 strengths:

@@ -62,7 +62,8 @@ moveset:
       - "Rush"
       - "In Sparking! Mode"
       - "Played after a hit"
-tier: "A"
+tier: "S"
+singlesScore: 116.1
 playable: true
 playstyle: "All-rounder rushdown"
 strengths:

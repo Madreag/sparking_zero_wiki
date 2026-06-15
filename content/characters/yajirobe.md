@@ -59,6 +59,8 @@ moveset:
       - "In Sparking! Mode"
       - "Played after a hit"
 tier: "D"
+dpTier: "Z"
+dpScore: 30.7
 playable: true
 playstyle: "Senzu staller"
 strengths:

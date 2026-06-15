@@ -54,6 +54,7 @@ moveset:
       - "Played after a hit"
       - "You also take damage"
 tier: "D"
+dpTier: "S"
 playable: true
 playstyle: "All-rounder rushdown"
 strengths:

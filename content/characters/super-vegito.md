@@ -59,12 +59,13 @@ moveset:
       - "Rush"
       - "In Sparking! Mode"
       - "Played after a hit"
-tier: "S"
+tier: "Z"
+singlesScore: 126.9
 playable: true
 playstyle: "Fusion burst rushdown"
 strengths:
   - "S-tier fusion burst — Final Kamehameha 40,000-ki super and Beam Sword Slash 50,000-ki ultimate"
-  - "#12 Singles (126.9k); fast fusion normals just below SSGSS Vegito"
+  - "#12 Singles (126.9); fast fusion normals just below SSGSS Vegito"
   - "Afterimage Strike (3 stock) auto-dodge gives it a defensive option base Vegito lacks"
   - "8.0 ki charge / 1,500/s recovery"
 weaknesses:
@@ -72,7 +73,7 @@ weaknesses:
   - "Afterimage Strike ends on a Super Counter and was duration-nerfed (Dec 2025)"
   - "No heal; standardized fusion durability"
 howToFight: "Land a Super Counter (free) to instantly pop his Afterimage Strike, then punish. Don't feed raw strings into the auto-dodge — bait it first. Respect Beam Sword Slash and Final Kamehameha on knockdown."
-summary: "DP8 Super Vegito: S-tier, #12 Singles (126.9k); Final Kamehameha 40,000-ki super + Beam Sword Slash 50,000-ki ult; Afterimage Strike (3 stock)."
+summary: "DP8 Super Vegito: S-tier, #12 Singles (126.9); Final Kamehameha 40,000-ki super + Beam Sword Slash 50,000-ki ult; Afterimage Strike (3 stock)."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

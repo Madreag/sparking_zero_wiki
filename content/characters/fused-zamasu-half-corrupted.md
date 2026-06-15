@@ -54,11 +54,13 @@ moveset:
       - "Rush"
       - "In Sparking! Mode"
       - "Played after a hit"
-tier: "A"
+tier: "S"
+dpTier: "A"
+singlesScore: 122.3
 playable: true
 playstyle: "Corrupted fusion anchor"
 strengths:
-  - "Premium 45,000 HP ceiling form — A-tier Singles (122.3k) with strong burst"
+  - "Premium 45,000 HP ceiling form — A-tier Singles (122.3) with strong burst"
   - "Light of Justice S2 (free) is a damage/control tool"
   - "Mark of Condemnation (30,000 ki) and speed-impact Violent Fierce God Slicer (30,000 ki / 15,000 trigger)"
   - "Divine Hammer ult (50,000 ki); Explosive Wave S1 (free) reversal"
@@ -67,7 +69,7 @@ weaknesses:
   - "Slow 1,500 ki recovery / 8.0 charge for the cost"
   - "No teleport; no super-armor — relies on burst"
 howToFight: "No teleport and no armor — pressure him directly and use ~2f Super Counters to break his strings. Vanish (≈half a ki bar) the speed-impact Violent Fierce God Slicer. Starve his slower-recovering ki to keep Divine Hammer offline; the 45,000 HP is the only thing keeping him alive, so grind it."
-summary: "DP9 Fused Zamasu Half-Corrupted; 45k HP, Light of Justice + Violent Fierce God Slicer speed-impact; A-tier (122.3k)."
+summary: "DP9 Fused Zamasu Half-Corrupted; 45k HP, Light of Justice + Violent Fierce God Slicer speed-impact; A-tier (122.3)."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"

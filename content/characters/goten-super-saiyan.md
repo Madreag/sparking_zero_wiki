@@ -57,7 +57,7 @@ moveset:
   - name: "Double Kamehameha"
     type: "ultimate"
     kiCost: 50000
-tier: "C"
+tier: "B"
 playable: true
 playstyle: "Fragile rushdown"
 strengths:

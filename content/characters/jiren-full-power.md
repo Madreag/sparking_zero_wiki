@@ -52,20 +52,23 @@ moveset:
       - "In Sparking! Mode"
       - "Unguardable"
       - "Played after a hit"
-tier: "S"
+tier: "Z"
+dpTier: "C"
+singlesScore: 140.3
+dpScore: 12
 playable: true
 playstyle: "Armored counter anchor"
 strengths:
-  - "S-tier Singles (140.3k): super-armor, hard counters, and raw power on a premium body"
+  - "S-tier Singles (140.3): super-armor, hard counters, and raw power on a premium body"
   - "2,000 ki auto-recovery keeps his heavy supers funded"
   - "Strength is Absolute! S2 (4 stock) no-auto-guard buff for enormous damage; Ki Storm S1 (free) control"
   - "Heatwave Magnetron (30,000 ki) and Overheating Blast (40,000 ki); Omegaheat Magnetron ult (50,000 ki)"
 weaknesses:
-  - "DP9 with awful DP efficiency (12.0k) — an expensive Singles-only anchor"
+  - "DP9 with awful DP efficiency (12.0) — an expensive Singles-only anchor"
   - "Strength is Absolute! is punishable on activation"
   - "Counter-reliant — give him nothing to counter and his offense stalls"
 howToFight: "Do NOT throw predictable strings into his armor and counters — bait the counter with empty pressure, then punish. Use ~2f Super Counters and Perception (2 stock) to break his armored turns. Punish Strength is Absolute! (4-stock, no-auto-guard). Win the ki war to keep Overheating Blast and the ult offline; patience beats him."
-summary: "DP9 Jiren Full Power; giant-ish (null HP), 2,000 ki recovery, Strength is Absolute! (4 stock), Overheating Blast 40k-ki; S-tier (140.3k), armor + counters."
+summary: "DP9 Jiren Full Power; giant-ish (null HP), 2,000 ki recovery, Strength is Absolute! (4 stock), Overheating Blast 40k-ki; S-tier (140.3), armor + counters."
 asOfVersion: "v2.2 (2026-05-26 update)"
 asOfDate: "2026-05-26"
 lastVerified: "2026-06-10"
